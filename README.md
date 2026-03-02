@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/giternafad/musical-spork/main/banner.png" width="100%" alt="BobiVPN Banner"/>
+  <img src="https://github.com/brokifada/reimagined-guacamole/raw/main/banner.png" width="100%" alt="BobiVPN Banner"/>
 </p>
 
 <p align="center">
