@@ -1,0 +1,44 @@
+name: VPN Re-Checker (Strict)
+
+on:
+  schedule:
+    - cron: '0 */5 * * *'  # Каждые 5 часов (дольше работает — реже запускаем)
+  workflow_dispatch:  # Ручной запуск
+
+jobs:
+  recheck:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120  # 2 часа максимум
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Install sing-box
+        run: |
+          wget -qO- https://github.com/SagerNet/sing-box/releases/download/v1.8.0/sing-box-1.8.0-linux-amd64.tar.gz | tar xz
+          sudo mv sing-box-1.8.0-linux-amd64/sing-box /usr/local/bin/
+          sing-box version
+      
+      - name: Increase file limits
+        run: ulimit -n 10000
+      
+      - name: Run VPN Re-Checker
+        run: |
+          chmod +x scripts/vpn_recheck
+          ./scripts/vpn_recheck
+      
+      - name: Commit results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          git add vpn.txt vpn_renamed.txt vpn_base64.txt vpn_renamed_base64.txt 2>/dev/null || true
+          git add bobi_vpn.txt bobi_vpn_base64.txt bobi_vpn_lite.txt 2>/dev/null || true
+          git add vpn_report.json 2>/dev/null || true
+          git add countries/ 2>/dev/null || true
+          
+          git diff --staged --quiet || git commit -m "🔍 Re-checked VPN keys [$(date +'%Y-%m-%d %H:%M')]"
+          git push || echo "Nothing to push"
