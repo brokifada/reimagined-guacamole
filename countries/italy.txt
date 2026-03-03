@@ -3,12 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@104.18.15.19:80?encryption=none&host=amita-b17wejf6-v2.amita.workers.dev&path=/&security=none&type=ws#🇮🇹 Italy | Aruba S.p.A. 1
-vless://ccd8af8c-85d9-44bd-a991-059a6df054f9@79.137.174.164:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18#🇮🇹 Italy | DataCamp 1
-vless://c3599d6c-52e6-411c-b19a-0f8875e886ef@79.137.174.164:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#🇮🇹 Italy | DataCamp 2
-vless://c3599d6c-52e6-411c-b19a-0f8875e886ef@79.137.174.164:51101?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#🇮🇹 Italy | DataCamp 3
-vless://c3599d6c-52e6-411c-b19a-0f8875e886ef@79.137.174.164:51101?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18#🇮🇹 Italy | DataCamp 4
-vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@89.150.57.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=%2F#🇮🇹 Italy | HZ Hosting 1
-vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@89.150.57.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=/#🇮🇹 Italy | HZ Hosting 2
+vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@89.150.57.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=hls-svod.itunes.apple.com&type=tcp#🇮🇹 Italy | HZ Hosting 1
+vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@89.150.57.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&spx=%2F#🇮🇹 Italy | HZ Hosting 2
