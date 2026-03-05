@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?allowInsecure=1&encryption=none&host=rayan-007.nastaran.dpdns.org&path=%2F&security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&type=ws#🇪🇪 Estonia | BlueVPS OU 1
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇪🇪 Estonia | BlueVPS OU 2
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880?type=ws&security=none&encryption=none&path=%2F%3Fed%3D2560Join---V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev#🇪🇪 Estonia | Brainoza OU 1
+vless://7d2a585a-c8af-0014-8d92-4a4f93c354f6@window-two.sbrf-cdn342.ru:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&flow=xtls-rprx-vision#🇪🇪 Estonia | HostSlim B.V. 1
 vless://2baffe9c-099d-481b-8d9c-7eb351c9bf35@eespeed.netvora.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=Y02bCuiAW7DYXIvuW0NngdcPgnhbYmf9Y6QuRMZufUQ&sid=b69999829aa1b67e&sni=eespeed.netvora.space&path=&host=&spx=/#🇪🇪 Estonia | OC NETWORKS LIMITED 1
+vless://2baffe9c-099d-481b-8d9c-7eb351c9bf35@64.188.78.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ee.netvora.space&pbk=QT9rwCGO5RH7jVn-I1yvFiAvzO0IuAzMa7OpnSjE8n4&sid=4a54cae3b4bcec33&spx=%2F#🇪🇪 Estonia | OC NETWORKS LIMITED 2
+vless://2baffe9c-099d-481b-8d9c-7eb351c9bf35@ee.netvora.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=QT9rwCGO5RH7jVn-I1yvFiAvzO0IuAzMa7OpnSjE8n4&sid=4a54cae3b4bcec33&sni=ee.netvora.space&path=&host=&spx=/#🇪🇪 Estonia | OC NETWORKS LIMITED 3
