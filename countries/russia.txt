@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://21622188-f84d-423d-bc23-909b48c4c002@85.239.55.177:8443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&sni=apple.com&source_name=sakha_all_valid_proxies&provider_id=sakha_all_valid_proxies#🇷🇺 Russia | BlueVPS OU 1
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.52:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 1
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.52:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 2
+vless://35b9becb-2488-447c-ad69-e839f2fc13c1@5.42.100.130:5540?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=ifsrxTIYX8BlNvT-lwoYmYu03cWdLVWsxh-ITCbZaUc&sid=8ef8c87dbc&type=tcp&headerType=none#🇷🇺 Russia | JSC "TIMEWEB" 1
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn14.suio.me&fp=chrome&packetEncoding=xudp#🇷🇺 Russia | OOO FREEnet Group 1
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443?type=tcp&security=tls&sni=secdn14.suio.me#🇷🇺 Russia | OOO FREEnet Group 2

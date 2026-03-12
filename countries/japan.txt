@@ -3,11 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hr/Cfh7UgQm9iaVZQTiDigJQgSmFwYW4K4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hr/Cfh7UgQm9iaVZQTiDigJQgSmFwYW4K4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Japan | Datacamp 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 Japan | Datacamp 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 Japan | Datacamp 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Japan | Datacamp 2
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#🇯🇵 Japan | Datacamp 3
 vless://e5ef24a6-522e-4e95-a9c6-3cca87f3a564@154.31.114.125:443?flow=&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&security=reality&sid=2da72ce6&sni=navi.bankrate.com&type=tcp#🇯🇵 Japan | DMIT Cloud Services 1
-vless://e5ef24a6-522e-4e95-a9c6-3cca87f3a564@154.31.114.125:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&sni=navi.bankrate.com#🇯🇵 Japan | DMIT Cloud Services 2
-vless://baa78739-91d8-4863-bc54-c59a98f20c27@jp-1.vpnd.io:12963?flow=xtls-rprx-vision&fp=random&pbk=DxdADGFb0tdSQIs85D3bJLy0dDbQBnQko2GC-gJEPR8&security=reality&sid=5c81d0&sni=yahoo.com&type=tcp#🇯🇵 Japan | The Constant Company, 1

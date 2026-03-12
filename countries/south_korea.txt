@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?&security=tls&fp=chrome&sni=ylnhh.cc.cd&type=ws&headerType=none&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇰🇷 South Korea | Cloudflare, 1
+vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698?type=grpc&security=reality&encryption=none&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34&sni=lenovoglobal.com#🇰🇷 [AS4766] Korea Telecom #🇰🇷 South Korea | Korea Telecom 1
 vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?flow=xtls-rprx-vision&fp=random&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&security=reality&sid=82ac&sni=yahoo.com&type=tcp#🇰🇷 South Korea | The Constant Company, 1
