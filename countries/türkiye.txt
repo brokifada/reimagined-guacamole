@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://c57a4f52-68d2-4a0d-9ed6-fea113bf107f@quarenty.site:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=e57932a42872a362#🇹🇷 Türkiye | Datacamp 1
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@144.31.130.99:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=tur.speedload.online&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇹🇷 Türkiye | H2nexus LTD 1
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?encryption=none&path=/&security=none&type=ws#🇹🇷 Türkiye | Netlen Internet Hizmet... 1
-vless://636de463-b509-4631-adc6-400b21733278@172.67.137.47:2086?encryption=none&type=ws&host=index.harmony510.workers.dev&path=/1qrxwiek8tujvr6h&security=none#🇹🇷 Türkiye | Teknosos Bilisim Hizme... 1
+vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&type=tcp&security=none#🇹🇷 Türkiye | Ada Yuksek Teknoloji  ... 1
+vless://0bd406d6-baa7-44c9-aef1-050d18420efe@95.174.92.50:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#🇹🇷 Türkiye | DataCamp 1
+vless://b956712c-0d4a-4d45-8059-6521b5237dee@95.174.92.50:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#🇹🇷 Türkiye | DataCamp 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMVIzaEpFV2VRSkdKTDQyU2FZeTIyQ0MyMXVGdF8weQ@144.31.130.99:9443#🇹🇷 Türkiye | H2nexus LTD 1

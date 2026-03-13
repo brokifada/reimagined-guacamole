@@ -5,11 +5,11 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6cgQm9iaVZQTiDigJQgVW5pdGVkIEtpbmdkb20K4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://d1209ffb-c159-48d5-b40d-542ce11fc768@fi3.axinode.sbs:10965?security=reality&encryption=none&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=9f3a7c6d2e8b41af#🇬🇧 United Kingdom | ipxo 1
-vless://d1209ffb-c159-48d5-b40d-542ce11fc768@fi3.axinode.sbs:10965?security=reality&encryption=none&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=9f3a7c6d2e8b41af#🇬🇧 United Kingdom | ipxo 2
-vless://00000000-0000-4000-8000-000000000000@8.208.10.113:17817?&security=tls&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=%2F#🇬🇧 United Kingdom | OVH SAS 1
-vless://d1209ffb-c159-48d5-b40d-542ce11fc768@vk-video-max.axinode.sbs:10121?security=reality&encryption=none&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=6ee84570745a60d9#🇬🇧 United Kingdom | SERV.HOST GROUP LTD 1
-vless://d1209ffb-c159-48d5-b40d-542ce11fc768@vk-video-max.axinode.sbs:10121?security=reality&encryption=none&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=6ee84570745a60d9#🇬🇧 United Kingdom | SERV.HOST GROUP LTD 2
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.47.42:10965?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=deepl.com&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af#🇬🇧 United Kingdom | ipxo 1
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@fi3.axinode.sbs:10965?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af&sni=deepl.com#🇬🇧 United Kingdom | ipxo 2
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@fi3.axinode.sbs:10965?security=reality&encryption=none&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=9f3a7c6d2e8b41af#🇬🇧 United Kingdom | ipxo 3
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧 United Kingdom | M247 Europe SRL 1
 vless://ab696651-ed20-45cd-87b7-711ffdae3028@80.77.23.56:23697?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=amazon.com&pbk=YYUcc4uQ4CcgWSWBMTckd6T7_hrw1S7mrJ9pX4116zg&sid=6af5&spx=%2F#🇬🇧 United Kingdom | servinga GmbH 1
 vless://ab696651-ed20-45cd-87b7-711ffdae3028@uk-3.vpnd.io:23697?type=tcp&security=reality&encryption=none&pbk=YYUcc4uQ4CcgWSWBMTckd6T7_hrw1S7mrJ9pX4116zg&fp=chrome&sni=amazon.com&sid=6af5&spx=/&flow=xtls-rprx-vision#🇬🇧 United Kingdom | servinga GmbH 2
 vless://ab696651-ed20-45cd-87b7-711ffdae3028@uk-3.vpnd.io:23697?flow=xtls-rprx-vision&fp=random&pbk=YYUcc4uQ4CcgWSWBMTckd6T7_hrw1S7mrJ9pX4116zg&security=reality&sid=6af5&sni=amazon.com&type=tcp#🇬🇧 United Kingdom | servinga GmbH 3
+trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@94.131.122.254:443?security=tls&sni=hl-freedom-2.undef.network&type=ws&host=hl-freedom-2.undef.network&path=/f2fc2a1f#🇬🇧 United Kingdom | WorkTitans B.V. 1
