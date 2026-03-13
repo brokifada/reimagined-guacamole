@@ -6,5 +6,5 @@
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 2
+vless://a1ac8a09-98fd-4c11-acc4-3ab272bd220b@kaz-0001-xr.packet-drop-society.net:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&spx=/&sid=f79448a30d#🇰🇿 Kazakhstan | PS Internet Company LLP 1
 vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@kz.fasti.win:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b#🇰🇿 Kazakhstan | VKtech 1
