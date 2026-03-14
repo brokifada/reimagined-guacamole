@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsfCfh7ogQm9iaVZQTiDigJQgTHV4ZW1ib3VyZwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&type=ws#🇱🇺 Luxembourg | FranTech Solutions 1
+vless://20846ef7-3f94-4f88-87e6-d0b69412f354@89.208.220.127:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yt3.fasssst.online&pbk=Dk3Nj7IKpnv46zTWRlqVIWcI8wm2esdMvtd34rDGayI&sid=88f5210f&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 1
