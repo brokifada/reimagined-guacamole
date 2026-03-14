@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://d13545be-5c06-4283-cdf3-a364201bf9fb@malaysia01.jumperservice.com:19001?&security=reality&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&fp=chrome&sni=www.speedtest.net&type=tcp&headerType=none&host=malaysia01.jumperservice.com&path=/#🌍 Malaysia | Evoxt SDN BHD 1
+vless://e675787a-48db-45f9-9902-13b1b941446c@malaysia01.jumperservice.com:19001?&security=reality&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&fp=chrome&sni=www.speedtest.net&type=tcp&headerType=none&host=malaysia01.jumperservice.com&path=/#🌍 Malaysia | Evoxt SDN BHD 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN3eUEzd201YXRoNGo5WTM=@124.217.247.205:51348#🌍 Malaysia | Shinjiru Technology Sd... 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN3eUEzd201YXRoNGo5WTM@124.217.247.205:51348#🌍 Malaysia | Shinjiru Technology Sd... 2
