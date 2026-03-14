@@ -5,10 +5,10 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSA3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
+vless://b61f440d-2fdf-4232-8779-0f618b146efc@144.31.48.167:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=c4Mg3v790FPQbXO8uBoJysJYdFFJPhOw2TlnzC45a1U&sid=&sni=1013a--ma--8935--cp199.stbid.ru&path=&host=#🇷🇺 Russia | Citytelecom 1
+vless://b61f440d-2fdf-4232-8779-0f618b146efc@144.31.48.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=1013a--ma--8935--cp199.stbid.ru&pbk=c4Mg3v790FPQbXO8uBoJysJYdFFJPhOw2TlnzC45a1U#🇷🇺 Russia | Citytelecom 2
 vless://35b9becb-2488-447c-ad69-e839f2fc13c1@5.42.100.130:5540?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=ifsrxTIYX8BlNvT-lwoYmYu03cWdLVWsxh-ITCbZaUc&sid=8ef8c87dbc&type=tcp&headerType=none#🇷🇺 Russia | JSC "TIMEWEB" 1
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=secdn14.suio.me#🇷🇺 Russia | OOO FREEnet Group 1
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443?type=tcp&security=tls&sni=secdn14.suio.me#🇷🇺 Russia | OOO FREEnet Group 2
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=secdn14.suio.me&type=tcp#🇷🇺 Russia | OOO FREEnet Group 3
-vless://44491325-ac73-4136-806f-ad57403c8d81@lt08.tcpdoor.net:7443?mode=gun&security=reality&encryption=none&pbk=-aYYOZ3t8L1J5B7qSR45-IjwNTQq6RuE5yzv-rQbOhM&fp=firefox&type=grpc&serviceName=grpc&sni=www.vk.com&sid=bd935aff#🇷🇺 Russia | OOO FREEnet Group 4
-vless://b61714be-8bc6-4a9a-bc46-c1950aa603b1@23.140.40.163:12443?security=reality&encryption=none&pbk=kjYnWkxgewB9k_-RWIgRPvjOoiCREr9ks5qllrvb-hI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=1d17b9f02500fd14#🇷🇺 Russia | Start2 1
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.52:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 1
+vless://44491325-ac73-4136-806f-ad57403c8d81@89.208.85.78:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=www.vk.com&pbk=-aYYOZ3t8L1J5B7qSR45-IjwNTQq6RuE5yzv-rQbOhM&sid=bd935aff#🇷🇺 Russia | OOO FREEnet Group 1
+vless://44491325-ac73-4136-806f-ad57403c8d81@lt08.tcpdoor.net:7443?mode=gun&security=reality&encryption=none&pbk=-aYYOZ3t8L1J5B7qSR45-IjwNTQq6RuE5yzv-rQbOhM&fp=firefox&type=grpc&serviceName=grpc&sni=www.vk.com&sid=bd935aff#🇷🇺 Russia | OOO FREEnet Group 2
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443?type=tcp&security=tls&sni=secdn14.suio.me#🇷🇺 Russia | OOO FREEnet Group 3
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=secdn14.suio.me&type=tcp#🇷🇺 Russia | OOO FREEnet Group 4
