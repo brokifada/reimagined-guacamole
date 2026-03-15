@@ -3,15 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSA3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://249839ff-2a99-4ecb-a81d-b7e4d6c397b8@212.233.72.45:4013?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=t34YzMpTAdvac7xBSKvrIJKW04KJr4boRH_InVs_mWM&sid=456434&type=grpc#🇷🇺 Russia | JSC "TIMEWEB" 1
+vless://35b9becb-2488-447c-ad69-e839f2fc13c1@5.42.100.130:5540?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=ifsrxTIYX8BlNvT-lwoYmYu03cWdLVWsxh-ITCbZaUc&sid=8ef8c87dbc&type=tcp&headerType=none#🇷🇺 Russia | JSC "TIMEWEB" 1
 vless://1fe4899e-60d2-4d7a-b030-807674747ef9@85.239.37.8:443?encryption=none&security=reality&sni=ru.moktana.digital&fp=chrome&pbk=Zvb5XGYozVeCDlPDr-GwPm-5dVKxLfivaLsbkiOgqBo&sid=1cbcb67f9b64058e&type=grpc&serviceName=xyz&packetEncoding=xudp#🇷🇺 Russia | JSC "TIMEWEB" 2
-vless://249839ff-2a99-4ecb-a81d-b7e4d6c397b8@212.233.72.45:4013?encryption=none&type=grpc&security=reality&mode=gun&fp=qq&sni=5post-gate.x5.ru&pbk=t34YzMpTAdvac7xBSKvrIJKW04KJr4boRH_InVs_mWM&sid=456434#🇷🇺 Russia | JSC "TIMEWEB" 3
-vless://249839ff-2a99-4ecb-a81d-b7e4d6c397b8@212.233.72.45:4013?encryption=none&flow=&type=grpc&mode=gun&serviceName=&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=t34YzMpTAdvac7xBSKvrIJKW04KJr4boRH_InVs_mWM&sid=456434&spx=#🇷🇺 Russia | JSC "TIMEWEB" 4
-vless://249839ff-2a99-4ecb-a81d-b7e4d6c397b8@212.233.72.45:4013?type=grpc&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=t34YzMpTAdvac7xBSKvrIJKW04KJr4boRH_InVs_mWM&sid=456434#🇷🇺 Russia | JSC "TIMEWEB" 5
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.60.223.8:989#🇷🇺 Russia | Kaopu Cloud HK 1
+vless://44816d87-c65b-4add-b24b-9f9528ebb780@ru-pq-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sni.ru-pq-01.com&fp=random&security=reality&pbk=2Vuelt7UwEFxyDOOWq3SlU26qDO8t6E7afKnZYqXVQM&sid=5491ee0b49e7113b&packetEncoding=xudp#🇷🇺 Russia | Lvnet LTD 1
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@193.233.252.203:443?encryption=none&type=tcp&security=tls&sni=secdn14.suio.me#🇷🇺 Russia | OOO FREEnet Group 1
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 1
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.52:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.fh-aachen.de&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#🇷🇺 Russia | Yegor Andreevich tradi... 2
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.fh-aachen.de&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#🇷🇺 Russia | Yegor Andreevich tradi... 3
+vless://44491325-ac73-4136-806f-ad57403c8d81@89.208.85.78:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=www.vk.com&pbk=-aYYOZ3t8L1J5B7qSR45-IjwNTQq6RuE5yzv-rQbOhM&sid=bd935aff#🇷🇺 Russia | OOO FREEnet Group 2
+vless://44491325-ac73-4136-806f-ad57403c8d81@lt08.tcpdoor.net:7443?mode=gun&security=reality&encryption=none&pbk=-aYYOZ3t8L1J5B7qSR45-IjwNTQq6RuE5yzv-rQbOhM&fp=firefox&type=grpc&serviceName=grpc&sni=www.vk.com&sid=bd935aff#🇷🇺 Russia | OOO FREEnet Group 3
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=secdn14.suio.me&type=tcp#🇷🇺 Russia | OOO FREEnet Group 4

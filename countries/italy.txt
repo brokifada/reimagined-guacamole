@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9bef38a5-31a7-4e36-af48-01697fae00a2@80.211.136.16:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=it2.krasivogame.ru&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&type=tcp&headerType=none#🇮🇹 Italy | Aruba S.p.A. Network 1
-vless://9bef38a5-31a7-4e36-af48-01697fae00a2@80.211.136.16:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=it2.krasivogame.ru&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#🇮🇹 Italy | Aruba S.p.A. Network 2
+vless://9bef38a5-31a7-4e36-af48-01697fae00a2@80.211.136.16:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=it2.krasivogame.ru&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#🇮🇹 Italy | Aruba S.p.A. Network 1
+vless://9bef38a5-31a7-4e36-af48-01697fae00a2@80.211.136.16:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=it2.krasivogame.ru&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&type=tcp&headerType=none#🇮🇹 Italy | Aruba S.p.A. Network 2
