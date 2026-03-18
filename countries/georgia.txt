@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇬🇪 Georgia | 365.hosting 1
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@v1.dabache.top:80?flow=&host=vip.yaml7.ggff.net&path=%2F&type=ws#🇬🇪 Georgia | 365.hosting 2
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?flow=&host=vip.yaml7.ggff.net&path=%2F&type=ws#🇬🇪 Georgia | 365.hosting 1
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&security=none&type=ws&host=vip.yaml7.ggff.net&path=%2F#🇬🇪 Georgia | 365.hosting 2
