@@ -3,8 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#🌍 Unknown | Unknown 1
-vless://fe1912e2-43a9-4067-9d18-b8eebf9a61b9@171.22.18.162:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=github.com&pbk=YH_QnUEGzMHf8RjEDh5bRXocz7gq_QdrZWysD2yF_i8#🌍 Unknown | Unknown 2
-vless://f3e46ad4-8000-435b-b941-7a7fc619729a@79.137.174.6:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=59&type=tcp&headerType=none#🌍 Unknown | Unknown 3
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&sni=ca.adobe-connect.top#🌍 Unknown | Unknown 1
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.44.211:2096?encryption=none&type=ws&security=tls&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top&alpn=channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-#🌍 Unknown | Unknown 2
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#🌍 Unknown | Unknown 3
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ca.adobe-connect.top&path=%2F#🌍 Unknown | Unknown 4
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?allowInsecure=1&encryption=none&host=ca.adobe-connect.top&security=tls&sni=ca.adobe-connect.top&type=ws#🌍 Unknown | Unknown 5
+vless://54e5a989-5938-43ce-ba58-026ddbfd4d7b@45.141.234.159:30724?encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=KcWxOI6Y2kqFd_cg4bu-hWBZDlsJhT6TyRHhwFAHa0A&sid=eab8ab08e4d6faa0#🌍 Unknown | Unknown 6
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#🌍 Unknown | Unknown 7
+vless://3a4e9651-009e-40c1-8941-afff0d2d3931@82.202.159.129:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#🌍 Unknown | Unknown 8
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80?encryption=none&type=ws&security=none&path=%2FgetWorkerUpdates#🌍 Unknown | Unknown 9
+vless://3612d368-5fb7-4216-87fc-19967aec12e4@ch-gt-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=random&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&packetEncoding=xudp#🌍 Unknown | Unknown 10
