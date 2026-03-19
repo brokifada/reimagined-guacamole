@@ -3,11 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://438f81f8-aa18-4261-820a-87ee42122d0e@212.227.95.106:443?type=tcp&security=reality&fp=chrome&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&sid=a0cb&sni=yahoo.com&spx=/#🇪🇸 Spain | IONOS SE 1
-vless://3b6cedc4-34fd-4306-b1cb-00983eb7fbf2@147.45.99.207:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eh.vk.com&pbk=-EgJBfNxBY0UyLwDdOKDzHIjzCLJyMpUP9A9by65Zz0&sid=e28dc4552e6d2005#🇪🇸 Spain | Kamatera, 1
+vless://3b6cedc4-34fd-4306-b1cb-00983eb7fbf2@147.45.99.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=random&security=reality&pbk=-EgJBfNxBY0UyLwDdOKDzHIjzCLJyMpUP9A9by65Zz0&sid=e28dc4552e6d2005&packetEncoding=xudp#🇪🇸 Spain | Kamatera, 1
 vless://353cb501-2608-470e-98ed-da8c07977abf@147.45.99.207:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eh.vk.com&pbk=-EgJBfNxBY0UyLwDdOKDzHIjzCLJyMpUP9A9by65Zz0&sid=e28dc4552e6d2005#🇪🇸 Spain | Kamatera, 2
-vless://3b6cedc4-34fd-4306-b1cb-00983eb7fbf2@147.45.99.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=random&security=reality&pbk=-EgJBfNxBY0UyLwDdOKDzHIjzCLJyMpUP9A9by65Zz0&sid=e28dc4552e6d2005&packetEncoding=xudp#🇪🇸 Spain | Kamatera, 3
 vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?type=tcp&security=reality&encryption=none&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sid=e08a28&sni=yahoo.com#🇪🇸 Spain | WorkTitans B.V. 1
 vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?encryption=none&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&security=reality&sid=e08a28&sni=yahoo.com&type=tcp#🇪🇸 [AS209847] WorkTitans B.V. #🇪🇸 Spain | WorkTitans B.V. 2
