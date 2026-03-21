@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDeXBydXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@45.15.152.226:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=fin2.frostbot.ru&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&sid=be91008fd0a4#🌍 Cyprus | Lvnet LTD 1
-vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@45.15.152.226:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin2.frostbot.ru&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&sid=be91008fd0a4&type=tcp&headerType=none#🌍 Cyprus | Lvnet LTD 2
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@45.15.152.226:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin2.frostbot.ru&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&sid=be91008fd0a4&type=tcp&headerType=none#🌍 Cyprus | Lvnet LTD 1
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@45.15.152.226:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=fin2.frostbot.ru&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&sid=be91008fd0a4#🌍 Cyprus | Lvnet LTD 2

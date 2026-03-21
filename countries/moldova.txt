@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.5.46:8880?path=/&security=none&encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&type=ws#🇲🇩 Moldova | Alexhost SRL 1
+vless://540f90d3-30f3-4180-80ee-2b1cfe14097a@94.103.2.230:443?type=tcp&security=reality&fp=random&pbk=EtNo6GTaH689OueUv62tmXG408_VLom3qJwrLOzl2V0&sid=dd&sni=www.google.com&spx=/#🇲🇩 Moldova | GIR SER 1
