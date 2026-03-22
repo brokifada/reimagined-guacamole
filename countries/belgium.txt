@@ -6,6 +6,6 @@
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
-vless://0e8b89aa-122f-4bcb-a0f4-c4bbbc0dd1b3@176.122.25.47:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=FHo-Y9VUgukgsdy9p-1SUOnE9dKCsneG09w3_c7Nh00&sid=ee0ae761e1&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 1
-vless://0e8b89aa-122f-4bcb-a0f4-c4bbbc0dd1b3@176.122.25.47:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=FHo-Y9VUgukgsdy9p-1SUOnE9dKCsneG09w3_c7Nh00&sid=ee0ae761e1&spx=/#🇧🇪 Belgium | WorkTitans B.V. 2
-vless://0e8b89aa-122f-4bcb-a0f4-c4bbbc0dd1b3@176.122.25.47:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.vk.com&pbk=FHo-Y9VUgukgsdy9p-1SUOnE9dKCsneG09w3_c7Nh00&sid=22&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 3
+vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@172.64.80.1:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=usa.correctcosette.workers.dev&path=%2FR8BFTroQ00j1&security=tls&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&type=ws#🇧🇪 Belgium | Google 1
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.145.21:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.arcane509.workers.dev&path=%2Fassets&security=tls&sni=index.arcane509.workers.dev&type=ws#🇧🇪 Belgium | Google 2
+vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.13.229:2052?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2560&host=parking-nfchbwa1-v2.parking-1ab.workers.dev#🇧🇪 Belgium | Google 3
