@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5e8f2b4a-2a5a-45ce-b302-53ac79f2f903@45.15.162.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=secondjatest.mooo.com&pbk=nDixLNMuYlt-c5JKbHFS068Q4eBSrfs8oWwPJqEUhww&sid=928f032052803ebf#🇨🇿 Czechia | WorkTitans B.V. 1
-vless://5e8f2b4a-2a5a-45ce-b302-53ac79f2f903@firstjaptest.mooo.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=nDixLNMuYlt-c5JKbHFS068Q4eBSrfs8oWwPJqEUhww&sid=928f032052803ebf&sni=secondjatest.mooo.com#🇨🇿 Czechia | WorkTitans B.V. 2
+vless://038bb5f0-156a-4d47-9b8d-a7bbca95f331@45.15.162.150:8443?encryption=none&security=tls&sni=czorg.tconnect.services&insecure=0&allowInsecure=0&type=ws&path=%2Fws#🇨🇿 Czechia | WorkTitans B.V. 1
