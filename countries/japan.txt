@@ -11,5 +11,5 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 Japan | Datacamp
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Japan | Datacamp 2
 vless://e5ef24a6-522e-4e95-a9c6-3cca87f3a564@154.31.114.125:443?flow=&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&security=reality&sid=2da72ce6&sni=navi.bankrate.com&type=tcp#🇯🇵 Japan | DMIT Cloud Services 1
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?security=tls&sni=www.nintendogames.net#🇯🇵 Japan | InfoSphere 1
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?security=tls&type=tcp&sni=www.nintendogames.net#🇯🇵 Japan | InfoSphere 2
 vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&security=reality&sid=6ba85179e30d4fc2&sni=mensura.cdn-apple.com&type=tcp#🇯🇵 Japan | Kaopu Cloud HK 1
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.134.57:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🇯🇵 Japan | WorkTitans B.V. 1

@@ -6,5 +6,5 @@
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
-vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@104.21.91.46:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=usa.correctcosette.workers.dev&path=%2FR8BFTroQ00j1&security=tls&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&type=ws#🇧🇪 Belgium | Google 1
-vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243396643.camry-perma.info&path=%2Fphnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#🇧🇪 Belgium | WorkTitans B.V. 1
+vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?type=ws&security=tls&encryption=none&sni=639073677243396643.camry-perma.info&path=/phnkfhws&host=639073677243396643.camry-perma.info#🇧🇪 Belgium | WorkTitans B.V. 1
+vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243396643.camry-perma.info&path=%2Fphnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#🇧🇪 Belgium | WorkTitans B.V. 2
