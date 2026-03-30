@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.4.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=/&security=none&type=ws#🇨🇿 Czechia | Green Floid 1
+vless://675160ba-0e8c-4eb6-b2c8-b06ce888dbfd@buzzserver.online:8445?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&pbk=fRxKMNHc5ZWPaoAkKr5xMcm7lhFRVHToGMl1xaFdt2I&fp=chrome&sni=www.nvidia.com&sid=64&spx=%2F#🇨🇿 Czechia | H2nexus LTD 1
