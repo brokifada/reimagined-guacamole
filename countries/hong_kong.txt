@@ -3,26 +3,20 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7AgQm9iaVZQTiDigJQgSG9uZyBLb25nCuKaoSAyMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7AgQm9iaVZQTiDigJQgSG9uZyBLb25nCuKaoSAxNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://873a8e21-5fed-36a7-b251-734ebc97381c@104.16.250.22:443?encryption=none&type=ws&security=tls&path=/db1024c59ce5eab9&host=s6.oboob.cn&fp=chrome&sni=s6.oboob.cn&alpn=h3,h2#🇭🇰 Hong Kong | Akile LTD 1
-vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@chatgpt.com:443?alpn=h3%2Ch2&encryption=none&host=s6.oboob.cn&path=%2Fdb10248afdcb0daf&security=tls&sni=s6.oboob.cn&type=ws#🇭🇰 Hong Kong | Akile LTD 2
-vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&sni=www.icloud.com#🇭🇰 Hong Kong | Akile LTD 3
-vless://75d4d24d-ba8d-3676-a5c6-edd6ea6dbfb6@s5.db-link.in:17820?type=ws&encryption=none&host=48afa0c5c9.shopify.com&path=%2Fdb102448afa0c5c9&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=48afa0c5c9.shopify.com#🇭🇰 Hong Kong | Akile LTD 4
-vless://873a8e21-5fed-36a7-b251-734ebc97381c@s1.db-link.in:443?encryption=none&security=tls&sni=s6.oboob.cn&alpn=h3%2Ch2&fp=chrome&insecure=1&type=ws&host=s6.oboob.cn&path=%2Fdb1024c59ce5eab9#🇭🇰 Hong Kong | Akile LTD 5
-vmess://ewogICAgImFkZCI6ICJuMTc1MzEwMTI3Ny40dTltYS5pY3UiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJuMTc1MzEwMTI3Ny40dTltYS5pY3UiLAogICAgImlkIjogIjZlYTQ4ZGZlLTdkZTItNDVkYy05MjY3LWQ0ZDllZmZhZDlmYyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrfCfh7BISy00Ny43Ni4yNTQuNzAtMDM0NCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIm4xNzUzMTAxMjc3LjR1OW1hLmljdSIKfQ==#🇭🇰 Hong Kong | Alibaba Cloud 1
-vmess://eyJhZGQiOiJuMTc1MzEwMTI3Ny40dTltYS5pY3UiLCJhaWQiOjAsImhvc3QiOiJuMTc1MzEwMTI3Ny40dTltYS5pY3UiLCJpZCI6IjZlYTQ4ZGZlLTdkZTItNDVkYy05MjY3LWQ0ZDllZmZhZDlmYyIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUhLLTEzMDg5MzY4Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoibjE3NTMxMDEyNzcuNHU5bWEuaWN1IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==#🇭🇰 Hong Kong | Alibaba Cloud 2
-vmess://eyJhZGQiOiJuMTc1MzM0ODczNi5saWU1ZC5jeW91IiwiaG9zdCI6Im4xNzUzMzQ4NzM2LmxpZTVkLmN5b3UiLCJpZCI6ImYyNjdlYWMzLWRmYjQtNDViZS1hNDgwLTdlMTg0N2NhMDRhYiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUhLLTEzMDc0NDUxIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoibjE3NTMzNDg3MzYubGllNWQuY3lvdSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇭🇰 Hong Kong | Alibaba Cloud 3
-vmess://eyJhZGQiOiAibjE3NTMxMDEyNzcuNHU5bWEuaWN1IiwgImFpZCI6IDAsICJob3N0IjogIm4xNzUzMTAxMjc3LjR1OW1hLmljdSIsICJpZCI6ICI2ZWE0OGRmZS03ZGUyLTQ1ZGMtOTI2Ny1kNGQ5ZWZmYWQ5ZmMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIm4xNzUzMTAxMjc3LjR1OW1hLmljdSJ9#🇭🇰 Hong Kong | Alibaba Cloud 4
-vmess://eyJhZGQiOiJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsImlkIjoiMWVmZmFjNGEtY2RiOC00NzE3LWExMGMtZGE5NzI2M2M4MDJjIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtSEstMTMwNjg0MTUiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==#🇭🇰 Hong Kong | Alibaba.com 1
-vmess://eyJhZGQiOiAibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsICJhaWQiOiAwLCAiaG9zdCI6ICJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwgImlkIjogIjFlZmZhYzRhLWNkYjgtNDcxNy1hMTBjLWRhOTcyNjNjODAyYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAibjE3NjEyOTY4ODAubGllNWQuY3lvdSJ9#🇭🇰 Hong Kong | Alibaba.com 2
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&sni=www.icloud.com#🇭🇰 Hong Kong | Akile LTD 1
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.145.59:80?type=ws&security=none&encryption=none&host=sss.yaml7.ggff.net#🇭🇰 Hong Kong | Alibaba (US) Technolog... 1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#🇭🇰 Hong Kong | DataCamp 1
-trojan://IL37892054@robust-toucan.rooster465.autos:443?allowInsecure=0&sni=robust-toucan.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A 1
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls#🇭🇰 Hong Kong | G-Core Labs S.A. 1
-trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls#🇭🇰 Hong Kong | G-Core Labs S.A. 2
-trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&sni=nearby-muskrat.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A. 3
-trojan://WF42809561@ready-monarch.rooster465.autos:443?sni=ready-monarch.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A. 4
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?allowInsecure=1#🇭🇰 Hong Kong | G-Core Labs S.A. 5
-trojan://WF42809561@emerging-hagfish.rooster465.autos:443?sni=emerging-hagfish.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A. 6
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.145.59:80?encryption=none&host=sss.yaml7.ggff.net&path=%2F&security=none&type=ws#🇭🇰 Hong Kong | DMIT Cloud Services 1
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.49:80?type=ws&security=none&encryption=none&host=sss.yaml7.ggff.net#🇭🇰 Hong Kong | DMIT Cloud Services 2
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?allowInsecure=1#🇭🇰 Hong Kong | G-Core Labs S.A. 1
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls#🇭🇰 Hong Kong | G-Core Labs S.A. 2
+trojan://IL37892054@caring-ghoul.rooster465.autos:443/?type=tcp&security=tls#🇭🇰 Hong Kong | G-Core Labs S.A. 3
+trojan://IL37892054@growing-tuna.rooster465.autos:443/?type=tcp&security=tls#🇭🇰 Hong Kong | G-Core Labs S.A. 4
+trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&sni=nearby-muskrat.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A. 5
+trojan://IL37892054@growing-tuna.rooster465.autos:443?allowInsecure=1#🇭🇰 Hong Kong | G-Core Labs S.A. 6
+trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls#🇭🇰 Hong Kong | G-Core Labs S.A. 7
+vless://6048472f-0993-4ae0-8203-960b9a0f4113@38.54.23.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i7xxqA7h16NpQQAGiQJKxubs-_IRCUUlredSK7swTkw&sni=www.amazon.com#🇭🇰 Hong Kong | Kaopu Cloud HK 1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@203.23.128.33:989#🇭🇰 Hong Kong | Leaseweb Hong Kong 1
-vless://a91b9d7f-eca5-43a5-9524-2201817225d6@194.246.114.41:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=VZxI81HL3oXC0wTnekmFTxXqeVqUHj5yqoTqTMqZKGw&sid=1f70da53&sni=google.com&spx=/#🇭🇰 Hong Kong | WorkTitans B.V. 1
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.49:80?encryption=none&host=sss.yaml7.ggff.net&path=%2F&security=none&type=ws#🇭🇰 Hong Kong | PCCW IMS 1
