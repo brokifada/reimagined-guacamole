@@ -5,68 +5,68 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hq/Cfh7cgQm9iaVZQTiDigJQgRnJhbmNlCuKaoSA2NSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://1bc8a2e7-4c5d-4376-a24b-b877997fd997@89.208.97.50:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=AQhB5LgVFJq87Kbavc9qYWwqYYnGx0Bj0ci4TXcboDw&sid=a1b2c3d4&type=tcp&headerType=none#🇫🇷 France | Aeza International LTD 1
-vless://1bc8a2e7-4c5d-4376-a24b-b877997fd997@89.208.97.50:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=AQhB5LgVFJq87Kbavc9qYWwqYYnGx0Bj0ci4TXcboDw&sid=a1b2c3d4#🇫🇷 France | Aeza International LTD 2
-vless://1bc8a2e7-4c5d-4376-a24b-b877997fd997@89.208.97.50:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AQhB5LgVFJq87Kbavc9qYWwqYYnGx0Bj0ci4TXcboDw&security=reality&sid=a1b2c3d4&sni=www.google.com&type=tcp#🇫🇷 France | Aeza International LTD 3
+vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇫🇷 France | Aeza International LTD 1
+vless://1bc8a2e7-4c5d-4376-a24b-b877997fd997@89.208.97.50:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AQhB5LgVFJq87Kbavc9qYWwqYYnGx0Bj0ci4TXcboDw&security=reality&sid=a1b2c3d4&sni=www.google.com&type=tcp#🇫🇷 France | Aeza International LTD 2
+vless://1bc8a2e7-4c5d-4376-a24b-b877997fd997@89.208.97.50:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=AQhB5LgVFJq87Kbavc9qYWwqYYnGx0Bj0ci4TXcboDw&sid=a1b2c3d4&type=tcp&headerType=none#🇫🇷 France | Aeza International LTD 3
+vless://1bc8a2e7-4c5d-4376-a24b-b877997fd997@89.208.97.50:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=AQhB5LgVFJq87Kbavc9qYWwqYYnGx0Bj0ci4TXcboDw&sni=www.google.com&sid=a1b2c3d4#🇫🇷 France | Aeza International LTD 4
+vless://1bc8a2e7-4c5d-4376-a24b-b877997fd997@89.208.97.50:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=AQhB5LgVFJq87Kbavc9qYWwqYYnGx0Bj0ci4TXcboDw&sid=a1b2c3d4#🇫🇷 France | Aeza International LTD 5
+vless://7449821f-4395-4e36-bc7c-d924922911c9@217.16.30.126:5443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=qq&security=reality&pbk=DRNWTTQjEFS__hr5iVvjPa_ZvnhyAiDv8eF7m-whMn8&sid=&packetEncoding=xudp#🇫🇷 France | Aeza International LTD 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#🇫🇷 France | Contabo GmbH 1
 vless://626bf2f0-f199-4945-b7e6-ecc1975230c1@www2.mintydavia.click:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OTIsytv0GBliKgroJmH9rUPkJyE-nIIj2OFc2V5eyCI&sid=c0222607e695&sni=www.microsoft.com#🇫🇷 France | Fastplanet LTD 1
-vless://75b56f3d-9c8e-4c74-8253-e483fcbf2351@45.151.30.160:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=364994a6f61fc955#🇫🇷 France | GTHost 1
-vless://800c124d-b454-411e-99fd-f5d628ebb986@45.151.30.160:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe#🇫🇷 France | GTHost 2
-vless://800c124d-b454-411e-99fd-f5d628ebb986@45.151.30.160:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c#🇫🇷 France | GTHost 3
-vless://93868968-c8cb-436f-bcf5-e9fd329c795e@45.151.30.160:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe#🇫🇷 France | GTHost 4
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | Online S.A.S. 1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | Online S.A.S. 2
+vless://800c124d-b454-411e-99fd-f5d628ebb986@45.151.30.160:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=364994a6f61fc955#🇫🇷 France | GTHost 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇫🇷 France | Moji SAS 1
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&host=www.calmlunch.com#🇫🇷 France | Online S.A.S. 1
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&path=/assignment&type=ws#🇫🇷 France | Online S.A.S. 2
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=%2fassignment#🇫🇷 France | Online S.A.S. 3
+trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=/assignment&type=ws#🇫🇷 France | Online S.A.S. 4
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&allow_insecure=0#🇫🇷 France | Online S.A.S. 5
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&type=ws#🇫🇷 France | Online S.A.S. 6
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment#🇫🇷 France | Online S.A.S. 7
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment#🇫🇷 France | Online S.A.S. 8
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇫🇷 France | Online S.A.S. 9
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&type=ws#🇫🇷 France | Online S.A.S. 10
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment#🇫🇷 France | Online S.A.S. 11
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment#🇫🇷 France | Online S.A.S. 12
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment#🇫🇷 France | Online S.A.S. 13
+trojan://humanity@www.calmlunch.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 France | Online S.A.S. 14
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#🇫🇷 France | Online S.A.S. 15
+trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 France | Online S.A.S. 16
+trojan://humanity@www.calmlunch.com:443?path=/assignment&type=ws#🇫🇷 France | Online S.A.S. 17
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&type=ws#🇫🇷 France | Online S.A.S. 18
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment&allow_insecure=1#🇫🇷 France | Online S.A.S. 19
+trojan://humanity@www.calmlunch.com:443?fp=chrome&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 France | Online S.A.S. 20
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&path=%2Fassignment#🇫🇷 France | Online S.A.S. 21
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=%2fassignment#🇫🇷 France | Online S.A.S. 22
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2fassignment&allow_insecure=0#🇫🇷 France | Online S.A.S. 23
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment&allow_insecure=1#🇫🇷 France | Online S.A.S. 24
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | Online S.A.S. 25
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | Online S.A.S. 26
 vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?path=ws&security=tls&encryption=none&insecure=0&host=hex.1tb.workers.dev&type=ws&allowInsecure=0&sni=hex.1tb.workers.dev#🇫🇷 France | OVH SAS 1
-vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%F0%9F%94%92&security=none&type=ws#🇫🇷 France | OVH SAS 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWI4NzhjYmI0NmYzZTMz@51.178.114.83:11202#🇫🇷 France | OVH SAS 3
+vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?allowInsecure=1&encryption=none&host=hex.1tb.workers.dev&path=ws&security=tls&sni=hex.1tb.workers.dev&type=ws#🇫🇷 France | OVH SAS 2
+vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?encryption=none&type=ws&host=hex.1tb.workers.dev&path=ws&security=tls&sni=hex.1tb.workers.dev#🇫🇷 France | OVH SAS 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#🇫🇷 France | OVH SAS 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YjQ3NjNlZmVmYTk1MTE0@135.125.10.106:10018#🇫🇷 France | OVH SAS 5
-trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=/assignment&sni=www.gossipglove.com&fp=chrome#🇫🇷 France | SCALEWAY 1
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 2
-trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=%2fassignment#🇫🇷 France | SCALEWAY 3
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🇫🇷 France | SCALEWAY 4
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment&allow_insecure=1#🇫🇷 France | SCALEWAY 5
-trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇫🇷 France | SCALEWAY 6
-trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 7
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=%2fassignment#🇫🇷 France | SCALEWAY 8
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment#🇫🇷 France | SCALEWAY 9
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 10
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#🇫🇷 France | SCALEWAY 11
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2Fassignment#🇫🇷 France | SCALEWAY 12
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&host=www.calmlunch.com#🇫🇷 France | SCALEWAY 13
-trojan://humanity@www.calmlunch.com:443?fp=chrome&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 France | SCALEWAY 14
-trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=/assignment&allow_insecure=1#🇫🇷 France | SCALEWAY 15
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 16
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&allow_insecure=0#🇫🇷 France | SCALEWAY 17
-trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 18
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2fassignment&allow_insecure=0#🇫🇷 France | SCALEWAY 19
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2fassignment&allow_insecure=0#🇫🇷 France | SCALEWAY 20
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 21
-trojan://humanity@www.calmlunch.com:443?allowInsecure=1&path=/assignment&type=ws#🇫🇷 France | SCALEWAY 22
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment&allow_insecure=0#🇫🇷 France | SCALEWAY 23
-trojan://humanity@www.gossipglove.com:443/?type=ws&path=/assignment&security=tls&sni=www.gossipglove.com&fp=chrome#🇫🇷 France | SCALEWAY 24
-trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=/assignment&type=ws#🇫🇷 France | SCALEWAY 25
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 26
-trojan://humanity@www.gossipglove.com:443?path=/assignment&type=ws#🇫🇷 France | SCALEWAY 27
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=%2fassignment#🇫🇷 France | SCALEWAY 28
-trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 France | SCALEWAY 29
-trojan://humanity@www.calmlunch.com:443?path=/assignment&type=ws#🇫🇷 France | SCALEWAY 30
-trojan://humanity@www.calmlunch.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 France | SCALEWAY 31
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇫🇷 France | SCALEWAY 32
-trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=/assignment#🇫🇷 France | SCALEWAY 33
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&type=ws#🇫🇷 France | SCALEWAY 34
-trojan://humanity@www.gossipglove.com:443?security=tls&amp&sni=www.gossipglove.com&amp&fp=chrome&amp&type=ws&amp&path=/assignment#🇫🇷 France | SCALEWAY 35
-trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=/assignment&type=ws#🇫🇷 France | SCALEWAY 36
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&type=ws#🇫🇷 France | SCALEWAY 37
-trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&type=ws#🇫🇷 France | SCALEWAY 38
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment&allow_insecure=1#🇫🇷 France | SCALEWAY 39
-trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=%2fassignment#🇫🇷 France | SCALEWAY 40
-trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=%2fassignment&allow_insecure=1#🇫🇷 France | SCALEWAY 41
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment#🇫🇷 France | SCALEWAY 42
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWI4NzhjYmI0NmYzZTMz@51.178.114.83:11202#🇫🇷 France | OVH SAS 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YjQ3NjNlZmVmYTk1MTE0@135.125.10.106:10018#🇫🇷 France | OVH SAS 6
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment&allow_insecure=0#🇫🇷 France | SCALEWAY 1
+trojan://humanity@www.gossipglove.com:443/?type=ws&path=/assignment&security=tls&sni=www.gossipglove.com&fp=chrome#🇫🇷 France | SCALEWAY 2
+trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=/assignment#🇫🇷 France | SCALEWAY 3
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 4
+trojan://humanity@www.gossipglove.com:443?security=tls&amp&sni=www.gossipglove.com&amp&fp=chrome&amp&type=ws&amp&path=/assignment#🇫🇷 France | SCALEWAY 5
+trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=/assignment&sni=www.gossipglove.com&fp=chrome#🇫🇷 France | SCALEWAY 6
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2fassignment&allow_insecure=0#🇫🇷 France | SCALEWAY 7
+trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=%2fassignment&allow_insecure=1#🇫🇷 France | SCALEWAY 8
+trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇫🇷 France | SCALEWAY 9
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2Fassignment#🇫🇷 France | SCALEWAY 10
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🇫🇷 France | SCALEWAY 11
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 12
+trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=%2fassignment#🇫🇷 France | SCALEWAY 13
+trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=%2fassignment#🇫🇷 France | SCALEWAY 14
+trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=/assignment&type=ws#🇫🇷 France | SCALEWAY 15
+trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 16
+trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 17
+trojan://humanity@www.gossipglove.com:443?path=/assignment&type=ws#🇫🇷 France | SCALEWAY 18
+trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=/assignment&allow_insecure=1#🇫🇷 France | SCALEWAY 19
 vmess://eyJhZGQiOiAiOTQuMjMyLjI0Ny4xNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjllOTFkMTlhLWM3M2YtNDI3Ni1hZGJjLWIzMzdjMzc0MjU5YyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiA0NTY1MywgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgIm5hbWUiOiAiPj5Ab25lY2xpY2t2cG5rZXlzOjpGUjo6RlI6OkZSOjpGUjo6RlI6OkZSOjpGUjo6RlI6OkZSOjpGUjo6RlI6OkZSOjpGUjo6RlI6OkZSOjpYWDo6WFg6OlhYOjpYWDo6WFgifQ==#🇫🇷 France | WorkTitans B.V. 1
-vmess://eyJhZGQiOiI5NC4yMzIuMjQ3LjE2NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5ZTkxZDE5YS1jNzNmLTQyNzYtYWRiYy1iMzM3YzM3NDI1OWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6NDU2NTMsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtRlItMTI0NzU5ODkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwibmFtZSI6Ij4+QG9uZWNsaWNrdnBua2V5czo6RlI6OkZSOjpGUjo6RlI6OkZSOjpGUjo6RlI6OkZSOjpGUjo6RlI6OkZSOjpGUjo6RlI6OkZSOjpGUjo6WFg6OlhYOjpYWDo6WFg6OlhYIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇫🇷 France | WorkTitans B.V. 2
-vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#🇫🇷 France | WorkTitans B.V. 3
-vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?encryption=none&flow=&fp=chrome&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&security=reality&sid=1aab45&sni=yahoo.com&type=#🇫🇷 France | WorkTitans B.V. 4
-vless://5b77fb18-cece-4759-9a81-571f1be53e0c@fra1.frostbot.ru:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&security=reality&sid=b9605803fb4b&sni=fra1.frostbot.ru&type=tcp#🇫🇷 France | WorkTitans B.V. 5
-vless://5b77fb18-cece-4759-9a81-571f1be53e0c@fra1.frostbot.ru:6443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&sid=b9605803fb4b&sni=fra1.frostbot.ru#🇫🇷 France | WorkTitans B.V. 6
-vless://5b77fb18-cece-4759-9a81-571f1be53e0c@fra1.frostbot.ru:6443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&sid=b9605803fb4b&sni=fra1.frostbot.ru&path=&host=#🇫🇷 France | WorkTitans B.V. 7
+vless://5b77fb18-cece-4759-9a81-571f1be53e0c@fra1.frostbot.ru:6443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&sid=b9605803fb4b&sni=fra1.frostbot.ru#🇫🇷 France | WorkTitans B.V. 2
+vless://5b77fb18-cece-4759-9a81-571f1be53e0c@fra1.frostbot.ru:6443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&sid=b9605803fb4b&sni=fra1.frostbot.ru&path=&host=#🇫🇷 France | WorkTitans B.V. 3
+vless://5b77fb18-cece-4759-9a81-571f1be53e0c@fra1.frostbot.ru:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&security=reality&sid=b9605803fb4b&sni=fra1.frostbot.ru&type=tcp#🇫🇷 France | WorkTitans B.V. 4

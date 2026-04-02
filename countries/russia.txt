@@ -5,9 +5,9 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSA4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@45.152.113.189:4440?type=tcp&security=reality&flow=xtls-rprx-vision&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Russia | JSC Selectel 1
-vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@45.152.113.190:4441?type=tcp&security=reality&flow=xtls-rprx-vision&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Russia | JSC Selectel 2
-vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@45.152.113.215:4444?type=tcp&security=reality&flow=xtls-rprx-vision&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Russia | JSC Selectel 3
+vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@185.152.92.18:4310?type=tcp&security=reality&flow=xtls-rprx-vision&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Russia | JSC "TIMEWEB" 1
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@103.88.241.10:49169?encryption=none&security=none&type=ws&path=%2F#🇷🇺 Russia | JSC "TIMEWEB" 2
+vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@85.239.33.67:4330?type=tcp&security=reality&flow=xtls-rprx-vision&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Russia | JSC "TIMEWEB" 3
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.60.223.8:989#🇷🇺 Russia | Kaopu Cloud HK 1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#🇷🇺 Russia | Kaopu Cloud HK 2
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 1

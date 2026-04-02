@@ -5,9 +5,9 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrfCfh7AgQm9iaVZQTiDigJQgSG9uZyBLb25nCuKaoSA2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&sni=www.icloud.com#🇭🇰 Hong Kong | Akile LTD 1
-vmess://eyJhZGQiOiJuMTc1MzM0ODczNi5saWU1ZC5jeW91IiwiaG9zdCI6Im4xNzUzMzQ4NzM2LmxpZTVkLmN5b3UiLCJpZCI6ImYyNjdlYWMzLWRmYjQtNDViZS1hNDgwLTdlMTg0N2NhMDRhYiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUhLLTEzMDc0NDUxIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoibjE3NTMzNDg3MzYubGllNWQuY3lvdSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇭🇰 Hong Kong | Alibaba Cloud 1
+vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@chatgpt.com:443?alpn=h3%2Ch2&encryption=none&host=s6.oboob.cn&path=%2Fdb10248afdcb0daf&security=tls&sni=s6.oboob.cn&type=ws#🇭🇰 Hong Kong | Akile LTD 1
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&sni=www.icloud.com#🇭🇰 Hong Kong | Akile LTD 2
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#🇭🇰 Hong Kong | DataCamp 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MWQ2NjU1ZDM2MjVmZDE0@185.244.208.150:11201#🇭🇰 Hong Kong | G-Core Labs S.A. 1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@203.23.128.33:989#🇭🇰 Hong Kong | Leaseweb Hong Kong 1
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.188:41632#🇭🇰 Hong Kong | Mega-ii IDC 1
-vless://a91b9d7f-eca5-43a5-9524-2201817225d6@194.246.114.41:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=VZxI81HL3oXC0wTnekmFTxXqeVqUHj5yqoTqTMqZKGw&sid=1f70da53&sni=google.com&spx=/#🇭🇰 Hong Kong | WorkTitans B.V. 1
