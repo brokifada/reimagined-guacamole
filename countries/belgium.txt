@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.21.12.63:8443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.arcane509.workers.dev&path=%2Fassets&security=tls&sni=INDEX.Arcane509.Workers.DEV&type=ws#🇧🇪 Belgium | Google 1
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@198.41.209.88:8080?path=%2Fec4l307nur5g&encryption=none&type=ws&host=index.arcane509.workers.dev&fp=chrome&ed=2560&eh=Sec-WebSocket-Protocol#🇧🇪 Belgium | Google 2
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.21.64.250:2053?allowInsecure=1&encryption=none&host=INDEX.Arcane509.Workers.DEV&path=%2Fassets&security=tls&sni=INDEX.Arcane509.Workers.DEV&type=ws#🇧🇪 Belgium | Google 3
+vless://e5d866f6-f999-44c9-9ba0-e88d466ab6a2@113.30.152.46:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&path=%2f#🇧🇪 Belgium | GCS SER 1
