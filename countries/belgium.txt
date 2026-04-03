@@ -7,5 +7,5 @@
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
 vless://e5d866f6-f999-44c9-9ba0-e88d466ab6a2@113.30.152.46:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&path=%2f#🇧🇪 Belgium | GCS SER 1
-vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@150.251.145.245:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=a1b2c3d4e5f6&sni=www.apple.com&path=&host=#🇧🇪 Belgium | Solvay SA 1
-vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@150.251.145.245:8443?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=a1b2c3d4e5f6&type=tcp&path=%2f#🇧🇪 Belgium | Solvay SA 2
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=/&security=none&type=ws#🇧🇪 Belgium | Google 1
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.120.179.89:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🇧🇪 Belgium | WorkTitans B.V. 1
