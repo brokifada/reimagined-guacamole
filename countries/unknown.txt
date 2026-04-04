@@ -5,12 +5,12 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSA5INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&fp=chrome&sni=ovhwuxian.pai50288.uk#🌍 Unknown | Unknown 1
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&type=ws&host=akamaized.net&path=%2Fvless%2F&security=none#🌍 Unknown | Unknown 2
-vless://1bc8a2e7-4c5d-4376-a24b-b877997fd997@2.27.43.20:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=AQhB5LgVFJq87Kbavc9qYWwqYYnGx0Bj0ci4TXcboDw&sid=a1b2c3d4&sni=www.google.com#🌍 Unknown | Unknown 3
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#🌍 Unknown | Unknown 4
-vless://bd43823f-7a53-49c0-ae92-def49e6c2ebe@82.40.58.107:443?encryption=none&security=reality&sni=rbc.ru&fp=random&pbk=WHRkrPq7NnIMEn_XPqrOtdwh9sZJusWBfhn5Od-AXEc&sid=069ebf10&type=tcp&headerType=none#🌍 Unknown | Unknown 5
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#🌍 Unknown | Unknown 6
-vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.130.37:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn12.melodramaonline.net&allowInsecure=1#🌍 Unknown | Unknown 7
-vless://bd43823f-7a53-49c0-ae92-def49e6c2ebe@82.40.58.107:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=WHRkrPq7NnIMEn_XPqrOtdwh9sZJusWBfhn5Od-AXEc&sid=069ebf10&sni=rbc.ru#🌍 Unknown | Unknown 8
-vless://cad6daf7-6cf8-4e1b-b0d5-aa0bea400d2a@kz.monkeyisland.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=1079eb4613718645&sni=kz.monkeyisland.xyz&path=&host=#🌍 Unknown | Unknown 9
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&insecure=0&allowInsecure=0&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#🌍 Unknown | Unknown 1
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&fp=random#🌍 Unknown | Unknown 2
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ping.pe:8443?allowInsecure=1&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&type=ws#🌍 Unknown | Unknown 3
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?&security=tls&fp=chrome&sni=ovhwuxian.pai50288.uk&type=ws&headerType=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#🌍 Unknown | Unknown 4
+vless://9c42aa2d-3e57-4ce1-ba85-0b11f685dd6b@45.136.126.26:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pRvemrnDzUPhjXIYQC933GlpoomcZI9LwL4DPW5-aQc&sid=b93d114f6a85e9&sni=max.ru#🌍 Unknown | Unknown 5
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.134.57:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🌍 Unknown | Unknown 6
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.134.57:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp#🌍 Unknown | Unknown 7
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:4937?security=tls&sni=www.nintendogames.net#🌍 Unknown | Unknown 8
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🌍 Unknown | Unknown 9
