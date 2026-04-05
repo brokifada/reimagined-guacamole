@@ -3,18 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAxMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🌍 Unknown | Unknown 1
-vless://88af3d08-d5e1-4148-89a7-5201146c10a5@107.181.134.184:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=chat.deepseek.com#🌍 Unknown | Unknown 2
-vless://9c42aa2d-3e57-4ce1-ba85-0b11f685dd6b@45.136.126.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pRvemrnDzUPhjXIYQC933GlpoomcZI9LwL4DPW5-aQc&security=reality&sid=b93d114f6a85e9&sni=max.ru&type=tcp#🌍 Unknown | Unknown 3
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&security=reality&sid=e473bbc75224b9df&sni=max.ru&type=#🌍 Unknown | Unknown 4
-vless://82b7a8c0-a9d9-4a6e-b0a2-8eb26e73db59@91.228.10.232:443?security=reality&sni=go.yandex&fp=chrome&pbk=LHhtSJr9oLLh3WSal9WyWzghtZH-xyH-5DVq4gVsaHs&sid=5527ef4b&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🌍 Unknown | Unknown 5
-vless://9c42aa2d-3e57-4ce1-ba85-0b11f685dd6b@45.136.126.26:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=pRvemrnDzUPhjXIYQC933GlpoomcZI9LwL4DPW5-aQc&sid=b93d114f6a85e9#🌍 Unknown | Unknown 6
-vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@81.19.141.68:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&sni=www.apple.com&path=&host=#🌍 Unknown | Unknown 7
-vless://89f8f53c-2ec5-11f1-bffe-46c4782ac1a7@81.19.141.96:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&sni=www.apple.com&path=&host=#🌍 Unknown | Unknown 8
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#🌍 Unknown | Unknown 9
-vless://e36a9359-1098-4100-8ee4-f15497203975@85.159.229.84:443?type=tcp&security=reality&fp=random&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&sid=93&sni=www.google.com&spx=/#🌍 Unknown | Unknown 10
-vless://81d82277-c095-4613-ba51-cafd0e413e69@45.84.1.10:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=984ymgZBRQUFFACjc3bUh-qIGvQAYSjzLwxhRGvdtzQ&sid=0f9a3c7d1e6b4825&sni=ads.x5.ru&path=&host=#🌍 Unknown | Unknown 11
-vless://40b65495-b0af-4e15-9d46-6d6d4c6ba90c@45.84.1.10:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=984ymgZBRQUFFACjc3bUh-qIGvQAYSjzLwxhRGvdtzQ&sid=5e2f7c1a9d3b8460&sni=ads.x5.ru#🌍 Unknown | Unknown 12
-vless://bf263367-bb63-4663-b4a1-34946107a72e@direct.illusion-vpn.ru:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dUMRGt4pHvNO-YjS6lWsEZhoiHe6DH1Dw92nqVAx_T0&sid=f1002d6b&sni=ozon.ru&spx=/#🌍 Unknown | Unknown 13
+vless://43488128-319e-f480-64ea-0acdc712e2a8@78.141.199.54:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=41427aa565e28984&sni=www.vodafone.co.uk&type=tcp#🌍 Unknown | Unknown 1
+vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116&sni=github.com#🌍 Unknown | Unknown 2
+vless://1bc8a2e7-4c5d-4376-a24b-b877997fd997@2.27.43.20:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=AQhB5LgVFJq87Kbavc9qYWwqYYnGx0Bj0ci4TXcboDw&sid=a1b2c3d4&sni=www.google.com#🌍 Unknown | Unknown 3
