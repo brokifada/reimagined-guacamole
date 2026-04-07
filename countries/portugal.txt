@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HtfCfh7kgQm9iaVZQTiDigJQgUG9ydHVnYWwK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.43.117:443?allowInsecure=1&encryption=none&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws#🇵🇹 Portugal | WorkTitans B.V. 1
+vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.13.229:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F&security=none&type=ws#🇵🇹 Portugal | WorkTitans B.V. 1
