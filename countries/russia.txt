@@ -3,20 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@155.212.215.79:4441?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇷🇺 Russia | JSC Selectel 1
-vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@155.212.215.78:4444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇷🇺 Russia | JSC Selectel 2
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#🇷🇺 Russia | Kaopu Cloud HK 1
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.60.223.8:989#🇷🇺 Russia | Kaopu Cloud HK 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q21jUTZkRjhMRXlaVTBZc01qZ3U4@77.73.68.155:54106#🇷🇺 Russia | Veesp datacenter 1
+vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?type=ws&security=tls&encryption=none&sni=sub.mot.ip-ddns.com&host=sub.mot.ip-ddns.com#🇷🇺 Russia | AZERTA.RU Hosting 1
 vless://e80c5348-5a5c-41f0-a78d-7a781f47afce@80.92.205.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MA_hDjnzRmn4qL60EqyybXYzuE_2Ap8FhJQ82szMDww&sid=1434b433&sni=store.steampowered.com#🇷🇺 Russia | WorkTitans B.V. 1
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 1
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.fh-aachen.de&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&path=%2f#🇷🇺 Russia | Yegor Andreevich tradi... 2
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 3
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.fh-aachen.de&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&path=%2f#🇷🇺 Russia | Yegor Andreevich tradi... 1
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 2
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.fh-aachen.de&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&path=%2f#🇷🇺 Russia | Yegor Andreevich tradi... 3
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.fh-aachen.de&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#🇷🇺 Russia | Yegor Andreevich tradi... 4
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 5
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.fh-aachen.de&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&path=%2f#🇷🇺 Russia | Yegor Andreevich tradi... 6
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 5
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 6
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 7
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 8
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 9
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 8

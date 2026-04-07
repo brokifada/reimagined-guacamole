@@ -7,8 +7,8 @@
 
 vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@chatgpt.com:443?alpn=h3%2Ch2&encryption=none&host=s6.oboob.cn&path=%2Fdb10248afdcb0daf&security=tls&sni=s6.oboob.cn&type=ws#🇭🇰 Hong Kong | Akile LTD 1
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&sni=www.icloud.com#🇭🇰 Hong Kong | Akile LTD 2
-vless://873a8e21-5fed-36a7-b251-734ebc97381c@s1.db-link.in:443?encryption=none&security=tls&sni=s6.oboob.cn&alpn=h3%2Ch2&fp=chrome&insecure=1&type=ws&host=s6.oboob.cn&path=%2Fdb1024c59ce5eab9#🇭🇰 Hong Kong | Akile LTD 3
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#🇭🇰 Hong Kong | DataCamp 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MWQ2NjU1ZDM2MjVmZDE0@185.244.208.150:11201#🇭🇰 Hong Kong | G-Core Labs S.A. 1
 trojan://88888888@tj.oopscat.com:7443?security=tls&sni=tj.oopscat.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇭🇰 Hong Kong | Hong Kong Broadband Ne... 1
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.188:41632#🇭🇰 Hong Kong | Mega-ii IDC 1
+vless://c603d9a2-a89a-4b62-ac96-346d3b52620c@hk01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%252525252525252F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#🇭🇰 Hong Kong | WorkTitans B.V. 1
