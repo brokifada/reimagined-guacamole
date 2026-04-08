@@ -5,17 +5,17 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hs/Cfh7QgQm9iaVZQTiDigJQgTm9yd2F5CuKaoSAxNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#🇳🇴 Norway | Datacamp 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@148.135.195.95:8388#🇳🇴 Norway | Datacamp 2
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?security=tls&sni=xo.e0f.cx&type=ws&path=/trojan-ws&Host=xo.e0f.cx#🇳🇴 Norway | Datacamp 1
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@148.135.195.95:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇳🇴 Norway | Datacamp 2
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?type=ws&host=xo.e0f.cx&path=%2Ftrojan-ws&security=tls&sni=xo.e0f.cx#🇳🇴 Norway | Datacamp 3
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#🇳🇴 Norway | Datacamp 4
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@148.135.195.95:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇳🇴 Norway | Datacamp 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@148.135.195.95:8388#🇳🇴 Norway | Datacamp 6
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?security=tls&sni=xo.e0f.cx&type=ws&path=/trojan-ws&Host=xo.e0f.cx#🇳🇴 Norway | Datacamp 7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@148.135.195.95:8388#🇳🇴 Norway | Datacamp 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@148.135.195.95:8388#🇳🇴 Norway | Datacamp 5
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#🇳🇴 Norway | Datacamp 6
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#🇳🇴 Norway | Datacamp 7
 vless://cca617a2-ede0-4855-a2ef-cc7f218ba75d@long-forest.ru:443?type=tcp&encryption=none&security=reality&pbk=GFKdmtxlB5JubXEfTy6PNIeuqN8ys53SPwV3zat3Fzg&fp=random&sni=winter-pine.long-forest.ru&sid=3c6a5f13df37ed6e&spx=%2F&flow=xtls-rprx-vision#🇳🇴 Norway | M247 Europe SRL 1
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru&allowInsecure=true&fp=chrome#🇳🇴 Norway | ServeTheWorld 1
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#🇳🇴 Norway | ServeTheWorld 2
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#🌐 [AS34989] ServeTheWorld AS #🇳🇴 Norway | ServeTheWorld 3
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 1
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru&allowInsecure=true&fp=chrome#🇳🇴 Norway | ServeTheWorld 2
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&allowinsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 3
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 4
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&allowinsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 5
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 6
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#🇳🇴 Norway | ServeTheWorld 5
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#🌐 [AS34989] ServeTheWorld AS #🇳🇴 Norway | ServeTheWorld 6

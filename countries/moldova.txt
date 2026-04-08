@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880?encryption=none&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=/&security=none&type=ws#🇲🇩 Moldova | Alexhost SRL 1
+vless://9d4b3ea9-348d-476d-8a9a-7555491dd298@91.208.197.169:444/?type=grpc&encryption=none&flow=&serviceName=apple.com&sni=apple.com&fp=qq&security=reality&pbk=dEhIR-YkvqguXB5_P3LMuyNYM82lMHQsSGhhtkmvE0k&sid=d7abeb515312dc2f&packetEncoding=xudp&headerType=none#🇲🇩 Moldova | Alexhost SRL 1
