@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@188.214.36.155:989#🇪🇪 Estonia | RJ Network OU 1
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#🇪🇪 Estonia | RJ Network OU 2
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#🇪🇪 Estonia | RJ Network OU 1
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@188.214.36.155:989#🇪🇪 Estonia | RJ Network OU 2
