@@ -6,5 +6,5 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDeXBydXMK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://ec486464-46c8-4f80-acc1-a3ccdcf01744@144.31.130.239:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6OvNu3z9uVh1Br6hIOQOz4Qai7xuykdjcvtqiLqNRUs&security=reality&sid=837afb17&sni=hls-svod.itunes.apple.com&type=tcp#🌍 Cyprus | H2nexus LTD 1
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru166.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ru166.mechvpn.online&alpn=h3,h2&fp=chrome&packetEncoding=xudp#🌍 Cyprus | H2nexus LTD 2
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru166.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ru166.mechvpn.online&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🌍 Cyprus | H2nexus LTD 3
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru166.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ru166.mechvpn.online&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🌍 Cyprus | H2nexus LTD 2
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru166.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ru166.mechvpn.online&alpn=h3,h2&fp=chrome&packetEncoding=xudp#🌍 Cyprus | H2nexus LTD 3
