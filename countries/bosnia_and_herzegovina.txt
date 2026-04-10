@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBCb3NuaWEgYW5kIEhlcnplZ292aW5hCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://ee6817f6-50fe-4114-b7ff-ce853b144282@45.15.178.203:59999?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&sid=a1b2c3d4&sni=yastatic.net#🌍 Bosnia and Herzegovina | WorkTitans B.V. 1
+vless://041b34ad-3377-49b1-8f16-dd9dc897989c@45.15.178.203:59999?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yastatic.net&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&sid=1a2b3c4d&type=tcp&headerType=none#🌍 Bosnia and Herzegovina | WorkTitans B.V. 1
