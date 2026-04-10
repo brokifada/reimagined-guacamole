@@ -8,7 +8,7 @@
 vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@5.42.99.88:4397?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇳🇴 Norway | Datacamp 1
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru&allowInsecure=true&fp=chrome#🇳🇴 Norway | ServeTheWorld 1
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 2
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#🇳🇴 Norway | ServeTheWorld 3
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&allowinsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 4
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 5
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#🌐 [AS34989] ServeTheWorld AS #🇳🇴 Norway | ServeTheWorld 6
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 3
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#🇳🇴 Norway | ServeTheWorld 4
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#🌐 [AS34989] ServeTheWorld AS #🇳🇴 Norway | ServeTheWorld 5
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&allowinsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 6
