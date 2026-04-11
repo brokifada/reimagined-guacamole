@@ -7,9 +7,9 @@
 
 vless://cca617a2-ede0-4855-a2ef-cc7f218ba75d@long-forest.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=GFKdmtxlB5JubXEfTy6PNIeuqN8ys53SPwV3zat3Fzg&sid=3c6a5f13df37ed6e&sni=winter-pine.long-forest.ru&spx=/#🇳🇴 Norway | M247 Europe SRL 1
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 1
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?#🇳🇴 Norway | ServeTheWorld 2
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru&allowInsecure=true&fp=chrome#🇳🇴 Norway | ServeTheWorld 3
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#🌐 [AS34989] ServeTheWorld AS #🇳🇴 Norway | ServeTheWorld 4
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#🇳🇴 Norway | ServeTheWorld 5
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&allowinsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 6
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 7
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru&allowInsecure=true&fp=chrome#🇳🇴 Norway | ServeTheWorld 2
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#🇳🇴 Norway | ServeTheWorld 3
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?#🇳🇴 Norway | ServeTheWorld 4
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 5
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#🌐 [AS34989] ServeTheWorld AS #🇳🇴 Norway | ServeTheWorld 6
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&allowinsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 7
