@@ -3,29 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAyNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@84.252.101.105:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=qq&sni=sub.sbrf-cdn342.ru&alpn=http%2F1.1#🇷🇺 Россия | White List | Fast | EaveVPN | #🇷🇺 Russia | Delta 1
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@84.252.101.90:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=qq&packetEncoding=xudp&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇷🇺 Russia | Delta 2
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@203.189.233.67:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=qq&packetEncoding=xudp&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇷🇺 Russia | Delta 3
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@203.189.233.67:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=qq&sni=sub.sbrf-cdn342.ru&alpn=http%2F1.1#🇷🇺 Russia | Delta 4
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@203.189.233.67:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=qq&sni=sub.sbrf-cdn342.ru&alpn=http/1.1#🇷🇺 Russia | Delta 5
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@84.252.101.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=qq&sni=sub.sbrf-cdn342.ru&alpn=http%2F1.1#🇷🇺 Russia | Delta 6
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@yt-noads.sbrf-cdn342.ru:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=qq&packetEncoding=xudp&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇷🇺 Russia | Delta 7
-vless://ed21a78e-2745-438d-a17e-d8d3bad9f26b@157.22.241.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#🇷🇺 Russia | Global Internet Solutions 1
-vless://0cde55cc-05b0-40f2-b8c9-f1719be2a2f7@157.22.241.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#🇷🇺 Russia | Global Internet Solutions 2
-vless://fb73913c-9315-4595-8f92-488a2ceaf9a4@157.22.241.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#🇷🇺 Russia | Global Internet Solutions 3
-vless://d4ac8ef7-b18c-46c3-ad40-373e28558b33@157.22.241.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#🇷🇺 Russia | Global Internet Solutions 4
-vless://d0b1ae76-4b8b-496d-8e6a-2af194da225f@157.22.241.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#🇷🇺 Russia | Global Internet Solutions 5
 vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@72.56.233.213:4461?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇷🇺 Russia | JSC "TIMEWEB" 1
-vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-26.de-nfast.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&spx=%2F&type=tcp&headerType=none#🇷🇺 Russia | JSC "TIMEWEB" 2
+vless://023a6c5c-6933-4735-90bc-fa435b955927@85.239.61.193:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=iNHjpSHOGfa1qz-EIC2NG2iV_zcvEx0DC3FD936YURk&sid=8820&spx=/#🇷🇺 Russia | JSC "TIMEWEB" 2
 vless://023a6c5c-6933-4735-90bc-fa435b955927@85.239.61.193:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=iNHjpSHOGfa1qz-EIC2NG2iV_zcvEx0DC3FD936YURk&sid=8820&spx=%2F#🇷🇺 Russia | JSC "TIMEWEB" 3
-vless://404608db-45f1-42ae-ace3-7cd00a694802@t-ru3.powerhost.pro:443?encryption=none&security=reality&sni=hello.powerhost.pro&fp=chrome&pbk=KNJVnH7B-1BAb9z5DW9vgQ_XHMGdEop0_WzbfhXFoHI&sid=a60d3a8e9039648f&type=tcp&flow=xtls-rprx-vision#🇷🇺 Russia | JSC "TIMEWEB" 4
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.60.223.8:989#🇷🇺 Russia | Kaopu Cloud HK 1
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#🇷🇺 Russia | Kaopu Cloud HK 2
-vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@217.149.30.86:4463?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇷🇺 Russia | OJSC "Telecommunicatio... 1
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 1
+vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-26.de-nfast.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&spx=%2F&type=tcp&headerType=none#🇷🇺 Russia | JSC "TIMEWEB" 4
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#🇷🇺 Russia | Kaopu Cloud HK 1
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.60.223.8:989#🇷🇺 Russia | Kaopu Cloud HK 2
+vless://e80c5348-5a5c-41f0-a78d-7a781f47afce@80.92.205.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MA_hDjnzRmn4qL60EqyybXYzuE_2Ap8FhJQ82szMDww&sid=1434b433&sni=store.steampowered.com#🇷🇺 Russia | WorkTitans B.V. 1
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 1
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 2
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 3
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 4
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sni=www.fh-aachen.de#🇷🇺 Russia | Yegor Andreevich tradi... 3
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 4
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 5
