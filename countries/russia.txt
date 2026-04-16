@@ -5,14 +5,14 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://2654fc26-c24c-443f-9ee0-fd8ee7237757@telegram.private-networks-zk.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=ads.x5.ru&source_name=etoneya_1&provider_id=etoneya_1#🇷🇺 Russia | Beget 1
+vless://6d151e62-2da9-40dd-ac9f-5ae5b33ba8a5@telegram.private-networks-zk.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=ads.x5.ru#🇷🇺 Russia | Beget 2
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@45.132.50.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LVLC9gVIWMnhY40dxLLvBnxMxPsX4tgSkaEGjWbfERM&security=reality&sid=52356565757846&sni=rockcult.ru&type=tcp#🇷🇺 Russia | JSC "TIMEWEB" 1
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@45.132.50.33:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=LVLC9gVIWMnhY40dxLLvBnxMxPsX4tgSkaEGjWbfERM&sid=52356565757846&sni=rockcult.ru&spx=/#🇷🇺 Russia | JSC "TIMEWEB" 2
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.180:52006?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🇷🇺 Russia | JSC Selectel 1
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.183:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=http%2F1.1#🇷🇺 Russia | JSC Selectel 2
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.180:52006?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🇷🇺 Russia | JSC Selectel 3
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.185:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&alpn=http%2F1.1#🇷🇺 Russia | JSC Selectel 4
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@2.utube.mambo-jambo.ru:58169?security=none&type=ws&packetEncoding=xudp&encryption=none#🇷🇺 Russia | JSC Selectel 5
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-3.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 6
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@2.utube.mambo-jambo.ru:58169?security=none&type=ws&packetEncoding=xudp&encryption=none#🇷🇺 Russia | JSC Selectel 1
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-3.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 2
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#🇷🇺 Russia | Kaopu Cloud HK 1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.60.223.8:989#🇷🇺 Russia | Kaopu Cloud HK 2
+vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-2.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | Timeweb, LLP 1
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 1
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Russia | Yegor Andreevich tradi... 2
