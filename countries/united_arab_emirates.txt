@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://75807638-6f19-0064-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇦🇪 United Arab Emirates | M247 Europe SRL 1
+vless://defcff2a-fcdf-41c2-aeb6-4f6d874c2d98@uae.sbrf-cdn342.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=random&packetEncoding=xudp#🇦🇪 United Arab Emirates | M247 Europe SRL 1
