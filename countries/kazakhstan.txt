@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://16963833-bed3-405c-be42-dee3f835846c@94.131.86.204:443?type=tcp&security=reality&fp=random&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&sni=www.google.com&spx=/#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 1
+vless://e0bf82db-50e1-4017-b15e-6402420226af@77.73.135.73:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&sni=usa.pink-world.ru#🇨🇦 Канада | White List | Fast | EaveVPN | #🇰🇿 Kazakhstan | Aeza International LTD 1
+vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@77.73.135.73:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=usa.pink-world.ru&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#🇰🇿 Kazakhstan | Aeza International LTD 2
+vless://e0bf82db-50e1-4017-b15e-6402420226af@77.73.135.73:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=usa.pink-world.ru&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#🇰🇿 Kazakhstan | Aeza International LTD 3
+vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@77.73.135.73:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&sni=usa.pink-world.ru#🇰🇿 Kazakhstan | Aeza International LTD 4
+vless://e0bf82db-50e1-4017-b15e-6402420226af@77.73.135.73:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&sni=usa.pink-world.ru#🇰🇿 Kazakhstan | Aeza International LTD 5
+vless://e0bf82db-50e1-4017-b15e-6402420226af@usa.pink-world.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&sni=usa.pink-world.ru#🇰🇿 Kazakhstan | Aeza International LTD 6
