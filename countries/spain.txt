@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
+vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&sid=738b3ed2&sni=apple.com#🇪🇸 Spain | Digi Spain Telecom S.L.U. 1
 vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sid=e08a28&type=tcp&path=%2f#🇪🇸 Spain | WorkTitans B.V. 1
+vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?encryption=none&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&security=reality&sid=e08a28&sni=yahoo.com&type=tcp#🇪🇸 [AS209847] WorkTitans B.V. #🇪🇸 Spain | WorkTitans B.V. 2
+vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sni=yahoo.com&sid=e08a28#🇪🇸 Spain | WorkTitans B.V. 3
