@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQaGlsaXBwaW5lcwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.127:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 1
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.127:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome#🌍 Philippines | Hosting Industry 1
