@@ -7,7 +7,7 @@
 
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@86.107.100.13:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#🇮🇳 India | Baxet Group 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#🇮🇳 India | DIGITALOCEAN 1
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#🇮🇳 India | DigitalOcean, 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTRhNmZkMjIwOWY2MmE3@185.67.125.109:11201#🇮🇳 India | G-Core Labs S.A. 1
 vless://c603d9a2-a89a-4b62-ac96-346d3b52620c@lol-ind-0002.api.neuralrelay.stream:443?security=reality&encryption=none&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=1dc69d21a7077443#🇮🇳 India | LEARNSOCIAL.COM INDIA ... 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@69.164.245.25:443?&security=tls&sni=babayaga-6i7.pages.dev&type=ws&headerType=none&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram @WangCai2#🇮🇳 India | Microsoft 1
-vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#🇮🇳 India | Oracle 1
-vless://d6aa725e-6092-4858-97f7-df3d14ce36bd@ott.abhizzz.net:443/?type=ws&encryption=none&flow=&host=ott.abhizzz.net&path=%2Fvless&security=tls&sni=ott.abhizzz.net&allowInsecure=1#🇮🇳 India | TalkTalk 1
+vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@lol-ind-0001.api.neuralrelay.stream:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&sid=27e540&sni=hls-svod.itunes.apple.com#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
