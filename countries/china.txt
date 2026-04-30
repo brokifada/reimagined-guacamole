@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.20.50.17:443?type=ws&security=tls&encryption=none&sni=sss.yaml7.ggff.net&host=sss.yaml7.ggff.net#🌍 China | 263 Global Communications 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@45.38.60.52:8443?type=ws&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🌍 China | 263 Global Communications 1
