@@ -7,5 +7,5 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#🇳🇴 Norway | BrainStorm Network, Inc 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#🇳🇴 Norway | BrainStorm Network, Inc 2
-trojan://4Jt6CN%2321.rzQjTEUeDHM@217.170.199.80:21363?security=tls&sni=www.vk.com&allowInsecure=true#🇳🇴 Norway | SERVETHEWORLD 1
-trojan://4Jt6CN%2321.rzQjTEUeDHM@217.170.199.80:21363/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#🇳🇴 Norway | SERVETHEWORLD 2
+trojan://4Jt6CN%2321.rzQjTEUeDHM@217.170.199.80:21363/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#🇳🇴 Norway | SERVETHEWORLD 1
+trojan://4Jt6CN%2321.rzQjTEUeDHM@217.170.199.80:21363?security=tls&sni=www.vk.com&allowInsecure=true#🇳🇴 Norway | SERVETHEWORLD 2
