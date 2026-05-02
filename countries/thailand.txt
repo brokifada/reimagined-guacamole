@@ -6,8 +6,8 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.35.108:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.primevideo.com&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#🌍 Thailand | Alibaba.com 1
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.35.108:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=www.primevideo.com&path=&host=&serviceName=&quicSecurity=none#🌍 Thailand | Alibaba.com 2
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.35.108:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=www.primevideo.com#🌍 Thailand | Alibaba.com 3
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.35.108:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=www.primevideo.com#🌍 Thailand | Alibaba.com 4
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.35.108:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=www.primevideo.com#🌍 Thailand | Alibaba.com 2
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.35.108:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=www.primevideo.com#🌍 Thailand | Alibaba.com 3
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.35.108:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=www.primevideo.com&path=&host=&serviceName=&quicSecurity=none#🌍 Thailand | Alibaba.com 4
 vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#🌍 Thailand | Bangmod Enterprise Co., . 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@164.52.2.98:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🌍 Thailand | M247 Europe SRL 1
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&security=none&path=/ws#🌍 Thailand | Bangmod Enterprise Co., . 2
