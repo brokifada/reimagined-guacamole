@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@104.18.13.229:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev#🇰🇿 Kazakhstan | Haicom 1
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880?path=%2F&security=none&encryption=none&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&type=ws#🇰🇿 Kazakhstan | Haicom 2
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@kz.keepsecurevpn.com:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=kz.keepsecurevpn.com&alpn=http/1.1%2Ch2#🇰🇿 Kazakhstan | WorkTitans B.V. 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@kz.keepsecurevpn.com:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=kz.keepsecurevpn.com&alpn=http/1.1,h2#🇰🇿 Kazakhstan | WorkTitans B.V. 2
+vless://aaa7d2f2-a429-4480-ba1c-9a5a2de18730@212.233.72.250:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26&packetEncoding=xudp#🇰🇿 Kazakhstan | Scalaxy B.V. 1
