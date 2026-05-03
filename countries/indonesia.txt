@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880?type=ws&host=vms.lifetime40.workers.dev#🌍 Indonesia | PT. Telekomunikasi Ind... 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.164.248.30:8880?type=ws&host=vms.lifetime26.workers.dev#🌍 Indonesia | PUSATMEDIA 1
+vless://f2283069-a238-47e7-b837-e2eb63adfc57@ncgdbgp.gdsxrk.com:32534?security=none&type=ws&path=%2Fassets%2Fjs%2Fapp.js&host=login.microsoftonline.com&encryption=none#🌍 Indonesia | PT Cloud Hosting Indon... 1
+vless://421cf851-ccfa-4450-b4e7-aa226b3d6fb2@fae49480e092.bangchenou.top:42003?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=d1--cn-gotcha308.bilivideo.com&fp=edge&flow=xtls-rprx-vision#🌍 Indonesia | PT Telekomunikasi Selu... 1
