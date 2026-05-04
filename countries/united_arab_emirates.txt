@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@102.177.189.30:8880?encryption=none&host=vms.lifetime29.workers.dev&security=none&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
 vless://4e8d48bb-3c03-4e02-b15f-a76737cca9e7@84.54.31.117:444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=-Tj46yKjFq-x9lbLMoOoLN18PKi7BvVHaqnkvnGCB3s&sid=90abcd#🇦🇪 United Arab Emirates | Zenlayer Inc 1
-vless://4e8d48bb-3c03-4e02-b15f-a76737cca9e7@ru-br-1.shadownet.pro:444?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-Tj46yKjFq-x9lbLMoOoLN18PKi7BvVHaqnkvnGCB3s&security=reality&sid=90abcd&sni=yandex.ru&type=tcp#🇦🇪 United Arab Emirates | Zenlayer Inc 2
+vless://4e8d48bb-3c03-4e02-b15f-a76737cca9e7@84.54.31.117:444?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&pbk=-Tj46yKjFq-x9lbLMoOoLN18PKi7BvVHaqnkvnGCB3s&sid=90abcd&fp=chrome&alpn=http%2F1.1&headerType=none#🇦🇪 United Arab Emirates | Zenlayer Inc 2
 vless://4e8d48bb-3c03-4e02-b15f-a76737cca9e7@ru-br-1.shadownet.pro:444?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=-Tj46yKjFq-x9lbLMoOoLN18PKi7BvVHaqnkvnGCB3s&sid=90abcd&flow=xtls-rprx-vision#🇦🇪 United Arab Emirates | Zenlayer Inc 3
+vless://4e8d48bb-3c03-4e02-b15f-a76737cca9e7@ru-br-1.shadownet.pro:444?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-Tj46yKjFq-x9lbLMoOoLN18PKi7BvVHaqnkvnGCB3s&security=reality&sid=90abcd&sni=yandex.ru&type=tcp#🇦🇪 United Arab Emirates | Zenlayer Inc 4
