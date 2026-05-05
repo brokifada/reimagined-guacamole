@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://421cf851-ccfa-4450-b4e7-aa226b3d6fb2@fae49480e092.bangchenou.top:42003?security=tls&type=tcp&allowInsecure=1&sni=d1--cn-gotcha308.bilivideo.com&fp=edge&flow=xtls-rprx-vision&encryption=none#🌍 Indonesia | PT Telekomunikasi Selu... 1
+vless://e9ebf8c2-dbe9-4220-9234-6a47be3e9dea@72.61.208.98:3443?security=reality&flow=xtls-rprx-vision&fp=edge&pbk=V1H-Ak7Vzw_5BFqy3rmVV2SBLzJAJceAcWAzZUmJGw4&sid=7a3f9e2b1c8d4f6a&sni=sun1-25.userapi.com&spx=/#🌍 Indonesia | Hostinger International 1
