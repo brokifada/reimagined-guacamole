@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://61bb7c74-09f7-4ab8-b5db-a8bac075884e@ru-br-1.shadownet.pro:444?security=reality&encryption=none&pbk=-Tj46yKjFq-x9lbLMoOoLN18PKi7BvVHaqnkvnGCB3s&headerType=none&fp=chrome&spx=/golWLSnwrСМnmcDi&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=ef1234#🇦🇪 United Arab Emirates | Zenlayer Inc 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.57.251.240:990#🇦🇪 United Arab Emirates | M247 Europe SRL 1
