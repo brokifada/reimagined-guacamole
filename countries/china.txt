@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.82.98.161:18081?allowInsecure=0&type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🌍 China | Light Node 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.153.206.239:27015?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🌍 China | Light Node 1
