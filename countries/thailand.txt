@@ -6,4 +6,4 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#🌍 Thailand | Bangmod Enterprise Co., . 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.153.206.239:27015?allowInsecure=0&type=ws&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🌍 Thailand | M247 Europe SRL 1
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&security=none&path=/ws#🌍 Thailand | Bangmod Enterprise Co., . 2
