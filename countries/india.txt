@@ -6,4 +6,4 @@
 #announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#🇮🇳 India | DIGITALOCEAN 1
-vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#🇮🇳 India | Oracle 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@199.119.137.77:2053?&security=tls&sni=babayaga-6i7.pages.dev&type=ws&headerType=none&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560#🇮🇳 India | Leapswitch Networks Pr... 1
