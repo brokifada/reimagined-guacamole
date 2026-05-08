@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=tcp&security=reality&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sid=&sni=www.icloud.com&path=&host=&serviceName=&quicSecurity=none#🌍 China | PEG TECH INC 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime58.workers.dev#🌍 China | 263 Global Communications 1
