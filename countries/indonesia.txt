@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.30:8880?type=ws&security=none&host=vms.lifetime40.workers.dev&path=%2F#🌍 Indonesia | PUSATMEDIA 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.70.30:8880?type=ws&host=vms.lifetime50.workers.dev#🌍 Indonesia | Amazon.com, 1
