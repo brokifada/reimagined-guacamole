@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ac10bfbe-c015-4903-bd7a-d2ea04b40674@45.131.41.82:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=YqflX5x8dzlbE33kuf498wkmuS2wU1Gsldd1a7t8jyM&sid=a1b2c3d4a1b2c3d5&packetencoding=xudp#🌍 Thailand | M247 Europe SRL 1
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#🌍 Thailand | Bangmod Enterprise Co., . 1
