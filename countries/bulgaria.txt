@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.4.46:8880?&security=false&fp=chrome&type=ws&headerType=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=%2F#🇧🇬 Bulgaria | Green Floid 1
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#🇧🇬 Bulgaria | M247 Europe SRL 1
