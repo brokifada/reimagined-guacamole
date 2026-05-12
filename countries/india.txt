@@ -3,12 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vmess://eyJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoyMjMyNCwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjNbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1JTi0xNDAwNjgwNiIsInNjeSI6ImF1dG8iLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇮🇳 India | Akamai Technologies, 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#🇮🇳 India | DIGITALOCEAN 1
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#🇮🇳 India | DigitalOcean, 1
-vless://ddd7b044-6a87-Fade-8911-e0be8fdbf4a2@195.209.82.149:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#🇮🇳 India | The Constant Company, 1
-vless://ddd7b044-6a87-Fade-8911-e0be8fdbf4a2@195.209.90.178:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#🇮🇳 India | The Constant Company, 2
-vless://ddd7b044-6a87-Fade-8911-e0be8fdbf4a2@212.193.147.245:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#🇮🇳 India | The Constant Company, 3
-vless://ddd7b044-6a87-Fade-8911-e0be8fdbf4a2@s28233.cdn.ngenix.net:443?type=ws&security=tls&fp=qq&sni=s28233.cdn.ngenix.net&host=s28233.cdn.ngenix.net&alpn=h2,http/1.1#🇮🇳 India | The Constant Company, 4
+vless://ddd7b044-6a87-Fade-8911-e0be8fdbf4a2@195.209.88.180:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#🇮🇳 India | The Constant Company, 1
+vless://ddd7b044-6a87-Fade-8911-e0be8fdbf4a2@s28233.cdn.ngenix.net:443?type=ws&security=tls&fp=qq&sni=s28233.cdn.ngenix.net&host=s28233.cdn.ngenix.net&alpn=h2,http/1.1#🇮🇳 India | The Constant Company, 2
