@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.57.251.240:990#🇦🇪 United Arab Emirates | M247 Europe SRL 1
+vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.4.46:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=/&security=none&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
