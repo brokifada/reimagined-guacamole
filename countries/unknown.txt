@@ -3,26 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAyMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSA1INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.15:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🌍 Unknown | Unknown 1
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.2:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🌍 Unknown | Unknown 2
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.15:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🌍 Unknown | Unknown 3
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🌍 Unknown | Unknown 4
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🌍 Unknown | Unknown 5
-vless://231e88bb-3a39-4f26-848e-908f83070283@141.11.197.127:55269?type=raw&security=reality&fp=chrome&pbk=i1e3hqslC-n7XGp72HmDKU7ZuRk72pHbzujbNaYF-0s&sid=8f&sni=vk.ru#🌍 Unknown | Unknown 6
-vless://231e88bb-3a39-4f26-848e-908f83070283@141.11.197.127:55269?type=tcp&security=reality&fp=chrome&pbk=i1e3hqslC-n7XGp72HmDKU7ZuRk72pHbzujbNaYF-0s&sid=8f&sni=vk.ru&alpn=http/1.1#🌍 Unknown | Unknown 7
-vless://231e88bb-3a39-4f26-848e-908f83070283@141.11.197.127:55269?type=tcp&security=reality&fp=chrome&pbk=i1e3hqslC-n7XGp72HmDKU7ZuRk72pHbzujbNaYF-0s&sid=8f&sni=vk.ru&spx=/#🌍 Unknown | Unknown 8
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🌍 Unknown | Unknown 9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTThmTms3bWV3a1loUkZKekV1NG9zSkJYaUpjWm90UVN2YUg2Y2ZteHM3YlAxMlFBTmlqRVp2S1R4UmQ0SGJhZTM3WG43eEVYZkJjeHo0dFdobWJXUTM2UkViblpvUFE=@185.5.38.111:55988#🌍 Unknown | Unknown 10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRVoyYmZGYlZpQzl1c04xV0I0eHF2eXpFdVVoUEEydXVVWVptaktBV1RRYzNtRXJoQ2FWSG1aYmJXZ1ZHOW9pMVZIaHoxMktQMmdBV0M4TFpKNGltV2h5cEFEOVBHM3U@185.5.38.111:55988#🌍 Unknown | Unknown 11
-vless://fd365b7e-26eb-479a-a009-e182d827de04@37.9.4.128:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&security=reality&sid=5d8e1a9c4f72b3&sni=ads.x5.ru&type=tcp#🌍 Unknown | Unknown 12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQm43UVZzekpHcjQ1SjZFV0xBMTJZeFlGU29zOHVNSGJEVFpNZXJmQTVraEVvQ3BUS2treUZFQ1c5WEhEdXdNSlZBZUozN2dha0dBTGl5a1dDV1U3UzdhZ0VNcmZ6ckQ=@185.5.38.111:55988#🌍 Unknown | Unknown 13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV0piamF2RkhRdjd2Z0toeUhFTWc3b1lUTHpROThHcVRUVTdMbVcyWnVDSHk5ZVpMQmtvamNDeWdCMUd5ZGlXWW1EaXdoR0h1bjNYaTlEbTRzOUhvOVFTbkNNZUhhUEg=@185.5.38.111:55988#🌍 Unknown | Unknown 14
-vless://d1cf1e53-98dd-4fb4-a7bf-8a439f06df12@185.5.38.111:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NiZvpTYGynbH6RueETAVgkj2XfxoIPiNNoZtQfpQPj8&sid=5506315e3dbb&sni=www.hollywoodreporter.com#🌍 Unknown | Unknown 15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZ3h5ZVBkVDZEbkFMeHp0dFFSekdISlAyYml0QWVIbmJ1a2Y2YVRqQzl4ZFlreFFRMVlLNzFES0VtSk5jM0RZOENDcTF6NDZvQ3k2RGMxb1ppNlE0NTMyTnY4U3djeTc@185.5.38.111:55988#🌍 Unknown | Unknown 16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVzE5QWVnMVh3cWlYOUFXV3BCUUZWVXJ0WGtWcVVmeFRRdXBHY1BtWHRCdGFQMnRhNzJTWExKc1VKMnRTbTFxaGJMQkV4VVMxZTNSYVBBOEpUN0s0R0hSbnd3RmJHTm4=@185.5.38.111:55988#🌍 Unknown | Unknown 17
-vless://fd365b7e-26eb-479a-a009-e182d827de04@46.8.209.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=z67jBKrK0gsKfg-sz_8_CFMtKq9fAtWJPEJpHvo-OFU&security=reality&sid=7e2a9d4c5f18b0&sni=ads.x5.ru&type=tcp#🌍 Unknown | Unknown 18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWEhWWVg2TDVFb2ZWb0ppN1pkQ0F4SmZWTVhIZGoxMmRRUkVrUkNGUU1QY3NyRlhYV3FIeDNXUlVhellaVkM4dlo0N1h0SDVzRGtHbzFyTlpyaTZTV3hobnJ4NUNmVno@185.5.38.111:55988#🌍 Unknown | Unknown 19
-vless://6183c1c0-2853-4e83-b31b-19527950b23b@90.156.215.183:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.max.ru&fp=chrome&pbk=aySWi4vGm4__zU_RFNtym1AyjtfY0AX9WoigfVG7hWA&sid=6c183039c8fe2676#🌍 Unknown | Unknown 20
-vless://73ea81a4-6cd5-fade-b3e6-bf4dd74256fc@195.209.82.149:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#🌍 Unknown | Unknown 21
+vless://8e4eb711-d633-4750-99dd-282b792500ca@194.124.250.34:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Jfnv1o-d5SM87897Ji5pblMU_pdi-cY91J9QWRj801M&sid=305214&sni=www.google.com&spx=/aeylizGHtYApmJ4#🌍 Unknown | Unknown 1
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🌍 Unknown | Unknown 2
+trojan://BxceQaOe@116.80.61.224:443?allowInsecure=1#🌍 Unknown | Unknown 3
+vless://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#🌍 Unknown | Unknown 4
+vless://18535741-e8b3-4b43-9348-785b55936751@ov-germany1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#🌍 Unknown | Unknown 5
