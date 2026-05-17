@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@172.66.42.200:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇬🇪 Georgia | 365.hosting 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.169.19.179:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇬🇪 Georgia | 365.hosting 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.201:2053?type=ws&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🇬🇪 Georgia | 365.hosting 3
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp #🇬🇪 Georgia | AkhaliNet 1
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge&sni=r1.mizulina.top&path=&host=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 2
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#🇬🇪 Georgia | AkhaliNet 3
