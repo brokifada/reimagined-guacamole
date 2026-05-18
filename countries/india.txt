@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@193.32.177.101:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇮🇳 India | Microsoft 1
-vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@in.duckfree.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&flow=xtls-rprx-vision#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#🇮🇳 India | DIGITALOCEAN 1
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#🇮🇳 India | DigitalOcean, 1
