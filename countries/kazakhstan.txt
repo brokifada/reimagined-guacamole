@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@kz1.pineappled.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com&spx=/#🇰🇿 Kazakhstan | Newserverlife 1
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇰🇿 Kazakhstan | Haicom 1
+vless://e502ee54-8e2a-41c6-a3ca-3d192e8710fb@185.215.187.28:443?type=grpc&headerType=none&security=reality&encryption=none&sni=dl.k8s.io&fp=safari&pbk=54hbwVG2QOq8hXR77roi2ZrKWPMK3Um3ZnagioywoDk&sid=bdf1e772522d1d5a&spx=%2Fjs%2Fbundle.js&serviceName=xraygrpc#🇰🇿 Kazakhstan | LRTC 1
