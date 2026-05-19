@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#🇰🇷 South Korea | Kaopu Cloud HK 1
+vmess://eyJhZGQiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJhaWQiOjAsImhvc3QiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJpZCI6IjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtS1IiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9#🇰🇷 South Korea | Oracle 1
