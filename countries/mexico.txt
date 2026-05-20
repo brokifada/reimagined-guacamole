@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vmess://eyJhZGQiOiIyMTYuMjM4Ljg2LjE1OCIsImlkIjoiOTBiZTIxNGQtMDQ4Yy00ZWEyLWE2MDItYjhlNGQ0ZTUxZTM2IiwibmV0IjoidGNwIiwicG9ydCI6MzQ0NjAsInBzIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtTVgtMTI3MzAwNzQiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🌍 Mexico | The Constant Company 1
+vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv186.towersflowerss.com:64534?type=ws&headerType=none&security=none&encryption=none&fp=randomized&path=%2F#🌍 Mexico | LeaseWeb Netherlands B.V. 1

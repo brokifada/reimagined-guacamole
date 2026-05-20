@@ -5,11 +5,11 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh6YgQm9iaVZQTiDigJQgQ2FuYWRhCuKaoSA4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#🇨🇦 Canada | Cloudflare, 1
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#🇨🇦 Canada | Cloudflare, 2
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880?type=ws&security=none&encryption=none&path=%2F%3Fed%3D2560Join---V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev#🇨🇦 Canada | Cloudflare, 3
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&security=tls&sni=daluan.eu.org&insecure=0&allowInsecure=0&type=ws&host=daluan.eu.org&path=%2F#🇨🇦 Canada | Cloudflare, 4
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#🇨🇦 Canada | Datacamp 1
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6MTgwMDAsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtQ0EtMTQwMzEwNTgiLCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=#🇨🇦 Canada | GLOBALTELEHOST Corp 1
-vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpbm5hLmNmZCIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==#🇨🇦 Canada | GLOBALTELEHOST Corp. 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.209:2053?allowInsecure=0&type=ws&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🇨🇦 Canada | HostPapa 1
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.31:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇨🇦 Canada | Cloudflare, 1
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#🇨🇦 Canada | Cloudflare, 2
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#🇨🇦 Canada | Cloudflare, 3
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#🇨🇦 Canada | Cloudflare, 4
+vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80/?type=ws&encryption=none&flow=&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev#🇨🇦 Canada | Cloudflare, 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990#🇨🇦 Canada | Datacamp 1
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2083?allowInsecure=1&encryption=none&host=cIAllO-EGB.pAGES.dev&path=%2F%25252F&security=tls&sni=cIAllO-EGB.pAGES.dev&type=ws#🇨🇦 Canada | Oracle 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.207:2053?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&allow_insecure=0#🇨🇦 Canada | OVH SAS 1

@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#🇮🇳 India | DigitalOcean, 1
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇳 India | Google 1
