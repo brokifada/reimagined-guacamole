@@ -5,13 +5,13 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTndzdmJrQnRzNWUyUUN6WVo3ZXR5MzlFR1hld1dGNktxUThYbmZqM0g5bmppTEgxZ3Z1TVFGamN1OXh3dUZhREVFNnlTTEo2aDFrdHpLaUVhdGlUNnVGV1E2R2lyMko@185.5.38.111:55988#🌍 Unknown | Unknown 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUtuOUE5WGJNVWJORzlpOHhNN1E0RUt3d2ZUNXBTb3BaRVFVTEEyZURyUWl6MkM1bk1RVDdmNXMzczVUbUJ4SkZZREI2RWdwMlhjaHRBNWFTV0RpUzlwQVNOZWJNR3Y@185.5.38.111:55988#🌍 Unknown | Unknown 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZ3h5ZVBkVDZEbkFMeHp0dFFSekdISlAyYml0QWVIbmJ1a2Y2YVRqQzl4ZFlreFFRMVlLNzFES0VtSk5jM0RZOENDcTF6NDZvQ3k2RGMxb1ppNlE0NTMyTnY4U3djeTc@185.5.38.111:55988#🌍 Unknown | Unknown 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUOVZQZXQxZkdoZGI0SlBtVVM2U1M1Uk5aN05TZ0J2UU5GNHJrb1FUZEZoR1d2bUdlZHN6ZmpCVGdlZm1yUVloamh5Qjg2N1A5UnZ5QlFtdEVqTFVlZ201Q055bUhDM2k=@185.5.38.111:55988#🌍 Unknown | Unknown 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVTlqdXJ0SjJ6SHBUZjVDZUo1TENBekdvU2M3S0NZbXp1TThxblF6QVhVSkE4amZyZVlXUEp0TGNIQzRkSlhTU0FRM21MaEpkYlZQRTFNUm9wMzdXa2dhbnNjUm5ZdjQ=@185.5.38.111:55988#🌍 Unknown | Unknown 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOW1RYlJKOHBzMXgzRW5XZ0FHUkNCR3JMU1A1c3hoeHBva2E2RGRDZTVjZmIxWUF2RUZaeEVYUENXanhzUWJTRGpGUEZxTThLTm5EUVlmVzFzMWZzbkN1SHNHYkN4R3I=@185.5.38.111:55988#🌍 Unknown | Unknown 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVzE5QWVnMVh3cWlYOUFXV3BCUUZWVXJ0WGtWcVVmeFRRdXBHY1BtWHRCdGFQMnRhNzJTWExKc1VKMnRTbTFxaGJMQkV4VVMxZTNSYVBBOEpUN0s0R0hSbnd3RmJHTm4=@185.5.38.111:55988#🌍 Unknown | Unknown 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q@185.5.38.111:55988#🌍 Unknown | Unknown 8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZ3h5ZVBkVDZEbkFMeHp0dFFSekdISlAyYml0QWVIbmJ1a2Y2YVRqQzl4ZFlreFFRMVlLNzFES0VtSk5jM0RZOENDcTF6NDZvQ3k2RGMxb1ppNlE0NTMyTnY4U3djeTc=@185.5.38.111:55988#🌍 Unknown | Unknown 9
-vless://2d0b3e78-f439-42c2-94b1-3001264c7971@mx2.drawnrisha.one:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NiZvpTYGynbH6RueETAVgkj2XfxoIPiNNoZtQfpQPj8&sid=caa3fed0f2af&sni=www.mozilla.org#🌍 Unknown | Unknown 10
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🌍 Unknown | Unknown 1
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=chat.deepseek.com&path=&host=#🌍 Unknown | Unknown 2
+vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f&spx=%2F&type=tcp&headerType=none#🌍 Unknown | Unknown 3
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🌍 Unknown | Unknown 4
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#🌍 Unknown | Unknown 5
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@188.214.36.155:989#🌍 Unknown | Unknown 6
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.91.55.79:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sun6-20.userapi.com&pbk=NeqzZ-mb_awh3RG7kQg094X0mWfSaudtSlmodTA_1BM&sid=edd304d1#🌍 Unknown | Unknown 7
+vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?type=raw&security=reality&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sid=e08a28&sni=yahoo.com#🌍 Unknown | Unknown 8
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@84.32.209.6:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&sni=vltch.mostserv.xyz#🌍 Unknown | Unknown 9
+vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?type=tcp&security=reality&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f&sni=yahoo.com&spx=/#🌍 Unknown | Unknown 10
