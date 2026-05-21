@@ -3,10 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSA1INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://00000000-0000-4000-8000-000000000000@109.166.38.112:47899?sni=adv2m5gy-wrhiahph85c.ovtc.qzz.io&type=ws&host=adv2m5gy-wrhiahph85c.ovtc.qzz.io&path=/@Marisa_kristifp=chrome&security=tls#🌍 Unknown | Unknown 1
-vless://231e88bb-3a39-4f26-848e-908f83070283@141.11.197.127:55269?security=reality&pbk=i1e3hqslC-n7XGp72HmDKU7ZuRk72pHbzujbNaYF-0s&sid=8f&fp=chrome&sni=vk.ru&type=tcp&headerType=none&host=vk.ru&path=%2F#🌍 Unknown | Unknown 2
-vless://e95d4ae7-7220-41e8-9ab5-65c171a41fe0@130.193.41.117:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🌍 Unknown | Unknown 3
-vless://e95d4ae7-7220-41e8-9ab5-65c171a41fe0@130.193.41.117:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🌍 Unknown | Unknown 4
-vless://7f3921d9-196c-4116-954f-228bc2e62449@31.130.153.79:443?type=tcp&headerType=none&security=reality&encryption=none&sni=kz.trustnet.sbs&pbk=m1Za2Yc6uySqcliTEysWGVuV9RILbOKqAyINFnmKSUc&flow=xtls-rprx-vision#🌍 Unknown | Unknown 5
+vless://145adeb9-279d-4c1d-a97c-93fe28ca071e@185.184.70.120:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=KUD5RiuqMRrhOoN6X2FcXpYZfoN_7z8BcviSBlyxOBw&sid=cbd8f4&sni=time.is&spx=/#🌍 Unknown | Unknown 1
+vless://57565f1e-d42a-49a0-a909-5fff0f07b146@91.107.188.182:443?encryption=none&security=none&type=tcp&headerType=none#🌍 Unknown | Unknown 2
+vless://4649d681-7f26-4959-a3f2-02eb8866230f@159.195.82.187:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&sid=2344766a270a6298&sni=yahoo.com#🌍 Unknown | Unknown 3
