@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://31efde70-83e2-47a6-9e96-b002d3993673@158.160.204.19:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#🌍 Indonesia | Cloud Innovation 1
-vless://5514092c-1427-49ea-9b2c-4239b6497793@158.160.204.19:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#🌍 Indonesia | Cloud Innovation 2
+vless://c016350c-60fa-40e9-8e1e-d6f63bcf8a60@51.250.45.194:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#🌍 Indonesia | Cloud Innovation 1
+vless://ee072301-4354-4163-afef-3b374e7e03e8@51.250.45.194:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#🌍 Indonesia | Cloud Innovation 2
+vless://eeeb1d51-3242-4786-a996-882214debdc1@51.250.45.194:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#🌍 Indonesia | Cloud Innovation 3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.30:8880?type=ws&security=none&host=vms.lifetime50.workers.dev&path=%2F#🌍 Indonesia | PUSATMEDIA 1
