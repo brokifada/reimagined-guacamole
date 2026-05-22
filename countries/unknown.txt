@@ -3,24 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAxOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://231e88bb-3a39-4f26-848e-908f83070283@141.11.197.127:55269?type=tcp&security=reality&fp=chrome&pbk=i1e3hqslC-n7XGp72HmDKU7ZuRk72pHbzujbNaYF-0s&sid=8f&sni=vk.ru&spx=/:#🌍 Unknown | Unknown 1
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&sni=eh.vk.com&headertype=none\,,#🌍 Unknown | Unknown 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@185.5.38.111:55988#🌍 Unknown | Unknown 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VFlQZ3luTEFRcjJ1SHI0d1VxdzNLWnpIOVV5Yjg5RXh2TlRLdldFbWltbnlnQXpqN0U2RkdmaDhWaWp4Tmg1c2NqVXRWNHMxd1M0QjRpaHZQbnVETENBSGpSVWJqTUM=@185.5.38.111:55988#🌍 Unknown | Unknown 4
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&sni=eh.vk.com&headertype=none\#🌍 Unknown | Unknown 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQ1lUYmJBeEpNV2R6TXhlUHBDTURqa3ViMTNDRHhVMkJxYUp6YjFadDNIQllHV3NmS3dOZ1FLaHpFYTd1QUp1dDc0Qmo0Zmhpd0o2Q0tGQnU0TWlRNDNRRWU5eEQydTc@185.5.38.111:55988#🌍 Unknown | Unknown 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTndzdmJrQnRzNWUyUUN6WVo3ZXR5MzlFR1hld1dGNktxUThYbmZqM0g5bmppTEgxZ3Z1TVFGamN1OXh3dUZhREVFNnlTTEo2aDFrdHpLaUVhdGlUNnVGV1E2R2lyMko=@185.5.38.111:55988#🌍 Unknown | Unknown 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OWgzWmRvU3Y1QmkxNVN4S2MxMWV5UGFFcm5hYzJaQkg5U281ekpKa1EzUzdYcUZMNHdnbUFMdkFGb1dOdG15aVJBQXRtWkxwS3BqaENBTUhyZEpWSGN0eENEb1RWSlE=@185.5.38.111:55988#🌍 Unknown | Unknown 8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2Z0hUNEFGMjUzWUxiY0doOFdHMWpNUlg0U0ZzZ1l4c3p3cG9jZGJlYUNVb2FCRHdOb0M4U3h0YWlTSGgxTW01MWNGaGhyTXBmcmd5eUZqNzFrYkU0NFZuUlBjZ3hQQWc=@185.5.38.111:55988#🌍 Unknown | Unknown 9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZ3h5ZVBkVDZEbkFMeHp0dFFSekdISlAyYml0QWVIbmJ1a2Y2YVRqQzl4ZFlreFFRMVlLNzFES0VtSk5jM0RZOENDcTF6NDZvQ3k2RGMxb1ppNlE0NTMyTnY4U3djeTc=@185.5.38.111:55988#🌍 Unknown | Unknown 10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q3BTSk1Za0ZRZXBHNG80UU5LeW83cW90cFJFSnp3UzFiYmt5SE5hdXBocktnWVVoVTNCTEUxbmJBZVRxWVpoOHJNOUtSZXhuWU5nRVdCbXRaSDFyanhkMmJpRHFYSk0@185.5.38.111:55988#🌍 Unknown | Unknown 11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2M2ejhhUjJrVEw1aGkybUFMZUhWTnpiYk1WZmhTUnZQSlh1OHlvWWpZVHNkb29WN0FackxLTDdIeHlicjlxaEZEM0FCOUs0MzlXWXByUU5vdllLM1c3ZVlUMkw1REY=@185.5.38.111:55988#🌍 Unknown | Unknown 12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZ3h5ZVBkVDZEbkFMeHp0dFFSekdISlAyYml0QWVIbmJ1a2Y2YVRqQzl4ZFlreFFRMVlLNzFES0VtSk5jM0RZOENDcTF6NDZvQ3k2RGMxb1ppNlE0NTMyTnY4U3djeTc@185.5.38.111:55988#🌍 Unknown | Unknown 13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM1VueU4zaHlZNEV2UkVQOGttcG9aQjNFY255c3U2UlRqdzlqSmNXb0tSckU2MUo3UGV3ZXNFRXJSV0pvVEF4OHJMZnNnS3h6SDFkUGtkWVJvck1pSHlRemt3OW5CbUY=@185.5.38.111:55988#🌍 Unknown | Unknown 14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOG1lUWRWcG1hN0prQ3RzRVVXY1M2Z2llS21GWGlhd0N3Z0ZNY0pxQ1hNcVMyZDlXckdwdWN5bk5haXk2bVVhc2Ria01pUlZESjVCaFNyckF1Z0N1Q0puWHViUkJIZXo@185.5.38.111:55988#🌍 Unknown | Unknown 15
-vless://d1cf1e53-98dd-4fb4-a7bf-8a439f06df12@185.5.38.111:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NiZvpTYGynbH6RueETAVgkj2XfxoIPiNNoZtQfpQPj8&sid=5506315e3dbb&sni=www.hollywoodreporter.com#🌍 Unknown | Unknown 16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5bmtVZ1NIbjRSbmVzeDZCUE1LWkpHY0JEYTZtWFZQSktMYTllNDh6RjhOVkMxNmhYZWZKU0s1VmROSDZRdjdVUzJDZ1I3WVh0VXNVVkZOajhSdk1YQkJmSDlnVndMbnc=@185.5.38.111:55988#🌍 Unknown | Unknown 17
-vless://2d0b3e78-f439-42c2-94b1-3001264c7971@mx2.drawnrisha.one:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NiZvpTYGynbH6RueETAVgkj2XfxoIPiNNoZtQfpQPj8&sid=caa3fed0f2af&sni=www.mozilla.org#🌍 Unknown | Unknown 18
-vless://43274ef7-e126-4c8f-8989-5cdfecd33e20@ee.skytunnel.pw:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=qq&security=reality&pbk=CNkAFTW9giSVXiW68A9OqlSKy9HJ0pLmgEL4X4PzrHQ&sid=#🌍 Unknown | Unknown 19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OWgzWmRvU3Y1QmkxNVN4S2MxMWV5UGFFcm5hYzJaQkg5U281ekpKa1EzUzdYcUZMNHdnbUFMdkFGb1dOdG15aVJBQXRtWkxwS3BqaENBTUhyZEpWSGN0eENEb1RWSlE=@185.5.38.111:55988#🌍 Unknown | Unknown 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NHdtTW9NUGttcldoZ1NnM3FvV1RUTGR5RFhUb1F5TDY1NHBNZVFxOTF1TXBXWTJoVVp4ZzVOUlFmS2ZpVkdYdnlSbnQ5ZmQ4b1Y1UldhQ2ZDajVZdTdWRkdyaGtpeEU=@185.5.38.111:55988#🌍 Unknown | Unknown 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRlNIVHFoMTIxZ3luNjhOWThRRGgzZjVMNnNvVHRSSnlkUGtOaDUxTXRmZmZNeEd0cHhTRVRNQVhETWE4VDNDMTEyVm9uMVU2Q3NtTnlOUVpyOVE5eEdQdnJvVU5pRTc=@185.5.38.111:55988#🌍 Unknown | Unknown 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUtuOUE5WGJNVWJORzlpOHhNN1E0RUt3d2ZUNXBTb3BaRVFVTEEyZURyUWl6MkM1bk1RVDdmNXMzczVUbUJ4SkZZREI2RWdwMlhjaHRBNWFTV0RpUzlwQVNOZWJNR3Y=@185.5.38.111:55988#🌍 Unknown | Unknown 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQ1lUYmJBeEpNV2R6TXhlUHBDTURqa3ViMTNDRHhVMkJxYUp6YjFadDNIQllHV3NmS3dOZ1FLaHpFYTd1QUp1dDc0Qmo0Zmhpd0o2Q0tGQnU0TWlRNDNRRWU5eEQydTc=@185.5.38.111:55988#🌍 Unknown | Unknown 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV0piamF2RkhRdjd2Z0toeUhFTWc3b1lUTHpROThHcVRUVTdMbVcyWnVDSHk5ZVpMQmtvamNDeWdCMUd5ZGlXWW1EaXdoR0h1bjNYaTlEbTRzOUhvOVFTbkNNZUhhUEg=@185.5.38.111:55988#🌍 Unknown | Unknown 6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUtuOUE5WGJNVWJORzlpOHhNN1E0RUt3d2ZUNXBTb3BaRVFVTEEyZURyUWl6MkM1bk1RVDdmNXMzczVUbUJ4SkZZREI2RWdwMlhjaHRBNWFTV0RpUzlwQVNOZWJNR3Y@185.5.38.111:55988#🌍 Unknown | Unknown 7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3WDR2MmU3MTRYSGt1aWNlVWhjOWdpd0djdFVRNmpCMzVVbjZ5Z05SNGhReWEzVmZ3MU1lajQ4aUd5cDM5b1BlZFcxdDdNdUN0cVNLcXFabzhtc3RKYWFCYndXbnd0NE4=@185.5.38.111:55988#🌍 Unknown | Unknown 8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOHFpeXExTDR2S3NUZWdjZ0RkYXNUVW5iQ3Y0QjY2Y3g3dVdKZkh0MjRUaTNyeTlmZ2dtOWM0Smc0aXpqRUNmV1dSbWNOZm9HQ0FSRHk5Q2FDVm11Wmk4b3ZvUERMQ0g=@185.5.38.111:55988#🌍 Unknown | Unknown 9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR3hHc0RwNmg5Wk4yVXZIck1NS3hnSnF3clg1R1VKNjVkUVp1NkppOVZFNWs3a1RRdTVUMUZTRGtjaTl4Z1Azd3hiZTI1bVJ4VUYzM0Jza2NiSHd0NnQ4VTJoVFl0VjQ=@185.5.38.111:55988#🌍 Unknown | Unknown 10
+vless://2d0b3e78-f439-42c2-94b1-3001264c7971@mx2.drawnrisha.one:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NiZvpTYGynbH6RueETAVgkj2XfxoIPiNNoZtQfpQPj8&sid=caa3fed0f2af&sni=www.mozilla.org#🌍 Unknown | Unknown 11

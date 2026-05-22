@@ -5,9 +5,9 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://43274ef7-e126-4c8f-8989-5cdfecd33e20@kz.skytunnel.pw:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&sid=#🇰🇿 Kazakhstan | Newserverlife 1
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?&security=false&fp=chrome&type=ws&headerType=none&host=srv179.towersflowerss.com&path=%2F#🇰🇿 Kazakhstan | PS Internet Company LLP 1
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?security=none&type=ws&path=%2F&host=srv179.towersflowerss.com&fp=randomized&encryption=none#🇰🇿 Kazakhstan | PS Internet Company LLP 2
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?encryption=none&type=ws&path=%2F&security=none#🇰🇿 Kazakhstan | PS Internet Company LLP 3
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?type=ws&path=%2F&sni=srv179.towersflowerss.com&fp=randomized#🇰🇿 Kazakhstan | PS Internet Company LLP 4
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?type=ws&security=false&path=%2F&host=srv179.towersflowerss.com&sni=srv179.towersflowerss.com&fp=chrome#🇰🇿 Kazakhstan | PS Internet Company LLP 5
+vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?type=ws&security=false&path=%2F&host=srv179.towersflowerss.com&sni=srv179.towersflowerss.com&fp=chrome#🇰🇿 Kazakhstan | PS Internet Company LLP 1
+vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?&security=false&fp=chrome&type=ws&headerType=none&host=srv179.towersflowerss.com&path=%2F#🇰🇿 Kazakhstan | PS Internet Company LLP 2
+vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?security=none&type=ws&path=%2F&host=srv179.towersflowerss.com&fp=randomized&encryption=none#🇰🇿 Kazakhstan | PS Internet Company LLP 3
+vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?encryption=none&type=ws&path=%2F&security=none#🇰🇿 Kazakhstan | PS Internet Company LLP 4
+vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?type=ws&path=%2F&sni=srv179.towersflowerss.com&fp=randomized#🇰🇿 Kazakhstan | PS Internet Company LLP 5
+vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?path=%2F&security=&encryption=none&fp=randomized&type=ws#🇰🇿 Kazakhstan | PS Internet Company LLP 6
