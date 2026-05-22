@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HufCfh7wgQm9iaVZQTiDigJQgVGFpd2FuCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://db88683a-b4d2-482c-8925-70c4d4927172@download.riferoser.icu:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=c3eda72ab57f&sni=www.hollywoodreporter.com#🇹🇼 Taiwan | SAKURA LTD. 1
+vless://29621ca8-099f-4109-821e-a8c8aee894b6@download.riferoser.icu:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=960e1c59701f&sni=www.techradar.com#🇹🇼 Taiwan | SAKURA LTD. 1
