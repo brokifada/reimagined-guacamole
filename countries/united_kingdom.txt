@@ -5,10 +5,10 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6cgQm9iaVZQTiDigJQgVW5pdGVkIEtpbmdkb20K4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&type=raw&headerType=none&security=tls&sni=uk1.fromblancwithlove.com#🇬🇧 United Kingdom | DataCamp 1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧 United Kingdom | DataCamp 2
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?type=tcp&security=tls&sni=uk1.fromblancwithlove.com#🇬🇧 United Kingdom | DataCamp 3
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧 United Kingdom | DataCamp 4
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=tcp&security=tls&sni=uk1.fromblancwithlove.com#🇬🇧 United Kingdom | DataCamp 5
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?type=tcp&security=tls&sni=uk1.fromblancwithlove.com#🇬🇧 United Kingdom | DataCamp 1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?type=tcp&security=tls&sni=uk1.fromblancwithlove.com&host=uk1.fromblancwithlove.com#🇬🇧 United Kingdom | DataCamp 2
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧 United Kingdom | DataCamp 3
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧 United Kingdom | DataCamp 4
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧 United Kingdom | DataCamp 5
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&type=tcp&security=tls#🇬🇧 United Kingdom | DataCamp 6
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?type=tcp&security=tls&fp=chrome&sni=uk1.fromblancwithlove.com#🇬🇧 United Kingdom | DataCamp 7
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?security=tls&encryption=none&headerType=none&type=tcp#🇬🇧 United Kingdom | DataCamp 7
