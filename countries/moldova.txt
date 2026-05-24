@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c0430eea-066a-4a97-ac7f-77c4d10965a5@138.124.123.220:443?type=tcp&security=reality&fp=chrome&pbk=Saj8JGZ0VDNJNYKYgoaB_yfbww0uKUbn_FjwOLBIU3c&sid=51f0&sni=yahoo.com#🇲🇩 Moldova | OOO FREEnet Group 1
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@ru-dch.dataload-cdn.ru:8443?type=tcp&security=reality&pbk=RpB5c3RXN12fp9odK5E47XDQT3nf7AY0TtVbXU9vUS8&fp=chrome&sni=www.vk.com&sid=dfc739&flow=xtls-rprx-vision#🇲🇩 Moldova | IWIHOST 1
