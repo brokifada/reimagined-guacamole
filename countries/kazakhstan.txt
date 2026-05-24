@@ -3,13 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?path=%2F&security=&encryption=none&fp=randomized&type=ws#🇰🇿 Kazakhstan | PS Internet Company LLP 1
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?security=none&type=ws&path=%2F&host=srv179.towersflowerss.com&sni=srv179.towersflowerss.com&fp=randomized#🇰🇿 Kazakhstan | PS Internet Company LLP 2
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?type=ws&headerType=none&security=none&encryption=none&fp=chrome&path=%2F&host=srv179.towersflowerss.com#🇰🇿 Kazakhstan | PS Internet Company LLP 3
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?encryption=none&type=ws&path=%2F&security=none#🇰🇿 Kazakhstan | PS Internet Company LLP 4
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?&security=false&fp=chrome&type=ws&headerType=none&host=srv179.towersflowerss.com&path=%2F#🇰🇿 Kazakhstan | PS Internet Company LLP 5
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?security=none&type=ws&path=%2F&host=srv179.towersflowerss.com&fp=randomized&encryption=none#🇰🇿 Kazakhstan | PS Internet Company LLP 6
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?security=none&type=ws&path=%2F&host=srv179.towersflowerss.com&encryption=none#🇰🇿 Kazakhstan | PS Internet Company LLP 7
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv179.towersflowerss.com:443?type=ws&security=false&path=%2F&host=srv179.towersflowerss.com&sni=srv179.towersflowerss.com&fp=chrome#🇰🇿 Kazakhstan | PS Internet Company LLP 8
+vless://10d614db-b261-49f3-8be2-6641f6aee244@212.192.220.198:50545?security=reality&type=raw&flow=xtls-rprx-vision&sni=kinopoisk.ru&fp=qq&pbk=xIDkcZPGFAXteOCua74qjQFgtNMycgagBkhZSvO010g&sid=defc5a2a37ad6daf#🇰🇿 Kazakhstan | JSC "TIMEWEB" 1
+vless://10d614db-b261-49f3-8be2-6641f6aee244@212.192.220.198:50545?type=tcp&headerType=none&security=reality&encryption=none&sni=kinopoisk.ru&fp=qq&pbk=xIDkcZPGFAXteOCua74qjQFgtNMycgagBkhZSvO010g&sid=defc5a2a37ad6daf&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | JSC "TIMEWEB" 2
