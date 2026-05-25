@@ -3,10 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hr/Cfh7UgQm9iaVZQTiDigJQgSmFwYW4K4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hr/Cfh7UgQm9iaVZQTiDigJQgSmFwYW4K4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Japan | Datacamp 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#🇯🇵 Japan | Datacamp 1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Japan | Datacamp 2
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?type=tcp&security=tls&sni=jp1.fromblancwithlove.com#🇯🇵 Japan | Datacamp 3
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#🇯🇵 Japan | Datacamp 4
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Japan | Datacamp 5
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 Japan | Datacamp 3
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Japan | Datacamp 4
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Japan | Datacamp 5
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?type=tcp&security=tls&sni=jp1.fromblancwithlove.com#🇯🇵 Japan | Datacamp 6
