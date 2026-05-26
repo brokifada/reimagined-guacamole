@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuvCfh7ggQm9iaVZQTiDigJQgVW5pdGVkIFN0YXRlcwrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://8f0c1a18-be77-49de-9aca-8b649efb8710@2.26.0.122:443?encryption=none&fp=&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&security=reality&sid=01&sni=google.com&type=grpc#🇺🇸 United States | Ace Data Centers II 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#🇺🇸 United States | Datacamp 1
-vless://84c0e8e7-c497-45c2-9c13-777a2fa9e6f7@186.246.35.73:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=queuev4.vk.com&fp=chrome&security=reality&pbk=LszM5vYxUf7XqS_FRmhhJHcIOnqAMnOKcQ7j-QE0sWQ&sid=6ba85279e30d44c2#🇺🇸 United States | Globenet Cabos Submari... 1
-vless://84c0e8e7-c497-45c2-9c13-777a2fa9e6f7@186.246.35.74:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=queuev4.vk.com&fp=chrome&security=reality&pbk=LszM5vYxUf7XqS_FRmhhJHcIOnqAMnOKcQ7j-QE0sWQ&sid=6ba85279e30d44c2#🇺🇸 United States | Globenet Cabos Submari... 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸 United States | Datacamp 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#🇺🇸 United States | Datacamp 2
+vless://84c0e8e7-c497-45c2-9c13-777a2fa9e6f7@186.246.35.74:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=queuev4.vk.com&fp=chrome&security=reality&pbk=LszM5vYxUf7XqS_FRmhhJHcIOnqAMnOKcQ7j-QE0sWQ&sid=6ba85279e30d44c2#🇺🇸 United States | Globenet Cabos Submari... 1
+vless://84c0e8e7-c497-45c2-9c13-777a2fa9e6f7@186.246.35.73:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=queuev4.vk.com&fp=chrome&security=reality&pbk=LszM5vYxUf7XqS_FRmhhJHcIOnqAMnOKcQ7j-QE0sWQ&sid=6ba85279e30d44c2#🇺🇸 United States | Globenet Cabos Submari... 2

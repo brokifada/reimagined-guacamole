@@ -3,8 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh6ogQm9iaVZQTiDigJQgR2VybWFueQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh6ogQm9iaVZQTiDigJQgR2VybWFueQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://443be09e-896a-4257-b60e-143c68f713f9@3.70.72.166:57942?type=tcp&security=reality&pbk=Sfq7XvYQcbDod2_WbncXkps0GCc3smquLk8Rtudx_h4&fp=firefox&sni=yahoo.com&sid=4f4e67ca&spx=/&flow=xtls-rprx-vision#🇩🇪 Germany | Amazon Technologies 1
-vless://acb005a9-29af-437f-ba56-411a8dc9eb56@3.75.194.19:59403?type=tcp&security=reality&pbk=R87O7j_VmzDlIMXOd7Z6MOpp2wxxw4VZFxOmTAmugVQ&fp=firefox&sni=yahoo.com&sid=55a20409400e71&spx=/&flow=xtls-rprx-vision#🇩🇪 Germany | Amazon Technologies 2
+vless://acb005a9-29af-437f-ba56-411a8dc9eb56@3.75.194.19:59403?type=tcp&security=reality&pbk=R87O7j_VmzDlIMXOd7Z6MOpp2wxxw4VZFxOmTAmugVQ&fp=firefox&sni=yahoo.com&sid=55a20409400e71&spx=/&flow=xtls-rprx-vision#🇩🇪 Germany | Amazon Technologies 1
+vless://443be09e-896a-4257-b60e-143c68f713f9@3.70.72.166:57942?type=tcp&security=reality&pbk=Sfq7XvYQcbDod2_WbncXkps0GCc3smquLk8Rtudx_h4&fp=firefox&sni=yahoo.com&sid=4f4e67ca&spx=/&flow=xtls-rprx-vision#🇩🇪 Germany | Amazon Technologies 2
 vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443?flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&security=reality&sid=92d0c4089b6c1da3&sni=io.ozone.ru&type=tcp#🇩🇪 Germany | Netaxis Group LTD 1
+vless://ac195240-6005-412b-9829-1e56e5d5c52a@ddfs.ummapeople.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NPt7NbrWjFl5Uq8xIuolxDDJFTzj5x5jwmiSTRPuuD8&sni=ddfs.ummapeople.online#🇩🇪 Germany | Podaon SIA 1
+vless://ac195240-6005-412b-9829-1e56e5d5c52a@ddfs.ummapeople.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ddfs.ummapeople.online&fp=chrome&pbk=NPt7NbrWjFl5Uq8xIuolxDDJFTzj5x5jwmiSTRPuuD8&flow=xtls-rprx-vision#🇩🇪 Germany | Podaon SIA 2
+vless://579d8b84-5016-4ae8-bb84-f99bd9a6de99@78.17.85.226:443?type=tcp&security=reality&pbk=MylliFqQZZ0ShMq1NfcfJYKhuvWtKA744y0hXPs-A0k&fp=chrome&sni=www.googletagmanager.com&sid=3e79cd3484f19033&flow=xtls-rprx-vision#🇩🇪 Germany | RCS Technologies FZE 1
