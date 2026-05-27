@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇳 India | Google 1
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=tttyder.wsone.icu#🇮🇳 India | Google 2
-trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇳 India | Google 3
-trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=tttyder.wsone.icu#🇮🇳 India | Google 4
+vmess://eyJ2IjpudWxsLCJwcyI6IjU5ODYuIFZNRVNTIHwgU05JOiAxNzIuMjMyLjEwMy4xODYgfCBURzogQHdscnVzdGciLCJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ==#🇮🇳 India | Akamai Technologies, 1
+vmess://eyJ2IjpudWxsLCJwcyI6IjU5NzUuIFZNRVNTIHwgU05JOiAxNzIuMjMyLjEwMy4xODYgfCBURzogQHdscnVzdGciLCJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ==#🇮🇳 India | Akamai Technologies, 2
+vmess://eyJ2IjogbnVsbCwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJhZGQiOiAiMTcyLjIzMi4xMDMuMTg2IiwgInBvcnQiOiAyMjMyNCwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICIiLCAiYWxwbiI6IG51bGwsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiBudWxsLCAiZnAiOiAiY2hyb21lIn0=#🇮🇳 India | Akamai Technologies, 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#🇮🇳 India | DIGITALOCEAN 1
