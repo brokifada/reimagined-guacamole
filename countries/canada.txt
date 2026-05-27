@@ -3,20 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh6YgQm9iaVZQTiDigJQgQ2FuYWRhCuKaoSAxNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh6YgQm9iaVZQTiDigJQgQ2FuYWRhCuKaoSA3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81@35.182.252.92:51072?type=tcp&encryption=none&security=reality&pbk=5KJ1tLErCUEfqxc3IsnY_49p_gWe0mPB8eXJ3MLucgU&fp=firefox&sni=www.sony.com&sid=0675732ab101&spx=/&flow=xtls-rprx-vision#🇨🇦 Canada | Amazon Technologies 1
-vless://57d94cf7-ca36-4c2a-bec5-90cf38588cda@15.223.121.250:41087?type=tcp&encryption=none&security=reality&pbk=aoGL5vNnsEuKoBXQFXyHTxjvcdAn3SxT4qUgV6aJxnw&fp=firefox&sni=www.tesla.com&sid=190d259bbd40d4c3&spx=/&flow=xtls-rprx-vision#🇨🇦 Canada | Amazon Technologies 2
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.242.61:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇨🇦 Canada | Cloudflare, 1
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@8.6.112.6:443?security=tls&sni=zh.hollowspot.ir&type=ws&host=zh.hollowspot.ir&allowInsecure=0#🇨🇦 Canada | Cloudflare, 2
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@188.114.98.0:2096?encryption=none&security=tls&sni=daluan.eu.org&insecure=0&allowInsecure=0&type=ws&host=daluan.eu.org&path=%2F#🇨🇦 Canada | Cloudflare, 3
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.64.155.209:443?path=%2Fsocks5%3A%2F%2F128.140.46.169%3A13482&security=tls&encryption=none&insecure=1&host=harmony-501.pages.dev&fp=chrome&type=ws&allowInsecure=1&sni=harmony-501.pages.dev#🇨🇦 Canada | Cloudflare, 4
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?security=tls&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=%2Fazadnet-1ml.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#🇨🇦 Canada | Cloudflare, 5
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@www.visasoutheasteurope.com:2096?encryption=none&security=tls&sni=daluan.eu.org&fp=randomized&type=ws&host=daluan.eu.org&path=%2F%3Fed%3D2560#🇨🇦 Canada | Cloudflare, 6
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@xizi-bo8.pages.dev:443?type=ws&security=tls&sni=&host=xIZI-BO8.PagES.dEv&path=%2F%25252F#🇨🇦 Canada | Cloudflare, 7
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@saiwai6.pages.dev:443?type=ws&security=tls&sni=&host=SaiWaI6.pAGEs.DEV&path=%2F%25252F#🇨🇦 Canada | Cloudflare, 8
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@usa.visa.com:443?encryption=none&security=tls&sni=daluan.eu.org&insecure=0&allowInsecure=0&type=ws&host=daluan.eu.org&path=%2F#🇨🇦 Canada | Cloudflare, 9
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F#🇨🇦 Canada | Cloudflare, 10
+vless://57d94cf7-ca36-4c2a-bec5-90cf38588cda@15.223.121.250:41087?type=tcp&encryption=none&security=reality&pbk=aoGL5vNnsEuKoBXQFXyHTxjvcdAn3SxT4qUgV6aJxnw&fp=firefox&sni=www.tesla.com&sid=190d259bbd40d4c3&spx=/&flow=xtls-rprx-vision#🇨🇦 Canada | Amazon Technologies 1
+vless://b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81@35.182.252.92:51072?type=tcp&encryption=none&security=reality&pbk=5KJ1tLErCUEfqxc3IsnY_49p_gWe0mPB8eXJ3MLucgU&fp=firefox&sni=www.sony.com&sid=0675732ab101&spx=/&flow=xtls-rprx-vision#🇨🇦 Canada | Amazon Technologies 2
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Canada | Datacamp 1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#🇨🇦 Canada | Datacamp 2
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#🇨🇦 Canada | DigitalOcean, 1
+vless://f4d74570-934c-44a2-9639-73598dde77de@ca.nodes.rocketnetwork.ru:443?type=tcp&security=reality&sni=ca.nodes.rocketnetwork.ru&fp=chrome&flow=xtls-rprx-vision&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇨🇦 Canada | Global Connectivity So... 1
+vless://f4d74570-934c-44a2-9639-73598dde77de@ca.nodes.rocketnetwork.ru:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ca.nodes.rocketnetwork.ru&sid=428ef87fd47a3a32#🇨🇦 Canada | Global Connectivity So... 2

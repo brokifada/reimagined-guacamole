@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgMTUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&sid=ce9f790791426d83&spx=%2F&flow=xtls-rprx-vision#🇫🇮 Finland | SERV.HOST GROUP LTD 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮 Finland | Baykov Ilya Sergeevich 1
+vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&security=reality&sid=88acba&sni=cloudflare.com&type=tcp#🇫🇮 Finland | CGI GLOBAL LIMITED 1
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@203.18.98.89:8443?type=grpc&headerType=none&security=reality&encryption=none&sni=eh.vk.com&fp=chrome&pbk=NDe_UBPG-k6TqnheVYUxNxlXtmgy975eDsdqK35sJhA&sid=6ba85179e30d4fc2&serviceName=xyz#🇫🇮 Finland | CGI GLOBAL LIMITED 2
+vless://696915f2-5ad4-452b-987c-d83d29d0503a@85.192.49.174:443?encryption=none&type=grpc&serviceName=xyz&security=reality&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sni=fi.moktana.app&sid=dfe3b09582689d40#🇫🇮 Finland | H2nexus LTD 1
+vless://10f58ab9-cafd-47b4-a6f9-fc66d8d79815@204.168.183.56:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sw.crunch-crunch.com&fp=firefox&security=reality&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#🇫🇮 Finland | Hetzner Online GmbH 1
+vless://11697f33-7b99-45ad-ba9d-7e6b3574e916@144.31.109.243:50574?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=CVJiOkrMyWN6mIX85kT5xqTlzOtW0_d08eoBIHw8Iyg&sni=kinopoisk.ru&sid=cbae7fd41d21563e#🇫🇮 Finland | SERV.HOST GROUP LTD 1
+vless://11697f33-7b99-45ad-ba9d-7e6b3574e916@144.31.109.243:50574?flow=xtls-rprx-vision&fp=qq&pbk=CVJiOkrMyWN6mIX85kT5xqTlzOtW0_d08eoBIHw8Iyg&security=reality&sid=cbae7fd41d21563e&sni=kinopoisk.ru&type=tcp#🇫🇮 Finland | SERV.HOST GROUP LTD 2
+vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&sid=ce9f790791426d83&spx=%2F&flow=xtls-rprx-vision#🇫🇮 Finland | SERV.HOST GROUP LTD 3
+vless://ea760105-1dce-4f5c-8f5a-233e96324155@45.15.152.167:443?type=tcp&security=reality&fp=chrome&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA&sid=4b1b&sni=yahoo.com#🇫🇮 Finland | WorkTitans B.V. 1
+vless://ea760105-1dce-4f5c-8f5a-233e96324155@45.15.152.167:443?type=tcp&security=reality&fp=chrome&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA&sid=4b1b&sni=yahoo.com&spx=/#🇫🇮 Finland | WorkTitans B.V. 2
+vless://180a65ce-f309-47ec-b8ee-2f7a9a8a0fe2@45.15.152.167:443?type=tcp&security=reality&fp=chrome&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA&sid=4b1b&sni=yahoo.com&spx=/#🇫🇮 Finland | WorkTitans B.V. 3
+vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?type=tcp&encryption=none&security=none#🇫🇮 Finland | xorek.cloud Internatio... 1
+vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&security=none#🇫🇮 Finland | xorek.cloud Internatio... 2
+vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?encryption=none&type=raw&headerType=none&security=none#🇫🇮 Finland | xorek.cloud Internatio... 3
+vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?security=none&encryption=none&fm={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=@ProxyVPN11&headerType=none&type=tcp#🇫🇮 Finland | xorek.cloud Internatio... 4
