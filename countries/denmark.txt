@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://44752a9d-08d9-448c-ad5b-d8da2b77f283@dk01.kubservice.icu:443?security=reality&encryption=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=dk01.kubservice.icu#🇩🇰 Denmark | Global Connectivity So... 1
+vless://44752a9d-08d9-448c-ad5b-d8da2b77f283@dk01.kubservice.icu:443?security=reality&encryption=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dk01.kubservice.icu#🇩🇰 Denmark | Global Connectivity So... 1

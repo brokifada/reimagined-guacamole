@@ -3,13 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprV3cwbTJrVnpESm9MbjNuOWRmWWVt@194.156.103.148:443#🇦🇲 Armenia | Global Connectivity So... 1
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@69.84.182.62:443?path=/2.56.204.183:443&security=tls&encryption=none&insecure=0&host=afrcloud2.c01.kr&type=ws&allowInsecure=0&sni=afrcloud2.c01.kr#🇦🇲 Armenia | Proitlab 1
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@69.84.182.62:443?encryption=none&type=ws&security=tls&path=/2.56.204.183:443&host=afrcloud2.c01.kr&sni=afrcloud2.c01.kr&allowInsecure=1#🇦🇲 Armenia | Proitlab 2
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@69.84.182.62:443?path=/2.56.204.183:443&security=tls&encryption=none&insecure=1&host=afrcloud2.c01.kr&type=ws&allowInsecure=1&sni=afrcloud2.c01.kr#🇦🇲 Armenia | Proitlab 3
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@208.103.161.12:443?encryption=none&type=ws&security=tls&path=/2.56.206.114:8443&host=afrcloud2.c01.kr&sni=afrcloud2.c01.kr&allowInsecure=1#🇦🇲 Armenia | Proitlab 4
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@208.103.161.11:443?encryption=none&type=ws&security=tls&path=/139.45.214.126:443&host=afrcloud2.c01.kr&sni=afrcloud2.c01.kr&allowInsecure=1#🇦🇲 Armenia | RETN AM  Liability Com... 1
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@208.103.161.11:443?path=/139.45.214.126:443&security=tls&encryption=none&insecure=1&host=afrcloud2.c01.kr&type=ws&allowInsecure=1&sni=afrcloud2.c01.kr#🇦🇲 Armenia | RETN AM  Liability Com... 2
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@69.84.182.62:443?path=/2.56.204.183:443&security=tls&encryption=none&host=afrcloud2.c01.kr&type=ws&sni=afrcloud2.c01.kr#🇦🇲 Armenia | RETN AM  Liability Com... 3
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&sni=yahoo.com#🇦🇲 Armenia | 365.partners INC 1
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🌐 [AS198178] 365.partners INC #🇦🇲 Armenia | 365.partners INC 2
