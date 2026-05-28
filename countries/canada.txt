@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh6YgQm9iaVZQTiDigJQgQ2FuYWRhCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#🇨🇦 Canada | Datacamp 1
+vless://57d94cf7-ca36-4c2a-bec5-90cf38588cda@15.223.121.250:41087?encryption=none&flow=xtls-rprx-vision&fp=&pbk=aoGL5vNnsEuKoBXQFXyHTxjvcdAn3SxT4qUgV6aJxnw&security=reality&sid=190d259bbd40d4c3&sni=www.tesla.com&type=tcp#🇨🇦 Canada | Amazon Technologies 1
