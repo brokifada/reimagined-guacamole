@@ -3,20 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7AgQm9iaVZQTiDigJQgSG9uZyBLb25nCuKaoSAxNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7AgQm9iaVZQTiDigJQgSG9uZyBLb25nCuKaoSA4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&sni=www.icloud.com&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#🇭🇰 Hong Kong | Akile LTD 1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=hkg1.fromblancwithlove.com&alpn=h2&allowInsecure=1#🇭🇰 Hong Kong | DataCamp 1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?type=tcp&security=tls&sni=hkg1.fromblancwithlove.com&path=/#🇭🇰 Hong Kong | DataCamp 1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?security=tls&sni=hkg1.fromblancwithlove.com&allow_insecure=0#🇭🇰 Hong Kong | DataCamp 2
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#🇭🇰 Hong Kong | DataCamp 3
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=hkg1.fromblancwithlove.com#🇭🇰 Hong Kong | DataCamp 4
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?type=tcp&security=tls&sni=hkg1.fromblancwithlove.com&alpn=h2#🇭🇰 Hong Kong | DataCamp 5
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?type=tcp&security=tls&sni=hkg1.fromblancwithlove.com&path=/#🇭🇰 Hong Kong | DataCamp 6
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&type=tcp&security=tls&sni=hkg1.fromblancwithlove.com&alpn=h2#🇭🇰 Hong Kong | DataCamp 7
-vmess://eyJhZGQiOiJ5ZDMuYWluaXZwLmNvbSIsImFpZCI6MCwiYWxsb3dJbnNlY3VyZSI6IjAiLCJhbGxvd19pbnNlY3VyZSI6IjAiLCJob3N0IjoieWQzLmFpbml2cC5jb20iLCJpZCI6IjkyMDRhZmNkLTAyNmUtNzgxZi0xYWJjLWMwM2VmYWJkMTM0NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvcmF5IiwicG9ydCI6MzM0MDcsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ISyIsInNlY3VyaXR5IjoiYXV0byIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇭🇰 Hong Kong | DMIT Cloud Services 1
-vmess://eyJhZGQiOiIyMTMuMTU2LjE0MS41MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJwcyI6IjQ2NTcuIFZNRVNTIHwgU05JOiAyMTMuMTU2LjE0MS41MiB8IFRHOiBAd2xydXN0ZyIsInNjeSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇭🇰 Hong Kong | G-Core Labs S.A. 1
-vmess://eyJhZGQiOiIyMTMuMTU2LjE0MS41MiIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6bnVsbCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuYW1lIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhLIDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoyMjMyNCwicHMiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjBbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1ISy0xNDA1OTI1OSIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGx9#🇭🇰 Hong Kong | G-Core Labs S.A. 2
-vless://2399fe0a-b359-40a9-a3f0-b70c3c177a01@104.21.224.5:80?encryption=none&host=aa.beijng.dpdns.org&path=/&security=none&type=ws#🇭🇰 Hong Kong | PCCW IMS 1
-vless://a4caef32-090f-4f17-b7fa-2808f205620d@64.49.46.225:57502?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=IOAu39FSiRk_VX4sfzCVZorWhUY0ikftPdHqcmNoY1c&sid=ebfeeffb94d5bd5d&sni=www.tesla.com#🇭🇰 Hong Kong | Sakura Link 1
-vless://c1dca28f-48a9-45b9-9c1b-e0b78707a26a@hk01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&sni=hls-svod.itunes.apple.com&path=&host=&spx=/#🇭🇰 Hong Kong | WorkTitans B.V. 1
-vless://c1dca28f-48a9-45b9-9c1b-e0b78707a26a@hk01-vlr01.tcp-reset-club.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&spx=%2F#🇭🇰 Hong Kong | WorkTitans B.V. 2
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&type=tcp&security=tls&sni=hkg1.fromblancwithlove.com&alpn=h2#🇭🇰 Hong Kong | DataCamp 6
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=hkg1.fromblancwithlove.com&alpn=h2&allowInsecure=1#🇭🇰 Hong Kong | DataCamp 7
+vless://4accc4fb-9ec3-41ae-ac3e-cc5d3dabe156@cdn14.cloud-vk.com:8443?security=reality&encryption=none&pbk=Ml-LF4yKs-OUHfQuCyLKcqMioe92UB8tRC_Vs-xKrR8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=676929673edccec8#🇭🇰 Hong Kong | WorkTitans B.V. 1
