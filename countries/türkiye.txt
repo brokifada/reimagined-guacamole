@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?path=%2Fws&security=&encryption=none&host=185.255.95.247&type=ws#🇹🇷 Türkiye | 2E TELEKOMUNIKASYON LT... 1
-vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?encryption=none&security=none&type=ws&host=185.255.95.247&path=/ws#🇹🇷 Türkiye | 2E TELEKOMUNIKASYON LT... 2
-vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?encryption=none&type=ws&host=185.255.95.247&path=%2Fws&security=none#🇹🇷 Türkiye | 2E TELEKOMUNIKASYON LT... 3
+vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?encryption=none&security=none&type=ws&host=185.255.95.247&path=/ws#🇹🇷 Türkiye | 2E TELEKOMUNIKASYON LT... 1
+vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?encryption=none&type=ws&host=185.255.95.247&path=%2Fws&security=none#🇹🇷 Türkiye | 2E TELEKOMUNIKASYON LT... 2
