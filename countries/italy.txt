@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 1
+vless://725dbc91-a8b7-4816-a386-83e2bfbec189@it.n1etwork.prostosetup.org:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=Nb99ZU29q7aI02rE_bSjlXAHj_U51NoLL0JEx6ohqjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=bcb6b9117a1206c3#🇮🇹 Italy | Aruba S.p.A. 1
