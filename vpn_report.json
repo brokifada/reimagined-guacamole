@@ -1,33 +1,98 @@
 {
   "countries": {
     "DE": {
-      "count": 1,
+      "count": 2,
       "flag": "🇩🇪",
       "name": "Germany"
     },
+    "FI": {
+      "count": 3,
+      "flag": "🇫🇮",
+      "name": "Finland"
+    },
+    "GB": {
+      "count": 5,
+      "flag": "🇬🇧",
+      "name": "United Kingdom"
+    },
     "NL": {
-      "count": 9,
+      "count": 12,
       "flag": "🇳🇱",
       "name": "Netherlands"
     },
-    "SE": {
-      "count": 3,
-      "flag": "🇸🇪",
-      "name": "Sweden"
+    "RU": {
+      "count": 1,
+      "flag": "🇷🇺",
+      "name": "Russia"
     }
   },
   "description": "🔒 Bobi VPN — строго перепроверенные серверы\n⚡ Только реально работающие ключи",
   "keys": [
     {
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "5.183.253.171",
+      "flag": "🇷🇺",
+      "isp": "e-Style ISP",
+      "key": "vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&security=reality&sid=8248954896&sni=eh.vk.com&type=tcp#🇷🇺 Russia | e-Style ISP 69",
+      "latency_ms": 175,
+      "name": "🇷🇺 Russia | e-Style ISP 69",
+      "speed_kbps": 657.3
+    },
+    {
       "country": "Germany",
       "country_code": "DE",
-      "exit_ip": "152.89.244.127",
+      "exit_ip": "152.233.35.227",
       "flag": "🇩🇪",
-      "isp": "aurologic GmbH",
-      "key": "vless://c980c5c7-1170-4a65-98c2-90d95f17ab80@fi.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fi.roblugo.su&sid=bbfb4f7a53e22dd3#🇩🇪 Germany | aurologic GmbH 1",
-      "latency_ms": 502,
-      "name": "🇩🇪 Germany | aurologic GmbH 1",
-      "speed_kbps": 269.2
+      "isp": "Datacamp",
+      "key": "vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=de1.fromblancwithlove.com#🇩🇪 Germany | Datacamp 1",
+      "latency_ms": 152,
+      "name": "🇩🇪 Germany | Datacamp 1",
+      "speed_kbps": 583.1
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "exit_ip": "144.31.217.99",
+      "flag": "🇩🇪",
+      "isp": "SERV.HOST GROUP LTD",
+      "key": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?type=tcp&headerType=none&security=reality&encryption=none&sni=google.com&fp=random&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision#🇩🇪 Germany | SERV.HOST GROUP LTD 2",
+      "latency_ms": 170,
+      "name": "🇩🇪 Germany | SERV.HOST GROUP LTD 2",
+      "speed_kbps": 588.3
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "exit_ip": "89.105.208.119",
+      "flag": "🇳🇱",
+      "isp": "NovoServe B.V.",
+      "key": "vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g10.steptofsvo.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g10.steptofsvo.com&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&type=tcp&headerType=none#FULL 🇳🇱 #🇳🇱 Netherlands | NovoServe B.V. 22",
+      "latency_ms": 189,
+      "name": "FULL 🇳🇱 #🇳🇱 Netherlands | NovoServe",
+      "speed_kbps": 703.9
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "exit_ip": "212.34.142.191",
+      "flag": "🇳🇱",
+      "isp": "RAN Networks S.L address",
+      "key": "vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#🇳🇱 Netherlands | RAN Networks S.L address 7",
+      "latency_ms": 429,
+      "name": "🇳🇱 Netherlands | RAN Networks S.L a",
+      "speed_kbps": 169.2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "exit_ip": "212.34.142.191",
+      "flag": "🇳🇱",
+      "isp": "RAN Networks S.L address",
+      "key": "vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6&sni=tradingview.com#🇳🇱 Netherlands | RAN Networks S.L address 13",
+      "latency_ms": 436,
+      "name": "🇳🇱 Netherlands | RAN Networks S.L a",
+      "speed_kbps": 126.4
     },
     {
       "country": "Netherlands",
@@ -35,10 +100,10 @@
       "exit_ip": "144.124.253.4",
       "flag": "🇳🇱",
       "isp": "Servers Tech Fzco",
-      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?type=tcp&security=reality&fp=random&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru#🇳🇱 Netherlands | Servers Tech Fzco 6",
-      "latency_ms": 141,
+      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?type=tcp&security=reality&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru&alpn=http/1.1#🇳🇱 Netherlands | Servers Tech Fzco 31",
+      "latency_ms": 118,
       "name": "🇳🇱 Netherlands | Servers Tech Fzco ",
-      "speed_kbps": 526.2
+      "speed_kbps": 762.1
     },
     {
       "country": "Netherlands",
@@ -46,10 +111,10 @@
       "exit_ip": "144.124.253.4",
       "flag": "🇳🇱",
       "isp": "Servers Tech Fzco",
-      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?type=tcp&security=reality&fp=random&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru&spx=/dUVPQAGwEniKR2S,#🇳🇱 Netherlands | Servers Tech Fzco 18",
-      "latency_ms": 141,
+      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?type=tcp&security=reality&sni=www.ozon.ru&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff#🇳🇱 Netherlands | Servers Tech Fzco 3",
+      "latency_ms": 118,
       "name": "🇳🇱 Netherlands | Servers Tech Fzco ",
-      "speed_kbps": 646.0
+      "speed_kbps": 762.6
     },
     {
       "country": "Netherlands",
@@ -57,10 +122,10 @@
       "exit_ip": "144.124.253.4",
       "flag": "🇳🇱",
       "isp": "Servers Tech Fzco",
-      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?type=tcp&security=reality&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru&alpn=http/1.1#🇳🇱 Netherlands | Servers Tech Fzco 77",
-      "latency_ms": 145,
+      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?type=tcp&security=reality&fp=random&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru&spx=/dUVPQAGwEniKR2S,#🇳🇱 Netherlands | Servers Tech Fzco 41",
+      "latency_ms": 119,
       "name": "🇳🇱 Netherlands | Servers Tech Fzco ",
-      "speed_kbps": 643.6
+      "speed_kbps": 752.7
     },
     {
       "country": "Netherlands",
@@ -68,10 +133,10 @@
       "exit_ip": "144.124.253.4",
       "flag": "🇳🇱",
       "isp": "Servers Tech Fzco",
-      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru#🇳🇱 Netherlands | Servers Tech Fzco 314",
-      "latency_ms": 153,
+      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru&alpn=http/1.1&headerType=none,#🇳🇱 Netherlands | Servers Tech Fzco 43",
+      "latency_ms": 121,
       "name": "🇳🇱 Netherlands | Servers Tech Fzco ",
-      "speed_kbps": 557.8
+      "speed_kbps": 764.3
     },
     {
       "country": "Netherlands",
@@ -79,10 +144,10 @@
       "exit_ip": "144.124.253.4",
       "flag": "🇳🇱",
       "isp": "Servers Tech Fzco",
-      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru&alpn=http/1.1#🇳🇱 Netherlands | Servers Tech Fzco 288",
-      "latency_ms": 307,
+      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru&headerType=none,#🇳🇱 Netherlands | Servers Tech Fzco 92",
+      "latency_ms": 121,
       "name": "🇳🇱 Netherlands | Servers Tech Fzco ",
-      "speed_kbps": 595.5
+      "speed_kbps": 752.8
     },
     {
       "country": "Netherlands",
@@ -90,10 +155,10 @@
       "exit_ip": "144.124.253.4",
       "flag": "🇳🇱",
       "isp": "Servers Tech Fzco",
-      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?encryption=none&type=raw&headerType=none&security=reality&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sni=www.ozon.ru&sid=ffffffffff#🇳🇱 Netherlands | Servers Tech Fzco 219",
-      "latency_ms": 337,
+      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&security=reality&sid=ffffffffff&sni=www.ozon.ru#🇳🇱 Netherlands | Servers Tech Fzco 108",
+      "latency_ms": 121,
       "name": "🇳🇱 Netherlands | Servers Tech Fzco ",
-      "speed_kbps": 614.8
+      "speed_kbps": 753.7
     },
     {
       "country": "Netherlands",
@@ -101,10 +166,10 @@
       "exit_ip": "144.124.253.4",
       "flag": "🇳🇱",
       "isp": "Servers Tech Fzco",
-      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru&host=www.ozon.ru#🇳🇱 Netherlands | Servers Tech Fzco 153",
-      "latency_ms": 359,
+      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?type=tcp&security=reality&fp=random&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru#🇳🇱 Netherlands | Servers Tech Fzco 34",
+      "latency_ms": 124,
       "name": "🇳🇱 Netherlands | Servers Tech Fzco ",
-      "speed_kbps": 522.1
+      "speed_kbps": 742.5
     },
     {
       "country": "Netherlands",
@@ -112,10 +177,10 @@
       "exit_ip": "144.124.253.4",
       "flag": "🇳🇱",
       "isp": "Servers Tech Fzco",
-      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru&alpn=http/1.1#🇳🇱 Netherlands | Servers Tech Fzco 203",
-      "latency_ms": 380,
+      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?encryption=none&type=tcp&security=reality&fp=random&sni=www.ozon.ru&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff#🇳🇱 Netherlands | Servers Tech Fzco 2",
+      "latency_ms": 129,
       "name": "🇳🇱 Netherlands | Servers Tech Fzco ",
-      "speed_kbps": 649.9
+      "speed_kbps": 760.7
     },
     {
       "country": "Netherlands",
@@ -123,47 +188,102 @@
       "exit_ip": "144.124.253.4",
       "flag": "🇳🇱",
       "isp": "Servers Tech Fzco",
-      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru&alpn=http/1.1&headerType=none:#🇳🇱 Netherlands | Servers Tech Fzco 139",
-      "latency_ms": 609,
+      "key": "vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru&alpn=http/1.1&headerType=none:#🇳🇱 Netherlands | Servers Tech Fzco 29",
+      "latency_ms": 352,
       "name": "🇳🇱 Netherlands | Servers Tech Fzco ",
-      "speed_kbps": 627.6
+      "speed_kbps": 695.2
     },
     {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "148.253.211.237",
-      "flag": "🇸🇪",
-      "isp": "SEBEK sp. z o.o",
-      "key": "vless://980231fb-4372-5c81-b696-20aa34d33af0@148.253.211.237:443?security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&type=tcp&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&sid=bdac121c7debdaba#🇸🇪 Sweden | SEBEK sp. z o.o 1",
-      "latency_ms": 208,
-      "name": "🇸🇪 Sweden | SEBEK sp. z o.o 1",
-      "speed_kbps": 561.0
+      "country": "Finland",
+      "country_code": "FI",
+      "exit_ip": "204.168.234.22",
+      "flag": "🇫🇮",
+      "isp": "Hetzner Online GmbH",
+      "key": "vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&host=nobody.fastspeed.ir&path=/ws#🇫🇮 Finland | Hetzner Online GmbH 44",
+      "latency_ms": 150,
+      "name": "🇫🇮 Finland | Hetzner Online GmbH 44",
+      "speed_kbps": 611.5
     },
     {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "148.253.211.237",
-      "flag": "🇸🇪",
-      "isp": "SEBEK sp. z o.o",
-      "key": "vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&security=reality&sid=bdac121c7debdaba&sni=www.microsoft.com&type=tcp#🇸🇪 Sweden | SEBEK sp. z o.o 12",
-      "latency_ms": 384,
-      "name": "🇸🇪 Sweden | SEBEK sp. z o.o 12",
-      "speed_kbps": 581.4
+      "country": "Finland",
+      "country_code": "FI",
+      "exit_ip": "204.168.234.22",
+      "flag": "🇫🇮",
+      "isp": "Hetzner Online GmbH",
+      "key": "vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#🇫🇮 Finland | Hetzner Online GmbH 36",
+      "latency_ms": 151,
+      "name": "🇫🇮 Finland | Hetzner Online GmbH 36",
+      "speed_kbps": 613.4
     },
     {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "148.253.211.237",
-      "flag": "🇸🇪",
-      "isp": "SEBEK sp. z o.o",
-      "key": "vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?security=reality&encryption=none&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=bdac121c7debdaba#🇸🇪 Sweden | SEBEK sp. z o.o 4",
-      "latency_ms": 412,
-      "name": "🇸🇪 Sweden | SEBEK sp. z o.o 4",
-      "speed_kbps": 582.0
+      "country": "Finland",
+      "country_code": "FI",
+      "exit_ip": "144.31.82.47",
+      "flag": "🇫🇮",
+      "isp": "SERV.HOST GROUP LTD",
+      "key": "vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&sid=ce9f790791426d83&spx=%2F&flow=xtls-rprx-vision#🇫🇮 Finland | SERV.HOST GROUP LTD 1",
+      "latency_ms": 147,
+      "name": "🇫🇮 Finland | SERV.HOST GROUP LTD 1",
+      "speed_kbps": 547.5
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "31.76.53.0",
+      "flag": "🇬🇧",
+      "isp": "EE",
+      "key": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=random&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&type=tcp&headerType=none#🇬🇧 United Kingdom | EE 17",
+      "latency_ms": 152,
+      "name": "🇬🇧 United Kingdom | EE 17",
+      "speed_kbps": 169.7
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "31.76.53.0",
+      "flag": "🇬🇧",
+      "isp": "EE",
+      "key": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&type=tcp&headerType=none#🇬🇧 United Kingdom | EE 10",
+      "latency_ms": 158,
+      "name": "🇬🇧 United Kingdom | EE 10",
+      "speed_kbps": 170.7
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "31.76.53.0",
+      "flag": "🇬🇧",
+      "isp": "EE",
+      "key": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇬🇧 United Kingdom | EE 4",
+      "latency_ms": 164,
+      "name": "🇬🇧 United Kingdom | EE 4",
+      "speed_kbps": 159.8
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "31.76.53.0",
+      "flag": "🇬🇧",
+      "isp": "EE",
+      "key": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=random&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&type=tcp&headerType=none#🇬🇧 United Kingdom | EE 3",
+      "latency_ms": 164,
+      "name": "🇬🇧 United Kingdom | EE 3",
+      "speed_kbps": 173.0
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "31.76.53.0",
+      "flag": "🇬🇧",
+      "isp": "EE",
+      "key": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=google.com&fp=chrome&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none#🇬🇧 United Kingdom | EE 1",
+      "latency_ms": 1197,
+      "name": "🇬🇧 United Kingdom | EE 1",
+      "speed_kbps": 168.8
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-05-31 08:41:11",
-  "total_checked": 186,
-  "working_count": 13
+  "timestamp": "2026-05-31 12:02:35",
+  "total_checked": 264,
+  "working_count": 23
 }
