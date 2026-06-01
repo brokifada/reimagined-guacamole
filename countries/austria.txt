@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#🇦🇹 Austria | M247 Europe SRL 1
-trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?type=tcp&security=tls&headerType=none&sni=www.mesaly.click&fp=chrome&allowInsecure=1#🇦🇹 Austria | ONEPROVIDER 1
-trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp#🇦🇹 Austria | ONEPROVIDER 2
+vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?flow=xtls-rprx-vision&fp=qq&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&security=reality&sid=f83fd840aa1e1bc6&sni=yandex.ru&spx=%2F&type=tcp#🇦🇹 Austria | netcup GmbH 1
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp#🇦🇹 Austria | ONEPROVIDER 1
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?type=tcp&security=tls&headerType=none&sni=www.mesaly.click&fp=chrome&allowInsecure=1#🇦🇹 Austria | ONEPROVIDER 2
