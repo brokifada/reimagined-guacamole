@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hr/Cfh7UgQm9iaVZQTiDigJQgSmFwYW4K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hr/Cfh7UgQm9iaVZQTiDigJQgSmFwYW4K4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&fp=random&allowInsecure=0&type=ws&path=/?ed%3D2560#🇯🇵 Japan | ACE 1
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=juzi.qea.ccwu.cc&type=ws&allowInsecure=0&sni=juzi.qea.ccwu.cc#🇯🇵 Japan | ACE 1
+vmess://eyJhZGQiOiJqcDAxLmEwYS54eXoiLCJhaWQiOjAsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvY2N0djEzLm0zdTgiLCJwb3J0Ijo4MCwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjVbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1KUC0xMzgwNTQ3OSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoianAwMS5hMGEueHl6In0=#🇯🇵 Japan | Oracle 1
