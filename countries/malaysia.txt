@@ -6,4 +6,4 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://@141.193.213.11:443?security=tls&type=ws&path=/my-wbv&host=unnes.ac.id.cyylr.eu.cc&sni=unnes.ac.id.cyylr.eu.cc&fp=chrome&encryption=none#🇷🇺 Россия LTE #🌍 Malaysia | WorkTitans B.V. 1
-vless://c75c49cd-4930-47c9-8247-29889a13f23c@45.130.125.69:443?Telegram=&Telegram=&Telegram=&path=/my-wbv&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#🌍 Malaysia | WorkTitans B.V. 2
+vless://89daf4a8-91fa-4331-ae40-66aef6ab6d32@188.114.97.6:80?security=none&type=ws&path=/my-wbv&host=grabacademyportal.grab.com.cyylr.eu.cc&encryption=none#🌍 Malaysia | WorkTitans B.V. 2
