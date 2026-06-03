@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh6YgQm9iaVZQTiDigJQgQ2FuYWRhCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F#🇨🇦 Canada | Cloudflare, 1
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🇨🇦 Canada | Cloudflare, 2
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?encryption=none&security=tls&sni=cyylr.eu.cc&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&host=cyylr.eu.cc&path=/sg-melbi#🇨🇦 Canada | Cloudflare, 1
+vless://fcdfab7b-caa2-425f-9356-5fd7742d98c7@45.130.125.69:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#🇨🇦 Canada | Cloudflare, 2

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4ecce0bf-5bad-474a-882c-8ba910a9e00e@kaz1.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4#🇰🇿 Kazakhstan | G-Core Labs S.A. 1
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@auto.datamove.online:2040?security=reality&encryption=none&echfq=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#🇰🇿 Kazakhstan | Telepatiya 1
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@auto.datamove.online:2040?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=qq&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44&spx=%2F#🇰🇿 Kazakhstan | Telepatiya 2
+vless://c5765da4-772f-4ff7-b96c-551ca7185529@46.247.40.229:8443?security=reality&type=tcp&alpn=http%2F1.1&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=196dad1410aa3891&pbk=mVdzom1e9afBTvsad76ZEsyQh9xSCZPUKo7CPPLaZAc&encryption=none#🇰🇿 Kazakhstan | PS Internet Company LLP 1
