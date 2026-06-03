@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/id-tksi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#🌍 Indonesia | PT. Telekomunikasi Ind... 1
-vless://9232a847-8f7d-4548-a23a-a8b3550e0f15@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/id-tksi&security=tls&encryption=none&insecure=0&host=grabacademyportal.grab.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=grabacademyportal.grab.com.cyylr.eu.cc#🌍 Indonesia | PT. Telekomunikasi Ind... 2
+vless://28f79470-c550-40b0-9e46-834a46ac8da8@208.103.161.170:443?encryption=none&security=tls&sni=help.viu.com.cyylr.eu.cc&type=ws&host=help.viu.com.cyylr.eu.cc&path=/id-pusat#🌍 Indonesia | PUSATMEDIA 1
+vless://565b50d4-604d-4a60-9fc2-d9d3dac0aec6@216.24.57.1:443?security=tls&type=ws&path=/id-pusat&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&alpn=http/1.1&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&encryption=none#🇷🇺 Россия LTE #🌍 Indonesia | PUSATMEDIA 2
