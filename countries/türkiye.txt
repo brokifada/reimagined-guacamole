@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@ru9.aimodelhub.top:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sni=ru9.aimodelhub.top&sid=a73cf719b624#🇹🇷 Türkiye | 365.partners INC 1
-vless://71310f0a-1c4f-492d-8dec-fd755639d08a@185.181.211.81:37141?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Türkiye | Hostigger INC. 1
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#🇹🇷 Türkiye | Iksir Internet Hizmetl... 1
+vless://71310f0a-1c4f-492d-8dec-fd755639d08a@185.181.211.81:37141?security=none&type=tcp#🇹🇷 Türkiye | Hostigger INC. 1
+vless://71310f0a-1c4f-492d-8dec-fd755639d08a@185.181.211.81:37141?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Türkiye | Hostigger INC. 2
