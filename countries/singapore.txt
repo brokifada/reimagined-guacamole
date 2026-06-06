@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://afbe9207-eb8f-4e39-898a-d78fb3eddd0a@news.zoom.us:2096?path=/xprolk-primeline&security=tls&alpn=h2,http/1.1&encryption=none&host=primelinelk.me&fp=chrome&type=ws&sni=primelinelk.me#🇸🇬 Singapore | DIGITALOCEAN 1
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.17.144.235:443?allow_insecure=0&fp=random&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬 Singapore | SGP VULTR 1
+vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reality&type=raw&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=3b0b73e5&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&encryption=none#🇸🇬 Singapore | Oracle 1
+vless://af6904c1-4349-4448-8e99-0024824a0c33@sgxi.959555.xyz:10000?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=gateway.icloud.com&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&sid=3b0b73e5#🇸🇬 Singapore | Oracle 2
