@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9e5201b2-5061-413b-b310-36cc6ec590c6@213.183.63.117:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bunny.net&fp=firefox&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc#🇧🇬 Bulgaria | Melbikomas UAB 1
+vless://5b7223dd-da46-42fd-97be-39768b1ab9e3@185.246.131.242:6690?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=DPik2bQO_b9PyTkHFg9rtCw1Yh7FtdeYQtL8jZ1wkQA&sid=23c116fba570ca97#🇧🇬 Bulgaria | ONEPROVIDER 1
