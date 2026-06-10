@@ -3,10 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9e5201b2-5061-413b-b310-36cc6ec590c6@45.141.148.191:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=CzI1Zft9ToNgciMIfMhtn_Q5RRO0Q3AyURYvrvnKL14#🇹🇷 Türkiye | Fiba Cloud Operation C... 1
-vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBUUiAxIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoyMjMyNCwicHMiOiI1NjgyLiBWTUVTUyB8IFNOSTogNS4xODguMTkwLjI1MiB8IENJRFI6IFZLIHwgVEc6IEB3bHJ1c3RnIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=#🇹🇷 Türkiye | G-Core Labs S.A. 1
-vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBUUiAxIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6MjIzMjQsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtVFItMTM2NTUzOTAiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==#🇹🇷 Türkiye | G-Core Labs S.A. 2
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#🇹🇷 Türkiye | Iksir Internet Hizmetl... 1
+vless://f5c5c5fe-5834-438b-b0cb-ffe616766b45@blubank.ir:80?encryption=none&type=ws&path=/&host=s3.tehranionliine.ir#🇹🇷 Türkiye | Big Core 1
+vless://f5c5c5fe-5834-438b-b0cb-ffe616766b45@blubank.ir:80?path=/&security=none&encryption=none&host=s3.tehranionliine.ir&type=ws#🇹🇷 Türkiye | Big Core 2
+vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBUUiAxIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6MjIzMjQsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtVFItMTM2NTUzOTAiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==#🇹🇷 Türkiye | G-Core Labs S.A. 1
+vless://ed748c87-4201-4210-872e-f77265c27fde@188.114.97.6:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=SoftNetConnectcdn.sep-vpn.site&path=/&sni=SoftNetConnectcdn.sep-vpn.site&fp=chrome&alpn=h2,http/1.1#🇹🇷 Türkiye | Nettesin Internet ve Y... 1
+vless://ed748c87-4201-4210-872e-f77265c27fde@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/&host=SoftNetConnectcdn.sep-vpn.site&sni=SoftNetConnectcdn.sep-vpn.site&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇹🇷 Türkiye | Nettesin Internet ve Y... 2
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🇹🇷 Türkiye | Scalaxy B.V. 1
