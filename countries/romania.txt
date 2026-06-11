@@ -5,11 +5,11 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?type=ws#🇷🇴 Romania | BL Networks 1
-vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?type=ws&security=none&fp=chrome&path=/#🇷🇴 Romania | BL Networks 2
+vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?type=ws&security=none&fp=chrome&path=/#🇷🇴 Romania | BL Networks 1
+vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#🇷🇴 Romania | BL Networks 2
 vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?encryption=none&security=none&type=ws&path=/#🇷🇴 Romania | BL Networks 3
-vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#🇷🇴 Romania | BL Networks 4
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=buh-ro-01.fromblancwithlove.com&allowInsecure=0#🇷🇴 Romania | Datacamp 1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=buh-ro-01.fromblancwithlove.com#🇷🇴 Romania | Datacamp 2
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp#🇷🇴 Romania | Datacamp 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#🇷🇴 Romania | Dotro Telecom SRL 2

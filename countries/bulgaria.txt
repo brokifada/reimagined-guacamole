@@ -3,7 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://039a1658-e86e-475f-a3a4-67cc249acada@45.150.111.174:443?flow=xtls-rprx-vision&fp=firefox&pbk=2EoMRBfJ9hxldXLTGih0gIk5dF38qjqHAqTzzKiSWQw&security=reality&sid=370796f491f38876&sni=bg1.panel11.ru&type=tcp#🇧🇬 Bulgaria | Alexhost SRL 1
-vless://5b7223dd-da46-42fd-97be-39768b1ab9e3@185.246.131.242:6690?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=DPik2bQO_b9PyTkHFg9rtCw1Yh7FtdeYQtL8jZ1wkQA&sid=23c116fba570ca97#🇧🇬 Bulgaria | ONEPROVIDER 1
+vless://93796b65-0d32-4fcc-987c-16c97ecf44c2@87.121.112.22:443?flow=xtls-rprx-vision&fp=firefox&pbk=jtjAgFEht13CIn-wf07V0-s1mqHY2saQdhLY9_vTKSU&security=reality&sni=lastbulgaria.live&type=tcp#🇧🇬 Bulgaria | Neterra servers infras... 1
+vless://93796b65-0d32-4fcc-987c-16c97ecf44c2@87.121.112.84:443?flow=xtls-rprx-vision&fp=firefox&pbk=ttPJ8R1zs5dUkrRdmDLNpd-XnpYYSC3PXBE4IVBKh1k&security=reality&sid=7cb287a9301ad64c&sni=notromania.live&type=tcp#🇧🇬 Bulgaria | Neterra servers infras... 2
+vless://93796b65-0d32-4fcc-987c-16c97ecf44c2@87.121.112.50:443?flow=xtls-rprx-vision&fp=firefox&pbk=X7Lxm3ymEHIFq5JH1wJFckOJNY07MrqyoepdX_0vK38&security=reality&sni=moldovalast.live&type=tcp#🇧🇬 Bulgaria | Neterra servers infras... 3
+vless://93796b65-0d32-4fcc-987c-16c97ecf44c2@87.121.112.153:443?flow=xtls-rprx-vision&fp=firefox&pbk=zzPBYcway2C9SUqU7Xpjy1eowDbBCXYd6_yTQcz7bhI&security=reality&sid=2d81863d90837552&sni=romaniaapril.live&type=tcp#🇧🇬 Bulgaria | Neterra servers infras... 4
+vless://93796b65-0d32-4fcc-987c-16c97ecf44c2@87.121.112.117:443?flow=xtls-rprx-vision&fp=firefox&pbk=3w72rLVzB7BUQShRZgcx0bfIypi6_vtKY5XLrw0UQH8&security=reality&sni=polandchehia.life&type=tcp#🇧🇬 Bulgaria | Neterra servers infras... 5

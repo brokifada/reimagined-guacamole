@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880?path=%2F&security=none&encryption=none&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
-vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.56.188.60:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=mi.com&fp=firefox&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#🇦🇪 United Arab Emirates | GoldIPv 1
+vless://10360c23-9847-4508-b50e-7ada85fbb0a7@217.60.35.52:443?flow=xtls-rprx-vision&fp=firefox&pbk=7hCw9x8kRkAnLKO3FBwPLSM_6Qs5TOir31_TT050OxU&security=reality&sid=c9b0c990b745646d&sni=nl-cdn.ru&type=tcp#🇦🇪 United Arab Emirates | GoldIPv 1
+vless://10360c23-9847-4508-b50e-7ada85fbb0a7@185.244.41.59:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru3.cdn-global.pro&fp=firefox&pbk=yUC3xJ5Pz3XI0oZKn3y4q8f6P9WR2TZ-HP-Cj_dRkRI&sid=9de56f61d93cb685&flow=xtls-rprx-vision#🇦🇪 United Arab Emirates | GoldIPv 2
