@@ -3,22 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGlsZQrimqEgMTcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGlsZQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#🌍 Chile | The Constant Company 1
-vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?encryption=none&fp=chrome&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#🌍 Chile | The Constant Company 2
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#🌍 Chile | The Constant Company 3
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#🌍 Chile | The Constant Company 4
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&security=tls&sni=picassooo.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=picassooo.info&path=%2Faymdlws#🌍 Chile | The Constant Company 5
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&fp=chrome&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#🌍 Chile | The Constant Company 6
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=picassooo.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=picassooo.info&path=%2Faymdlws#🌍 Chile | The Constant Company 7
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&type=ws&allowInsecure=0&sni=picassooo.info#🌍 Chile | The Constant Company 8
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassooo.info&type=ws&sni=picassooo.info#🌍 Chile | The Constant Company 9
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#🌍 Chile | The Constant Company 10
-vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?encryption=none&security=tls&sni=picassooo.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=picassooo.info&path=%2Faymdlws#🌍 Chile | The Constant Company 11
-vless://7270612b-49f6-4b04-999c-34d8263da767@216.24.57.1:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=picassooo.info#🌍 Chile | The Constant Company 12
-vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?encryption=none&fp=chrome&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#🌍 Chile | The Constant Company 13
-vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?encryption=none&security=tls&sni=picassooo.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=picassooo.info&path=%2Faymdlws#🌍 Chile | The Constant Company 14
-vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#🌍 Chile | The Constant Company 15
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#🌍 Chile | The Constant Company 16
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?security=tls&type=ws&path=/aymdlws&host=picassooo.info&sni=picassooo.info&fp=chrome&encryption=none#🌍 Chile | The Constant Company 17
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#🌍 Chile | The Constant Company 1
+vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&fp=chrome&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#🌍 Chile | The Constant Company 2
+vless://7270612b-49f6-4b04-999c-34d8263da767@216.24.57.1:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=picassooo.info#🌍 Chile | The Constant Company 3
+vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#🌍 Chile | The Constant Company 4
+vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=picassooo.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=picassooo.info&path=%2Faymdlws#🌍 Chile | The Constant Company 5
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&type=ws&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info#🌍 Chile | The Constant Company 6
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&security=tls&sni=picassooo.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=picassooo.info&path=%2Faymdlws#🌍 Chile | The Constant Company 7
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassooo.info&type=ws&sni=picassooo.info#🌍 Chile | The Constant Company 8
