@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://039a1658-e86e-475f-a3a4-67cc249acada@45.150.111.174:443?flow=xtls-rprx-vision&fp=firefox&pbk=2EoMRBfJ9hxldXLTGih0gIk5dF38qjqHAqTzzKiSWQw&security=reality&sid=370796f491f38876&sni=bg1.panel11.ru&type=tcp#🇧🇬 Bulgaria | Alexhost SRL 1
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=/?@V2rayBaaz&note=@FreeOnlineVPN#🇧🇬 Bulgaria | First Server 1
