@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880?path=%2F&security=none&encryption=none&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&type=ws#🇰🇿 Kazakhstan | WorkTitans B.V. 1
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880?type=ws&encryption=none&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=/?ed=2560Join---V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz#🇰🇿 Kazakhstan | WorkTitans B.V. 2
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@213.155.23.184:443?security=reality&encryption=none&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kz.buycloud.app&sid=19c54bde0fe05b9b#🇰🇿 Kazakhstan | PS Internet Company 1
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@213.155.23.184:443?flow=xtls-rprx-vision&fp=firefox&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=19c54bde0fe05b9b&sni=kz.buycloud.app&type=tcp#🇰🇿 Kazakhstan | PS Internet Company 2
