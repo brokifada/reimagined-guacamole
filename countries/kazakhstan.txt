@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@2.135.146.121:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=gCieb5qgl88bQ-f9TApsb4Jiwg-6KJ_ss8w4IZMzUhQ&sni=pandaproject.store&__rand=45dfb690#🇰🇿 Kazakhstan | JSC Kazakhtelecom 1
 vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@213.155.23.184:443?security=reality&encryption=none&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz.buycloud.app&sid=19c54bde0fe05b9b#🇰🇿 Kazakhstan | PS Internet Company 1
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@213.155.23.184:443?security=reality&encryption=none&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kz.buycloud.app&sid=19c54bde0fe05b9b#🇰🇿 Kazakhstan | PS Internet Company 2
