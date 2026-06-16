@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVLlMuIFZpcmdpbiBJc2xhbmRzCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://3841f022-c6d2-4e7d-b595-a78aa3d574dc@51.250.14.222:8443?security=reality&encryption=none&pbk=OVmPxkoWmuVyPD1fEuyxwtJcZ4uGwKz_uDhg7SW3520&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=x5.ru&sid=a071675310#🌍 U.S. Virgin Islands | Huicast Telecom 1
+vless://78aa0206-1598-4a75-b28b-ebfecb769a48@usmax.sixsubstore.ru:443?encryption=none&security=reality&sni=usmax.sixsubstore.ru&fp=safari&pbk=V0e8Rp_FrsxsNxbUzKJzdNzhgHugs_grb06L7Q5ax3k&sid=dea8dcf86aaf8d89&spx=%2F&type=grpc&authority=&serviceName=GunService&mode=gun#🌍 U.S. Virgin Islands | H2nexus LTD 1
