@@ -5,12 +5,12 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796?type=tcp&encryption=none&security=reality&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&fp=chrome&sni=www.sony.com&sid=804d6574da9180&spx=/&flow=xtls-rprx-vision#🇰🇷 South Korea | Amazon.com, 1
-vless://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796?type=tcp&encryption=none&security=reality&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&fp=firefox&sni=www.sony.com&sid=804d6574da9180&spx=/&flow=xtls-rprx-vision#🇰🇷 South Korea | Amazon.com, 2
+vless://5fb6c5d2-629b-48c6-bb3c-595caf2007ee@104.24.14.72:443?security=tls&type=ws&path=%2F5fb6c5d2-629b-48c6-bb3c-595caf2007ee-vless&host=krali.chlove.top&allowInsecure=1&sni=krali.chlove.top&fp=chrome#🇰🇷 South Korea | Alibaba.com 1
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206M1VlYlltOEhXOERVN2lNczFPMHBldz09@47.80.24.245:8127#🇰🇷 South Korea | Alibaba.com 2
+vless://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796?type=tcp&encryption=none&security=reality&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&fp=firefox&sni=www.sony.com&sid=804d6574da9180&spx=/&flow=xtls-rprx-vision#🇰🇷 South Korea | Amazon.com, 1
+vless://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796?type=tcp&encryption=none&security=reality&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&fp=chrome&sni=www.sony.com&sid=804d6574da9180&spx=/&flow=xtls-rprx-vision#🇰🇷 South Korea | Amazon.com, 2
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@61.111.247.233:34045?security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#🇰🇷 South Korea | MOACK.Co.LTD 1
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@61.111.247.233:34045?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#🇰🇷 South Korea | MOACK.Co.LTD 2
-vmess://eyJhZGQiOiAiMTUyLjY3LjIxOC4zOCIsICJhaWQiOiAwLCAiaG9zdCI6ICIxNTIuNjcuMjE4LjM4IiwgImlkIjogImI1ZTk0ODBhLWI3YWEtNDBhNC1mOWE3LTUyOTliNWUzNjNiNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==#🇰🇷 South Korea | Oracle 1
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjowLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjdbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1LUi0xMTM4NDYwMSIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ2IjoiMiJ9#🇰🇷 South Korea | Oracle 2
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#🇰🇷 South Korea | SK Broadband Co 1
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#🇰🇷 South Korea | SK Broadband Co 2
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#🇰🇷 South Korea | SK Broadband Co 3
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#🇰🇷 South Korea | SK Broadband Co 3
