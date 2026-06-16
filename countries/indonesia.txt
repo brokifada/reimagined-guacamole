@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://63ec2a82-e47c-4782-a89e-9aca2baf17ef@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/id-pusat&host=quiz.int.vidio.com.ex33r.eu.cc&sni=quiz.int.vidio.com.ex33r.eu.cc&fp=chrome&allowInsecure=0#🌍 Indonesia | PUSATMEDIA 1
-vless://63ec2a82-e47c-4782-a89e-9aca2baf17ef@188.114.97.6:443?security=tls&type=ws&path=/id-pusat&host=quiz.int.vidio.com.ex33r.eu.cc&sni=quiz.int.vidio.com.ex33r.eu.cc&fp=chrome&encryption=none#🌍 Indonesia | PUSATMEDIA 2
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&security=tls&headerType=none&sni=130.94.94.15&fp=chrome&insecure=1&allowInsecure=1#🌍 Indonesia | Light Node 1
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?sni=130.94.94.15&peer=130.94.94.15&security=tls#🌍 Indonesia | Light Node 2

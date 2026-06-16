@@ -6,4 +6,4 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://044bec59-d632-5e4a-992b-70397572434a@47.250.195.57:18395?type=tcp&security=none&encryption=none#🌍 Malaysia | Alibaba (US) Technolog... 1
-vless://044bec59-d632-5e4a-992b-70397572434a@47.250.195.57:18395?encryption=none&security=none&type=tcp#🌍 Malaysia | Alibaba (US) Technolog... 2
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.64.35.7:2053?encryption=none&type=ws&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch#🌍 Malaysia | Scloud Pte 1
