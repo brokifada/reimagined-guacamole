@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime54.workers.dev&path=%2F&security=none&type=ws#🇰🇷 South Korea | Oracle 1
+vless://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796?type=tcp&encryption=none&security=reality&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&fp=chrome&sni=www.sony.com&sid=804d6574da9180&spx=/&flow=xtls-rprx-vision#🇰🇷 South Korea | Amazon.com, 1
