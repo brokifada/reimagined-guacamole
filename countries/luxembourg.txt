@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsfCfh7ogQm9iaVZQTiDigJQgTHV4ZW1ib3VyZwrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://00f7f9c6-70cf-4a50-a9bf-08c77229251b@107.189.7.176:443?fp=chrome&security=tls&allowInsecure=0&type=ws&alpn=h2,http/1.1&host=107.189.7.176&sni=107.189.7.176&path=/ws&insecure=0&encryption=none#🇱🇺 Luxembourg | FranTech Solutions 1
-vless://00f7f9c6-70cf-4a50-a9bf-08c77229251b@107.189.7.176:443?fp=chrome&security=tls&allowInsecure=0&type=ws&alpn=h2%2Chttp%2F1.1&host=107.189.7.176&sni=107.189.7.176&path=%2Fws&insecure=0&encryption=none#🇱🇺 Luxembourg | FranTech Solutions 2
+vless://00f7f9c6-70cf-4a50-a9bf-08c77229251b@107.189.7.176:443?fp=chrome&security=tls&allowInsecure=0&type=ws&alpn=h2%2Chttp%2F1.1&host=107.189.7.176&sni=107.189.7.176&path=%2Fws&insecure=0&encryption=none#🇱🇺 Luxembourg | FranTech Solutions 1
+vless://00f7f9c6-70cf-4a50-a9bf-08c77229251b@107.189.7.176:443?fp=chrome&security=tls&allowInsecure=0&type=ws&alpn=h2,http/1.1&host=107.189.7.176&sni=107.189.7.176&path=/ws&insecure=0&encryption=none#🇱🇺 Luxembourg | FranTech Solutions 2

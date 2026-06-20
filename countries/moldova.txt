@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCS3R3N0FWSTZ0RGNLMW9BUDRCMmx1@94.103.2.174:443#🇲🇩 Moldova | GIR SER 1
+vless://278f52f9-99fc-447c-94d0-ada8f9800703@bolgarianflyemir.com:446?security=reality&encryption=none&authority=deepl.com&pbk=GJnLm6LCekZoX81OvXV2CpVO-6NKCP2riGaAiZUml0w&fp=chrome&type=grpc&serviceName=deepl.com&sni=deepl.com&sid=d7abeb515312dc2f#🇲🇩 Moldova | Alexhost SRL 1
