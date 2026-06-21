@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://964014f3-d3eb-48a0-9695-f18b5cceaa18@168.222.43.127:2082?path=%2F&security=none&encryption=none&host=168.222.43.127&type=ws#🇩🇰 Denmark | OVH SAS 1
+vless://c468fa1a-18fb-41e3-9881-b45638e526e5@ansooyefilter-bot.njati.ir:16369?security=reality&encryption=none&pbk=RFyxgMgejl5ITpTp3ZNR1g6XBPXL19csJ04Kf_-bLgM&headerType=none&fp=chrome&spx=/2ZHh3s9XmzoxbVm&type=tcp&sni=www.amazon.com&sid=83#🇩🇰 Denmark | OVH SAS 1
