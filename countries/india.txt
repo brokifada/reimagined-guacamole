@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-25.vk-cdnvideo.com&type=tcp#🇮🇳 India | DigitalOcean, 1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@168.144.27.201:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🇮🇳 India | DigitalOcean, 2
-vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
-vless://d8dabd75-ae26-4c27-993e-75a00ff72185@152.70.72.249:80?security=none&type=ws&path=/vless&fp=chrome#🇮🇳 India | Oracle 1
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?security=reality&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&type=tcp&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&sid=54ce&burmalda=c35fab87#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#🇮🇳 India | NETRANEX TECHNOLOGIES ... 2
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&type=tcp&sni=deepl.com&flow=xtls-rprx-vision&security=reality&fp=firefox&sid=54ce&burmalda=e77060f1#🇮🇳 India | NETRANEX TECHNOLOGIES ... 3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@181.214.1.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime39.workers.dev#🇮🇳 India | PDRSOLUTIONSFZC 1
