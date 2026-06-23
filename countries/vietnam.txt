@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBWaWV0bmFtCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://f5a2c547-734e-4655-8069-618e38e2cd5c@160.191.85.127:3443?flow=xtls-rprx-vision&fp=firefox&pbk=AdSCtMttNJ-KQuURl1ynBdy8DtAbCUFG6G2qB-GbTXU&security=reality&sid=bc755b173467c322&sni=www.microsoft.com&type=tcp#🌍 Vietnam | ADM Technology Joint S... 1
+vless://7b3c9cec-6a21-4d57-b9c9-383d519e0b27@another-cf.dnsyes.kawaii520.icu:443?mode=multi&security=tls&encryption=none&type=ws&fp=chrome&sni=sd5488ghf26dfsae.another-appleid.ccwu.cc&path=/&host=sd5488ghf26dfsae.another-appleid.ccwu.cc#🌍 Vietnam | Vietnam Internet Netwo... 1

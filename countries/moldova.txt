@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4537cd6f-cc09-4c79-86b4-30918c210f24@alex-md-01.live:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&sid=51495959c262c442&fp=firefox#🇲🇩 Moldova | Alexhost SRL 1
+vless://84b504e4-a97f-40ab-93c3-a03a5f0ff36c@md.riotvpn.eu:443?type=tcp&security=reality&sni=avatars.mds.yandex.net&fp=qq&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🇲🇩 Moldova | H2nexus LTD 1
