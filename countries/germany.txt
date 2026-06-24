@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh6ogQm9iaVZQTiDigJQgR2VybWFueQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh6ogQm9iaVZQTiDigJQgR2VybWFueQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇩🇪 Germany | Hetzner Online GmbH 1
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80/?type=ws&encryption=none&flow=&host=max-gb1.global.ssl.fastly.net&path=%2F&packetEncoding=xudp#🇩🇪 Germany | Hetzner Online GmbH 2
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.233.104.128:2096?encryption=none&security=none&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop&type=grpc&burmalda=47f00ac6#🇩🇪 Germany | Hetzner Online GmbH 3
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2096?encryption=none&security=none&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop&type=grpc&descriptions=СвободуИнтернету747#🇩🇪 Germany | Hetzner Online GmbH 4
+vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=firefox&pbk=e3pn9C1M3g6zh0CMZS3L-GuDH71NNUcoy18quvlgfWw&sid=165b0fe73e74&type=tcp&headerType=none#🇩🇪 Germany | Netgrid Host LTD 1
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#🇩🇪 Germany | ROETH & BECK GbR 1
