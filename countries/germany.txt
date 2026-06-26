@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh6ogQm9iaVZQTiDigJQgR2VybWFueQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh6ogQm9iaVZQTiDigJQgR2VybWFueQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@64.188.91.92:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&security=reality&sid=b415b8d7a6106ace&sni=fast.gazladder.work&type=tcp#🇩🇪 Germany | H2nexus LTD 1
-vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@64.188.91.92:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fast.gazladder.work&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=b415b8d7a6106ace#🇩🇪 Germany | H2nexus LTD 2
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@188.114.97.6:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv71.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv71.perfectbulk.info#🇩🇪 Germany | Hetzner Online AG 1
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.72.162:8443?&security=tls&fp=chrome&sni=srv37.hamiibar.com&type=ws&headerType=none&host=srv37.hamiibar.com&path=%2F#🇩🇪 Germany | Hetzner Online AG 2
-vless://d6695105-8e40-4a45-a87e-d3cf561c9fa4@91.98.3.186:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#🇩🇪 Germany | Hetzner Online GmbH 1
+vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@45.151.102.99:7443?fp=firefox&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&security=reality&seq=you_are_beautiful9008&serviceName=your-custom-path&sid=2da4299da566b7&sni=maps.apple.com&type=grpc#🇩🇪 Germany | Hosting Industry 1
