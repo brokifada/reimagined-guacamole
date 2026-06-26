@@ -3,13 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://b005cb51-bdac-1344-3a0b-c57d690fdba5@199.181.197.1:8443?&security=tls&fp=chrome&sni=ez-69f0d5.noght-azadi-sub2.workers.dev&type=ws&headerType=none&host=ez-69f0d5.noght-azadi-sub2.workers.dev&path=%2Fsync#🇦🇪 United Arab Emirates | Amazon Technologies 1
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls#🇦🇪 United Arab Emirates | Kaopu Cloud HK 1
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 2
-vless://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?security=reality&type=tcp&allowInsecure=1&sni=www.luluhypermarket.com&fp=chrome&flow=xtls-rprx-vision&sid=0c1553316a645758&pbk=lNmfBMA3R97nKT0zZEH-oYpLzO41y1xu7Tf_p0-oGF8&descriptions=люби_себяf24ecc#🇦🇪 United Arab Emirates | M247 Europe SRL 1
+vless://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?security=reality&type=tcp&allowInsecure=1&sni=www.luluhypermarket.com&fp=chrome&flow=xtls-rprx-vision&sid=0c1553316a645758&pbk=lNmfBMA3R97nKT0zZEH-oYpLzO41y1xu7Tf_p0-oGF8&freeinternet=kizyak_vpn1782423528988#🇦🇪 United Arab Emirates | M247 Europe SRL 1
 vless://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?security=reality&fp=chrome&sni=www.luluhypermarket.com&pbk=lNmfBMA3R97nKT0zZEH-oYpLzO41y1xu7Tf_p0-oGF8&allowInsecure=1&flow=xtls-rprx-vision&sid=0c1553316a645758&type=tcp#🇦🇪 United Arab Emirates | M247 Europe SRL 2
-vless://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?security=reality&type=tcp&allowInsecure=1&sni=www.luluhypermarket.com&fp=chrome&flow=xtls-rprx-vision&sid=0c1553316a645758&pbk=lNmfBMA3R97nKT0zZEH-oYpLzO41y1xu7Tf_p0-oGF8&seq=you_are_beautiful1937#🇦🇪 United Arab Emirates | M247 Europe SRL 3
-vless://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?security=reality&type=tcp&allowInsecure=1&sni=www.luluhypermarket.com&fp=chrome&flow=xtls-rprx-vision&sid=0c1553316a645758&pbk=lNmfBMA3R97nKT0zZEH-oYpLzO41y1xu7Tf_p0-oGF8&nonce=lfYfWq9O#🇦🇪 United Arab Emirates | M247 Europe SRL 4
-vless://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?type=tcp&sid=0c1553316a645758&security=reality&flow=xtls-rprx-vision&pbk=lNmfBMA3R97nKT0zZEH-oYpLzO41y1xu7Tf_p0-oGF8&fp=chrome&allowInsecure=1&sni=www.luluhypermarket.com&burmalda=e90fbde6#🇦🇪 United Arab Emirates | M247 Europe SRL 5
+vless://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?security=reality&type=tcp&allowInsecure=1&sni=www.luluhypermarket.com&fp=chrome&flow=xtls-rprx-vision&sid=0c1553316a645758&pbk=lNmfBMA3R97nKT0zZEH-oYpLzO41y1xu7Tf_p0-oGF8&nonce=lfYfWq9O#🇦🇪 United Arab Emirates | M247 Europe SRL 3
+vless://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?sni=www.luluhypermarket.com&security=reality&flow=xtls-rprx-vision&allowInsecure=1&sid=0c1553316a645758&fp=chrome&pbk=lNmfBMA3R97nKT0zZEH-oYpLzO41y1xu7Tf_p0-oGF8&type=tcp&burmalda=045380c2#🇦🇪 United Arab Emirates | M247 Europe SRL 4
