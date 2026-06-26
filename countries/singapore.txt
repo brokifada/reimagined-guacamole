@@ -3,15 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#🇸🇬 Singapore | Akamai Technologies 1
-vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?encryption=none&security=tls&sni=group.shalana.xyz&type=ws&host=group.shalana.xyz&path=%2Fshalana#🇸🇬 Singapore | Akamai Technologies 2
-vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=/shalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#🇸🇬 Singapore | Akamai Technologies 3
-vless://70252937-5c61-4fb0-8656-d1a16261b795@172.66.40.229:2096?path=/shalana&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=group.shalana.xyz&fp=chrome&type=ws&allowInsecure=0&sni=group.shalana.xyz#🇸🇬 Singapore | Akamai Technologies 4
+vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?encryption=none&security=tls&sni=group.shalana.xyz&type=ws&host=group.shalana.xyz&path=%2Fshalana#🇸🇬 Singapore | Akamai Technologies 1
+vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#🇸🇬 Singapore | Akamai Technologies 2
+vless://70252937-5c61-4fb0-8656-d1a16261b795@172.66.40.229:2096?path=/shalana&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=group.shalana.xyz&fp=chrome&type=ws&allowInsecure=0&sni=group.shalana.xyz#🇸🇬 Singapore | Akamai Technologies 3
+vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=/shalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#🇸🇬 Singapore | Akamai Technologies 4
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬 Singapore | BrainStorm Network, Inc 1
 vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFNHIDEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoxODAwMCwic2N5IjpudWxsLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtU0ctNzMxNDA5MCJ9#🇸🇬 Singapore | Datacamp 1
-vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@104.16.107.139:8880?&security=none&type=ws&headerType=&host=young-leaf-a723.162-4da.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | DigitalOcean, 1
+vless://84205690-b389-4689-86ad-95cd169ba862@support.zoom.us:80?path=%2F&security=none&encryption=none&host=free.sahanwickramasinghevip.shop&type=ws#🇸🇬 Singapore | DigitalOcean, 1
 vless://3dc30f8b-e411-4f68-9fda-73b63d920e1a@67.159.52.159:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=deepl.com&pbk=S2Fe4Ft_uGGNGVShoyrKHED3VaoRfjLQxDBD3LaNbgc&sid=9350a4f6c01e987a&fp=qq#🇸🇬 Singapore | FDCservers.net 1
-vless://afbe9207-eb8f-4e39-898a-d78fb3eddd0a@news.zoom.us:2096?&security=tls&fp=chrome&sni=primelinelk.me&type=ws&headerType=none&host=primelinelk.me&path=%2Fxprolk-primeline#🇸🇬 Singapore | The Constant Company 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#🇸🇬 Singapore | The Constant Company 2
+vless://3dc30f8b-e411-4f68-9fda-73b63d920e1a@67.159.52.159:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=qq&pbk=S2Fe4Ft_uGGNGVShoyrKHED3VaoRfjLQxDBD3LaNbgc&sni=deepl.com&sid=9350a4f6c01e987a#🇸🇬 Singapore | FDCservers.net 2
+vless://61f7a0ac-7500-42f1-b27b-e85cb16d6afa@52.237.89.171:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=Oe1AXeDO0L6_NXhNtjh3SQHOvCkfHrVZFzg1ASl4RhQ&sid=3292498d&flow=xtls-rprx-vision#🇸🇬 Singapore | Microsoft 1
+vless://afbe9207-eb8f-4e39-898a-d78fb3eddd0a@news.zoom.us:2096?encryption=none&type=ws&host=primelinelk.me&path=%2Fxprolk-primeline&security=tls&fp=chrome&sni=primelinelk.me#🇸🇬 Singapore | The Constant Company 1
