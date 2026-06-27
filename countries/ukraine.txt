@@ -3,13 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443?security=reality&flow=xtls-rprx-vision&sni=arxiv.org&sid=a88038293e33&encryption=none&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&type=tcp&headerType=none&fp=firefox#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1
-vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=arxiv.org&fp=firefox&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&sid=a88038293e33&type=tcp&headerType=none#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 2
-vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443?pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&encryption=none&type=tcp&sid=a88038293e33&security=reality&fp=firefox&flow=xtls-rprx-vision&sni=arxiv.org&headerType=none#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 3
-vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443?security=reality&encryption=none&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=arxiv.org&sid=a88038293e33#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 4
-vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443?type=tcp&headerType=none&security=reality&encryption=none&sni=arxiv.org&fp=firefox&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&sid=a88038293e33&flow=xtls-rprx-vision#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 5
-vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443?security=reality&encryption=none&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=arxiv.org&sid=a88038293e33&_t=df8d9144#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 6
-vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443?type=tcp&headerType=none&security=reality&encryption=none&sni=arxiv.org&fp=firefox&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&sid=a88038293e33&spx=%2F&flow=xtls-rprx-vision#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 7
-vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443?headerType=none&flow=xtls-rprx-vision&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&fp=firefox&encryption=none&type=tcp&sni=arxiv.org&security=reality&sid=a88038293e33&nonce=z4C55V4z#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 8
+vless://5daac0ff-2a31-47da-90c3-7c7259992e63@150.251.113.8:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.tesla.com&fp=firefox&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#🇺🇦 Ukraine | UK-3NT 1
+vless://5daac0ff-2a31-47da-90c3-7c7259992e63@150.251.113.8:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.tesla.com&fp=firefox&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc&flow=xtls-rprx-vision#🇺🇦 Ukraine | UK-3NT 2
