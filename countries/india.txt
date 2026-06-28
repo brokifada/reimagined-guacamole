@@ -6,7 +6,7 @@
 #announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?type=ws&security=none&fp=firefox&path=/#🇮🇳 India | JOY SERVICES 1
-vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?path=%2F&security=&encryption=none&type=ws&descriptions=люби_себя5cb142#🇮🇳 India | JOY SERVICES 2
-vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?path=%2F&security=&encryption=none&type=ws#🇮🇳 India | JOY SERVICES 3
-vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?type=ws&encryption=none&security=&path=%2F#🇮🇳 India | JOY SERVICES 4
-vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?path=%2F&security=&type=ws&encryption=none&_t=ab29347c#🇮🇳 India | JOY SERVICES 5
+vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?type=ws&path=%2F&security=&encryption=none&freeinternet=kizyak_vpn1782650006865#🇮🇳 India | JOY SERVICES 2
+vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?encryption=none&path=%2F&security=&type=ws#🇮🇳 India | JOY SERVICES 3
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?security=reality&encryption=none&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=54ce#🇮🇳 India | NETRANEX TECHNOLOGIES ... 2
