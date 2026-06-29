@@ -3,10 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?type=ws&security=none&fp=firefox&path=/#🇮🇳 India | JOY SERVICES 1
-vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?type=ws&path=%2F&security=&encryption=none&freeinternet=kizyak_vpn1782650006865#🇮🇳 India | JOY SERVICES 2
-vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?encryption=none&path=%2F&security=&type=ws#🇮🇳 India | JOY SERVICES 3
-vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
-vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?security=reality&encryption=none&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=54ce#🇮🇳 India | NETRANEX TECHNOLOGIES ... 2
+vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?path=%2F&security=&encryption=none&type=ws#🇮🇳 India | JOY SERVICES 2
+vless://9ff78c56-cd8b-4d2e-8a1e-b8671aacf57d@138.252.100.85:32351?type=ws&security=none&fp=firefox#🇮🇳 India | JOY SERVICES 3
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#🇮🇳 India | NETRANEX TECHNOLOGIES ... 2
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#🇮🇳 India | NETRANEX TECHNOLOGIES ... 3
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#🇮🇳 India | NETRANEX TECHNOLOGIES ... 4

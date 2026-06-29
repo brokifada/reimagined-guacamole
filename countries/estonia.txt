@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://60300afa-3366-4ae3-959a-7b50438acebb@45.129.199.148:443?flow=xtls-rprx-vision&fp=firefox&pbk=hs5nrW02rLJqYpAFrG_N02I3pbgm0ENmsDaAtD5RfDc&security=reality&sid=258ff96f&sni=ee2.wequ.host&type=tcp#🇪🇪 Estonia | BlueVPS OU 1
+vless://043243cb-f38d-4182-aa41-9c99fce79e2b@185.215.187.145:443?flow=xtls-rprx-vision&fp=firefox&pbk=DfBse1QjfPaSB1176iH9Y6ok4Sz1fVij8y6cMhnPyHg&security=reality&sid=14dd8618ea&sni=www.kaspersky.com&type=tcp#🇪🇪 Estonia | RJ Network OU 1
