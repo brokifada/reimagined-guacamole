@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722??descriptions=СвободуИнтернету719#🌍 Thailand | Kaopu Cloud HK 1
-vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722??burmalda=61b29cff#🌍 Thailand | Kaopu Cloud HK 2
-vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722?encryption=none&type=raw&headerType=none&security=none#🌍 Thailand | Kaopu Cloud HK 3
-vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722#🌍 Thailand | Kaopu Cloud HK 4
-vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722??__rand=e0f9d418#🌍 Thailand | Kaopu Cloud HK 5
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.152:666?allow_insecure=0&path=/proxy&security=tls&sni=43.164.1.152&type=ws#🌍 Thailand | Shenzhen Tencent Compu... 1
+vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722#🌍 Thailand | Kaopu Cloud HK 1
