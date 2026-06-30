@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ada18e5c-5e60-11f1-bd95-ee5f4ed81fa1@5.42.99.168:2053?mode=gun&security=reality&encryption=none&pbk=75W-x6PKwwG6fJJbrIkGcsBgMKP7pQnw2HlM8oevDjM&fp=chrome&type=grpc&serviceName=grpc-direct&sni=api.gruztrack.online&sid=e35c7f14cc807f4d#🇪🇪 Estonia | BlueVPS OU 1
+vless://1ee0c3d2-9c42-463f-8497-ee05f76b84e5@ee-t2.vinnypuxtomoon.today:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&sni=ee-t2.vinnypuxtomoon.today&spx=/#🇪🇪 Estonia | Raul Ghita trading as ... 1
