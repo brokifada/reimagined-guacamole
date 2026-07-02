@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://baeb9020-8fcd-444c-b95d-f76507816e6d@144.31.232.189:443?flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=fl-root.sworkingvpn.com&type=tcp#🇫🇮 Finland | Senko Digital 1
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?security=reality&encryption=none&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=helsinki.fi&sid=40a5eaec20abf1#🇫🇮 Finland | Aeza International LTD 1

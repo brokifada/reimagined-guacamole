@@ -3,11 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCfj4Yg0KLQvtC/0L7QstGL0LUg0YHQtdGA0LLQtdGA0Ys=
+#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCfjoEg0JHQtdGB0L/Qu9Cw0YLQvdC+INC4INCx0LXQtyDRgNC10LrQu9Cw0LzRiw==
 
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=/&security=tls&encryption=none&insecure=0&host=srv03.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv03.perfectbulk.info#🇩🇪 Germany | Hetzner Online AG 1
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?encryption=none&security=tls&sni=srv03.perfectbulk.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=srv03.perfectbulk.info&path=%2F#🇩🇪 Germany | Hetzner Online AG 2
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&security=reality&sid=04bc695105689674&sni=4.oncloudnineservicestreang.com&type=tcp#🇩🇪 Germany | netcup GmbH 1
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&encryption=none&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1.oncloudnineservicestreang.com&sid=28415a7918168947#🇩🇪 Germany | netcup GmbH 2
-vless://baeb9020-8fcd-444c-b95d-f76507816e6d@144.31.232.189:443?flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=fl-root.sworkingvpn.com&type=tcp#🇫🇮 Finland | Senko Digital 1
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&type=tcp&packetEncoding=xudp&encryption=none#🇱🇻 Latvia | Optron SIA 1
+vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?encryption=none&type=raw&headerType=none&security=reality&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&sni=eh.vk.com&sid=478dc6#🇩🇪 Germany | Play2go International 1
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?security=reality&encryption=none&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=helsinki.fi&sid=40a5eaec20abf1#🇫🇮 Finland | Aeza International LTD 1
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#🇫🇷 France | Datacamp 1
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&allowInsecure=1#🇫🇷 France | Datacamp 2
