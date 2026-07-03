@@ -3,8 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🇮🇳 India | Akamai Technologies 1
-vless://e314349a-7e56-4a3e-9318-eda62b5d6bd3@138.252.100.85:33659?encryption=none&security=none&type=ws&path=/#🇮🇳 India | JOY SERVICES 1
-vless://e314349a-7e56-4a3e-9318-eda62b5d6bd3@138.252.100.85:32351?encryption=none&security=none&type=ws&path=/#🇮🇳 India | JOY SERVICES 2
+vless://b250af86-7f78-4e69-9e99-1f1ddfe27ea0@89.34.90.179:443?flow=xtls-rprx-vision&fp=firefox&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&security=reality&sid=671047edbaa38eef&sni=max.ru&spiderX=%2F&type=tcp#🇮🇳 India | Dhivakaran Mutharasan 1
+vless://b250af86-7f78-4e69-9e99-1f1ddfe27ea0@89.34.90.179:443?flow=xtls-rprx-vision&fp=firefox&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&security=reality&sid=671047edbaa38eef&sni=max.ru&type=tcp#🇮🇳 India | Dhivakaran Mutharasan 2
+vless://b250af86-7f78-4e69-9e99-1f1ddfe27ea0@89.34.90.179:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&sid=671047edbaa38eef&flow=xtls-rprx-vision#🇮🇳 India | Dhivakaran Mutharasan 3
+vless://bcdc633c-b4af-4dba-bb63-5a2347e7c2bc@138.252.100.85:32351?path=/&security=&encryption=none&type=ws#🇮🇳 India | JOY SERVICES 1
+vless://e314349a-7e56-4a3e-9318-eda62b5d6bd3@138.252.100.85:33659?encryption=none&security=none&type=ws&path=/#🇮🇳 India | JOY SERVICES 2
+vless://e314349a-7e56-4a3e-9318-eda62b5d6bd3@138.252.100.85:32351?encryption=none&security=none&type=ws&path=/#🇮🇳 India | JOY SERVICES 3
+vless://1443b7a1-7ba9-4ec9-b904-2e867367b5d7@odd-violet-5440.asdgrweeee13.workers.dev:443?type=ws&security=tls&encryption=none&path=%2Fsync&host=odd-violet-5440.asdgrweeee13.workers.dev&sni=odd-violet-5440.asdgrweeee13.workers.dev&fp=chrome&headerType=none#🇮🇳 India | Microsoft 1
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
