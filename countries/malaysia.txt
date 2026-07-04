@@ -6,4 +6,4 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.54.125.229:8091#🌍 Malaysia | Kaopu Cloud HK 1
-vless://2756d45c-2d91-4783-8114-ad1e128799ba@www.ipget.net:8880?type=ws&host=blue-breeze-e33c.261.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🌍 Malaysia | Scloud Pte 1
+vless://7db9bcc1-78f1-455d-944b-3363b867e670@172.64.88.251:8880?&security=false&fp=chrome&type=ws&headerType=none&host=long-wildflower-3df6.341-165.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🌍 Malaysia | Scloud Pte 1
