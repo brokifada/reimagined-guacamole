@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://a8609a02-b76d-4cc8-a8d5-496088b20ff1@185.143.233.235:8443?encryption=none&type=ws&security=tls&path=/assignment----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&host=sinavm.sinavm.sinavm.ir&sni=sinavm.sinavm.sinavm.ir&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇧🇪 Belgium | Datacamp 1
-vless://a8609a02-b76d-4cc8-a8d5-496088b20ff1@185.143.233.235:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=sinavm.sinavm.sinavm.ir&fp=chrome&type=ws&allowInsecure=1&sni=sinavm.sinavm.sinavm.ir#🇧🇪 Belgium | Datacamp 2
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@109.69.218.217:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_BMcBaQjBV5AXRtl7yWxV6vYR8Jm7nfwXY6VhltMtBo&security=reality&sni=www.engage.edgedoor.ink&type=tcp#🇧🇪 Belgium | VERIXI SA 1
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@109.69.218.217:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=_BMcBaQjBV5AXRtl7yWxV6vYR8Jm7nfwXY6VhltMtBo&security=reality&sni=www.engage.edgedoor.ink&type=tcp#🇧🇪 Belgium | VERIXI SA 2
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@109.69.218.217:8443?security=reality&encryption=none&pbk=_BMcBaQjBV5AXRtl7yWxV6vYR8Jm7nfwXY6VhltMtBo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.engage.edgedoor.ink#🇧🇪 Belgium | VERIXI SA 3
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@109.69.218.217:8443?security=reality&encryption=none&pbk=_BMcBaQjBV5AXRtl7yWxV6vYR8Jm7nfwXY6VhltMtBo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.engage.edgedoor.ink#🇧🇪 Belgium | VERIXI SA 4
+vless://f17a6493-07c9-452e-aa5d-5e823cb5d5fe@be.monkeyvillage.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=be.monkeyvillage.pro&fp=firefox&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&sid=293c41153df9694e&type=tcp&headerType=none#🇧🇪 Belgium | GCS SER 1
