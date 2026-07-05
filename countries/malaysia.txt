@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.54.125.229:8091#🌍 Malaysia | Kaopu Cloud HK 1
+vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.21.88.129:8880?host=square-brook-e650.353-3ac.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws&nonce=1CDUwCt8#🌍 Malaysia | Scloud Pte 1
