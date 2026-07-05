@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBemVyYmFpamFuCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://3222c3b5-6f26-4e24-9e6c-af0a3be0e766@Azerbaijan.mymarzban.com:9010?security=reality&encryption=none&pbk=KN1iC4QtWi2hKbQ1zJerNck6YRGbIpzdLMn1C2hhQjs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e8b1541e7387ffba#🌍 Azerbaijan | G-Core Labs S.A. 1
+vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@185.83.127.82:443?mode=gun&security=reality&encryption=none&pbk=h9aR_LyBrt2_zfbJYMZAGqfjk4zumCVuwOXzrFJEK1A&fp=firefox&type=grpc&serviceName=grpc-play-7f3a92&sni=play.google.com&sid=5b3aa0bdbe8d6a0e#🌍 Azerbaijan | Azetel 1
