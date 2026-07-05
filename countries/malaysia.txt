@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.21.88.129:8880?host=square-brook-e650.353-3ac.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws&nonce=1CDUwCt8#🌍 Malaysia | Scloud Pte 1
+vless://2b2ed3be-36bd-486d-9d04-ebf5b4be7ae9@www.baipiao.eu.org:8880?&security=none&type=ws&headerType=&host=twilight-heart-dbd6.220-2bd.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🌍 Malaysia | DigitalOcean, 1
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.54.125.229:8091#🌍 Malaysia | Kaopu Cloud HK 1

@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWRhZ2FzY2FyCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@162.159.156.214:8880?&security=none&type=ws&headerType=&host=tiny-feather-4c41.227.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🌍 Madagascar | Zhilian Technology CO.... 1
+vless://7e3cd2f1-0de5-4717-9002-64d8597bc577@172.64.88.251:8880?encryption=none&type=ws&host=dry-credit-fc26.203-d8c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#🌍 Madagascar | Zhilian Technology CO.... 1

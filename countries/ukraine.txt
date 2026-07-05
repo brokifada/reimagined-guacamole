@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?encryption=none&fp=chrome&host=nbhhh.mrcool.kdns.fr&path=/proxyip&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1
+vless://16586b3b-9e26-4fe9-b137-389ea48f088c@104.26.13.40:8880?type=ws&host=ancient-glade-34d6.6-07d.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1
