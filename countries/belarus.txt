@@ -6,6 +6,6 @@
 #announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://c777e5b5-9904-4644-947a-e4208a0329d0@185.147.26.108:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🇧🇾 Belarus | H2nexus LTD 1
-vless://c777e5b5-9904-4644-947a-e4208a0329d0@185.147.26.108:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=ru108.mechvpn.online#🇧🇾 Belarus | H2nexus LTD 2
-vless://c777e5b5-9904-4644-947a-e4208a0329d0@185.147.26.108:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome#🇧🇾 Belarus | H2nexus LTD 3
+vless://c777e5b5-9904-4644-947a-e4208a0329d0@185.147.26.108:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome#🇧🇾 Belarus | H2nexus LTD 2
+vless://c777e5b5-9904-4644-947a-e4208a0329d0@185.147.26.108:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=ru108.mechvpn.online#🇧🇾 Belarus | H2nexus LTD 3
 vless://c777e5b5-9904-4644-947a-e4208a0329d0@ru108.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#🇧🇾 Belarus | H2nexus LTD 4

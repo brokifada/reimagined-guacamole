@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://b32d498e-bbac-4f5f-92bb-ea49d5d6ee94@104.25.150.137:443?encryption=none&type=ws&host=ez-2f4a7e.ezaccess15c2114.workers.dev&path=%2F&security=tls&fp=chrome&sni=ez-2f4a7e.ezaccess15c2114.workers.dev#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=/proxyip&security=tls&encryption=none&host=nbhhh.mrcool.kdns.fr&type=ws&sni=nbhhh.mrcool.kdns.fr#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1

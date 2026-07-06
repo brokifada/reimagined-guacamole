@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWRhZ2FzY2FyCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://b7300b59-7598-4997-9714-27efd75065d0@www.ipget.net:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=&encryption=none&host=mute-lab-4c55.389.workers.dev&type=ws#🌍 Madagascar | Zhilian Technology CO.... 1
+vless://f9a53aa5-774e-4556-b2b7-d8b57b423b97@162.159.21.178:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=yellow-breeze-989b.348-9b8.workers.dev&type=ws#🌍 Madagascar | Zhilian Technology CO.... 1
