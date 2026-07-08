@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh6ogQm9iaVZQTiDigJQgR2VybWFueQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh6ogQm9iaVZQTiDigJQgR2VybWFueQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://3775c410-950e-0014-b191-4ac9ce451d86@188.68.218.29:443?fp=firefox&mode=gun&pbk=mcSB8VHQwqXzWo7oA7RWii3SLVngh63eJOEjxqHKzn8&security=reality&serviceName=beltimor.ispcamel.com&sni=beltimor.ispcamel.com&type=grpc#🇩🇪 Germany | Dedik Services 1
+vless://36644091-0cec-47fe-9955-97c3f424baf7@162.19.128.200:443?security=reality&sni=play.google.com&type=tcp&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#🇩🇪 Germany | OVH SAS 1
+vless://36644091-0cec-47fe-9955-97c3f424baf7@all104.allenshop66245.ir:443?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#🇩🇪 Germany | OVH SAS 2
+vless://36644091-0cec-47fe-9955-97c3f424baf7@all105.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🇩🇪 Germany | OVH SAS 3
+vless://36644091-0cec-47fe-9955-97c3f424baf7@all104.allenshop66245.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp&headerType=none#🇩🇪 Germany | OVH SAS 4
+vless://36644091-0cec-47fe-9955-97c3f424baf7@all136.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🇩🇪 Germany | OVH SAS 5
+vless://fee5bf09-5d07-45e8-9a47-859b06694971@de.skytunnel.pw:8443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&sni=bunny.net&flow=xtls-rprx-vision#🇩🇪 Germany | WAIcore 1

@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://e258977b-e413-4718-a3af-02d75492c349@134.185.91.72:443?encryption=none&security=tls&sni=ww1.aniuge.qzz.io&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=AEX%2BDQBBsQAgACBpAY2JhELxEAjJUZICiAUbqqk2EqAnn1%2BX5amZBfT8fgAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA%3D&type=ws&host=ww1.aniuge.qzz.io&path=%2F%3Fed%3D2095#🇸🇬 Singapore | Cloudflare, 1
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🇸🇬 Singapore | Amazon.com, 1
