@@ -7,4 +7,4 @@
 
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?mode=gun&security=none&encryption=none&type=grpc#🇺🇦 Ukraine | H2nexus LTD 1
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&security=none&type=grpc#🇺🇦 Ukraine | H2nexus LTD 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.39.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime17.workers.dev&burmalda=8609b989#🇺🇦 Ukraine | TOV 'Dream Line Holding' 1
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?security=none&type=grpc&encryption=none#🇺🇦 Ukraine | H2nexus LTD 3
