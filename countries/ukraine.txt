@@ -3,11 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://16586b3b-9e26-4fe9-b137-389ea48f088c@104.26.13.40:8880?&security=false&fp=chrome&type=ws&headerType=none&host=ancient-glade-34d6.6-07d.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1
-vless://1113b881-179c-411c-b29b-53dae8faaf0a@www.baipiao.eu.org:8880?&security=false&fp=chrome&type=ws&headerType=none&host=raspy-sun-3de0.338.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 2
-vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@www.baipiao.eu.org:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&headerType=&host=shrill-frost-6da5.155-dec.workers.dev&security=none&type=ws&burmalda=325a3157#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 3
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@openai.com:2095?security=none&type=ws&path=/&host=cnmfangbinxingnmsl.cnmfangbinxing-h.workers.dev&packetEncoding=xudp&encryption=none#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 4
-vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@www.baipiao.eu.org:8880?&security=none&type=ws&headerType=&host=shrill-frost-6da5.155-dec.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 5
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?mode=gun&security=none&encryption=none&type=grpc#🇺🇦 Ukraine | H2nexus LTD 1
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?mode=gun&security=none&encryption=none&type=grpc&descriptions=СвободуИнтернету205#🇺🇦 Ukraine | H2nexus LTD 1
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&security=none&type=grpc#🇺🇦 Ukraine | H2nexus LTD 2
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?mode=gun&security=none&encryption=none&type=grpc#🇺🇦 Ukraine | H2nexus LTD 3
