@@ -3,30 +3,24 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAyNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAxOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.21.74.63:443?type=ws&headerType=none&security=tls&encryption=none&sni=amooaliii.net&fp=chrome&path=%2Fjdhfyws&host=amooaliii.net&insecure=0#🌍 Unknown | Unknown 1
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&insecure=0&allowInsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws#Full 🇺🇸 #🌍 Unknown | Unknown 2
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🌍 Unknown | Unknown 3
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🌍 Unknown | Unknown 4
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fjdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#🌍 Unknown | Unknown 5
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🌍 Unknown | Unknown 6
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@194.127.179.220:443?fp=chrome&sni=web.max.ru&type=tcp&sid=247fd6dab1a34a48&flow=xtls-rprx-vision&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&security=reality&nonce=sHRMyNgX#🌍 Unknown | Unknown 7
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=none&encryption=none&headerType=none&type=tcp#🌍 Unknown | Unknown 8
-vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443?security=reality&encryption=none&pbk=rAMn0lQ0hcsZ0ZnUWwe022bU8pMXYWViV_XSpQ1NKXU&headerType=&fp=chrome&type=tcp&sni=music.yandex.ru&sid=48a458b7e7cb52ae#🌍 Unknown | Unknown 9
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=none&fp=firefox&type=tcp#🌍 Unknown | Unknown 10
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp&headerType=none#🌍 Unknown | Unknown 11
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#🌍 Unknown | Unknown 12
-vless://36644091-0cec-47fe-9955-97c3f424baf7@162.19.156.170:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&allowinsecure=1&type=tcp&headerType=none#🌍 Unknown | Unknown 13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#🌍 Unknown | Unknown 14
-vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f&type=tcp&packetEncoding=xudp&encryption=none#🌍 Unknown | Unknown 15
-vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp#🌍 Unknown | Unknown 16
-vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#🌍 Unknown | Unknown 17
-vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&sni=www.googletagmanager.com#🌍 Unknown | Unknown 18
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&type=tcp&headerType=none#🌍 Unknown | Unknown 19
-vless://36644091-0cec-47fe-9955-97c3f424baf7@all104.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🌍 Unknown | Unknown 20
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?type=tcp&headerType=none&security=reality&encryption=none&sni=stockholmresilience.org&fp=firefox&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&sid=b378&spx=%2F&flow=xtls-rprx-vision#🌍 Unknown | Unknown 21
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&security=reality&sid=b378&sni=stockholmresilience.org&spx=%2F&type=tcp#🌍 Unknown | Unknown 22
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#🌍 Unknown | Unknown 23
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&type=raw&headerType=none&security=none#🌍 Unknown | Unknown 24
-vless://36644091-0cec-47fe-9955-97c3f424baf7@all171.allenshop66245.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp&headerType=none#🌍 Unknown | Unknown 25
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🌍 Unknown | Unknown 1
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=&type=ws&host=shegeftihaaa.net&path=/rsedgws&security=tls&sni=shegeftihaaa.net&fp=chrome&allowInsecure=0#🌍 Unknown | Unknown 2
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@108.162.192.75:443?encryption=none&security=tls&sni=amooaliii.net&insecure=0&allowInsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws#🌍 Unknown | Unknown 3
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fjdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#🌍 Unknown | Unknown 4
+trojan://humanity@www.calmloud.com:443?host=www.calmloud.com&path=%2F%252Fassignment&security=tls&sni=www.calmloud.com&type=ws#🌍 Unknown | Unknown 5
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🌍 Unknown | Unknown 6
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🌍 Unknown | Unknown 7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#🌍 Unknown | Unknown 8
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=shegeftihaaa.net&fp=chrome&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#🌍 Unknown | Unknown 9
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=amooaliii.net&insecure=0&allowInsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws#Lite 🌍 #🌍 Unknown | Unknown 10
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&type=tcp&headerType=none#🌍 Unknown | Unknown 11
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp&headerType=none#🌍 Unknown | Unknown 12
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=none&encryption=none&headerType=none&type=tcp#🌍 Unknown | Unknown 13
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&type=raw&headerType=none&security=none#🌍 Unknown | Unknown 14
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=none&fp=firefox&type=tcp#🌍 Unknown | Unknown 15
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#🌍 Unknown | Unknown 16
+vless://45e6cc1d-fc2e-4c97-8633-b33caa28e130@jazzghost.com:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fm=%7B%22quicParams%22%3A%7B%22bbrProfile%22%3A%22conservative%22%2C%22congestion%22%3A%22bbr%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%2C%22udpHop%22%3A%7B%22interval%22%3A%225-10%22%2C%22ports%22%3A%2220000-50000%22%7D%7D%7D&fp=chrome&security=tls&sni=jazzghost.com&type=tcp#🌍 Unknown | Unknown 17
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#🌍 Unknown | Unknown 18
+vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@evolus.oblakoapp.com:443?security=reality&encryption=none&pbk=KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=970098f31b96a3e8#🌍 Unknown | Unknown 19
