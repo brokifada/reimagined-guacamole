@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hs/Cfh7EgQm9iaVZQTiDigJQgVGhlIE5ldGhlcmxhbmRzCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://2db92da9-8ffb-491b-81d6-6e8d50876020@www.speedtest.net:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=bpb-01c11365.hjdbcvdbkv.workers.dev&path=%2FeyJqdW5rIjoiWlFRWlMwRDdLakVqMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=bpB-01c11365.HJdBcvDbKV.WORKErS.dEV&type=ws#🇳🇱 The Netherlands | DigitalOcean, 1
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.193:8090?path=%2Fws&security=&encryption=none&host=rukr.speedload.ru&type=ws#🇳🇱 The Netherlands | Servers Tech Fzco 1
