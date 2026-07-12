@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://NX7LOtiM.=RdQTq..yxi-dm6OcQrkgE5rg@149.104.87.141:443?security=tls#🌍 Mexico | Kaopu Cloud HK 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.50:8880?security=none&type=ws&path=/&host=vms.lifetime39.workers.dev&packetEncoding=xudp&encryption=none&descriptions=люби_себя6fb86c#🌍 Mexico | Megacable Comunicacion... 1
