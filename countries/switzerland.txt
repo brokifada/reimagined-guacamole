@@ -3,13 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://e42e3cc4-3228-0028-acf7-38a04f3b03e9@185.91.53.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qmj3LynPhFqW4pVQf47vfPx-nnykWXxuzNoWmw_DEyc&security=reality&sni=elecru.instrumentidlyadoma.com&type=tcp#🇨🇭 Switzerland | Dedik Services 1
-vless://e42e3cc4-3228-0028-acf7-38a04f3b03e9@185.91.53.52:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=elecru.instrumentidlyadoma.com&pbk=qmj3LynPhFqW4pVQf47vfPx-nnykWXxuzNoWmw_DEyc#🇨🇭 Switzerland | Dedik Services 2
-vless://676a3781-3c23-4cd6-9a53-d8b500000000@www.speedtest.net:443?path=/NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&security=tls&encryption=none&insecure=0&host=netlivpn2140.nznsbzb.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=netlivpn2140.nznsbzb.workers.dev#🇨🇭 Switzerland | HostHatch 1
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=%2Fws&fp=firefox&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 1
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=%2Fws&fp=qq&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 2
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=%2Fws&fp=chrome&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 3
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&security=tls&sni=sw-1-al.hysteria.ltd&fp=random&insecure=0&allowInsecure=0&type=ws&path=%2Fws#🇨🇭 Switzerland | Julian Achter 4
-vless://1e06c388-d31c-420e-916a-94a990648e34@sw-game-2.cloudgamings.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0nEf0UFvNtkltp3yXPHwVQufK2fanOcbPWsOig5q6z4&sid=2c76b03375a8e45a&sni=sw-game-2.cloudgamings.org#🇨🇭 Switzerland | Julian Achter 5
+vless://1e06c388-d31c-420e-916a-94a990648e34@sw-game-2.cloudgamings.org:443?flow=xtls-rprx-vision&fp=chrome&pbk=0nEf0UFvNtkltp3yXPHwVQufK2fanOcbPWsOig5q6z4&security=reality&sid=2c76b03375a8e45a&sni=sw-game-2.cloudgamings.org#🇨🇭 Switzerland | Julian Achter 1
+vless://1e06c388-d31c-420e-916a-94a990648e34@sw-game-2.cloudgamings.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0nEf0UFvNtkltp3yXPHwVQufK2fanOcbPWsOig5q6z4&sid=2c76b03375a8e45a&sni=sw-game-2.cloudgamings.org#🇨🇭 Switzerland | Julian Achter 2
+vless://1e06c388-d31c-420e-916a-94a990648e34@sw-game-2.cloudgamings.org:443?encryption=none&pbk=0nEf0UFvNtkltp3yXPHwVQufK2fanOcbPWsOig5q6z4&fp=chrome&type=tcp&sni=sw-game-2.cloudgamings.org&sid=2c76b03375a8e45a&flow=xtls-rprx-vision&security=reality#🇨🇭 Switzerland | Julian Achter 3
