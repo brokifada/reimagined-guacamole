@@ -7,4 +7,4 @@
 
 vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@159.194.230.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-01.gni-daed.ru&fp=chrome&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4&packetEncoding=xudp #🇷🇺 Russia | Beget 1
 vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ru-01.gni-daed.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-01.gni-daed.ru&fp=chrome&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4&type=tcp&headerType=none#🇷🇺 Russia | Beget 2
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ru-01.gni-daed.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&security=reality&sid=a8389289e18af5f4&sni=ru-01.gni-daed.ru&type=tcp%23%F0%9F%92%A190@oneclickvpnkeys#🇷🇺 Russia | Beget 3
+vless://4392b776-41a2-4300-b545-a3d2724b605b@155.212.168.164:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4vIA_XIMBEZcJyLkxdi7v6FVVhc3gGru3eE5mciDyF8&sid=26fd24aa623cadc0&sni=msk-cloud.landcode.online#🇷🇺 Russia | JSC IOT 1
