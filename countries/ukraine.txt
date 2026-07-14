@@ -3,7 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://f7ebef03-3c34-4769-bfe4-66e3c92ed665@104.21.12.116:8880?security=none&type=ws&host=lively-dream-d892.262.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&__rand=ef0ed516#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1
+vless://94a1b05b-be5f-45ed-8cc1-37eb25d10341@zeus-panel-tln7ap.kingworkerr.workers.dev:2096?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 2
+vless://7ebbd929-720a-4782-8c6d-4d77a0a75ee4@cfd4.466688.xyz:443?sni=edge-e47d0df3.pages.dev&type=ws&host=edge-e47d0df3.pages.dev&path=/?ed=2048@https://t.me/QiangLieTuiJianfp=chrome&security=tls#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 3
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.131.194:4443?security=none&type=grpc#🇺🇦 Ukraine | H2nexus LTD 1
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&security=none&type=grpc#🇺🇦 Ukraine | H2nexus LTD 2
