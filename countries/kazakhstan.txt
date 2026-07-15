@@ -6,4 +6,4 @@
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://5bfdb6f5-6c07-4a42-9b45-a8b7c6d9cd28@kz.tgflow.me:1234?security=reality&encryption=none&pbk=DwN8rbQJY-yyrIW1IREEp6sw_CQZ2GRWNcu0UnPjlBo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=0fafb2da2621#🇰🇿 Kazakhstan | "EDGEAM" 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#🇰🇿 Kazakhstan | JSC "TIMEWEB" 1
+vless://e1195171-69df-42d4-b237-aa52cb0521ed@kuzya.api.dznn.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=kuzya.api.dznn.net&fp=firefox&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
