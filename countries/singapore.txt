@@ -5,103 +5,103 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSAxMDAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?encryption=none&type=ws&host=speed.dulacloud.store&path=%2Fdula&security=tls&fp=chrome&sni=speed.dulacloud.store#🇸🇬 Singapore | Akamai Technologies, 1
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🇸🇬 Singapore | Akamai Technologies, 2
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.46.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🇸🇬 Singapore | Akamai Technologies, 3
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=/dula&host=speed.dulacloud.store#🇸🇬 Singapore | Akamai Technologies, 4
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🇸🇬 Singapore | Akamai Technologies, 5
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?&sni=speed.dulacloud.store&type=ws&headerType=none&host=speed.dulacloud.store&path=%2Fdula#🇸🇬 Singapore | Akamai Technologies, 6
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&host=speed.dulacloud.store&type=ws&sni=speed.dulacloud.store&allowInsecure=0&insecure=0#🇸🇬 Singapore | Akamai Technologies, 7
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&encryption=none&host=speed.dulacloud.store&path=%2Fdula&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1#🇸🇬 Singapore | Akamai Technologies, 8
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#🇸🇬 Singapore | Akamai Technologies, 9
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🇸🇬 Singapore | Akamai Technologies, 10
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.46.6:80?type=ws&security=none&fp=firefox&path=/dula&host=speed.dulacloud.store#🇸🇬 Singapore | Akamai Technologies, 11
-vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#🇸🇬 Singapore | Akamai Technologies, 12
-vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&descriptions=СвободуИнтернету633#🇸🇬 Singapore | Akamai Technologies, 13
-vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?fp=chrome&host=m.zoom.us&path=%2FFREE+By+Tharuwa+%280767597317%29&security=none&type=ws#🇸🇬 Singapore | Akamai Technologies, 14
-vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#🇸🇬 Singapore | Akamai Technologies, 15
-trojan://CF68213490@18.136.143.231:443?allowInsecure=0&sni=sharp-scorpion.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 1
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇸🇬 Singapore | Amazon Technologies 2
-trojan://CF68213490@powerful-troll.rooster465.autos:443?sni=powerful-troll.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 3
-trojan://CF68213490@prime-buzzard.rooster465.autos:443?sni=prime-buzzard.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 4
-trojan://CF68213490@active-hippo.rooster465.autos:443?sni=active-hippo.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 5
+vless://a8c23fe7-d2bb-46ba-a14e-8847f1944642@104.17.178.154:8880?type=ws&encryption=none&host=billowing-fire-a10b.301-d6c.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=0#🇸🇬 Singapore | Aceville Pte.ltd 1
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.46.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🇸🇬 Singapore | Akamai Technologies, 1
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=/dula&host=speed.dulacloud.store#🇸🇬 Singapore | Akamai Technologies, 2
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.46.6:80?type=ws&security=none&fp=firefox&path=/dula&host=speed.dulacloud.store#🇸🇬 Singapore | Akamai Technologies, 3
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🇸🇬 Singapore | Akamai Technologies, 4
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&host=speed.dulacloud.store&type=ws&sni=speed.dulacloud.store&allowInsecure=0&insecure=0#🇸🇬 Singapore | Akamai Technologies, 5
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?encryption=none&type=ws&host=speed.dulacloud.store&path=%2Fdula&security=tls&fp=chrome&sni=speed.dulacloud.store#🇸🇬 Singapore | Akamai Technologies, 6
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#🇸🇬 Singapore | Akamai Technologies, 7
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🇸🇬 Singapore | Akamai Technologies, 8
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?&sni=speed.dulacloud.store&type=ws&headerType=none&host=speed.dulacloud.store&path=%2Fdula#🇸🇬 Singapore | Akamai Technologies, 9
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🇸🇬 Singapore | Akamai Technologies, 10
+vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#🇸🇬 Singapore | Akamai Technologies, 11
+vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?security=false&fp=chrome&type=ws&headerType=none&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#🇸🇬 Singapore | Akamai Technologies, 12
+vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#🇸🇬 Singapore | Akamai Technologies, 13
+vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&descriptions=СвободуИнтернету633#🇸🇬 Singapore | Akamai Technologies, 14
+vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?fp=chrome&host=m.zoom.us&path=%2FFREE+By+Tharuwa+%280767597317%29&security=none&type=ws#🇸🇬 Singapore | Akamai Technologies, 15
+trojan://CF68213490@moral-basilisk.rooster465.autos:443?sni=moral-basilisk.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 1
+trojan://CF68213490@18.136.143.231:443?allowInsecure=0&sni=sharp-scorpion.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 2
+trojan://CF68213490@immense-eagle.rooster465.autos:443?sni=immense-eagle.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 3
+trojan://CF68213490@powerful-troll.rooster465.autos:443?sni=powerful-troll.rooster465.autos&peer=powerful-troll.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon Technologies 4
+trojan://CF68213490@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 5
 trojan://CF68213490@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 6
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?sni=vast-werewolf.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 7
-trojan://CF68213490@tight-gator.rooster465.autos:443?sni=tight-gator.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 8
-trojan://CF68213490@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 9
-trojan://CF68213490@modest-bat.rooster465.autos:443?sni=modest-bat.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 10
-trojan://CF68213490@immense-eagle.rooster465.autos:443?sni=immense-eagle.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 11
-trojan://CF68213490@moral-basilisk.rooster465.autos:443?sni=moral-basilisk.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 12
-trojan://CF68213490@sharp-scorpion.rooster465.autos:443?allowInsecure=0&sni=sharp-scorpion.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 13
-trojan://CF68213490@moral-basilisk.rooster465.autos:443?sni=moral-basilisk.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 14
-trojan://CF68213490@learning-wren.rooster465.autos:443?sni=learning-wren.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 15
-trojan://CF68213490@tight-gator.rooster465.autos:443?sni=tight-gator.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 16
-trojan://CF68213490@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 17
-trojan://CF68213490@sharp-scorpion.rooster465.autos:443?security=tls&sni=sharp-scorpion.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 18
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?sni=vast-werewolf.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 19
+trojan://CF68213490@prime-buzzard.rooster465.autos:443?sni=prime-buzzard.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 7
+trojan://CF68213490@moral-basilisk.rooster465.autos:443?sni=moral-basilisk.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 8
+trojan://CF68213490@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&peer=grateful-owl.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon Technologies 9
+trojan://CF68213490@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 10
+trojan://CF68213490@vast-werewolf.rooster465.autos:443?sni=vast-werewolf.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 11
+trojan://CF68213490@modest-bat.rooster465.autos:443?sni=modest-bat.rooster465.autos&peer=modest-bat.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon Technologies 12
+trojan://CF68213490@sharp-scorpion.rooster465.autos:443?security=tls&sni=sharp-scorpion.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 13
+trojan://CF68213490@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&peer=evolving-platypus.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon Technologies 14
+trojan://CF68213490@immense-eagle.rooster465.autos:443?sni=immense-eagle.rooster465.autos&peer=immense-eagle.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon Technologies 15
+trojan://CF68213490@tight-gator.rooster465.autos:443?sni=tight-gator.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 16
+trojan://CF68213490@prime-buzzard.rooster465.autos:443?sni=prime-buzzard.rooster465.autos&peer=prime-buzzard.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon Technologies 17
+trojan://CF68213490@tight-gator.rooster465.autos:443?sni=tight-gator.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 18
+trojan://CF68213490@active-hippo.rooster465.autos:443?sni=active-hippo.rooster465.autos&peer=active-hippo.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon Technologies 19
 trojan://CF68213490@learning-wren.rooster465.autos:443?sni=learning-wren.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 20
-trojan://CF68213490@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 1
-trojan://CF68213490@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 2
-trojan://CF68213490@brief-warthog.rooster465.autos:443?sni=brief-warthog.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 3
-trojan://CF68213490@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 4
-trojan://CF68213490@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 5
+trojan://CF68213490@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 21
+trojan://CF68213490@modest-bat.rooster465.autos:443?sni=modest-bat.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 22
+trojan://CF68213490@sharp-scorpion.rooster465.autos:443?allowInsecure=0&sni=sharp-scorpion.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 23
+trojan://CF68213490@active-hippo.rooster465.autos:443?sni=active-hippo.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 24
+trojan://CF68213490@vast-werewolf.rooster465.autos:443?sni=vast-werewolf.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies 25
+trojan://CF68213490@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&peer=normal-macaque.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon Technologies Inc 1
+trojan://CF68213490@relevant-oryx.rooster465.autos:443?sni=relevant-oryx.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 2
+trojan://CF68213490@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 3
+trojan://CF68213490@brief-warthog.rooster465.autos:443?sni=brief-warthog.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 4
+trojan://CF68213490@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 5
 trojan://CF68213490@brief-warthog.rooster465.autos:443?sni=brief-warthog.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 6
+trojan://CF68213490@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 7
+trojan://CF68213490@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 8
+trojan://CF68213490@relevant-oryx.rooster465.autos:443?sni=relevant-oryx.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 9
+trojan://CF68213490@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 10
 ss://YWVzLTI1Ni1nY206YTMzOEE5@56.10.43.137:8888#🇸🇬 Singapore | Amazon.com, 1
-trojan://CF68213490@13.250.16.181:443?allowInsecure=0&sni=logical-koala.rooster465.autos#🇸🇬 Singapore | Amazon.com, 2
+trojan://CF68213490@logical-koala.rooster465.autos:443?allowInsecure=0&sni=logical-koala.rooster465.autos#🇸🇬 Singapore | Amazon.com, 2
 trojan://CF68213490@56.10.12.139:443?allowInsecure=0&sni=saved-tuna.rooster465.autos#🇸🇬 Singapore | Amazon.com, 3
-trojan://CF68213490@saved-tuna.rooster465.autos:443?allowInsecure=0&sni=saved-tuna.rooster465.autos#🇸🇬 Singapore | Amazon.com, 4
-trojan://CF68213490@logical-koala.rooster465.autos:443?sni=logical-koala.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 5
-trojan://CF68213490@sacred-treefrog.rooster465.autos:443?allowInsecure=0&sni=sacred-treefrog.rooster465.autos#🇸🇬 Singapore | Amazon.com, 6
-trojan://CF68213490@logical-koala.rooster465.autos:443?security=tls&sni=logical-koala.rooster465.autos#🇸🇬 Singapore | Amazon.com, 7
+trojan://CF68213490@13.250.16.181:443?allowInsecure=0&sni=logical-koala.rooster465.autos#🇸🇬 Singapore | Amazon.com, 4
+trojan://CF68213490@summary-lemming.rooster465.autos:443?sni=summary-lemming.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 5
+trojan://CF68213490@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 6
+trojan://CF68213490@saved-tuna.rooster465.autos:443?sni=saved-tuna.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 7
 trojan://CF68213490@summary-lemming.rooster465.autos:443?sni=summary-lemming.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon.com, 8
-trojan://CF68213490@star-hagfish.rooster465.autos:443?sni=star-hagfish.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 9
-trojan://CF68213490@saved-tuna.rooster465.autos:443?sni=saved-tuna.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 10
-trojan://CF68213490@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon.com, 11
-trojan://CF68213490@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 12
-trojan://CF68213490@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 13
-trojan://CF68213490@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 14
-trojan://CF68213490@logical-koala.rooster465.autos:443?allowInsecure=0&sni=logical-koala.rooster465.autos#🇸🇬 Singapore | Amazon.com, 15
-trojan://CF68213490@saved-tuna.rooster465.autos:443?security=tls&sni=saved-tuna.rooster465.autos#🇸🇬 Singapore | Amazon.com, 16
-ss://YWVzLTI1Ni1nY206YTMzOEE5@aw-sg.vndmall.pro:8888#🇸🇬 Singapore | Amazon.com, 17
-trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#🇸🇬 Singapore | BrainStorm Network, Inc 1
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬 Singapore | BrainStorm Network, Inc 2
+trojan://CF68213490@logical-koala.rooster465.autos:443?security=tls&sni=logical-koala.rooster465.autos#🇸🇬 Singapore | Amazon.com, 9
+trojan://CF68213490@saved-tuna.rooster465.autos:443?security=tls&sni=saved-tuna.rooster465.autos#🇸🇬 Singapore | Amazon.com, 10
+trojan://CF68213490@star-hagfish.rooster465.autos:443?sni=star-hagfish.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 11
+trojan://CF68213490@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&peer=gentle-raptor.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon.com, 12
+trojan://CF68213490@saved-tuna.rooster465.autos:443?allowInsecure=0&sni=saved-tuna.rooster465.autos#🇸🇬 Singapore | Amazon.com, 13
+trojan://CF68213490@star-hagfish.rooster465.autos:443?sni=star-hagfish.rooster465.autos&peer=star-hagfish.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon.com, 14
+trojan://CF68213490@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon.com, 15
+trojan://CF68213490@logical-koala.rooster465.autos:443?sni=logical-koala.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 16
+trojan://CF68213490@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&peer=intimate-moray.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon.com, 17
+trojan://CF68213490@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 18
+trojan://CF68213490@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇸🇬 Singapore | Amazon.com, 19
+trojan://CF68213490@sacred-treefrog.rooster465.autos:443?allowInsecure=0&sni=sacred-treefrog.rooster465.autos#🇸🇬 Singapore | Amazon.com, 20
+ss://YWVzLTI1Ni1nY206YTMzOEE5@aw-sg.vndmall.pro:8888#🇸🇬 Singapore | Amazon.com, 21
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬 Singapore | BrainStorm Network, Inc 1
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#🇸🇬 Singapore | BrainStorm Network, Inc 2
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#🇸🇬 Singapore | BrainStorm Network, Inc 3
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&sni=grape-power-sg.roxa.org&fp=chrome&type=tcp&headerType=none#🇸🇬 Singapore | BrainStorm Network, Inc 4
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#🇸🇬 Singapore | BrainStorm Network, Inc 5
-vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&security=none&type=ws&headerType=&host=square-brook-e650.353-3ac.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | CDS Global Cloud Co., 1
-vless://fc46b03d-e185-48e7-8c18-dea03b4a0c25@www.ipget.net:8880?&security=false&fp=chrome&type=ws&headerType=none&host=flat-union-b292.17-4e0.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | CDS Global Cloud Co., 2
-vless://220046c3-0081-4c22-a648-83a52bc3a0d5@www.glassdoor.com:8880?type=ws&encryption=none&host=yellow-sky-38b3.154-d73.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1&descriptions=люби_себя2004e2#🇸🇬 Singapore | CDS Global Cloud Co., 3
 vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&headerType=none&spx=/&fp=ios&type=tcp&path=/&security=reality&sid=f0cce996&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&encryption=none#🇸🇬 Singapore | Cloudflare, 1
-vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&spx=/&type=tcp&headerType=none&path=/#🇸🇬 Singapore | Cloudflare, 2
-vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&spx=%2F&flow=xtls-rprx-vision#🇸🇬 Singapore | Cloudflare, 3
-vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&spx=%2F&type=tcp&headerType=none#🇸🇬 Singapore | Cloudflare, 4
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFNHIDEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoxODAwMCwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWNbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1TRy03MzE0MDkwIiwic2N5IjpudWxsLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGx9#🇸🇬 Singapore | Datacamp 1
 vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@104.27.82.154:8880?encryption=none&host=gentle-surf-cc74.345-604.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🇸🇬 Singapore | DigitalOcean, 1
-vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&host=super-mud-8b38.114-a90.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🇸🇬 Singapore | DigitalOcean, 2
-vless://a7b8b48e-1000-46f5-a974-f6606d94f3b4@162.159.48.193:8880?encryption=none&type=ws&host=misty-hill-4b94.146-c18.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#🇸🇬 Singapore | DigitalOcean, 3
-vless://7db9bcc1-78f1-455d-944b-3363b867e670@172.64.88.251:8880?encryption=none&host=long-wildflower-3df6.341-165.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#🇸🇬 Singapore | DigitalOcean, 4
-vless://4c37df21-0a34-41bf-8bc7-78efd823c03b@172.66.200.130:8880?encryption=none&host=shiny-salad-e491.479.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🇸🇬 Singapore | DigitalOcean, 5
-vless://984d10dd-4d51-45ac-a781-f0c1357644c2@104.17.170.132:8880?&security=none&type=ws&headerType=&host=lingering-sun-d7b5.49-56e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | DigitalOcean, 6
-vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@104.17.64.70:8880?type=ws&host=silent-heart-175f.325-a85.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | DigitalOcean, 7
-vless://7db9bcc1-78f1-455d-944b-3363b867e670@172.64.88.251:8880?encryption=none&host=long-wildflower-3df6.341-165.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🇸🇬 Singapore | DigitalOcean, 8
-vless://20d0a81f-da70-44dc-b9bf-5a5ddab644db@172.66.200.130:8880?encryption=none&host=crimson-lab-6cab.402-311.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🇸🇬 Singapore | DigitalOcean, 9
-vless://e74e8806-06b5-4fb0-a89e-cf79d88cfd02@162.159.48.193:8880?security=none&type=ws&host=wild-frog-54a9.170-dcc.workers.dev&path=%2Fpyip#🇸🇬 Singapore | DigitalOcean, 10
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.24:443?encryption=none&type=ws&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&fp=chrome&sni=tianshu13.pages.dev#🇸🇬 Singapore | DigitalOcean, 11
-vless://e7b178da-65e8-45ad-8550-de40eb0a7835@support.zoom.us:80?type=ws&path=%2F&host=sahanwickramasinghevip.shop&sni=support.zoom.us#🇸🇬 Singapore | DigitalOcean, 12
-vless://e7b178da-65e8-45ad-8550-de40eb0a7835@support.zoom.us:80?type=ws&security=none&fp=firefox&path=/&host=sahanwickramasinghevip.shop#🇸🇬 Singapore | DigitalOcean, 13
-vless://e7b178da-65e8-45ad-8550-de40eb0a7835@support.zoom.us:80?encryption=none&security=none&type=ws&host=sahanwickramasinghevip.shop&path=%2F#🇸🇬 Singapore | DigitalOcean, 14
-vless://e7b178da-65e8-45ad-8550-de40eb0a7835@support.zoom.us:80?&type=ws&headerType=none&host=sahanwickramasinghevip.shop&path=%2F#🇸🇬 Singapore | DigitalOcean, 15
-vless://82a3c394-55b7-4780-93a0-5f45c0e89625@www.baipiao.eu.org:8880?&security=none&type=ws&headerType=&host=square-brook-e650.353-3ac.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | DigitalOcean, 16
-vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@www.glassdoor.com:8880?&security=false&fp=chrome&type=ws&headerType=none&host=silent-heart-175f.325-a85.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | DigitalOcean, 17
-vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@178.128.22.27:443?security=tls&sni=sahanwickramasinghevip.shop&type=tcp&fp=chrome&allowInsecure=0#🇸🇬 Singapore | DigitalOcean, 18
-vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=sahanwickramasinghevip.shop#🇸🇬 Singapore | DigitalOcean, 19
-vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?sni=sahanwickramasinghevip.shop&fp=chrome&security=tls#🇸🇬 Singapore | DigitalOcean, 20
+vless://e7b178da-65e8-45ad-8550-de40eb0a7835@172.66.46.221:80?host=sahanwickramasinghevip.shop&path=%2F&type=ws#🇸🇬 Singapore | DigitalOcean, 2
+vless://e7b178da-65e8-45ad-8550-de40eb0a7835@162.159.40.70:80?host=sahanwickramasinghevip.shop&path=%2F&type=ws#🇸🇬 Singapore | DigitalOcean, 3
+vless://e7b178da-65e8-45ad-8550-de40eb0a7835@104.18.42.160:80?host=sahanwickramasinghevip.shop&path=%2F&type=ws#🇸🇬 Singapore | DigitalOcean, 4
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.24:443?encryption=none&type=ws&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&fp=chrome&sni=tianshu13.pages.dev#🇸🇬 Singapore | DigitalOcean, 5
+vless://e7b178da-65e8-45ad-8550-de40eb0a7835@172.66.45.35:80?host=sahanwickramasinghevip.shop&path=%2F&type=ws#🇸🇬 Singapore | DigitalOcean, 6
+vless://e74e8806-06b5-4fb0-a89e-cf79d88cfd02@162.159.48.193:8880?security=none&type=ws&host=wild-frog-54a9.170-dcc.workers.dev&path=%2Fpyip#🇸🇬 Singapore | DigitalOcean, 7
+vless://7db9bcc1-78f1-455d-944b-3363b867e670@172.64.88.251:8880?encryption=none&host=long-wildflower-3df6.341-165.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#🇸🇬 Singapore | DigitalOcean, 8
+vless://7db9bcc1-78f1-455d-944b-3363b867e670@172.64.88.251:8880?encryption=none&host=long-wildflower-3df6.341-165.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🇸🇬 Singapore | DigitalOcean, 9
+vless://e7b178da-65e8-45ad-8550-de40eb0a7835@104.20.39.109:80?host=sahanwickramasinghevip.shop&path=%2F&type=ws#🇸🇬 Singapore | DigitalOcean, 10
+vless://e7b178da-65e8-45ad-8550-de40eb0a7835@162.159.44.66:80?host=sahanwickramasinghevip.shop&path=%2F&type=ws#🇸🇬 Singapore | DigitalOcean, 11
+vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@91.110.209.63:443?encryption=none&security=tls&sni=edge-4cb23bf6.pages.dev&insecure=0&allowInsecure=0&type=ws&host=edge-4cb23bf6.pages.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇸🇬 Singapore | DigitalOcean, 12
+vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@178.128.22.27:443?security=tls&sni=sahanwickramasinghevip.shop&type=tcp&fp=chrome&allowInsecure=0#🇸🇬 Singapore | DigitalOcean, 13
+vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?sni=sahanwickramasinghevip.shop&fp=chrome&security=tls#🇸🇬 Singapore | DigitalOcean, 14
 vless://3dc30f8b-e411-4f68-9fda-73b63d920e1a@67.159.52.159:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=deepl.com&pbk=S2Fe4Ft_uGGNGVShoyrKHED3VaoRfjLQxDBD3LaNbgc&sid=9350a4f6c01e987a&fp=qq#🇸🇬 Singapore | FDCservers.net 1
-vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&type=ws&host=super-mud-8b38.114-a90.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#🇸🇬 Singapore | First Server 1
-vless://e74e8806-06b5-4fb0-a89e-cf79d88cfd02@162.159.48.193:8880?&security=none&type=ws&headerType=&host=wild-frog-54a9.170-dcc.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | First Server 2
-vless://82a3c394-55b7-4780-93a0-5f45c0e89625@172.67.179.98:8880?type=ws&host=square-brook-e650.353-3ac.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | LINODE 1
-vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@104.16.25.46:8880?type=ws&host=silent-heart-175f.325-a85.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | LINODE 2
-vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&sni=gateway.icloud.com&sid=3b0b73e5#🇸🇬 Singapore | Oracle 1
+vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@104.27.82.154:8880?&type=ws&headerType=none&host=gentle-surf-cc74.345-604.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | Oracle 1
+vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&sni=gateway.icloud.com&sid=3b0b73e5#🇸🇬 Singapore | Oracle 2
+vless://af6904c1-4349-4448-8e99-0024824a0c33@sgxi.959555.xyz:10000?security=reality&encryption=none&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3b0b73e5#🇸🇬 Singapore | Oracle 3
 vless://aa83d161-1169-494a-a57e-c8d8b327f051@43.159.50.28:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=5KO-p5u_N5i11i_DC49SsSKTW1XvTiYMhg-eMzj3HTw&sid=0417be28beffdfc1&sni=www.apple.com&fp=chrome&alpn=http%2F1.1#🇸🇬 Singapore | Shenzhen Tencent Compu... 1
-vless://9d45d137-9892-4a83-a04a-f30b4da28243@104.26.13.40:8880?type=ws&host=broken-wave-8a45.483.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | Tencent Cloud Computin... 1
-vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.21.88.129:8880?type=ws&host=square-brook-e650.353-3ac.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | The Constant Company 1
-vless://4070e7c9-a412-4ed0-a5fa-fdb455451d2c@104.17.21.32:8880?security=none&type=ws&host=icy-sky-53f2.9-e8e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | The Constant Company 2
+vless://aa83d161-1169-494a-a57e-c8d8b327f051@43.159.50.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5KO-p5u_N5i11i_DC49SsSKTW1XvTiYMhg-eMzj3HTw&security=reality&sid=0417be28beffdfc1&sni=www.apple.com&type=tcp#🇸🇬 Singapore | Shenzhen Tencent Compu... 2
+vless://aa83d161-1169-494a-a57e-c8d8b327f051@43.159.50.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=5KO-p5u_N5i11i_DC49SsSKTW1XvTiYMhg-eMzj3HTw&sid=0417be28beffdfc1&type=tcp&headerType=none#🇸🇬 Singapore | Shenzhen Tencent Compu... 3
