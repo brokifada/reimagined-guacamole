@@ -3,124 +3,121 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDExOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDExNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701?encryption=none&fp=&pbk=TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA&security=reality&sid=7ef3a8ab2886&sni=amazon.com&type=tcp#🇰🇷 South Korea | Alibaba (US) Technolog... 1
-trojan://CF68213490@54.180.228.205:443?allowInsecure=0&sni=diverse-thrush.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 1
-trojan://CF68213490@54.180.233.91:443?sni=central-jawfish.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 2
-trojan://CF68213490@13.125.159.219:443?allowInsecure=0&sni=star-bluejay.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 3
-trojan://CF68213490@52.79.117.94:443?allowInsecure=0&sni=together-impala.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 4
-trojan://CF68213490@together-impala.rooster465.autos:443?allowInsecure=0&sni=together-impala.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 5
-trojan://CF68213490@54.180.139.180:443?allowInsecure=0&sni=enormous-whippet.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 6
-trojan://CF68213490@54.180.1.187:443?sni=charming-puma.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 7
-trojan://CF68213490@charming-puma.rooster465.autos:443?sni=charming-puma.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 8
-trojan://CF68213490@54.180.248.218:443?allowInsecure=0&sni=devoted-zebra.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 9
-trojan://CF68213490@clear-heron.rooster465.autos:443?allowInsecure=0&sni=clear-heron.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 10
-trojan://CF68213490@54.180.235.223:443?allowInsecure=0&sni=eternal-horse.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 11
-trojan://CF68213490@13.124.122.135:443?allowInsecure=0&sni=clear-heron.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 12
-trojan://CF68213490@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 13
-trojan://CF68213490@charming-puma.rooster465.autos:443?sni=charming-puma.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 14
-trojan://CF68213490@central-jawfish.rooster465.autos:443?allowInsecure=0&sni=central-jawfish.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 15
-trojan://CF68213490@clear-heron.rooster465.autos:443?security=tls&sni=clear-heron.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 16
-trojan://CF68213490@star-bluejay.rooster465.autos:443?security=tls&sni=star-bluejay.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 17
-trojan://CF68213490@eternal-horse.rooster465.autos:443?allowInsecure=0&sni=eternal-horse.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 18
-trojan://CF68213490@charming-puma.rooster465.autos:443?security=tls&sni=charming-puma.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 19
-trojan://CF68213490@devoted-zebra.rooster465.autos:443?allowInsecure=0&sni=devoted-zebra.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 20
-trojan://CF68213490@together-impala.rooster465.autos:443?sni=together-impala.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 21
+trojan://CF68213490@13.125.159.219:443?allowInsecure=0&sni=star-bluejay.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 1
+trojan://CF68213490@54.180.248.218:443?allowInsecure=0&sni=devoted-zebra.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 2
+trojan://CF68213490@52.79.117.94:443?allowInsecure=0&sni=together-impala.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 3
+trojan://CF68213490@54.180.235.223:443?allowInsecure=0&sni=eternal-horse.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 4
+trojan://CF68213490@clear-heron.rooster465.autos:443?allowInsecure=0&sni=clear-heron.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 5
+trojan://CF68213490@star-bluejay.rooster465.autos:443?sni=star-bluejay.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 6
+trojan://CF68213490@central-jawfish.rooster465.autos:443?security=tls&sni=central-jawfish.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 7
+trojan://CF68213490@enormous-whippet.rooster465.autos:443?sni=enormous-whippet.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 8
+trojan://CF68213490@charming-puma.rooster465.autos:443?sni=charming-puma.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 9
+trojan://CF68213490@eternal-horse.rooster465.autos:443?security=tls&sni=eternal-horse.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 10
+trojan://CF68213490@devoted-zebra.rooster465.autos:443?security=tls&sni=devoted-zebra.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 11
+trojan://CF68213490@devoted-zebra.rooster465.autos:443?allowInsecure=0&sni=devoted-zebra.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 12
+trojan://CF68213490@diverse-thrush.rooster465.autos:443?sni=diverse-thrush.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 13
+trojan://CF68213490@clear-heron.rooster465.autos:443?security=tls&sni=clear-heron.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 14
+trojan://CF68213490@charming-puma.rooster465.autos:443?security=tls&sni=charming-puma.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 15
+trojan://CF68213490@together-impala.rooster465.autos:443?security=tls&sni=together-impala.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 16
+trojan://CF68213490@enormous-whippet.rooster465.autos:443?allowInsecure=0&sni=enormous-whippet.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 17
+trojan://CF68213490@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 18
+trojan://CF68213490@charming-puma.rooster465.autos:443?sni=charming-puma.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 19
+trojan://CF68213490@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 20
+trojan://CF68213490@together-impala.rooster465.autos:443?allowInsecure=0&sni=together-impala.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 21
 trojan://CF68213490@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&peer=central-jawfish.rooster465.autos&security=tls#🇰🇷 South Korea | Amazon Technologies 22
-trojan://CF68213490@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 23
-trojan://CF68213490@diverse-thrush.rooster465.autos:443?sni=diverse-thrush.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 24
-trojan://CF68213490@enormous-whippet.rooster465.autos:443?allowInsecure=0&sni=enormous-whippet.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 25
-trojan://CF68213490@star-bluejay.rooster465.autos:443?sni=star-bluejay.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 26
-trojan://CF68213490@devoted-zebra.rooster465.autos:443?security=tls&sni=devoted-zebra.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 27
-trojan://CF68213490@eternal-horse.rooster465.autos:443?security=tls&sni=eternal-horse.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 28
-trojan://CF68213490@devoted-zebra.rooster465.autos:443?sni=devoted-zebra.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 29
-trojan://CF68213490@diverse-thrush.rooster465.autos:443?allowInsecure=0&sni=diverse-thrush.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 30
-trojan://CF68213490@eternal-horse.rooster465.autos:443?sni=eternal-horse.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 31
-trojan://CF68213490@central-jawfish.rooster465.autos:443?security=tls&sni=central-jawfish.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 32
-trojan://CF68213490@enormous-whippet.rooster465.autos:443?security=tls&sni=enormous-whippet.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 33
-trojan://CF68213490@clear-heron.rooster465.autos:443?sni=clear-heron.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 34
-trojan://CF68213490@star-bluejay.rooster465.autos:443?allowInsecure=0&sni=star-bluejay.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 35
-trojan://CF68213490@together-impala.rooster465.autos:443?security=tls&sni=together-impala.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 36
-trojan://CF68213490@enormous-whippet.rooster465.autos:443?sni=enormous-whippet.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 37
-trojan://CF68213490@3.36.94.34:443?sni=awake-satyr.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 1
-trojan://CF68213490@3.36.60.83:443?sni=gentle-mastiff.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 2
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 3
-trojan://CF68213490@3.39.248.52:443?sni=helping-shark.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 4
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 5
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | Amazon.com, 6
-trojan://CF68213490@pure-ram.rooster465.autos:443?security=tls&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon.com, 7
-trojan://CF68213490@43.201.102.23:443?allowInsecure=0&sni=upward-yak.rooster465.autos#🇰🇷 South Korea | Amazon.com, 8
-trojan://CF68213490@43.201.46.29:443?allowInsecure=0&sni=smooth-lark.rooster465.autos#🇰🇷 South Korea | Amazon.com, 9
-trojan://CF68213490@3.35.81.139:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#🇰🇷 South Korea | Amazon.com, 10
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#🇰🇷 South Korea | Amazon.com, 11
-trojan://CF68213490@3.35.214.88:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 12
-trojan://CF68213490@pure-ram.rooster465.autos:443?allowInsecure=0#🇰🇷 South Korea | Amazon.com, 13
-trojan://CF68213490@upward-yak.rooster465.autos:443?allowInsecure=0&sni=upward-yak.rooster465.autos#🇰🇷 South Korea | Amazon.com, 14
-trojan://CF68213490@43.201.146.77:443?sni=aware-puma.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 15
-trojan://CF68213490@tolerant-stag.rooster465.autos:443?sni=tolerant-stag.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 16
-trojan://CF68213490@helping-shark.rooster465.autos:443?sni=helping-shark.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 17
-trojan://CF68213490@43.203.209.247:443?allowInsecure=0&sni=tolerant-stag.rooster465.autos#🇰🇷 South Korea | Amazon.com, 18
-trojan://CF68213490@aware-puma.rooster465.autos:443?security=tls&sni=aware-puma.rooster465.autos#🇰🇷 South Korea | Amazon.com, 19
-trojan://CF68213490@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 20
-trojan://CF68213490@helping-shark.rooster465.autos:443?sni=helping-shark.rooster465.autos&peer=helping-shark.rooster465.autos&security=tls#🇰🇷 South Korea | Amazon.com, 21
-trojan://CF68213490@gentle-mastiff.rooster465.autos:443?security=tls&sni=gentle-mastiff.rooster465.autos#🇰🇷 South Korea | Amazon.com, 22
+trojan://CF68213490@star-bluejay.rooster465.autos:443?allowInsecure=0&sni=star-bluejay.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 23
+trojan://CF68213490@54.180.228.205:443?allowInsecure=0&sni=diverse-thrush.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 24
+trojan://CF68213490@star-bluejay.rooster465.autos:443?security=tls&sni=star-bluejay.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 25
+trojan://CF68213490@13.124.122.135:443?allowInsecure=0&sni=clear-heron.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 26
+trojan://CF68213490@eternal-horse.rooster465.autos:443?allowInsecure=0&sni=eternal-horse.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 27
+trojan://CF68213490@diverse-thrush.rooster465.autos:443?security=tls&sni=diverse-thrush.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 28
+trojan://CF68213490@diverse-thrush.rooster465.autos:443?allowInsecure=0&sni=diverse-thrush.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 29
+trojan://CF68213490@clear-heron.rooster465.autos:443?sni=clear-heron.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon Technologies 30
+trojan://CF68213490@enormous-whippet.rooster465.autos:443?security=tls&sni=enormous-whippet.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 31
+trojan://CF68213490@43.201.102.23:443?allowInsecure=0&sni=upward-yak.rooster465.autos#🇰🇷 South Korea | Amazon.com, 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 2
+trojan://CF68213490@3.38.190.61:443?sni=excited-squirrel.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 3
+trojan://CF68213490@43.201.46.29:443?allowInsecure=0&sni=smooth-lark.rooster465.autos#🇰🇷 South Korea | Amazon.com, 4
+trojan://CF68213490@3.39.248.52:443?sni=helping-shark.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 5
+trojan://CF68213490@43.203.209.247:443?allowInsecure=0&sni=tolerant-stag.rooster465.autos#🇰🇷 South Korea | Amazon.com, 6
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | Amazon.com, 7
+trojan://CF68213490@43.201.64.246:443?allowInsecure=0&sni=growing-ram.rooster465.autos#🇰🇷 South Korea | Amazon.com, 8
+trojan://CF68213490@43.201.146.77:443?sni=aware-puma.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 9
+trojan://CF68213490@3.38.213.204:443?sni=allowing-halibut.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 10
+trojan://CF68213490@3.36.60.83:443?sni=gentle-mastiff.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 11
+trojan://CF68213490@excited-squirrel.rooster465.autos:443?sni=excited-squirrel.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 12
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 13
+trojan://CF68213490@pure-ram.rooster465.autos:443?security=tls&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon.com, 14
+trojan://CF68213490@gentle-mastiff.rooster465.autos:443?sni=gentle-mastiff.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 15
+trojan://CF68213490@smooth-lark.rooster465.autos:443?security=tls#🇰🇷 South Korea | Amazon.com, 16
+trojan://CF68213490@allowing-halibut.rooster465.autos:443?sni=allowing-halibut.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 17
+trojan://CF68213490@helping-shark.rooster465.autos:443?sni=helping-shark.rooster465.autos&peer=helping-shark.rooster465.autos&security=tls#🇰🇷 South Korea | Amazon.com, 18
+trojan://CF68213490@upward-yak.rooster465.autos:443?allowInsecure=0&sni=upward-yak.rooster465.autos#🇰🇷 South Korea | Amazon.com, 19
+trojan://CF68213490@climbing-frog.rooster465.autos:443?sni=climbing-frog.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 20
+trojan://CF68213490@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 21
+trojan://CF68213490@excited-squirrel.rooster465.autos:443?sni=excited-squirrel.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 22
 trojan://CF68213490@excited-squirrel.rooster465.autos:443?security=tls&sni=excited-squirrel.rooster465.autos#🇰🇷 South Korea | Amazon.com, 23
-trojan://CF68213490@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 24
-trojan://CF68213490@pure-ram.rooster465.autos:443?allowInsecure=0&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon.com, 25
-trojan://CF68213490@helping-shark.rooster465.autos:443?allowInsecure=0&sni=helping-shark.rooster465.autos#🇰🇷 South Korea | Amazon.com, 26
-trojan://CF68213490@allowing-halibut.rooster465.autos:443?sni=allowing-halibut.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 27
-trojan://CF68213490@smooth-lark.rooster465.autos:443?allowInsecure=0&sni=smooth-lark.rooster465.autos#🇰🇷 South Korea | Amazon.com, 28
-trojan://CF68213490@gentle-mastiff.rooster465.autos:443?allowInsecure=0#🇰🇷 South Korea | Amazon.com, 29
-trojan://CF68213490@smooth-lark.rooster465.autos:443?security=tls#🇰🇷 South Korea | Amazon.com, 30
-trojan://CF68213490@climbing-frog.rooster465.autos:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#🇰🇷 South Korea | Amazon.com, 31
-trojan://CF68213490@excited-squirrel.rooster465.autos:443?sni=excited-squirrel.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 32
-trojan://CF68213490@43.201.64.246:443?allowInsecure=0&sni=growing-ram.rooster465.autos#🇰🇷 South Korea | Amazon.com, 33
-trojan://CF68213490@growing-ram.rooster465.autos:443?security=tls&sni=growing-ram.rooster465.autos#🇰🇷 South Korea | Amazon.com, 34
-trojan://CF68213490@smooth-lark.rooster465.autos:443?sni=smooth-lark.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 35
-trojan://CF68213490@climbing-frog.rooster465.autos:443?sni=climbing-frog.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 36
-trojan://CF68213490@allowing-halibut.rooster465.autos:443?sni=allowing-halibut.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 37
-trojan://CF68213490@allowing-halibut.rooster465.autos:443?security=tls&sni=allowing-halibut.rooster465.autos#🇰🇷 South Korea | Amazon.com, 38
-trojan://CF68213490@tolerant-stag.rooster465.autos:443?allowInsecure=0&sni=tolerant-stag.rooster465.autos#🇰🇷 South Korea | Amazon.com, 39
-trojan://CF68213490@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 40
-trojan://CF68213490@awake-satyr.rooster465.autos:443?sni=awake-satyr.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 41
-trojan://CF68213490@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 42
-trojan://CF68213490@gentle-mastiff.rooster465.autos:443?sni=gentle-mastiff.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 43
-trojan://CF68213490@upward-yak.rooster465.autos:443?security=tls&sni=upward-yak.rooster465.autos#🇰🇷 South Korea | Amazon.com, 44
-trojan://CF68213490@gentle-mastiff.rooster465.autos:443?sni=gentle-mastiff.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 45
-trojan://CF68213490@awake-satyr.rooster465.autos:443?sni=awake-satyr.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 46
-trojan://CF68213490@upward-yak.rooster465.autos:443?sni=upward-yak.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 47
-trojan://CF68213490@excited-squirrel.rooster465.autos:443?sni=excited-squirrel.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 48
-trojan://CF68213490@helping-shark.rooster465.autos:443?security=tls&sni=helping-shark.rooster465.autos#🇰🇷 South Korea | Amazon.com, 49
-trojan://CF68213490@climbing-frog.rooster465.autos:443?security=tls&sni=climbing-frog.rooster465.autos#🇰🇷 South Korea | Amazon.com, 50
-trojan://CF68213490@growing-ram.rooster465.autos:443?allowInsecure=0&sni=growing-ram.rooster465.autos#🇰🇷 South Korea | Amazon.com, 51
-trojan://CF68213490@aware-lionfish.rooster465.autos:443?security=tls&sni=aware-lionfish.rooster465.autos#🇰🇷 South Korea | Amazon.com, 52
-trojan://CF68213490@helping-shark.rooster465.autos:443?sni=helping-shark.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 53
-trojan://CF68213490@growing-ram.rooster465.autos:443?sni=growing-ram.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 54
-trojan://CF68213490@tolerant-stag.rooster465.autos:443?security=tls&sni=tolerant-stag.rooster465.autos#🇰🇷 South Korea | Amazon.com, 55
-trojan://CF68213490@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&peer=pure-ram.rooster465.autos&security=tls#🇰🇷 South Korea | Amazon.com, 56
-vless://a5a82872-616b-49f6-a40a-6a54feeb5dd0@151.245.106.49:2053?encryption=none&fp=firefox&pbk=9HIcma6Y5a0yddTqa3_zNUyItI3J-g99GdT0u0Moqzw&security=reality&sid=87478274a30fcaea&sni=www.cloudflare.com&type=tcp&__rand=75c6873d#🇰🇷 South Korea | HostHatch 1
+trojan://CF68213490@upward-yak.rooster465.autos:443?sni=upward-yak.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 24
+trojan://CF68213490@upward-yak.rooster465.autos:443?security=tls&sni=upward-yak.rooster465.autos#🇰🇷 South Korea | Amazon.com, 25
+trojan://CF68213490@awake-satyr.rooster465.autos:443?sni=awake-satyr.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 26
+trojan://CF68213490@helping-shark.rooster465.autos:443?security=tls&sni=helping-shark.rooster465.autos#🇰🇷 South Korea | Amazon.com, 27
+trojan://CF68213490@pure-ram.rooster465.autos:443?allowInsecure=0&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon.com, 28
+trojan://CF68213490@climbing-frog.rooster465.autos:443?security=tls&sni=climbing-frog.rooster465.autos#🇰🇷 South Korea | Amazon.com, 29
+trojan://CF68213490@allowing-halibut.rooster465.autos:443?sni=allowing-halibut.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 30
+trojan://CF68213490@allowing-halibut.rooster465.autos:443?security=tls&sni=allowing-halibut.rooster465.autos#🇰🇷 South Korea | Amazon.com, 31
+trojan://CF68213490@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 32
+trojan://CF68213490@awake-satyr.rooster465.autos:443?security=tls&sni=awake-satyr.rooster465.autos#🇰🇷 South Korea | Amazon.com, 33
+trojan://CF68213490@aware-lionfish.rooster465.autos:443?security=tls&sni=aware-lionfish.rooster465.autos#🇰🇷 South Korea | Amazon.com, 34
+trojan://CF68213490@3.36.94.34:443?sni=awake-satyr.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 35
+trojan://CF68213490@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 36
+trojan://CF68213490@growing-ram.rooster465.autos:443?security=tls&sni=growing-ram.rooster465.autos#🇰🇷 South Korea | Amazon.com, 37
+trojan://CF68213490@helping-shark.rooster465.autos:443?sni=helping-shark.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 38
+trojan://CF68213490@aware-puma.rooster465.autos:443?security=tls&sni=aware-puma.rooster465.autos#🇰🇷 South Korea | Amazon.com, 39
+trojan://CF68213490@gentle-mastiff.rooster465.autos:443?security=tls&sni=gentle-mastiff.rooster465.autos#🇰🇷 South Korea | Amazon.com, 40
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#🇰🇷 South Korea | Amazon.com, 41
+trojan://CF68213490@climbing-frog.rooster465.autos:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#🇰🇷 South Korea | Amazon.com, 42
+trojan://CF68213490@awake-satyr.rooster465.autos:443?sni=awake-satyr.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 43
+trojan://CF68213490@tolerant-stag.rooster465.autos:443?security=tls&sni=tolerant-stag.rooster465.autos#🇰🇷 South Korea | Amazon.com, 44
+trojan://CF68213490@tolerant-stag.rooster465.autos:443?sni=tolerant-stag.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 45
+trojan://CF68213490@gentle-mastiff.rooster465.autos:443?sni=gentle-mastiff.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 46
+trojan://CF68213490@tolerant-stag.rooster465.autos:443?allowInsecure=0&sni=tolerant-stag.rooster465.autos#🇰🇷 South Korea | Amazon.com, 47
+trojan://CF68213490@growing-ram.rooster465.autos:443?allowInsecure=0&sni=growing-ram.rooster465.autos#🇰🇷 South Korea | Amazon.com, 48
+trojan://CF68213490@3.35.81.139:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#🇰🇷 South Korea | Amazon.com, 49
+trojan://CF68213490@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 50
+trojan://CF68213490@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&peer=pure-ram.rooster465.autos&security=tls#🇰🇷 South Korea | Amazon.com, 51
+trojan://CF68213490@helping-shark.rooster465.autos:443?sni=helping-shark.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 52
+trojan://CF68213490@smooth-lark.rooster465.autos:443?sni=smooth-lark.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇰🇷 South Korea | Amazon.com, 53
+vless://a5a82872-616b-49f6-a40a-6a54feeb5dd0@151.245.106.49:2053?encryption=none&fp=firefox&pbk=9HIcma6Y5a0yddTqa3_zNUyItI3J-g99GdT0u0Moqzw&security=reality&sid=87478274a30fcaea&sni=www.cloudflare.com&type=tcp#🇰🇷 South Korea | HostHatch 1
 vless://a5a82872-616b-49f6-a40a-6a54feeb5dd0@151.245.106.49:2053?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=9HIcma6Y5a0yddTqa3_zNUyItI3J-g99GdT0u0Moqzw&sid=87478274a30fcaea#🇰🇷 South Korea | HostHatch 2
-vless://a5a82872-616b-49f6-a40a-6a54feeb5dd0@151.245.106.49:2053?encryption=none&fp=firefox&pbk=9HIcma6Y5a0yddTqa3_zNUyItI3J-g99GdT0u0Moqzw&security=reality&sid=87478274a30fcaea&sni=www.cloudflare.com&type=tcp#🇰🇷 South Korea | HostHatch 3
-vless://4ecdf2bd-3ef1-4356-8323-420ed29e8e89@43.108.23.174:32521?encryption=none&type=raw&headerType=none&security=none#🇰🇷 South Korea | Korea Telecom 1
-vless://4ecdf2bd-3ef1-4356-8323-420ed29e8e89@43.108.23.174:32521#🇰🇷 South Korea | Korea Telecom 2
-vless://4ecdf2bd-3ef1-4356-8323-420ed29e8e89@43.108.23.174:32521??__rand=727ed187#🇰🇷 South Korea | Korea Telecom 3
-vless://87a5d3eb-afd4-4193-9787-c54ef7c26c8c@172.64.88.251:8880?type=ws&host=patient-cake-39c7.44-e7a.workers.dev&path=%2F#🇰🇷 South Korea | Oracle 1
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888#🇰🇷 South Korea | KOR VULTR 1
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#🇰🇷 South Korea | KOR VULTR 2
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#🇰🇷 South Korea | KOR VULTR 3
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@61.111.247.233:34045?security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#🇰🇷 South Korea | MOACK.Co.LTD 1
+vless://87a5d3eb-afd4-4193-9787-c54ef7c26c8c@172.64.88.251:8880?type=ws&host=patient-cake-39c7.44-e7a.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 1
 vless://d6bdda67-168d-4501-a2c1-ef01070cb327@198.41.208.252:8880?encryption=none&host=crimson-smoke-7818.397.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 2
-vless://565326ee-c588-4843-9472-a051578ab1ae@162.159.156.214:8880?&security=none&type=ws&headerType=&host=lucky-cell-e8c5.490-f12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 3
-vless://7e3cd2f1-0de5-4717-9002-64d8597bc577@172.64.88.251:8880?encryption=none&host=dry-credit-fc26.203-d8c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 4
-vless://2ff7eec6-da48-46ab-b770-5c83400a528c@104.17.170.132:8880?&security=none&type=ws&headerType=&host=icy-glade-ad0f.412.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 5
-vless://c18fd69e-92ba-446e-981b-213dbb551593@162.159.140.78:8880?encryption=none&type=ws&host=billowing-wind-5b29.133-323.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#🇰🇷 South Korea | Oracle 6
-vless://80f083d3-8348-4514-b075-62f303b7fd86@themeforest.net:8880?type=ws&host=young-term-5783.284.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 7
-vless://2ff7eec6-da48-46ab-b770-5c83400a528c@104.17.170.132:8880?encryption=none&host=icy-glade-ad0f.412.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 8
-vless://d829cf8d-0a32-4e60-bcc3-a03fb4658ea4@104.16.106.213:8880?&security=none&type=ws&headerType=&host=shy-wind-a26f.182-104.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 9
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjowLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjdbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1LUi0xMTM4NDYwMSIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ2IjoiMiJ9#🇰🇷 South Korea | Oracle 10
-vless://b01cadb4-428b-42d2-8c56-d6c13e582ede@162.159.46.0:8880?type=ws&host=lingering-water-9e69.219.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 1
-vless://b4883d27-3151-4adf-92b1-841c0dccd1ea@172.64.88.168:8880?&security=false&fp=chrome&type=ws&headerType=none&host=damp-surf-aacf.296-8ed.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 2
-vless://87a5d3eb-afd4-4193-9787-c54ef7c26c8c@172.64.88.251:8880?type=ws&host=patient-cake-39c7.44-e7a.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 3
-vless://ff7390de-ce93-4d7d-b08b-bef8f71a85cf@104.16.107.139:8880?&security=false&fp=chrome&type=ws&headerType=none&host=tiny-lake-c7f3.16-1af.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 4
-vless://565326ee-c588-4843-9472-a051578ab1ae@172.67.152.71:8880?type=ws&host=lucky-cell-e8c5.490-f12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&encryption=none&alpn=http%2F1.1&headerType=none&fp=chrome&freeinternet=kizyak_vpn1784159714452#🇰🇷 South Korea | SK Broadband Co 5
-vless://bd3eb105-b048-47fa-9a1d-63a66f9830a2@104.16.106.213:8880?&security=none&type=ws&headerType=&host=misty-flower-4d15.372-912.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 6
-vless://bd3eb105-b048-47fa-9a1d-63a66f9830a2@www.baipiao.eu.org:8880?&security=none&type=ws&headerType=&host=misty-flower-4d15.372-912.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 7
-vless://bd3eb105-b048-47fa-9a1d-63a66f9830a2@skk.moe:8880?&security=none&type=ws&headerType=&host=misty-flower-4d15.372-912.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 8
-vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@log.bpminecraft.com:8880?type=ws&host=misty-mouse-141d.177-f18.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 9
+vless://49a9aa25-443b-4fab-9a85-066dd5396c57@104.17.170.132:8880?headerType=&security=none&host=mute-river-6aee.421-bd7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&type=ws&descriptions=СвободуИнтернету63#🇰🇷 South Korea | Oracle 3
+vless://b01cadb4-428b-42d2-8c56-d6c13e582ede@162.159.46.0:8880?type=ws&host=lingering-water-9e69.219.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 4
+vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@log.bpminecraft.com:8880?type=ws&host=misty-mouse-141d.177-f18.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 5
+vless://f9a53aa5-774e-4556-b2b7-d8b57b423b97@162.159.21.178:8880?type=ws&host=yellow-breeze-989b.348-9b8.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 6
+vless://65aed3c1-1999-46a1-a3f3-2e5eb119ec64@172.67.207.26:8880?encryption=none&security=none&type=ws&host=weathered-hat-76a5.380-d00.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 7
+vless://8546bcef-8456-41a2-82bc-d2231b42b769@www.baipiao.eu.org:8880?type=ws&host=small-tree-9ec0.84-971.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 8
+vless://472e0fb5-3a6b-48be-8060-cfffc6335624@www.ipget.net:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=broken-grass-24c4.288-005.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇰🇷 South Korea | Oracle 9
+vless://6b89f475-913c-4381-a102-f5e06a129685@104.16.106.213:8880?&security=none&type=ws&headerType=&host=proud-dawn-56f1.125-85b.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 10
+vless://f9a53aa5-774e-4556-b2b7-d8b57b423b97@162.159.21.178:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&host=yellow-breeze-989b.348-9b8.workers.dev&type=ws#🇰🇷 South Korea | Oracle 11
+vless://80f083d3-8348-4514-b075-62f303b7fd86@themeforest.net:8880?type=ws&host=young-term-5783.284.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 12
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjowLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjdbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1LUi0xMTM4NDYwMSIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ2IjoiMiJ9#🇰🇷 South Korea | Oracle 13
+vless://dda82e57-02c8-4d0b-9c6c-c2945e5509e5@43.155.219.66:9001?type=tcp&sid=458ff70ea97eeac2&sni=www.apple.com&fp=chrome&pbk=Ep_RxUq0kSY2xhXtVRHJNQPgl3V_T4UGhTzOYXVPQEk&security=reality&_t=819a748e#🇰🇷 South Korea | Shenzhen Tencent Compu... 1
+vless://dda82e57-02c8-4d0b-9c6c-c2945e5509e5@kr.kefenhuimin.com:9001?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=Ep_RxUq0kSY2xhXtVRHJNQPgl3V_T4UGhTzOYXVPQEk&sni=www.apple.com&sid=458ff70ea97eeac2#🇰🇷 South Korea | Shenzhen Tencent Compu... 2
+vless://dda82e57-02c8-4d0b-9c6c-c2945e5509e5@kr.kefenhuimin.com:9001?fp=chrome&sid=458ff70ea97eeac2&headerType=&type=tcp&path=%2F&security=reality&host=www.apple.com&sni=www.apple.com&pbk=Ep_RxUq0kSY2xhXtVRHJNQPgl3V_T4UGhTzOYXVPQEk&descriptions=люби_себя807f7b#🇰🇷 South Korea | Shenzhen Tencent Compu... 3
+vless://472e0fb5-3a6b-48be-8060-cfffc6335624@172.67.207.26:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=broken-grass-24c4.288-005.workers.dev&packetEncoding=xudp#🇰🇷 South Korea | SK Broadband Co 1
+vless://65aed3c1-1999-46a1-a3f3-2e5eb119ec64@172.67.207.26:8880?encryption=none&security=none&type=ws&host=weathered-hat-76a5.380-d00.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&freeinternet=kizyak_vpn1784197207963#🇰🇷 South Korea | SK Broadband Co 2
+vless://49a9aa25-443b-4fab-9a85-066dd5396c57@104.17.170.132:8880?&security=none&type=ws&headerType=&host=mute-river-6aee.421-bd7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 3
+vless://c18fd69e-92ba-446e-981b-213dbb551593@162.159.140.78:8880?encryption=none&type=ws&host=billowing-wind-5b29.133-323.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#🇰🇷 South Korea | SK Broadband Co 4
+vless://87a5d3eb-afd4-4193-9787-c54ef7c26c8c@172.64.88.251:8880?type=ws&host=patient-cake-39c7.44-e7a.workers.dev&path=%2F#🇰🇷 South Korea | SK Broadband Co 5
+vless://efb0a3fe-af52-45c5-b397-1a6866d88d67@172.64.88.251:8880?encryption=none&type=ws&host=tight-recipe-11ad.252-068.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#🇰🇷 South Korea | SK Broadband Co 6
+vless://65aed3c1-1999-46a1-a3f3-2e5eb119ec64@www.ipget.net:8880?&security=false&fp=chrome&type=ws&headerType=none&host=weathered-hat-76a5.380-d00.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 7
+vless://ff7390de-ce93-4d7d-b08b-bef8f71a85cf@104.16.107.139:8880?&security=false&fp=chrome&type=ws&headerType=none&host=tiny-lake-c7f3.16-1af.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 8
+vless://df26029b-bffe-4ce2-9246-25b52ed2b1c7@log.bpminecraft.com:8880?&security=false&fp=chrome&type=ws&headerType=none&host=polished-field-4448.186-705.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 9
