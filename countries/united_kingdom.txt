@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrPCfh6cgQm9iaVZQTiDigJQgVW5pdGVkIEtpbmdkb20K4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrPCfh6cgQm9iaVZQTiDigJQgVW5pdGVkIEtpbmdkb20K4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://c416332e-2bde-4806-ac02-8f021c6e8f68@162.159.36.53:443?type=ws&headerType=none&security=tls&encryption=none&sni=bbc.zjxc.de5.net&fp=firefox&path=%2F&host=bbc.zjxc.de5.net&insecure=0#🇬🇧 United Kingdom | Aeza International LTD 1
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?type=grpc&mode=gun&serviceName=vless#🇬🇧 United Kingdom | Weyro LTD 1
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&mode=gun&serviceName=vless#🇬🇧 United Kingdom | Weyro LTD 2
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.133:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇬🇧 United Kingdom | Weyro LTD 3
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&sni=telegraph.co.uk&sid=deee73#🇬🇧 United Kingdom | NetCrafters OU 1
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?encryption=none&type=grpc&security=reality&sni=add.oneoker.com&pbk=W329R9_hAiG_wGLcIhfbm0AA8Si7DVhz4es2aASZACY&sid=9c478d3655bfa85d&fp=chrome&serviceName=api.v1.StreamService#🇬🇧 United Kingdom | Packet Star Networks 1
