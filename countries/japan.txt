@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hr/Cfh7UgQm9iaVZQTiDigJQgSmFwYW4K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.16.107.139:8880?&security=none&type=ws&headerType=&host=orange-math-9c83.371.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | Oracle 1
+vless://a8985e6a-f338-4b44-9a41-f94495603a96@skk.moe:8880?encryption=none&type=ws&host=dawn-cell-346f.238-df6.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none#🇯🇵 Japan | DMIT Cloud Services 1
