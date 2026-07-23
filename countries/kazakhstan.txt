@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#🇰🇿 Kazakhstan | JSC Transtelecom 1
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇰🇿 Kazakhstan | JSC Transtelecom 2
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp&descriptions=люби_себя793831#🇰🇿 Kazakhstan | JSC Transtelecom 3
+vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp&descriptions=люби_себяb77cb0#🇰🇿 Kazakhstan | JSC Transtelecom 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.39.30:8880/?flow=&path=%2F&host=vms.lifetime17.workers.dev&type=ws&encryption=none&_t=e004b653#🇰🇿 Kazakhstan | Modern Server Solution... 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?security=none&type=ws&path=/&host=vms.lifetime61.workers.dev&packetEncoding=xudp&encryption=none#🇰🇿 Kazakhstan | Smartnet TOO 1
