@@ -3,14 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?encryption=none&type=ws&security=tls&path=%2Fmy-kc&host=blog.webex.com.yxls.eu.cc&sni=blog.webex.com.yxls.eu.cc&insecure=0&allowInsecure=0#🌍 Malaysia | Kaopu Cloud HK 1
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@cf.levikogjgfdd.ir:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 2
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=%2Fmy-kc&security=tls&encryption=none&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 3
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 4
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@cf.levikogjgfdd.ir:443?path=%2Fmy-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 5
-vless://05e7abc2-46e1-4a23-9cdc-173ce17eb0d4@104.26.6.214:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=round-term-947c.41-332.workers.dev&packetEncoding=xudp#🌍 Malaysia | Scloud Pte 1
-vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@104.27.82.154:8880?encryption=none&host=gentle-surf-cc74.345-604.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🌍 Malaysia | Scloud Pte 2
-vless://35b94b2c-1b46-4209-a04b-32ecf159b632@104.18.12.229:8880?encryption=none&security=none&type=ws&host=fragrant-tooth-2180.97-cbb.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🌍 Malaysia | Scloud Pte 3
-vless://68662961-6c5f-48c1-b807-6398f3287dbc@172.66.170.53:8880?host=polished-meadow-2ac5.228-76d.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#🌍 Malaysia | Scloud Pte 4
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@cf.levikogjgfdd.ir:443?path=%2Fmy-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 1
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?encryption=none&type=ws&security=tls&path=%2Fmy-kc&host=blog.webex.com.yxls.eu.cc&sni=blog.webex.com.yxls.eu.cc&insecure=0&allowInsecure=0#🌍 Malaysia | Kaopu Cloud HK 2
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@cf.levikogjgfdd.ir:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 3
+vless://7db9bcc1-78f1-455d-944b-3363b867e670@172.64.88.251:8880?encryption=none&host=long-wildflower-3df6.341-165.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🌍 Malaysia | Scloud Pte 1
+vless://392ed37c-c0cd-472e-8765-a94677005b0b@104.21.88.129:8880?type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&host=frosty-bread-788f.398.workers.dev&_t=52552133#🌍 Malaysia | Scloud Pte 2
+vless://68662961-6c5f-48c1-b807-6398f3287dbc@172.66.170.53:8880?host=polished-meadow-2ac5.228-76d.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#🌍 Malaysia | Scloud Pte 3
+vless://380de97f-1d87-4394-acb8-f9ad7a422ac1@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=proud-recipe-239d.305-0da.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🌍 Malaysia | Scloud Pte 4
