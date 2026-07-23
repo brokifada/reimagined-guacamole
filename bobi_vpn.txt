@@ -3,48 +3,26 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIOKAlCDQkdGL0YHRgtGA0YvQuSDQuCDQndCw0LTRkdC20L3Ri9C5CvCfjJ8g0KLQstC+0Lkg0L3QsNC00ZHQttC90YvQuSBWUE4=
+#announce: base64:8J+QtiBCb2JpVlBOIOKAlCDQkdGL0YHRgtGA0YvQuSDQuCDQndCw0LTRkdC20L3Ri9C5CvCfm6HvuI8g0JfQsNGJ0LjRgtCwINGC0LLQvtC10LPQviDRgtGA0LDRhNC40LrQsA==
 
-vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.77.131.97:8444?mode=gun&security=reality&encryption=none&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&fp=chrome&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=d6b2e9f1a4c8d3f5#🇳🇱 The Netherlands | Play2go International 1
-vless://20f21d96-3700-46d9-9f63-5933403c0c18@104.16.101.215:8880?encryption=none&host=restless-math-7bde.299-75c.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#🇯🇵 Japan | SAKURA Internet 1
-vless://7a2df38b-2d8b-486b-9b43-641c81e11f40@104.16.99.215:8880?encryption=none&security=none&type=ws&host=shiny-mud-d9fa.466.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001287h3p.cybervena.com:50099#🇹🇼 Taiwan | Chunghwa Telecom Co., . 1
-vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@skk.moe:8880?&security=false&fp=chrome&type=ws&headerType=none&host=winter-mode-7f4e.89-136.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | First Server 1
-vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.17.188.61:2086?type=ws&host=od1kl638.xn--nxa.nyc.mn&path=/sub#🇺🇸 United States | Cloudflare, 1
-vless://e081da45-9fae-4687-9376-f9a6a0dbbe83@104.20.28.233:80?encryption=none&host=e33xr.qzz.io&path=%2Fid-amz&security=none&type=ws#🇺🇸 United States | Cloudflare, 2
-vless://4a805850-a2c4-42b3-898a-798f0c19c609@172.64.144.52:2052?security=none&type=ws&host=3o3ed92e.xn--nxa.nyc.mn&path=/sub#🇺🇸 United States | Cloudflare, 3
-vless://9c772ed7-2843-4554-9a96-4a88f827de58@104.16.106.213:8880?&security=false&fp=chrome&type=ws&headerType=none&host=nameless-tree-08b8.352.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇺🇸 United States | Cloudflare, 4
-vless://e74e8806-06b5-4fb0-a89e-cf79d88cfd02@wild-frog-54a9.170-dcc.workers.dev:8880?type=ws&amp;path=%2Fpyip&amp;fp=qq&nonce=8t6RdvGi#🇺🇸 United States | Cloudflare, 5
-vless://a8890c1b-3622-3106-c4be-d8671be32d2b@summer-meadow-af5b.woowoorrrkk.workers.dev:443?encryption=none&security=tls&sni=summer-meadow-af5b.woowoorrrkk.workers.dev&fp=chrome&type=ws&host=summer-meadow-af5b.woowoorrrkk.workers.dev&path=%2Fsync#🇺🇸 United States | Cloudflare, 6
-vless://3aaabf99-32c6-4032-8695-c9f0eb28be6f@download.yunzhongzhuan.com:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=divine-sound-9e93.22-be2.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇺🇸 United States | Cloudflare, 7
-vless://4a805850-a2c4-42b3-898a-798f0c19c609@dokqjxa0.cf.3666888.xyz:8880?encryption=none&security=none&type=ws&host=rhna7tu4.xn--nxa.nyc.mn&path=%2Fsub#🇺🇸 United States | Cloudflare, 8
-vless://1cae67cd-9f09-4c59-94e6-998ed0346c44@download.yunzhongzhuan.com:8880?encryption=none&type=ws&host=lingering-lab-91a6.54-8c3.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#🇺🇸 United States | Cloudflare, 9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#🇺🇸 United States | Datacamp 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#🇺🇸 United States | Datacamp 2
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&type=tcp&headerType=none#🇺🇸 United States | DigitalOcean, 1
-vless://07f9bc85-613f-4a33-8da1-191973c43c0a@app-q0zc4t.user-4gfyh5.workers.dev:443?encryption=none&security=tls&sni=app-q0zc4t.user-4gfyh5.workers.dev&fp=chrome&type=ws&host=app-q0zc4t.user-4gfyh5.workers.dev&path=%2Fcmh#🇺🇸 United States | DigitalOcean, 2
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?encryption=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&type=raw&headertype=none#🇺🇸 United States | DigitalOcean, 3
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#🇺🇸 United States | DigitalOcean, 4
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&fp=firefox&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&security=reality&sid=aae8&sni=deepl.com&type=tcp#🇺🇸 United States | FBW NETWORKS SAS 1
-vless://e4824193-4f54-453b-d037-88368e85ef0e@8.6.112.0:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&fp=firefox&type=grpc#🇺🇸 United States | G-Core Labs S.A. 1
-vless://e4824193-4f54-453b-d037-88368e85ef0e@198.41.209.87:443?alpn=h2,http/1.1&encryption=none&security=tls&sni=gco1.afterdomain.shop&type=grpc#🇺🇸 United States | G-Core Labs S.A. 2
-vless://335035e6-65f1-4a51-a8a7-10fb0a89b8e7@104.21.75.42:8080?&type=ws&headerType=none&host=shrill-lake-231c.jachhitachi69.workers.dev&path=%2FeyJqdW5rIjoiSXNVYzY3dGhnb1VORTVKYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D#🇺🇸 United States | Metro Communications C... 1
-vless://2a77a470-315c-493d-b690-59b814a804cb@82.40.23.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇺🇸 United States | Ultahost, 1
-vless://aa7461af-3176-42a3-8974-59930189c521@icook.tw:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=round-block-e864.326.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇺🇸 United States | Zenlayer Inc 1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#🇨🇦 Canada | DigitalOcean, 1
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-013.limaklhc6.info&type=ws&headerType=none&host=ad-013.limaklhc6.info&path=%2F#🇨🇦 Canada | OVH SAS 1
-vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&sni=www.speedtest.net#🇨🇦 Canada | OVH SAS 2
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.zen2bswa.info:8443?security=tls&type=ws&path=%2F&host=ad-013.zen2bswa.info&packetEncoding=xudp&sni=ad-013.zen2bswa.info&fp=chrome#🇨🇦 Canada | OVH SAS 3
-vless://376024be-ea7e-4947-a9db-1ab33de364a8@185.206.170.90:445?security=none&encryption=none&headerType=none&type=tcp#🇨🇦 Canada | YottaSrc 1
-trojan://ON38567014@82.117.225.20:443?security=tls&type=tcp&path=/&sni=grown-rhino.rooster465.autos&fp=chrome#🇦🇺 Australia | G-Core Labs S.A. 1
-trojan://NQ26071394@87.121.33.201:443?sni=chief-antelope.rooster465.autos&fp=chrome&type=tcp&path=/#🇦🇺 Australia | G-Core Labs S.A. 2
-trojan://NQ26071394@87.121.33.68:443?sni=wanted-marmoset.rooster465.autos&fp=chrome&type=tcp&path=/#🇦🇺 Australia | G-Core Labs S.A. 3
-trojan://IQ68037294@chief-antelope.rooster465.autos:443?sni=chief-antelope.rooster465.autos&type=tcp&fp=chrome#🇦🇺 Australia | G-Core Labs S.A. 4
-trojan://KV63147582@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 5
-trojan://ON38567014@grown-rhino.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=grown-rhino.rooster465.autos&fp=chrome#🇦🇺 Australia | G-Core Labs S.A. 6
-trojan://IQ68037294@together-dingo.rooster465.autos:443?sni=together-dingo.rooster465.autos&type=tcp&fp=chrome#🇦🇺 Australia | G-Core Labs S.A. 7
-trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 8
-vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🌍 Saudi Arabia | Oracle 1
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp&headerType=none#🌍 Unknown | Unknown 1
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=none&fp=chrome&type=tcp#🌍 Unknown | Unknown 2
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&type=raw&headerType=none&security=none#🌍 Unknown | Unknown 3
+trojan://NQ26071394@3.75.174.185:443?fp=chrome&sni=certain-prawn.rooster465.autos#🇩🇪 Germany | Amazon Technologies 1
+trojan://NQ26071394@3.75.174.185:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=certain-prawn.rooster465.autos#🇩🇪 Germany | Amazon Technologies 2
+trojan://ON38567014@18.196.207.79:443?fp=chrome&sni=summary-finch.rooster465.autos#🇩🇪 Germany | Amazon Technologies 3
+trojan://IQ68037294@glad-javelin.rooster465.autos:443?security=tls#🇩🇪 Germany | Amazon Technologies 4
+trojan://CF68213490@harmless-lab.rooster465.autos:443?allowInsecure=1#🇩🇪 Germany | Amazon Technologies 5
+trojan://CF68213490@harmless-lab.rooster465.autos:443?sni=harmless-lab.rooster465.autos&peer=harmless-lab.rooster465.autos&security=tls#🇩🇪 Germany | Amazon Technologies 6
+trojan://IQ68037294@enabling-gobbler.rooster465.autos:443?fp=chrome#🇩🇪 Germany | Amazon Technologies 7
+trojan://XG59623478@enabling-asp.rooster465.autos:443?security=tls&sni=enabling-asp.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇩🇪 Germany | Amazon Technologies 8
+trojan://KV63147582@evolving-baboon.rooster465.autos:443?security=tls&sni=evolving-baboon.rooster465.autos#🇩🇪 Germany | Amazon Technologies 9
+trojan://KV63147582@evolving-baboon.rooster465.autos:443?security=tls&sni=evolving-baboon.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇩🇪 Germany | Amazon Technologies 10
+trojan://NQ26071394@quiet-condor.rooster465.autos:443?security=tls&sni=quiet-condor.rooster465.autos&path=/#🇩🇪 Germany | Amazon.com 1
+trojan://NQ26071394@quiet-condor.rooster465.autos:443#🇩🇪 Germany | Amazon.com 2
+vless://c436d7dc-170d-40bf-b2b8-6cf468db5e65@92.223.109.89:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=wlCVdU8TCIBjIKRPWA6kpmptW0MV9rCP8WfWLSapsjU&sid=cc7dc5fb&sni=mc.yandex.ru#🇩🇪 Germany | dataforest GmbH 1
+vless://8bba3194-4856-46d1-8319-075817d87eb1@178.17.57.19:443?security=reality&flow=xtls-rprx-vision&sni=ge14.cyphervpn.pro&type=tcp&fp=firefox&pbk=CGrQMXFz6Qopcrvn3EIJnJwY-d_tQ4ahez7WQI8Z1Bk&sid=53f809e639280191#🇩🇪 Germany | GCS SER 1
+vless://8bba3194-4856-46d1-8319-075817d87eb1@178.17.57.19:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CGrQMXFz6Qopcrvn3EIJnJwY-d_tQ4ahez7WQI8Z1Bk&sid=53f809e639280191&sni=ge14.cyphervpn.pro#🇩🇪 Germany | GCS SER 2
+vless://8bba3194-4856-46d1-8319-075817d87eb1@89.23.108.122:2443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=ge4.cyphervpn.pro&type=tcp#🇩🇪 Germany | Global Connectivity So... 1
+vless://8bba3194-4856-46d1-8319-075817d87eb1@ge4.cyphervpn.pro:2443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=ge4.cyphervpn.pro&type=tcp#🇩🇪 Germany | Global Connectivity So... 2
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.95:443?encryption=none&security=tls&sni=fn.ariyuz.org&fp=firefox&type=ws&host=fn.ariyuz.org&path=%2Fapi#🇫🇮 Finland | Hetzner Online GmbH 1
+vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@185.221.163.211:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb&sni=fin1.panel11.ru#🇫🇮 Finland | Oy Crea Nova Hosting S... 1
+vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@185.221.163.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&security=reality&sid=aaec521b22bbe6cb&sni=fin1.panel11.ru&type=tcp#🇫🇮 Finland | Oy Crea Nova Hosting S... 2
+vless://c19735a7-ff97-a112-3f07-60e500f7719b@104.16.72.41:443?encryption=none&type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN=finland&host=l-j-iii-MiTiVPN---MiTiVPN-o.MAQROR.ir&sni=l-j-uu-MiTiVPN---MiTiVPN-o.MAQROR.ir&alpn=http/1.1&fp=chrome#🇫🇮 Finland | Snowd Security OU 1

@@ -3,5 +3,26 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCfjJ8g0KLQstC+0Lkg0L3QsNC00ZHQttC90YvQuSBWUE4=
+#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCfkqog0KHRgtCw0LHQuNC70YzQvdC+0LUg0YHQvtC10LTQuNC90LXQvdC40LU=
 
+trojan://NQ26071394@3.75.174.185:443?fp=chrome&sni=certain-prawn.rooster465.autos#🇩🇪 Germany | Amazon Technologies 1
+trojan://NQ26071394@3.75.174.185:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=certain-prawn.rooster465.autos#🇩🇪 Germany | Amazon Technologies 2
+trojan://ON38567014@18.196.207.79:443?fp=chrome&sni=summary-finch.rooster465.autos#🇩🇪 Germany | Amazon Technologies 3
+trojan://IQ68037294@glad-javelin.rooster465.autos:443?security=tls#🇩🇪 Germany | Amazon Technologies 4
+trojan://CF68213490@harmless-lab.rooster465.autos:443?allowInsecure=1#🇩🇪 Germany | Amazon Technologies 5
+trojan://CF68213490@harmless-lab.rooster465.autos:443?sni=harmless-lab.rooster465.autos&peer=harmless-lab.rooster465.autos&security=tls#🇩🇪 Germany | Amazon Technologies 6
+trojan://IQ68037294@enabling-gobbler.rooster465.autos:443?fp=chrome#🇩🇪 Germany | Amazon Technologies 7
+trojan://XG59623478@enabling-asp.rooster465.autos:443?security=tls&sni=enabling-asp.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇩🇪 Germany | Amazon Technologies 8
+trojan://KV63147582@evolving-baboon.rooster465.autos:443?security=tls&sni=evolving-baboon.rooster465.autos#🇩🇪 Germany | Amazon Technologies 9
+trojan://KV63147582@evolving-baboon.rooster465.autos:443?security=tls&sni=evolving-baboon.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇩🇪 Germany | Amazon Technologies 10
+trojan://NQ26071394@quiet-condor.rooster465.autos:443?security=tls&sni=quiet-condor.rooster465.autos&path=/#🇩🇪 Germany | Amazon.com 1
+trojan://NQ26071394@quiet-condor.rooster465.autos:443#🇩🇪 Germany | Amazon.com 2
+vless://c436d7dc-170d-40bf-b2b8-6cf468db5e65@92.223.109.89:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=wlCVdU8TCIBjIKRPWA6kpmptW0MV9rCP8WfWLSapsjU&sid=cc7dc5fb&sni=mc.yandex.ru#🇩🇪 Germany | dataforest GmbH 1
+vless://8bba3194-4856-46d1-8319-075817d87eb1@178.17.57.19:443?security=reality&flow=xtls-rprx-vision&sni=ge14.cyphervpn.pro&type=tcp&fp=firefox&pbk=CGrQMXFz6Qopcrvn3EIJnJwY-d_tQ4ahez7WQI8Z1Bk&sid=53f809e639280191#🇩🇪 Germany | GCS SER 1
+vless://8bba3194-4856-46d1-8319-075817d87eb1@178.17.57.19:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CGrQMXFz6Qopcrvn3EIJnJwY-d_tQ4ahez7WQI8Z1Bk&sid=53f809e639280191&sni=ge14.cyphervpn.pro#🇩🇪 Germany | GCS SER 2
+vless://8bba3194-4856-46d1-8319-075817d87eb1@89.23.108.122:2443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=ge4.cyphervpn.pro&type=tcp#🇩🇪 Germany | Global Connectivity So... 1
+vless://8bba3194-4856-46d1-8319-075817d87eb1@ge4.cyphervpn.pro:2443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=ge4.cyphervpn.pro&type=tcp#🇩🇪 Germany | Global Connectivity So... 2
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.95:443?encryption=none&security=tls&sni=fn.ariyuz.org&fp=firefox&type=ws&host=fn.ariyuz.org&path=%2Fapi#🇫🇮 Finland | Hetzner Online GmbH 1
+vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@185.221.163.211:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb&sni=fin1.panel11.ru#🇫🇮 Finland | Oy Crea Nova Hosting S... 1
+vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@185.221.163.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&security=reality&sid=aaec521b22bbe6cb&sni=fin1.panel11.ru&type=tcp#🇫🇮 Finland | Oy Crea Nova Hosting S... 2
+vless://c19735a7-ff97-a112-3f07-60e500f7719b@104.16.72.41:443?encryption=none&type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN=finland&host=l-j-iii-MiTiVPN---MiTiVPN-o.MAQROR.ir&sni=l-j-uu-MiTiVPN---MiTiVPN-o.MAQROR.ir&alpn=http/1.1&fp=chrome#🇫🇮 Finland | Snowd Security OU 1
