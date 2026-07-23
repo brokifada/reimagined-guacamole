@@ -6,4 +6,4 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp#🌍 China | China Mobile communica... 1
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none&headerType=none&type=tcp&security=none&descriptions=люби_себяce3681#🌍 China | China Mobile communica... 2
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp&_t=286c0c2a#🌍 China | China Mobile communica... 2
