@@ -7,4 +7,4 @@
 
 vless://8097fe8d-fbfd-47e3-9402-62e484cf609d@149.33.0.214:14302?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&security=reality&sid=106f1604d65bb70c&sni=www.samsung.com&type=tcp#🇰🇿 Kazakhstan | Cogent Communications 1
 vless://8097fe8d-fbfd-47e3-9402-62e484cf609d@149.33.0.214:14302?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.samsung.com&fp=firefox&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c#🇰🇿 Kazakhstan | Cogent Communications 2
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#🇰🇿 Kazakhstan | JSC Transtelecom 1
+vless://8097fe8d-fbfd-47e3-9402-62e484cf609d@149.33.0.214:14302?host=&sid=106f1604d65bb70c&sni=www.samsung.com&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&security=reality&flow=xtls-rprx-vision&headerType=&type=tcp&path=&fp=firefox#🇰🇿 Kazakhstan | Cogent Communications 3

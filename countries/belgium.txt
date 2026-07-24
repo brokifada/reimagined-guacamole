@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@128.127.181.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=be.quattro-tech.ru&type=tcp#🇧🇪 Belgium | Diogenius SPRL 1
+vless://46445435-11cd-47e8-87dc-1acc159fc360@be.sv.temas-bor.ir:22001?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#🇧🇪 Belgium | M247 Europe SRL 1
