@@ -3,5 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCfj4Yg0KLQvtC/0L7QstGL0LUg0YHQtdGA0LLQtdGA0Ys=
+#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCfpr4g0KHQuNC70LAg0LIg0LrQsNC20LTQvtC8INGB0LXRgNCy0LXRgNC1
 
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fsea&host=ntaeu.moonwolfzone-milo.sbs&sni=ntaeu.moonwolfzone-milo.sbs&fp=chrome&encryption=none#🇫🇷 France | OVH SAS 1

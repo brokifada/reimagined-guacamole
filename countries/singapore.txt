@@ -3,36 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSAzMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://220046c3-0081-4c22-a648-83a52bc3a0d5@104.16.25.46:8880?encryption=none&type=ws&security=none&path=/pyip=ProxyIP.SG.CMLiussss.net&host=yellow-sky-38b3.154-d73.workers.dev#🇸🇬 Singapore | Aceville Pte.ltd 1
-trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&sni=grape-power-sg.roxa.org&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇬 Singapore | BrainStorm Network, Inc 1
-vless://4070e7c9-a412-4ed0-a5fa-fdb455451d2c@104.17.21.32:8880?security=none&type=ws&host=icy-sky-53f2.9-e8e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | DigitalOcean, 1
-vless://d1eeb74f-e5ea-45eb-9934-5376bfeb5ba4@104.17.21.32:8880?type=ws&host=fragrant-shape-07a0.269-144.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | DigitalOcean, 2
-vless://3e7bb66e-d7c6-4711-aa05-e4ab0ec58c6d@104.16.106.213:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=shrill-cell-cca7.158-6fa.workers.dev&packetEncoding=xudp&descriptions=СвободуИнтернету473#🇸🇬 Singapore | DigitalOcean, 3
-vless://35b94b2c-1b46-4209-a04b-32ecf159b632@104.18.12.229:8880?encryption=none&security=none&type=ws&host=fragrant-tooth-2180.97-cbb.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | DigitalOcean, 4
-vless://243ad93d-9732-4e19-9784-8b1a642cff70@104.18.31.170:8880?encryption=none&security=none&type=ws&host=fancy-king-6fb5.33-615.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇸🇬 Singapore | DigitalOcean, 5
-vless://1563ad16-9ac7-4214-8eb7-303f745efb07@themeforest.net:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=silent-cake-fb8d.69-a76.workers.dev&packetEncoding=xudp#🇸🇬 Singapore | DigitalOcean, 6
-trojan://WG39087154@81.28.13.185:443?sni=closing-falcon.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A 1
-trojan://FC60532879@91.243.81.165:443?sni=magnetic-woodcock.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A. 1
-trojan://IQ68037294@45.135.228.245:443?sni=sterling-vervet.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A. 2
-trojan://FC60532879@45.135.228.223:443?sni=open-caribou.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A. 3
-trojan://WG39087154@45.135.228.36:443?sni=hopeful-leopard.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A. 4
-trojan://FC60532879@91.243.81.178:443?sni=brave-cattle.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A. 5
-trojan://IQ68037294@91.243.81.101:443?allowInsecure=1&sni=still-mastodon.rooster465.autos#🇸🇬 Singapore | G-Core Labs S.A. 6
-trojan://IQ68037294@smooth-cougar.rooster465.autos:443?sni=smooth-cougar.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A. 7
-trojan://IQ68037294@casual-stallion.rooster465.autos:443?security=tls&sni=casual-stallion.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇸🇬 Singapore | G-Core Labs S.A. 8
-trojan://FC60532879@open-caribou.rooster465.autos:443?sni=open-caribou.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A. 9
-trojan://IQ68037294@humane-hawk.rooster465.autos:443?allowInsecure=0&sni=humane-hawk.rooster465.autos#🇸🇬 Singapore | G-Core Labs S.A. 10
-trojan://IQ68037294@casual-stallion.rooster465.autos:443?allowInsecure=0#🇸🇬 Singapore | G-Core Labs S.A. 11
-trojan://IQ68037294@neat-duck.rooster465.autos:443?sni=neat-duck.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A. 12
-trojan://FC60532879@bright-quagga.rooster465.autos:443?security=tls&sni=bright-quagga.rooster465.autos&path=/#🇸🇬 Singapore | G-Core Labs S.A. 13
-trojan://FC60532879@humane-hawk.rooster465.autos:443?sni=humane-hawk.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A. 14
-trojan://IQ68037294@sterling-fowl.rooster465.autos:443?security=tls&sni=sterling-fowl.rooster465.autos#🇸🇬 Singapore | G-Core Labs S.A. 15
-trojan://FC60532879@brave-cattle.rooster465.autos:443?sni=brave-cattle.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A. 16
-trojan://FC60532879@91.243.81.138:443?sni=decent-raven.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | G-Core Labs S.A. 17
-trojan://IQ68037294@meet-doe.rooster465.autos:443?sni=meet-doe.rooster465.autos&path=/#🇸🇬 Singapore | G-Core Labs S.A. 18
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.208.112:443/?type=ws&encryption=none&flow=&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpnchannel@networld_vpn-&fp=chrome#🇸🇬 Singapore | Melbikomas UAB 1
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@170.114.45.6:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇸🇬 Singapore | Melbikomas UAB 2
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@170.114.45.6:443/?type=ws&encryption=none&flow=&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc#🇸🇬 Singapore | Melbikomas UAB 3
-vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&sni=gateway.icloud.com&sid=3b0b73e5#🇸🇬 Singapore | Oracle 1
+vless://725c66a2-2bce-4a24-ba52-b4e2e7047076@104.16.8.66:8880?security=none&sni=rapid-base-6c9e.45-d79.workers.dev&type=ws&host=rapid-base-6c9e.45-d79.workers.dev#🇸🇬 Singapore | Microsoft 1
