@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#🌍 Thailand | DEXSERVER by CSNE CO.,... 1
+vless://2b2ed3be-36bd-486d-9d04-ebf5b4be7ae9@104.26.13.40:8880?&security=false&fp=chrome&type=ws&headerType=none&host=twilight-heart-dbd6.220-2bd.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🌍 Thailand | M247 Europe SRL 1
+vless://2b5753cf-4d0a-4746-b63d-cd67a3de2ccc@skk.moe:8880?host=crimson-hill-8061.166-dcf.workers.dev&encryption=none&type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&burmalda=9ce00783#🌍 Thailand | M247 Europe SRL 2
