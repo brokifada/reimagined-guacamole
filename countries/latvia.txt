@@ -6,4 +6,4 @@
 #announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | Global Connectivity So... 1
-vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?encryption=none&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&security=reality&sid=4ffbd0f3117c6f&sni=yahoo.com&type=tcp#🌐 [AS9002] RETN Limited #🇱🇻 Latvia | RETN 1
+vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?#🇱🇻 Latvia | Global Connectivity So... 2
