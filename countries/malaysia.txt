@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://20d0a81f-da70-44dc-b9bf-5a5ddab644db@172.66.200.130:8880?encryption=none&host=crimson-lab-6cab.402-311.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🌍 Malaysia | Scloud Pte 1
+vless://8991a496-1baa-486f-9948-ffe44e68c072@162.159.156.214:8880?encryption=none&host=soft-band-8da6.426.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🌍 Malaysia | Scloud Pte 1
+vless://06bfb14e-66cc-48ca-a429-b9301dba2f81@104.17.123.204:8880?encryption=none&type=ws&host=long-firefly-a226.216-ce0.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#🌍 Malaysia | Scloud Pte 2
+vless://4e81922a-1c2e-41ee-bb4c-9095a0a363fe@104.16.100.66:8880?&security=none&type=ws&headerType=&host=gentle-cell-501a.273-d6b.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🌍 Malaysia | Scloud Pte 3
+vless://ad85a1ce-3519-4634-9ea1-66c60d3694ba@162.159.156.214:8880?&security=false&fp=chrome&type=ws&headerType=none&host=little-pond-8731.81-68e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🌍 Malaysia | Scloud Pte 4
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?type=ws&security=tls&sni=josni.hoyes.cloudns.ch#🌍 Malaysia | Scloud Pte 5

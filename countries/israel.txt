@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7EgQm9iaVZQTiDigJQgSXNyYWVsCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://808a0627-05e5-47b3-8d27-edd65020ef09@37.142.205.77:20443?security=reality&encryption=none&pbk=p8q3yhwdryc9YfL-xSO78M03SIF5LrizXc_7R9ARYQ8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=%3A%2F%2Fmicrosoft.com&sid=183d612c#🇮🇱 Israel | HOTNET 1
-vless://808a0627-05e5-47b3-8d27-edd65020ef09@37.142.205.77:20443?security=reality&encryption=none&pbk=p8q3yhwdryc9YfL-xSO78M03SIF5LrizXc_7R9ARYQ8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=://microsoft.com&sid=183d612c#🇮🇱 Israel | HOTNET 2
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.159.73.247:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=asia.cendora.ru&fp=qq&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077#🇮🇱 Israel | O.M.C. COMPUTERS & COM... 1
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.159.73.247:443?type=tcp&headerType=none&security=reality&encryption=none&sni=asia.cendora.ru&fp=qq&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&flow=xtls-rprx-vision#🇮🇱 Israel | O.M.C. COMPUTERS & COM... 2
