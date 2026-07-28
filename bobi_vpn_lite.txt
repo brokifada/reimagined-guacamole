@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCfpr4g0KHQuNC70LAg0LIg0LrQsNC20LTQvtC8INGB0LXRgNCy0LXRgNC1
+#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCuKcqCDQntCx0L3QvtCy0LvRj9C10YLRgdGPINCw0LLRgtC+0LzQsNGC0LjRh9C10YHQutC4
 
-vless://85329505-90c2-43d1-9c4a-689b1a0be884@45.131.212.22:443?sni=sellflow.org&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&encryption=none#🇷🇺 Russia | Neurosignal 1
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.148:443?&security=reality&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&fp=ios&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#🇩🇪 Germany | Clouvider 1
-vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@5.254.121.201:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&sid=cd5d72100116f1c3#🇩🇪 Germany | Datacamp 1
-vless://8bba3194-4856-46d1-8319-075817d87eb1@ge14.cyphervpn.pro:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CGrQMXFz6Qopcrvn3EIJnJwY-d_tQ4ahez7WQI8Z1Bk&sid=53f809e639280191&sni=ge14.cyphervpn.pro#🇩🇪 Germany | GCS SER 1
-vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&sid=479826bdfc3eb86e&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&encryption=none#🇩🇪 Germany | OVH SAS 1
-vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?security=reality&encryption=none&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=479826bdfc3eb86e#🇩🇪 Germany | OVH SAS 2
-vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@2.26.84.95:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.avito.ru&fp=firefox&pbk=WTCfu0XRIGi93MomsdOxuLOdnjXBkaaVZqaJWpxxYlk&sid=d8f3a9c2#🇩🇪 Germany | Play2go International 1
-vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:443?fp=chrome&pbk=l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE&security=reality&sid=3b802dad547b0847&sni=yandex.ru&type=tcp#🇩🇪 Germany | U1 DIGITAL SERVICES LTD 1
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@194.93.0.28:443?type=grpc&security=reality&sni=media2.tcpdoor.net&fp=safari&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&sid=3303c7a5&serviceName=grpc#🇩🇪 Germany | Ultahost, 1
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@194.93.0.28:443?security=reality&type=grpc&mode=gun&serviceName=grpc&sni=media2.tcpdoor.net&fp=safari&sid=3303c7a5&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8#🇩🇪 Germany | Ultahost, 2
-vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 Germany | xorek.cloud Internatio... 1
-vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?encryption=none&packetEncoding=xudp#🇩🇪 Germany | xorek.cloud Internatio... 2
-vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=none&amp;encryption=none&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;type=tcp#🇩🇪 Germany | xorek.cloud Internatio... 3
+vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@2.26.84.95:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.avito.ru&fp=chrome&pbk=WTCfu0XRIGi93MomsdOxuLOdnjXBkaaVZqaJWpxxYlk&sid=d8f3a9c2#🇩🇪 Germany | Play2go International 1
