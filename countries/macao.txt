@@ -7,7 +7,7 @@
 
 vless://916e3030-6eac-418b-9402-7508ca7d6280@fast.nanniang.top:8443?fp=chrome&host=mo-akile.nanniang.top&path=%2F&security=tls&sni=mo-akile.nanniang.top&type=ws#🌍 Macao | Akile LTD 1
 vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?type=ws&host=45.207.34.239&path=%2Fvless&fp=chrome#🌍 Macao | Akile LTD 2
-vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?type=ws&headerType=none&security=none&encryption=none&fp=chrome&path=%2Fvless&host=45.207.34.239#🌍 Macao | Akile LTD 3
-vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?type=ws&encryption=none&host=45.207.34.239&path=%2Fvless&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1#🌍 Macao | Akile LTD 4
-vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?encryption=none&security=none&type=ws&path=%2Fvless&_t=46715e27#🌍 Macao | Akile LTD 5
+vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?encryption=none&security=none&type=ws&path=%2Fvless&_t=46715e27#🌍 Macao | Akile LTD 3
+vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?type=ws&headerType=none&security=none&encryption=none&fp=chrome&path=%2Fvless&host=45.207.34.239#🌍 Macao | Akile LTD 4
+vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?type=ws&encryption=none&host=45.207.34.239&path=%2Fvless&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1#🌍 Macao | Akile LTD 5
 vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?encryption=none&security=none&type=ws&path=%2Fvless#🌍 Macao | Akile LTD 6
