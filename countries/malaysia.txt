@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@162.159.44.7:2053?security=tls&type=ws&path=/&host=josni.hoyes.cloudns.ch&sni=josni.hoyes.cloudns.ch&fp=chrome&encryption=none#🌍 Malaysia | Scloud Pte 1
+vless://999c9769-28db-425a-84d8-ccd7a3321406@jolly-glitter-123c.196-2b3.workers.dev:8880?type=ws&path=%2Fpyip&fp=qq#🌍 Malaysia | Scloud Pte 1
