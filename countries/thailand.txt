@@ -6,9 +6,9 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#🌍 Thailand | Alibaba.com 1
-vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?&type=tcp&headerType=none&path=/#🌍 Thailand | READYIDC CO 1
-vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?type=tcp&headerType=none&security=none&encryption=none&path=%2F#🌍 Thailand | READYIDC CO 2
-vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?type=tcp&security=none&encryption=none#🌍 Thailand | READYIDC CO 3
-vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?&type=tcp&headerType=none&path=%2F#🌍 Thailand | READYIDC CO 4
+vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?type=tcp&security=none&encryption=none#🌍 Thailand | READYIDC CO 1
+vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?&type=tcp&headerType=none&path=%2F#🌍 Thailand | READYIDC CO 2
+vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?type=tcp&headerType=none&security=none&encryption=none&path=%2F#🌍 Thailand | READYIDC CO 3
+vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?&type=tcp&headerType=none&path=/#🌍 Thailand | READYIDC CO 4
 vless://19668b6f-e215-41e6-8102-b8d29fb5b8ae@dtac.exp.dog:80?&type=ws&headerType=none&host=duatoup3wk8q2.cloudfront.net&path=%2Ffnet50#🌍 Thailand | Siamdata Communication... 1
-vless://19668b6f-e215-41e6-8102-b8d29fb5b8ae@dtac.exp.dog:80?type=ws&host=duatoup3wk8q2.cloudfront.net&path=/fnet50#🌍 Thailand | Siamdata Communication... 2
+vless://19668b6f-e215-41e6-8102-b8d29fb5b8ae@dtac.exp.dog:80?type=ws&headerType=none&security=none&encryption=none&path=%2Ffnet50&host=duatoup3wk8q2.cloudfront.net#🌍 Thailand | Siamdata Communication... 2
