@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDeXBydXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://7153fb3d-f357-42ac-b6db-ece1732f7f01@multi.fresedvpn.site:11443?encryption=none&security=none&type=ws&host=rebus.rustore.ru&path=%2Fapi%2Fv3%2Fws#🌍 Cyprus | Edge Core FZE 1
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&sid=19fbc4c7dd3d3d5a&sni=api-endpoint.rest#🌍 Cyprus | Mvps LTD 1
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?sni=api-endpoint.rest&sid=19fbc4c7dd3d3d5a&type=tcp&flow=xtls-rprx-vision&encryption=none&fp=qq&security=reality&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s#🌍 Cyprus | Mvps LTD 1
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-endpoint.rest&fp=qq&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&sid=19fbc4c7dd3d3d5a&flow=xtls-rprx-vision#🌍 Cyprus | Mvps LTD 2
