@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?&type=tcp&headerType=none&path=%2F#🌍 Thailand | READYIDC CO 1
-vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?type=tcp&security=none&encryption=none#🌍 Thailand | READYIDC CO 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#🌍 Thailand | Alibaba.com 1
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🌍 Thailand | M247 Europe SRL 1
 vless://564150f0-c0ad-46d1-8cf1-71e1900322e8@170.114.46.6:8080?path=%2Fmvpnpph2026&security=&encryption=none&host=pphfree3.mvpnpvpn.de5.net&type=ws#🌍 Thailand | Siamdata Communication... 1
