@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@38.180.112.246:52315?encryption=none&type=ws&security=none#🇹🇷 Türkiye | Scalaxy B.V. 1
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.41:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net&nonce=vDs9QEH_#🇹🇷 Türkiye | Datacamp 1
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.145:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net&__rand=c1e8df1d#🇹🇷 Türkiye | Datacamp 2
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.18:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network---%40sil3nt_network&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#🇹🇷 Türkiye | Datacamp 3
+vless://b1787456-cc54-4191-99e9-c609bf7c2853@dp-tr-01.live:443?flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&path=%2F#🇹🇷 Türkiye | Datacamp 4
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.56:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#🇹🇷 Türkiye | Datacamp 5

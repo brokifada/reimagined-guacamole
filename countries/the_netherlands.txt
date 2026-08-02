@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hs/Cfh7EgQm9iaVZQTiDigJQgVGhlIE5ldGhlcmxhbmRzCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.177.179:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&sid=bd72&sni=deepl.com#🇳🇱 The Netherlands | FDCservers.net 1
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@213.176.67.31:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node4.mxvpn.dev&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&allowinsecure=0&type=tcp&headerType=none#🇳🇱 The Netherlands | Aeza International LTD 1
