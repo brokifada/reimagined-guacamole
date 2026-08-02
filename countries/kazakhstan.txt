@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://a8902155-0d88-4506-af6b-b565d5274582@149.33.0.214:14302?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c&sni=www.samsung.com#🇰🇿 Kazakhstan | Cogent Communications 1
+vless://c46e2605-be24-4555-b7db-0fc6773ad004@91.217.10.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&type=tcp&headerType=none#🇰🇿 Kazakhstan | Newserverlife 1
