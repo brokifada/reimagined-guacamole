@@ -1,7 +1,0 @@
-#profile-update-interval: 1
-#profile-title: 🐶BobiVPN Lite🐶
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
-#support-url: https://bobivpn.netlify.app/
-#profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCuKame+4jyDQo9C80L3QsNGPINC/0YDQvtCy0LXRgNC60LAg0YHQtdGA0LLQtdGA0L7Qsg==
-
