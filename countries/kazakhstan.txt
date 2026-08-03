@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://e9ec2c07-1365-4d7e-964c-b51c937a0511@91.224.74.47:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#🇰🇿 Kazakhstan | Newserverlife 1
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@91.217.10.163:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&sni=yahoo.com#🇰🇿 Kazakhstan | Newserverlife 2
+vless://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr5.cheburnetnastalgia1998.com:50056?encryption=none&security=reality&sni=rubr5.cheburnetnastalgia1998.com&fp=firefox&pbk=yJBocmjwNjASYZkLpBTm6WObZpRBfHXNTjYbz3jHZn8&sid=25b79ebabb508860&type=grpc#🇰🇿 Kazakhstan | Scalaxy B.V. 1
+vless://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr5.cheburnetnastalgia1998.com:50056?encryption=none&fp=&pbk=yJBocmjwNjASYZkLpBTm6WObZpRBfHXNTjYbz3jHZn8&security=reality&sid=25b79ebabb508860&sni=rubr5.cheburnetnastalgia1998.com&type=grpc#🇰🇿 Kazakhstan | Scalaxy B.V. 2
