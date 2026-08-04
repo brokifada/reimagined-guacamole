@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=&encryption=none&headerType=none&type=tcp#🇰🇿 Kazakhstan | JSC Transtelecom 1
+vless://43694943-d64e-4393-a3cd-8c38de1c2a4e@155.212.240.30:443?path=%2F6facebf4-4bc6b53d-ae32f25d125c&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vbirffour.site&fp=firefox&type=ws&allowInsecure=0&sni=8qt88qpnmy.vbirffour.site#🇰🇿 Kazakhstan | Newserverlife 1
