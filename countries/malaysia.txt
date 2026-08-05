@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ3LjI1MC40NS4yMzQiLCAicG9ydCI6IDQzMDYzLCAiaWQiOiAiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICI0Ny4yNTAuNDUuMjM0IiwgInBhdGgiOiAiL2Fya2kiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIn0=#🌍 Malaysia | Alibaba Cloud 1
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?&security=tls&fp=chrome&sni=josni.hoyes.cloudns.ch&type=ws&headerType=none&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi#🌍 Malaysia | Scloud Pte 1
