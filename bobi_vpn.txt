@@ -1,0 +1,22 @@
+#profile-update-interval: 1
+#profile-title: 🐶BobiVPN🐶
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+QtiBCb2JpVlBOIOKAlCDQkdGL0YHRgtGA0YvQuSDQuCDQndCw0LTRkdC20L3Ri9C5CuKcqCDQntCx0L3QvtCy0LvRj9C10YLRgdGPINCw0LLRgtC+0LzQsNGC0LjRh9C10YHQutC4
+
+vmess://eyJhZGQiOiAiZGVhcHAuamlzdXl1bi50b3AiLCAiYWlkIjogMCwgImhvc3QiOiAiZGVhcHAuamlzdXl1bi50b3AiLCAiaWQiOiAiOWExYTA1ZDktNjliZS00NWQzLWUzMjYtYzY2MjFlZGY3YjMxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kZXZtIiwgInBvcnQiOiAyMDUzLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=#🇩🇪 Germany | Akamai Technologies, 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#🇩🇪 Germany | Alibaba.com Singapore ... 1
+trojan://ND91608427@3.124.187.220:443?sni=rapid-firefly.rooster465.autos&type=tcp&fp=chrome#🇩🇪 Germany | Amazon Technologies 1
+trojan://ND91608427@next-turkey.rooster465.autos:443#🇩🇪 Germany | Amazon Technologies 2
+trojan://ND91608427@rapid-firefly.rooster465.autos:443/?type=tcp&security=tls&sni=rapid-firefly.rooster465.autos&allowInsecure=1#🇩🇪 Germany | Amazon Technologies 3
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#🇩🇪 Germany | Clouvider 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#🇩🇪 Germany | Clouvider 2
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.16:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yahoo.com&path=/#🇩🇪 Germany | Clouvider 3
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@193.233.74.57:7443?type=grpc&security=reality&fp=firefox&pbk=P5eqN_q-Vq7M8YgrTIS_yZBgWLskGKQ9hAHhW__R6js&sid=89136b6e&sni=www.telekom.de&serviceName=grpc#🇩🇪 Germany | Global Connectivity So... 1
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@193.233.74.57:7443?security=reality&type=grpc&fp=firefox&sni=www.telekom.de&pbk=P5eqN_q-Vq7M8YgrTIS_yZBgWLskGKQ9hAHhW__R6js&serviceName=grpc&sid=89136b6e#🇩🇪 Germany | Global Connectivity So... 2
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@193.233.74.57:7443?type=grpc&security=reality&fp=firefox&pbk=P5eqN_q-Vq7M8YgrTIS_yZBgWLskGKQ9hAHhW__R6js&sid=89136b6e&sni=www.telekom.de&mode=gun&serviceName=grpc#🇩🇪 Germany | Global Connectivity So... 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#🇳🇱 The Netherlands | Greenhost BV 1
+vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?security=tls&type=ws&path=/carbon&host=oekja.megacitylab-nomt.sbs&sni=oekja.megacitylab-nomt.sbs&fp=firefox#🇫🇷 France | OVH SAS 1
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=de.catxstar.com#🇬🇧 United Kingdom | Catixs 1
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&sni=de.catxstar.com#🇬🇧 United Kingdom | Catixs 2
