@@ -1,585 +1,185 @@
 {
   "countries": {
-    "AE": {
+    "EE": {
       "count": 1,
-      "flag": "🇦🇪",
-      "name": "United Arab Emirates"
-    },
-    "DE": {
-      "count": 18,
-      "flag": "🇩🇪",
-      "name": "Germany"
+      "flag": "🇪🇪",
+      "name": "Estonia"
     },
     "FI": {
-      "count": 1,
+      "count": 2,
       "flag": "🇫🇮",
       "name": "Finland"
     },
-    "FR": {
-      "count": 3,
-      "flag": "🇫🇷",
-      "name": "France"
+    "NL": {
+      "count": 2,
+      "flag": "🇳🇱",
+      "name": "The Netherlands"
     },
-    "JP": {
-      "count": 20,
-      "flag": "🇯🇵",
-      "name": "Japan"
-    },
-    "PL": {
-      "count": 5,
-      "flag": "🇵🇱",
-      "name": "Poland"
-    },
-    "TR": {
-      "count": 1,
-      "flag": "🇹🇷",
-      "name": "Türkiye"
+    "US": {
+      "count": 9,
+      "flag": "🇺🇸",
+      "name": "United States"
     }
   },
   "description": "🔒 Bobi VPN — строго перепроверенные серверы\n⚡ Только реально работающие ключи",
   "keys": [
     {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "104.105.28.164",
-      "flag": "🇩🇪",
-      "isp": "Akamai Technologies,",
-      "key": "vmess://ewogICAgImFkZCI6ICJkZWFwcC5qaXN1eXVuLnRvcCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImRlYXBwLmppc3V5dW4udG9wIiwKICAgICJpZCI6ICI5YTFhMDVkOS02OWJlLTQ1ZDMtZTMyNi1jNjYyMWVkZjdiMzEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZGV2bSIsCiAgICAicG9ydCI6IDIwNTMsCiAgICAicHMiOiAi8J+HqfCfh6pERS0xNzIuMjM2LjIwNi41LTA1ODciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🇩🇪 Germany | Akamai Technologies, 3",
-      "latency_ms": 157,
-      "name": "🇩🇪 Germany | Akamai Technologies, 3",
-      "speed_kbps": 553.2
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "104.28.164.71",
-      "flag": "🇩🇪",
-      "isp": "Cloudflare,",
-      "key": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@49.13.64.206:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&sni=support.zoom.us.yxls.eu.cc&insecure=0&allowInsecure=0#🇩🇪 Germany | Cloudflare, 15",
-      "latency_ms": 127,
-      "name": "🇩🇪 Germany | Cloudflare, 15",
-      "speed_kbps": 844.8
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "91.239.157.85",
-      "flag": "🇩🇪",
-      "isp": "Clouvider",
-      "key": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.131:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇩🇪 Germany | Clouvider 7",
-      "latency_ms": 125,
-      "name": "🇩🇪 Germany | Clouvider 7",
-      "speed_kbps": 841.7
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "138.124.126.158",
-      "flag": "🇩🇪",
-      "isp": "Digital Hosting Provider",
-      "key": "vless://b12eebc2-369c-4f3c-96a0-a8bd150ca8d5@138.124.126.158:443?type=tcp&security=reality&sni=eh.vk.com&fp=firefox&flow=xtls-rprx-vision&pbk=Lxs8Ruv2zHH0XW5EiQmuCaScfkGPCxWjW02YDWH8pyU&sid=eb0cca7312345678#🇩🇪 Germany | Digital Hosting Provider 15",
-      "latency_ms": 96,
-      "name": "🇩🇪 Germany | Digital Hosting Provid",
-      "speed_kbps": 947.7
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "194.180.188.241",
-      "flag": "🇩🇪",
-      "isp": "Hostkey B.V.",
-      "key": "vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro.&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#🇩🇪 Germany | NKtelecom INC 2",
-      "latency_ms": 19,
-      "name": "🇩🇪 Germany | NKtelecom INC 2",
-      "speed_kbps": 520.5
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "194.180.188.241",
-      "flag": "🇩🇪",
-      "isp": "Hostkey B.V.",
-      "key": "vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80/?type=ws&encryption=none&flow=&host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&descriptions=люби_себяbbdb9f#🇩🇪 Germany | netcup GmbH 21",
-      "latency_ms": 22,
-      "name": "🇩🇪 Germany | netcup GmbH 21",
-      "speed_kbps": 550.7
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "45.129.78.196",
-      "flag": "🇩🇪",
-      "isp": "Hostkey B.V.",
-      "key": "vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@45.129.78.196:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=ger05.skorostnet.space&descriptions=СвободуИнтернету103#🇩🇪 Germany | Hostkey B.V. 21",
-      "latency_ms": 111,
-      "name": "🇩🇪 Germany | Hostkey B.V. 21",
-      "speed_kbps": 1003.8
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "159.195.45.129",
-      "flag": "🇩🇪",
-      "isp": "netcup GmbH",
-      "key": "vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&encryption=none&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=3.oncloudnineservicestreang.com&sid=1991780b928b292d#🇩🇪 Germany | netcup GmbH 17",
-      "latency_ms": 130,
-      "name": "🇩🇪 Germany | netcup GmbH 17",
-      "speed_kbps": 199.7
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "159.195.44.159",
-      "flag": "🇩🇪",
-      "isp": "netcup GmbH",
-      "key": "vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&sid=273940fba6ad8250&sni=5.oncloudnineservicestreang.com#🇩🇪 Germany | netcup GmbH 8",
-      "latency_ms": 139,
-      "name": "🇩🇪 Germany | netcup GmbH 8",
-      "speed_kbps": 135.1
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "152.53.236.22",
-      "flag": "🇩🇪",
-      "isp": "netcup GmbH",
-      "key": "vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwabxe.cvewfjg.shop:443?fp=chrome&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&flow=xtls-rprx-vision&sni=www.cloudflare.com&encryption=none&type=tcp&security=reality&headerType=none#🇩🇪 Germany | netcup GmbH 45",
-      "latency_ms": 169,
-      "name": "🇩🇪 Germany | netcup GmbH 45",
-      "speed_kbps": 991.4
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "152.53.127.214",
-      "flag": "🇩🇪",
-      "isp": "netcup GmbH",
-      "key": "vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdvymxi.cvewfjg.shop:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#🇩🇪 Germany | netcup GmbH 69",
-      "latency_ms": 184,
-      "name": "🇩🇪 Germany | netcup GmbH 69",
-      "speed_kbps": 953.1
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "93.152.223.98",
-      "flag": "🇩🇪",
-      "isp": "RMP Protection",
-      "key": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&sid=45ba18f429ad1f28&sni=web.max.ru#🇩🇪 Germany | RMP Protection 11",
-      "latency_ms": 90,
-      "name": "🇩🇪 Germany | RMP Protection 11",
-      "speed_kbps": 154.7
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "93.152.223.98",
-      "flag": "🇩🇪",
-      "isp": "RMP Protection",
-      "key": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&sid=45ba18f429ad1f28&sni=web.max.ru#🇩🇪 Germany | RMP Protection 3",
-      "latency_ms": 90,
-      "name": "🇩🇪 Germany | RMP Protection 3",
-      "speed_kbps": 152.2
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "144.31.87.16",
-      "flag": "🇩🇪",
-      "isp": "U1 DIGITAL SERVICES LTD",
-      "key": "vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:443?type=raw&security=reality&fp=chrome&pbk=l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE&sid=3b802dad547b0847&sni=yandex.ru#🇩🇪 Germany | U1 DIGITAL SERVICES LTD 5",
-      "latency_ms": 89,
-      "name": "🇩🇪 Germany | U1 DIGITAL SERVICES LT",
-      "speed_kbps": 971.9
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "144.31.87.16",
-      "flag": "🇩🇪",
-      "isp": "U1 DIGITAL SERVICES LTD",
-      "key": "vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:443?security=reality&type=raw&packetEncoding=xudp&sni=yandex.ru&fp=chrome&sid=3b802dad547b0847&pbk=l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE#🇩🇪 Germany | U1 DIGITAL SERVICES LTD 44",
-      "latency_ms": 89,
-      "name": "🇩🇪 Germany | U1 DIGITAL SERVICES LT",
-      "speed_kbps": 925.4
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "77.239.123.219",
-      "flag": "🇩🇪",
-      "isp": "U1 DIGITAL SERVICES LTD",
-      "key": "vless://564082ff-cf3c-48db-9e10-8ad2312847b4@77.239.123.219:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&sni=node19.mxvpn.dev&descriptions=СвободуИнтернету17#🇩🇪 Germany | U1 DIGITAL SERVICES LTD 57",
-      "latency_ms": 91,
-      "name": "🇩🇪 Germany | U1 DIGITAL SERVICES LT",
-      "speed_kbps": 987.2
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "77.239.123.219",
-      "flag": "🇩🇪",
-      "isp": "U1 DIGITAL SERVICES LTD",
-      "key": "vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node19.mxvpn.dev:443?sid=bbc68cec8bb8d2e3&flow=xtls-rprx-vision&fp=firefox&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sni=node19.mxvpn.dev&type=tcp#🇩🇪 Germany | U1 DIGITAL SERVICES LTD 63",
-      "latency_ms": 110,
-      "name": "🇩🇪 Germany | U1 DIGITAL SERVICES LT",
-      "speed_kbps": 1022.7
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "88.216.220.93",
-      "flag": "🇩🇪",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "exit_ip": "84.32.96.102",
+      "flag": "🇳🇱",
       "isp": "UAB Cherry Servers",
-      "key": "vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&type=grpc&serviceName=api.v1.StreamService&security=reality&sni=api.noneok.com&fp=firefox&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#🇩🇪 Germany | UAB Cherry Servers 18",
-      "latency_ms": 175,
-      "name": "🇩🇪 Germany | UAB Cherry Servers 18",
-      "speed_kbps": 1367.1
+      "key": "vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&sni=direct-nl.bachidze.com#🇳🇱 The Netherlands | UAB Cherry Servers 1",
+      "latency_ms": 171,
+      "name": "🇳🇱 The Netherlands | UAB Cherry Ser",
+      "speed_kbps": 678.1
+    },
+    {
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "exit_ip": "85.155.226.218",
+      "flag": "🇳🇱",
+      "isp": "Weyro LTD",
+      "key": "vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&flow=xtls-rprx-vision&sni=getsavesafe.net&type=tcp&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#🌍 Unknown | Unknown 75",
+      "latency_ms": 144,
+      "name": "🌍 Unknown | Unknown 75",
+      "speed_kbps": 672.4
     },
     {
       "country": "Finland",
       "country_code": "FI",
-      "exit_ip": "77.91.84.96",
+      "exit_ip": "193.29.224.185",
       "flag": "🇫🇮",
-      "isp": "U1 DIGITAL SERVICES LTD",
-      "key": "vless://f319a005-6bd0-44b3-910c-a596a2573efe@77.91.84.96:57228?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=iWiQ0JyYhl_yzWSbIh4L4wOiiXBOhNVMhWmgtDvF1jo&sid=6e3e0d3abe3e78a4&sni=www.googletagmanager.com#🇫🇮 Finland | U1 DIGITAL SERVICES LTD 13",
-      "latency_ms": 144,
-      "name": "🇫🇮 Finland | U1 DIGITAL SERVICES LT",
-      "speed_kbps": 734.1
+      "isp": "Aeza International LTD",
+      "key": "vless://8787dd0a-095a-414e-804f-a7d16a1ae166@193.29.224.185:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=fi1.hys.braidx.tech&fp=firefox&flow=xtls-rprx-vision&insecure=0#🇫🇮 Finland | Aeza International LTD 11",
+      "latency_ms": 161,
+      "name": "🇫🇮 Finland | Aeza International LTD",
+      "speed_kbps": 527.3
     },
     {
-      "country": "Poland",
-      "country_code": "PL",
-      "exit_ip": "2.59.163.45",
-      "flag": "🇵🇱",
-      "isp": "Global Connectivity So...",
-      "key": "vless://9a9fe945246a431ebd051cb981464c8d@2.59.163.45:59992?&type=tcp&headerType=none&path=/#🇵🇱 Poland | Global Connectivity So... 3",
-      "latency_ms": 99,
-      "name": "🇵🇱 Poland | Global Connectivity So.",
-      "speed_kbps": 100.2
+      "country": "Finland",
+      "country_code": "FI",
+      "exit_ip": "193.29.224.185",
+      "flag": "🇫🇮",
+      "isp": "Aeza International LTD",
+      "key": "vless://8787dd0a-095a-414e-804f-a7d16a1ae166@193.29.224.185:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=fi1.hys.braidx.tech&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-#🇫🇮 Finland | Aeza International LTD 4",
+      "latency_ms": 165,
+      "name": "🇫🇮 Finland | Aeza International LTD",
+      "speed_kbps": 507.4
     },
     {
-      "country": "Poland",
-      "country_code": "PL",
-      "exit_ip": "201.3.225.13",
-      "flag": "🇵🇱",
-      "isp": "Ivanov Vitaliy Sergeevich",
-      "key": "vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@nl3.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=uwu.spectrumproxy.shop&sid=143627f1#🇵🇱 Poland | Ivanov Vitaliy Sergeevich 4",
-      "latency_ms": 273,
-      "name": "🇵🇱 Poland | Ivanov Vitaliy Sergeevi",
-      "speed_kbps": 306.1
-    },
-    {
-      "country": "Poland",
-      "country_code": "PL",
-      "exit_ip": "31.76.22.141",
-      "flag": "🇵🇱",
+      "country": "Estonia",
+      "country_code": "EE",
+      "exit_ip": "95.85.224.51",
+      "flag": "🇪🇪",
       "isp": "OC NETWORKS LIMITED",
-      "key": "vless://9500cf8b-020a-4a70-906c-e14bb5375875@31.76.22.141:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com#🇵🇱 Poland | OC NETWORKS LIMITED 6",
-      "latency_ms": 99,
-      "name": "🇵🇱 Poland | OC NETWORKS LIMITED 6",
-      "speed_kbps": 925.8
+      "key": "vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&sni=max.ru#🇪🇪 Estonia | OC NETWORKS LIMITED 12",
+      "latency_ms": 184,
+      "name": "🇪🇪 Estonia | OC NETWORKS LIMITED 12",
+      "speed_kbps": 597.7
     },
     {
-      "country": "Poland",
-      "country_code": "PL",
-      "exit_ip": "2.26.148.147",
-      "flag": "🇵🇱",
-      "isp": "OC NETWORKS LIMITED",
-      "key": "hysteria2://9b4c96f9-60e8-4694-b069-c46992390555@78.159.240.215:8443?sni=quic.tyr-agentstvo.tech&obfs=none#🇵🇱 Poland | OC NETWORKS LIMITED 3",
-      "latency_ms": 235,
-      "name": "🇵🇱 Poland | OC NETWORKS LIMITED 3",
-      "speed_kbps": 105.6
-    },
-    {
-      "country": "Poland",
-      "country_code": "PL",
-      "exit_ip": "54.37.131.126",
-      "flag": "🇵🇱",
-      "isp": "OVH SAS",
-      "key": "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@music1000.melobitmusic1.ir:2053?security=tls&type=ws&path=%2F&host=music1000.melobitmusic1.ir&packetEncoding=none&alpn=h2%2Chttp%2F1.1&sni=music1000.melobitmusic1.ir&fp=chrome#🇵🇱 Poland | OVH SAS 15",
-      "latency_ms": 178,
-      "name": "🇵🇱 Poland | OVH SAS 15",
-      "speed_kbps": 117.0
-    },
-    {
-      "country": "France",
-      "country_code": "FR",
-      "exit_ip": "15.237.137.197",
-      "flag": "🇫🇷",
-      "isp": "Amazon Technologies",
-      "key": "trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#🇫🇷 France | Amazon Technologies 28",
-      "latency_ms": 98,
-      "name": "🇫🇷 France | Amazon Technologies 28",
-      "speed_kbps": 1034.2
-    },
-    {
-      "country": "France",
-      "country_code": "FR",
-      "exit_ip": "15.237.219.234",
-      "flag": "🇫🇷",
-      "isp": "Amazon Technologies",
-      "key": "trojan://ND91608427@careful-tadpole.rooster465.autos:443?security=tls#🇫🇷 France | Amazon Technologies 20",
-      "latency_ms": 104,
-      "name": "🇫🇷 France | Amazon Technologies 20",
-      "speed_kbps": 1064.8
-    },
-    {
-      "country": "France",
-      "country_code": "FR",
-      "exit_ip": "13.36.175.151",
-      "flag": "🇫🇷",
-      "isp": "Amazon Technologies",
-      "key": "trojan://ND91608427@classic-gator.rooster465.autos:443?sni=classic-gator.rooster465.autos&type=tcp&fp=chrome#🇫🇷 France | Amazon Technologies 34",
-      "latency_ms": 190,
-      "name": "🇫🇷 France | Amazon Technologies 34",
-      "speed_kbps": 1026.1
-    },
-    {
-      "country": "Türkiye",
-      "country_code": "TR",
-      "exit_ip": "185.39.204.155",
-      "flag": "🇹🇷",
-      "isp": "Global Connectivity So...",
-      "key": "vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#🇹🇷 Türkiye | Global Connectivity So... 2",
-      "latency_ms": 122,
-      "name": "🇹🇷 Türkiye | Global Connectivity So",
-      "speed_kbps": 735.3
-    },
-    {
-      "country": "United Arab Emirates",
-      "country_code": "AE",
-      "exit_ip": "176.97.66.175",
-      "flag": "🇦🇪",
-      "isp": "CLOUD-NETWORK",
-      "key": "vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?security=none&type=ws&path=%2Fsync&host=nahan-core.netizo09.workers.dev&packetEncoding=none#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1",
-      "latency_ms": 2,
-      "name": "🇦🇪 United Arab Emirates | CLOUD-NET",
-      "speed_kbps": 462.1
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "8.221.169.111",
-      "flag": "🇯🇵",
-      "isp": "Alibaba (US) Technolog...",
-      "key": "vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@172.64.88.168:8880?encryption=none&type=ws&host=morning-silence-7b1b.222-46c.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp#🇯🇵 Japan | CTG Server . 1",
+      "country": "United States",
+      "country_code": "US",
+      "exit_ip": "104.28.157.112",
+      "flag": "🇺🇸",
+      "isp": "Cloudflare,",
+      "key": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.141.83:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇺🇸 United States | Cloudflare, 107",
       "latency_ms": 1,
-      "name": "🇯🇵 Japan | CTG Server . 1",
-      "speed_kbps": 570.6
+      "name": "🇺🇸 United States | Cloudflare, 107",
+      "speed_kbps": 345.7
     },
     {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "8.221.169.112",
-      "flag": "🇯🇵",
-      "isp": "Alibaba (US) Technolog...",
-      "key": "vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.99.215:8880?security=none&host=steep-thunder-97fa.108-d10.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&type=ws&encryption=none&descriptions=СвободуИнтернету246#🇯🇵 Japan | Alibaba (US) Technolog... 29",
-      "latency_ms": 2,
-      "name": "🇯🇵 Japan | Alibaba (US) Technolog..",
-      "speed_kbps": 530.3
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "8.221.169.97",
-      "flag": "🇯🇵",
-      "isp": "Alibaba (US) Technolog...",
-      "key": "vless://812b1aeb-c6f7-43cb-8d8b-981711fea21a@www.zsu.gov.ua:8880?&security=none&type=ws&headerType=&host=dark-cake-4743.198-46c.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | CTG Server . 15",
-      "latency_ms": 14,
-      "name": "🇯🇵 Japan | CTG Server . 15",
-      "speed_kbps": 566.3
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "8.221.172.1",
-      "flag": "🇯🇵",
-      "isp": "Alibaba (US) Technolog...",
-      "key": "vless://cc9082e4-9c7c-4cef-a0f5-963363bed638@weathered-mode-8f39.83-33c.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | Alibaba (US) Technolog... 12",
-      "latency_ms": 15,
-      "name": "🇯🇵 Japan | Alibaba (US) Technolog..",
-      "speed_kbps": 560.2
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "13.231.232.184",
-      "flag": "🇯🇵",
-      "isp": "Amazon Technologies",
-      "key": "trojan://ND91608427@13.231.232.184:443?sni=better-molly.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇯🇵 Japan | Amazon Technologies 8",
-      "latency_ms": 157,
-      "name": "🇯🇵 Japan | Amazon Technologies 8",
-      "speed_kbps": 179.9
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "3.112.238.99",
-      "flag": "🇯🇵",
-      "isp": "Amazon Technologies",
-      "key": "trojan://ND91608427@3.112.238.99:443?sni=stunning-mite.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇯🇵 Japan | Amazon Technologies 89",
-      "latency_ms": 157,
-      "name": "🇯🇵 Japan | Amazon Technologies 89",
-      "speed_kbps": 182.4
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "18.181.175.120",
-      "flag": "🇯🇵",
-      "isp": "Amazon Technologies",
-      "key": "trojan://ND91608427@sure-humpback.rooster465.autos:443?security=tls&sni=sure-humpback.rooster465.autos#🇯🇵 Japan | Amazon Technologies 52",
-      "latency_ms": 163,
-      "name": "🇯🇵 Japan | Amazon Technologies 52",
-      "speed_kbps": 155.7
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "52.194.230.221",
-      "flag": "🇯🇵",
-      "isp": "Amazon Technologies",
-      "key": "trojan://ND91608427@happy-mutt.rooster465.autos:443?allowInsecure=1&sni=happy-mutt.rooster465.autos#🇯🇵 Japan | Amazon Technologies 140",
-      "latency_ms": 163,
-      "name": "🇯🇵 Japan | Amazon Technologies 140",
-      "speed_kbps": 181.1
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "52.194.230.221",
-      "flag": "🇯🇵",
-      "isp": "Amazon Technologies",
-      "key": "trojan://ND91608427@happy-mutt.rooster465.autos:443?security=tls&sni=happy-mutt.rooster465.autos#🇯🇵 Japan | Amazon Technologies 15",
-      "latency_ms": 166,
-      "name": "🇯🇵 Japan | Amazon Technologies 15",
-      "speed_kbps": 181.6
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "3.112.223.141",
-      "flag": "🇯🇵",
-      "isp": "Amazon Technologies",
-      "key": "trojan://ND91608427@internal-sunbird.rooster465.autos:443?security=tls&sni=internal-sunbird.rooster465.autos#🇯🇵 Japan | Amazon Technologies 51",
-      "latency_ms": 222,
-      "name": "🇯🇵 Japan | Amazon Technologies 51",
-      "speed_kbps": 180.4
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "3.113.24.17",
-      "flag": "🇯🇵",
-      "isp": "Amazon Technologies",
-      "key": "trojan://ND91608427@nearby-egret.rooster465.autos:443?allowInsecure=1&sni=nearby-egret.rooster465.autos#🇯🇵 Japan | Amazon Technologies 79",
-      "latency_ms": 524,
-      "name": "🇯🇵 Japan | Amazon Technologies 79",
-      "speed_kbps": 181.6
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "54.199.202.238",
-      "flag": "🇯🇵",
-      "isp": "Amazon.com,",
-      "key": "trojan://ND91608427@54.199.202.238:443?security=tls&sni=definite-sturgeon.rooster465.autos&path=/#🇯🇵 Japan | Amazon.com, 13",
-      "latency_ms": 158,
-      "name": "🇯🇵 Japan | Amazon.com, 13",
-      "speed_kbps": 181.6
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "57.180.13.78",
-      "flag": "🇯🇵",
-      "isp": "Amazon.com,",
-      "key": "trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos#🇯🇵 Japan | Amazon.com, 2",
-      "latency_ms": 158,
-      "name": "🇯🇵 Japan | Amazon.com, 2",
-      "speed_kbps": 181.5
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "43.207.155.134",
-      "flag": "🇯🇵",
-      "isp": "Amazon.com,",
-      "key": "trojan://ND91608427@43.207.155.134:443?security=tls&sni=smart-pup.rooster465.autos#🇯🇵 Japan | Amazon.com, 15",
-      "latency_ms": 158,
-      "name": "🇯🇵 Japan | Amazon.com, 15",
-      "speed_kbps": 183.6
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "2a0f:9400:7393:1f::23",
-      "flag": "🇯🇵",
-      "isp": "Dromatics Systems Pte",
-      "key": "vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@172.64.94.251:8880?&type=ws&headerType=none&host=yellow-mouse-fcce.400-318.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | CTG Server . 20",
-      "latency_ms": 2,
-      "name": "🇯🇵 Japan | CTG Server . 20",
-      "speed_kbps": 528.6
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "168.138.46.67",
-      "flag": "🇯🇵",
-      "isp": "Oracle",
-      "key": "vless://afb13fa2-bba2-417f-b8c2-62565f92a78d@104.21.56.202:8880?encryption=none&type=ws&host=orange-block-5cd1.124-199.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp#🇯🇵 Japan | Alibaba (US) Technolog... 15",
+      "country": "United States",
+      "country_code": "US",
+      "exit_ip": "104.28.157.112",
+      "flag": "🇺🇸",
+      "isp": "Cloudflare,",
+      "key": "vless://57bd62cf-5550-4075-8fa3-d4519aae8df0@162.159.40.49:80/?flow=&type=ws&path=%2FeyJqdW5rIjoiRURaNEp6YUhMbVlqdzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D&host=silent-feather-8539.sddadad2233122eew.workers.dev&encryption=none&descriptions=СвободуИнтернету11#🇺🇸 United States | Cloudflare, 57",
       "latency_ms": 1,
-      "name": "🇯🇵 Japan | Alibaba (US) Technolog..",
-      "speed_kbps": 487.2
+      "name": "🇺🇸 United States | Cloudflare, 57",
+      "speed_kbps": 305.0
     },
     {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "150.230.5.126",
-      "flag": "🇯🇵",
-      "isp": "Oracle",
-      "key": "vless://afb13fa2-bba2-417f-b8c2-62565f92a78d@104.16.106.213:8880?&security=none&type=ws&headerType=&host=orange-block-5cd1.124-199.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | Aceville Pte.ltd 1",
+      "country": "United States",
+      "country_code": "US",
+      "exit_ip": "104.28.152.166",
+      "flag": "🇺🇸",
+      "isp": "Cloudflare,",
+      "key": "vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&security=none&type=ws&host=silent-paper-fa57.fipiyag989.workers.dev&path=%2F#🇺🇸 United States | Cloudflare, 80",
       "latency_ms": 2,
-      "name": "🇯🇵 Japan | Aceville Pte.ltd 1",
-      "speed_kbps": 438.6
+      "name": "🇺🇸 United States | Cloudflare, 80",
+      "speed_kbps": 348.1
     },
     {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "168.138.46.67",
-      "flag": "🇯🇵",
-      "isp": "Oracle",
-      "key": "vless://876e81f0-6961-43b4-bd64-7dc602e823ca@95.181.160.240:8433?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#🇯🇵 Japan | Alibaba (US) Technolog... 24",
-      "latency_ms": 98,
-      "name": "🇯🇵 Japan | Alibaba (US) Technolog..",
-      "speed_kbps": 899.7
-    },
-    {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "207.148.99.230",
-      "flag": "🇯🇵",
-      "isp": "The Constant Company,",
-      "key": "vless://afb13fa2-bba2-417f-b8c2-62565f92a78d@172.66.140.62:8880?encryption=none&type=ws&host=orange-block-5cd1.124-199.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp#🇯🇵 Japan | Alibaba (US) Technolog... 26",
+      "country": "United States",
+      "country_code": "US",
+      "exit_ip": "104.28.166.32",
+      "flag": "🇺🇸",
+      "isp": "Cloudflare,",
+      "key": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.16.239.120:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#🇺🇸 United States | Cloudflare, 196",
       "latency_ms": 2,
-      "name": "🇯🇵 Japan | Alibaba (US) Technolog..",
-      "speed_kbps": 562.9
+      "name": "🇺🇸 United States | Cloudflare, 196",
+      "speed_kbps": 346.9
     },
     {
-      "country": "Japan",
-      "country_code": "JP",
-      "exit_ip": "207.148.99.230",
-      "flag": "🇯🇵",
-      "isp": "The Constant Company,",
-      "key": "vless://f4d859eb-abc6-4c57-9eee-8fe9e2ef0f94@80.240.18.227:10051?encryption=none&fp=chrome&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws#🇯🇵 Japan | CTG Server . 5",
-      "latency_ms": 103,
-      "name": "🇯🇵 Japan | CTG Server . 5",
-      "speed_kbps": 1075.3
+      "country": "United States",
+      "country_code": "US",
+      "exit_ip": "104.28.152.168",
+      "flag": "🇺🇸",
+      "isp": "Cloudflare,",
+      "key": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?encryption=none&security=tls&insecure=0&path=%2Fsg-melbi&sni=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&host=support.zoom.us.yxls.eu.cc&allowInsecure=0#🇺🇸 United States | Cloudflare, 239",
+      "latency_ms": 2,
+      "name": "🇺🇸 United States | Cloudflare, 239",
+      "speed_kbps": 348.4
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "exit_ip": "104.28.166.29",
+      "flag": "🇺🇸",
+      "isp": "Cloudflare,",
+      "key": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@170.114.45.6:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🇺🇸 United States | Cloudflare, 164",
+      "latency_ms": 4,
+      "name": "🇺🇸 United States | Cloudflare, 164",
+      "speed_kbps": 320.2
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "exit_ip": "37.19.198.236",
+      "flag": "🇺🇸",
+      "isp": "Datacamp",
+      "key": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸 United States | Datacamp 48",
+      "latency_ms": 61,
+      "name": "🇺🇸 United States | Datacamp 48",
+      "speed_kbps": 555.3
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "exit_ip": "37.19.198.160",
+      "flag": "🇺🇸",
+      "isp": "Datacamp",
+      "key": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#🇺🇸 United States | Datacamp 72",
+      "latency_ms": 61,
+      "name": "🇺🇸 United States | Datacamp 72",
+      "speed_kbps": 550.9
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "exit_ip": "37.19.198.244",
+      "flag": "🇺🇸",
+      "isp": "Datacamp",
+      "key": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.244:443#🇺🇸 United States | Datacamp 32",
+      "latency_ms": 61,
+      "name": "🇺🇸 United States | Datacamp 32",
+      "speed_kbps": 562.7
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-08-07 06:36:30",
-  "total_checked": 296,
-  "working_count": 49
+  "timestamp": "2026-08-07 11:17:18",
+  "total_checked": 169,
+  "working_count": 14
 }
