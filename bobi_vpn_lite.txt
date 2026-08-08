@@ -3,10 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCuKaoSDQotC+0LvRjNC60L4g0L/RgNC+0LLQtdGA0LXQvdC90YvQtSDRgdC10YDQstC10YDRiw==
+#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCfjq8g0KLQvtC70YzQutC+INGA0LDQsdC+0YfQuNC1INC60LvRjtGH0Lg=
 
-vless://b73de191-0a23-4a37-9338-5abd29c896e1@104.21.31.13:443?security=tls&type=ws&path=/vless&host=smm-02.smmmdesign.com&sni=smm-02.smmmdesign.com&fp=chrome&encryption=none#🇩🇪 Germany | IONOS SE 1
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5.oncloudnineservicestreang.com&sid=273940fba6ad8250#🇩🇪 Germany | netcup GmbH 1
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#🇩🇪 Germany | netcup GmbH 2
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality&encryption=none&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&sid=d8d3dc6c3ca45dd4#🇩🇪 Germany | netcup GmbH 3
-vless://10c9c533-1487-4de7-b3af-d2efae62cdac@2.26.84.107:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z7qSP_rc8hA6aQvcqf7NpfBbmFX4gHMgpqVd_nrJGgI&security=reality&sni=germany2fast.store&type=tcp#🇩🇪 Germany | Play2go International 1
