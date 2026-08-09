@@ -3,10 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@154.197.64.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@45.67.215.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=%2F&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws&fp=android#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 2
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@45.149.12.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 3
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@166.62.105.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 4
-vless://3aaabf99-32c6-4032-8695-c9f0eb28be6f@104.16.98.215:8880?security=none&host=divine-sound-9e93.22-be2.workers.dev&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&seq=you_are_beautiful9851#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 5
+vless://ddef628e-e3a8-43c4-85eb-bd767a5f3b13@104.16.72.101:8880?path=/pyip&security=none&encryption=none&host=autumn-forest-3479.121-488.workers.dev&type=ws#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1
+vless://73796e63-0000-4000-8000-000000000000@soskeynets-core.fatitelegram.workers.dev:443?type=ws&security=tls&encryption=none&path=%2Fsync&host=nahan-core.fatitelegram.workers.dev&sni=nahan-core.fatitelegram.workers.dev&fp=chrome&headerType=none#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 2
+vless://a8890c1b-3622-3106-c4be-d8671be32d2b@summer-meadow-af5b.woowoorrrkk.workers.dev:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=summer-meadow-af5b.woowoorrrkk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=summer-meadow-af5b.woowoorrrkk.workers.dev#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 3
