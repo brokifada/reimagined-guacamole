@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6cgQm9iaVZQTiDigJQgVW5pdGVkIEtpbmdkb20K4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.115:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=vl05.skorostnet.space#🇬🇧 United Kingdom | Hostkey B.V. 1
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.115:443?type=tcp&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&encryption=none&sid=fdda9806fe5d8584&security=reality&sni=vl05.skorostnet.space&flow=xtls-rprx-vision#🇬🇧 United Kingdom | Hostkey B.V. 2
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧 United Kingdom | BrainStorm Network, Inc 1
+vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?security=reality&type=tcp&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg&sid=d6ff9019a77e354a&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision#🇬🇧 United Kingdom | SERV.HOST GROUP LTD 1
