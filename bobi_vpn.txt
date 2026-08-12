@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: 🐶BobiVPN🐶
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
-#support-url: https://bobivpn.netlify.app/
-#profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIOKAlCDQkdGL0YHRgtGA0YvQuSDQuCDQndCw0LTRkdC20L3Ri9C5CuKame+4jyDQo9C80L3QsNGPINC/0YDQvtCy0LXRgNC60LAg0YHQtdGA0LLQtdGA0L7Qsg==
-
-vless://d2042070-c247-4226-a3ac-15337923e00d@154.83.246.225:443?security=reality&encryption=none&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=500aec9e9e5e2212#🇳🇱 The Netherlands | Datacamp 1
