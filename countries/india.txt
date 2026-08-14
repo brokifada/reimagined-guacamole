@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?security=reality&encryption=none&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=ae3ba555edc1ba0a#🇮🇳 India | Contabo Asia Private 1
-vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&sid=ae3ba555edc1ba0a&sni=www.apple.com#🇮🇳 India | Contabo Asia Private 2
-vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?fp=firefox&security=reality&encryption=none&type=tcp&sni=www.apple.com&sid=ae3ba555edc1ba0a&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0#🇮🇳 India | Contabo Asia Private 3
+vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&sid=ae3ba555edc1ba0a&sni=www.apple.com#🇮🇳 India | Contabo Asia Private 1
+vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&sid=ae3ba555edc1ba0a&sni=www.apple.com&_t=b4ec56b2#🇮🇳 India | Contabo Asia Private 2
+vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?security=reality&encryption=none&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=ae3ba555edc1ba0a#🇮🇳 India | Contabo Asia Private 3
