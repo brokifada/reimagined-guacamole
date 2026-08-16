@@ -1,0 +1,11 @@
+#profile-update-interval: 1
+#profile-title: 🐶BobiVPN Lite🐶
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCfkqsg0JrQsNGH0LXRgdGC0LLQviDQsdC10Lcg0LrQvtC80L/RgNC+0LzQuNGB0YHQvtCy
+
+vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&host=---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🇩🇪 Germany | OVH SAS 1
+vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none&security=reality&fp=qq&type=tcp&headerType=none&sni=play.google.com#🇩🇪 Germany | OVH SAS 2
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&type=tcp&packetEncoding=xudp&alpn=http%2F1.1&sni=passport.yandex.ru&fp=firefox&flow=xtls-rprx-vision&sid=e6&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0#🇫🇷 France | Contabo GmbH 1
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#🇫🇷 France | OVH SAS 1
