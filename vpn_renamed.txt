@@ -1,63 +1,17 @@
-trojan://ND91608427@54.180.228.238:443?security=tls&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 1
-trojan://ND91608427@54.180.228.238:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 2
-trojan://FH72359861@13.124.39.113:443?type=tcp&security=none&encryption=none&sni=absolute-bobcat.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 3
-trojan://PQ05174892@52.79.150.18:443?type=tcp&security=none&encryption=none&sni=eager-platypus.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 4
-trojan://FH72359861@54.180.158.231:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=precise-locust.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 5
-trojan://HC04361579@54.180.237.220:443?security=tls&sni=key-barnacle.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 6
-trojan://FH72359861@holy-lamb.rooster465.autos:443?type=tcp&security=none&encryption=none&sni=holy-lamb.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 7
-trojan://FH72359861@absolute-bobcat.rooster465.autos:443?security=tls#🇰🇷 South Korea | Amazon Technologies 8
-trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=saving-octopus.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 9
-trojan://PQ05174892@awake-redbird.rooster465.autos:443?security=tls&sni=awake-redbird.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 10
-trojan://FH72359861@gentle-platypus.rooster465.autos:443?type=tcp&security=none&encryption=none&sni=gentle-platypus.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 11
-trojan://ND91608427@saving-octopus.rooster465.autos:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=saving-octopus.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 12
-trojan://PQ05174892@careful-cow.rooster465.autos:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=careful-cow.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 13
-trojan://FH72359861@learning-ladybug.rooster465.autos:443?type=tcp&security=none&encryption=none&sni=learning-ladybug.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 14
-trojan://PQ05174892@hopeful-burro.rooster465.autos:443?type=tcp&security=none&encryption=none&sni=hopeful-burro.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 15
-trojan://AE62539071@eager-platypus.rooster465.autos:443?security=tls#🇰🇷 South Korea | Amazon Technologies 16
-trojan://AE62539071@engaged-skink.rooster465.autos:443?security=tls#🇰🇷 South Korea | Amazon Technologies 17
-trojan://AE62539071@13.125.144.78:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=viable-serval.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 18
-trojan://AE62539071@viable-serval.rooster465.autos:443?security=tls&sni=viable-serval.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 19
-trojan://HC04361579@enough-lamb.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=enough-lamb.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 20
-trojan://PQ05174892@52.79.248.57:443?type=tcp&security=none&encryption=none&sni=awake-redbird.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 21
-trojan://FH72359861@13.125.93.65:443?sni=one-dove.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 22
-trojan://PQ05174892@13.209.18.180:443?sni=musical-manatee.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 23
-trojan://ND91608427@43.201.103.8:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#🇰🇷 South Korea | Amazon.com, 1
-trojan://ND91608427@43.202.56.122:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=striking-maggot.rooster465.autos#🇰🇷 South Korea | Amazon.com, 2
-trojan://ND91608427@3.38.106.2:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=communal-sunbird.rooster465.autos#🇰🇷 South Korea | Amazon.com, 3
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 4
-trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos#🇰🇷 South Korea | Amazon.com, 5
-trojan://fVZMat1g9H@172.236.133.188:52?type=tcp&security=tls&encryption=none&fp=chrome&sni=172.236.133.188#🇸🇬 Singapore | Akamai Technologies, 1
-trojan://FH72359861@13.229.56.205:443?security=tls&sni=exciting-turtle.rooster465.autos&fp=chrome#🇸🇬 Сингапур #🇸🇬 Singapore | Amazon Technologies 1
-trojan://PQ05174892@13.229.47.93:443?sni=happy-gibbon.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 2
-trojan://PQ05174892@13.212.213.236:443?type=tcp&security=none&encryption=none&sni=closing-moose.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 3
-trojan://PQ05174892@18.143.170.114:443?sni=lenient-grubworm.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 4
-trojan://FH72359861@13.212.204.216:443?type=tcp&security=none&encryption=none&sni=funny-hawk.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 5
-trojan://PQ05174892@13.212.186.116:443?type=tcp&security=none&encryption=none&sni=eminent-panther.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 6
-trojan://PQ05174892@13.212.153.252:443?type=tcp&security=none&encryption=none&sni=on-airedale.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 7
-trojan://PQ05174892@54.151.247.141:443?sni=sweeping-dog.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 8
-trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&sni=charming-ox.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 9
-trojan://AE62539071@13.212.44.180:443?sni=smooth-hornet.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | Amazon Technologies 10
-trojan://PQ05174892@fleet-pony.rooster465.autos:443/?type=tcp&security=tls&allowInsecure=1#🇸🇬 Singapore | Amazon Technologies 11
-trojan://PQ05174892@closing-moose.rooster465.autos:443?type=tcp&security=none&encryption=none&sni=closing-moose.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 12
-trojan://PQ05174892@composed-sheep.rooster465.autos:443?allowInsecure=0&sni=composed-sheep.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 13
-trojan://PQ05174892@promoted-rattler.rooster465.autos:443?type=tcp&security=none&encryption=none&sni=promoted-rattler.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 14
-trojan://PQ05174892@adapted-worm.rooster465.autos:443?type=tcp&security=none&encryption=none&sni=adapted-worm.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 15
-trojan://FH72359861@worthy-perch.rooster465.autos:443?security=tls#🇸🇬 Singapore | Amazon Technologies 16
-trojan://PQ05174892@happy-gibbon.rooster465.autos:443?type=tcp&security=none&encryption=none&sni=happy-gibbon.rooster465.autos#🇸🇬 Singapore | Amazon Technologies 17
-trojan://PQ05174892@13.212.87.164:443?sni=sharp-feline.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies 18
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇸🇬 Singapore | Amazon Technologies 19
-trojan://PQ05174892@47.129.119.44:443?type=tcp&security=none&encryption=none&sni=right-mastiff.rooster465.autos#🇸🇬 Singapore | Amazon Technologies Inc 1
-trojan://PQ05174892@47.131.249.13:443?sni=exotic-turtle.rooster465.autos&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon Technologies Inc 2
-trojan://FH72359861@47.129.157.81:443?type=tcp&security=none&encryption=none&sni=noted-bass.rooster465.autos#🇸🇬 Singapore | Amazon Technologies Inc 3
-trojan://PQ05174892@47.129.0.251:443?type=tcp&security=none&encryption=none&sni=sharing-filly.rooster465.autos#🇸🇬 Singapore | Amazon Technologies Inc 4
-trojan://PQ05174892@welcome-monitor.rooster465.autos:443?allowInsecure=0&sni=welcome-monitor.rooster465.autos#🇸🇬 Singapore | Amazon Technologies Inc 5
-trojan://PQ05174892@welcome-monitor.rooster465.autos:443?sni=welcome-monitor.rooster465.autos&peer=welcome-monitor.rooster465.autos&security=tls#🇸🇬 Singapore | Amazon Technologies Inc 6
-trojan://AE62539071@13.250.126.30:443?sni=adapted-martin.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | Amazon.com, 1
-trojan://AE62539071@54.169.117.191:443?security=tls&sni=excited-sole.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇸🇬 Singapore | Amazon.com, 2
-trojan://FH72359861@54.179.23.28:443?sni=boss-sailfish.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇸🇬 Singapore | Amazon.com, 3
-trojan://AE62539071@excited-sole.rooster465.autos:443?security=tls&path=%2f#🇸🇬 Singapore | Amazon.com, 4
-trojan://AE62539071@simple-rodent.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇬 Singapore | Amazon.com, 5
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?encryption=none&type=ws&security=tls&path=musiclovers85?ed&host=josni.hoyes.cloudns.ch&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0#🇸🇬 Singapore | DigitalOcean, 1
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=musiclovers85?ed=512&security=tls&encryption=none&host=josni.hoyes.cloudns.ch&type=ws&sni=josni.hoyes.cloudns.ch#🇸🇬 Singapore | DigitalOcean, 2
-vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@216.227.169.104:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=deepl.com&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&sid=bd72&fp=qq#🇺🇸 United States | FDCservers.net 1
-vless://f9c6ae5c-a537-4ce1-8ad5-d1e579e0275f@209.200.246.86:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=ECtV4BdcZKXG49uHtDX-71e1YVr7gu54ykbaBms9kh4&sid=c2f3117b3268d0a6#🇨🇦 Canada | Regxa Company for Info... 1
+vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&sid=69d4&sni=deepl.com#🇷🇺 Russia | JSC "TIMEWEB" 1
+vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:443?security=tls&type=ws&path=/pRXE5ot0RZaQSr7B?ed=2560&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&packetEncoding=xudp&alpn=http/1.1&sni=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&fp=randomized#🇩🇪 Germany | International Hosting ... 1
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?sni=91.196.32.163#🇩🇪 Germany | SERV.HOST GROUP LTD 1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#🇩🇪 Germany | U1 DIGITAL SERVICES LTD 1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&type=tcp#🇩🇪 Germany | U1 DIGITAL SERVICES LTD 2
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.113:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#🇳🇱 The Netherlands | Weyro LTD 1
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.149:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=getsavesafe.net&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&type=tcp&path=/#🇳🇱 The Netherlands | Weyro LTD 2
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.84:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#🇳🇱 The Netherlands | Weyro LTD 3
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.87:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#🇳🇱 The Netherlands | Weyro LTD 4
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.86:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#🇳🇱 The Netherlands | Weyro LTD 5
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?security=reality&flow=xtls-rprx-vision&sni=getsavesafe.net&type=tcp&host=Telegram-Leviko_v2ray&fp=chrome&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#🇳🇱 The Netherlands | Weyro LTD 6
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&type=tcp&headerType=none#🇳🇱 The Netherlands | Weyro LTD 7
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.108:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#🇳🇱 The Netherlands | Weyro LTD 8
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.102.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&sid=065cf4f1c7d83e79&sni=america.cendora.ru#🇳🇱 Netherlands | xorek.cloud Internatio... 1
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1&descriptions=СвободуИнтернету617#🇳🇱 Netherlands | xorek.cloud Internatio... 2
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1#🇳🇱 Netherlands | xorek.cloud Internatio... 3
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=qq&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sni=max.ru&sid=a696de84963656de#🇪🇪 Estonia | OC NETWORKS LIMITED 1
