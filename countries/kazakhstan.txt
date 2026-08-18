@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@45.146.131.154:8452?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=neW65LaKi88zH-X9gRQPhl5YqQLz9E4IrVnOpS4BnkU&security=reality&sid=45b10e93bc618c2c&sni=www.cloudflare.com&type=raw #🇰🇿 Kazakhstan | Cogent Communications 1
-vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@45.146.131.154:8452?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=neW65LaKi88zH-X9gRQPhl5YqQLz9E4IrVnOpS4BnkU&sid=45b10e93bc618c2c&sni=www.cloudflare.com#🇰🇿 Kazakhstan | Cogent Communications 2
+vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@188.130.234.239:443?encryption=none&fp=firefox&mode=multi&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&security=reality&sid=1a55b8fd25417fbf&sni=kz.node.goidanet.com&type=grpc&_t=d8e3c377#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 1
+vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@kz.node.goidanet.com:443?pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&sni=kz.node.goidanet.com&sid=1a55b8fd25417fbf&type=grpc&security=reality&fp=firefox&descriptions=люби_себя2ddb13#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 2

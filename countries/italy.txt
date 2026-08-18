@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@151.101.56.7:443?encryption=none&type=ws&host=italyan.global.ssl.fastly.net.&path=/&security=tls&sni=ssl.fastly.com#🇮🇹 Italy | BlueVPS OU 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&encryption=none#🇮🇹 Italy | Oracle 1
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b&sni=www.apple.com#🇮🇹 Italy | OVH SAS 1
-vless://93fab704-cea7-4ca4-a9ac-5bb46aef263c@31.77.201.205:443?encryption=none&fp=firefox&pbk=D3qByJ6qqJd5phYkfAtJpBqAhSb8VHPax1ZhvI3ZKEE&security=reality&sid=96e380212691bba8&sni=it.morinsq.su&type=tcp#🇮🇹 Italy | Vladislav Nitsenko 1
-vless://93fab704-cea7-4ca4-a9ac-5bb46aef263c@31.77.201.205:443?encryption=none&pbk=D3qByJ6qqJd5phYkfAtJpBqAhSb8VHPax1ZhvI3ZKEE&security=reality&sid=96e380212691bba8&sni=it.morinsq.su&type=tcp&fp=edge#🇮🇹 Italy | Vladislav Nitsenko 2
