@@ -3,21 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAxNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAxMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://e8a2c7f9-cfec-46e0-a91a-a1394aaa90e4@172.67.164.20:443?encryption=none&type=ws&host=5-M23.daEGU2032.CcWu.CC&path=%2FkXHZ0iPM96r8UDUAsTH2scSHpeWN&security=tls&fp=chrome&sni=5-M23.daegU2032.cCwu.cC#🌍 Unknown | Unknown 1
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.170:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#🌍 Unknown | Unknown 2
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.30:443?security=reality&type=raw&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#🌍 Unknown | Unknown 3
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.141:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#🌍 Unknown | Unknown 4
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#🌍 Unknown | Unknown 5
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.211:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#🌍 Unknown | Unknown 6
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.22:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&path=/#🌍 Unknown | Unknown 7
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.87:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#🌍 Unknown | Unknown 8
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.149:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&_t=8d21c46f#🌍 Unknown | Unknown 9
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?security=reality&flow=xtls-rprx-vision&sni=getsavesafe.net&type=tcp&host=Telegram-Leviko_v2ray&fp=chrome&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#🌍 Unknown | Unknown 10
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#🌍 Unknown | Unknown 11
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@189.74.124.42:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&sni=nordic.cendora.ru#🌍 Unknown | Unknown 12
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@fuckfangbinxing.pusytroller.gq:2095?&type=ws&headerType=none&host=fuckfangbinxing.pusytroller.gq&path=%2F#🌍 Unknown | Unknown 13
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@download.pusytroller.gq:2095?type=ws&sni=download.pusytroller.gq#🌍 Unknown | Unknown 14
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=&encryption=none&headerType=none&type=tcp#🌍 Unknown | Unknown 15
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@nmslfangbinxing.pusytroller.gq:2095/?amp;host=nmslfangbinxing.pusytroller.gq&type=ws&amp;encryption=none&amp;path=/&amp;flow=#🌍 Unknown | Unknown 16
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#🌍 Unknown | Unknown 1
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.145.158:2095?security=none&type=ws&path=%2F&host=fuckingfangbinxing.pusytroller.cf&encryption=none#🌍 Unknown | Unknown 2
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.161.104:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🌍 Unknown | Unknown 3
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?encryption=none&type=ws&host=download.pusytroller.gq&path=/&security=none#🌍 Unknown | Unknown 4
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?path=/&security=none&encryption=none&type=ws&host=fuckingfangbinxing.pusytroller.cf#🌍 Unknown | Unknown 5
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.090227.xyz:2095?security=none&type=ws&path=/&host=fuckingfangbinxing.pusytroller.cf#🌍 Unknown | Unknown 6
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?host=sc-thenetherlands2.09vpn.comfreenettirthe&path=%2Fvless%2F&security=none&type=ws#🌍 Unknown | Unknown 7
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.pusytroller.cf&path=%2F#🌍 Unknown | Unknown 8
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@nmslfangbinxing.pusytroller.gq:2095/?amp;host=nmslfangbinxing.pusytroller.gq&type=ws&amp;encryption=none&amp;path=/&amp;flow=#🌍 Unknown | Unknown 9
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@download.pusytroller.gq:2095?type=ws&sni=download.pusytroller.gq#🌍 Unknown | Unknown 10
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🌍 Unknown | Unknown 11
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.090227.xyz:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.pusytroller.cf&path=%2F#🌍 Unknown | Unknown 12
