@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@138.249.242.140:443?encryption=none&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=ukri.freeinternat.com&type=tcp&fp=firefox#🇺🇦 Ukraine | Bondarenko Oksana Volo... 1
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@ukri.freeinternat.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&sni=ukri.freeinternat.com#🇺🇦 Ukraine | Bondarenko Oksana Volo... 2
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@ukri.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ukri.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none&fp=edge#🇺🇦 Ukraine | Bondarenko Oksana Volo... 3
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@138.249.242.140:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&sni=ukri.freeinternat.com#🇺🇦 Ukraine | Bondarenko Oksana Volo... 4
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@138.249.242.140:443?encryption=none&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=ukri.freeinternat.com&type=tcp&fp=ios#🇺🇦 Ukraine | Bondarenko Oksana Volo... 5
+vless://5238521b-c5dd-42af-870e-c174a2aaaafe@5.34.182.23:13443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&packetEncoding=none#🇺🇦 Ukraine | Green Floid 1
