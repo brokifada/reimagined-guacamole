@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://8f273bcc-15f2-4c96-8942-8aae51eddd8e@2.27.26.197:443?encryption=none&fp=firefox&pbk=WRCMuTlpVmthJnyP3LK0sL-u5WlN15GVJpD8F37ZjD0&security=reality&serviceName=nexusGrpc&sid=d9662905&sni=kotiki-katakbasio-rossiiiii.ru&type=grpc#🇬🇪 Georgia | H2nexus LTD 1
+vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@2.27.27.202:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&security=reality&sni=www.ray-balance.space&type=tcp#🇬🇪 Georgia | H2nexus LTD 1
