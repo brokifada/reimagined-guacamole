@@ -3,9 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?encryption=none&type=ws&path=%252Fsg-melbi%2523TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%253Fed%253D2560&host=josni.hoyes.cloudns.ch&security=tls&sni=josni.hoyes.cloudns.ch#🌍 Malaysia | Scloud Pte 1
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?encryption=none&type=ws&path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&host=josni.hoyes.cloudns.ch&security=tls&sni=josni.hoyes.cloudns.ch#🌍 Malaysia | Scloud Pte 2
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=musiclovers85_musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🌍 Malaysia | Scloud Pte 3
-vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@family.bucket.8.kfc-520.com:10031?&security=reality&flow=xtls-rprx-vision&pbk=XD4QDqCtwoTo5TsoU8Kl2Mj7F-hQNzlyK5z0cg8VZ20&sid=d83b1991a19fb038&fp=firefox&sni=www.hp.com&type=tcp&headerType=none&host=www.hp.com&path=%2F#🌍 Malaysia | Zhejiang Aiyun Network... 1
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@159.112.235.52:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🌍 Malaysia | DigitalOcean, 1
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=musiclovers85?ed#🌍 Malaysia | Scloud Pte 1
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=/?TELEGRAM-leviconfigs_leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🌍 Malaysia | Scloud Pte 2
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🌍 Malaysia | Scloud Pte 3
+vless://1563ad16-9ac7-4214-8eb7-303f745efb07@themeforest.net:8880/?type=ws&encryption=none&flow=&host=silent-cake-fb8d.69-a76.workers.dev&path=/pyip#🌍 Malaysia | Scloud Pte 4
