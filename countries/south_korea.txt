@@ -3,13 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 1
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 2
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | Amazon.com, 3
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 4
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 2
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 3
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | Amazon.com, 4
 vless://9f7dddc4-6c77-4e2c-bfa4-7e5afdfd48f8@151.245.106.49:2053?type=tcp&security=reality&fp=firefox&pbk=Wg07hKwQjSVmOsEHn7X1iLAXR2wkKRSyv8TZmq9ZsRA&sid=58186df4a95a1504&sni=www.cloudflare.com#🇰🇷 South Korea | HostHatch 1
-vless://97532b08-357e-4140-a6f0-8e07f2ed3327@104.25.67.3:2053?encryption=none&type=ws&path=%2Fproxyip%3Dkr.william.us.ci&host=yf2.yifangg.de5.net&security=tls&sni=yf2.yifangg.de5.net&fp=firefox&alpn=h3&allowInsecure=1#🇰🇷 South Korea | Korea Telecom 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#🇰🇷 South Korea | SK Broadband Co 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#🇰🇷 South Korea | SK Broadband Co 2
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@104.25.67.3:2053?encryption=none&type=ws&path=/proxyip=kr.william.us.ci&host=yf2.yifangg.de5.net&security=tls&sni=yf2.yifangg.de5.net&fp=chrome&alpn=h3&allowInsecure=1#🇰🇷 South Korea | Korea Telecom 1
