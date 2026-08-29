@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh7cgQm9iaVZQTiDigJQgQnJhemlsCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RXdjbThjRldndngzWGlCMDZ5NDZpVGduQU5jSTNRQmE0VUdHZjFPVUVKUT0@167.234.235.71:59319#🇧🇷 Brazil | Oracle 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.40:8880?security=none&type=ws&host=vms.lifetime11.workers.dev&path=%2F#🇧🇷 Brazil | M247 Europe SRL 1

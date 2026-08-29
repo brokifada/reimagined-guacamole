@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20056/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#🌍 Indonesia | ARDH 1
+trojan://M7v%w11Se*@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&fp=ios&sni=qfdfsg.wsone.icu#🌍 Indonesia | Google 1

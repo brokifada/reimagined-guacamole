@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?security=none&type=ws&path=%2Fsync&host=nahan-core.netizo09.workers.dev&packetEncoding=none#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.30:8880?security=none&type=ws&host=vms.lifetime54.workers.dev&path=/#🇦🇪 United Arab Emirates | UCLOUD INFORMATION TEC... 1

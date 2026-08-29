@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@2.27.27.202:443?flow=xtls-rprx-vision&security=reality&sni=www.ray-balance.space&fp=firefox&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&path=/#🇬🇪 Georgia | H2nexus LTD 1
-vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@2.27.27.202:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ray-balance.space&fp=chrome&security=reality&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&sid=#🇬🇪 Georgia | H2nexus LTD 2
-vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@bc-ge-hn.ray-balance.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ray-balance.space&fp=chrome&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&type=tcp&headerType=none#🇬🇪 Georgia | H2nexus LTD 3
+vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@217.11.167.94:2046?type=ws&security=tls&fp=firefox&sni=f5link.ru#🇬🇪 Georgia | Snowd Security OU 1
+vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@217.11.167.94:2046?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=f5link.ru#🇬🇪 Georgia | Snowd Security OU 2
+vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@217.11.167.94:2046?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=f5link.ru#🇬🇪 Georgia | Snowd Security OU 3
