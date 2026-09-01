@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://M7v%w11Se*@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&fp=ios&sni=qfdfsg.wsone.icu#🌍 Indonesia | Google 1
+vless://33ebe52d-cd35-4d0f-a3e9-14adb7ff1ff4@188.114.97.6:80?path=%2Fid-tksi&security=none&encryption=none&host=www.genflix.co.id.r3xxe.eu.cc&type=ws#🌍 Indonesia | PT. Telekomunikasi Ind... 1

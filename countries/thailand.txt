@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://baaa882d-ac50-4bba-bd8d-5486f7d34005@104.16.239.191:8880?security=none&type=ws&host=blue-water-924c.174-235.workers.dev&path=/#🌍 Thailand | M247 Europe SRL 1
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F&type=ws&fp=firefox#🌍 Thailand | VP InfoTech Co., . 1
+vless://243ad93d-9732-4e19-9784-8b1a642cff70@fancy-king-6fb5.33-615.workers.dev:8880?type=ws&amp;path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&amp;fp=qq#🌍 Thailand | M247 Europe SRL 1
