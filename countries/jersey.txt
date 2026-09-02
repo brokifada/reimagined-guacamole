@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBKZXJzZXkK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://f8bfa488-1e06-427e-b9e0-b014d175d570@82.145.55.75:443?security=reality&type=tcp&sni=strapi.io&fp=firefox&flow=xtls-rprx-vision&sid=fd55b698ee8c3629&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY#🌍 Jersey | Iomart Hosting 1
+vless://78692911-efc2-43d2-b522-c61f4bfeb71b@82.145.55.75:443?security=reality&type=tcp&sni=strapi.io&fp=firefox&flow=xtls-rprx-vision&sid=fd55b698ee8c3629&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY#🌍 Jersey | Iomart Hosting 1
