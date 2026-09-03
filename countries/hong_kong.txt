@@ -3,19 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7AgQm9iaVZQTiDigJQgSG9uZyBLb25nCuKaoSAxNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7AgQm9iaVZQTiDigJQgSG9uZyBLb25nCuKaoSA5INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none#🇭🇰 Hong Kong | Alibaba Cloud 1
 vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@hk5-r.link-t7.com:10130/?type=grpc&encryption=none&flow=&serviceName=movie&sni=s0.awsstatic.com&allowInsecure=1&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#🇭🇰 Hong Kong | Amazon Technologies 1
 vless://F2987FBA-B653-444D-8057-6B6474E448C6@hk3-r.link-t7.com:10128/?type=grpc&encryption=none&flow=&serviceName=movie&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#🇭🇰 Hong Kong | Amazon Technologies 2
 vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@hk1-r.link-t7.com:10126/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#🇭🇰 Hong Kong | Amazon Technologies 3
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=af1bdd293097b664#🇭🇰 Hong Kong | Dalian Yichuan Industr... 1
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?&security=reality&flow=xtls-rprx-vision&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&fp=chrome&sni=tesla.com&type=tcp&headerType=none&host=tesla.com&path=%2F#🇭🇰 Hong Kong | Dalian Yichuan Industr... 2
+vless://F2987FBA-B653-444D-8057-6B6474E448C6@hk4-r.link-t7.com:10129/?type=grpc&encryption=none&flow=&serviceName=movie&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#🇭🇰 Hong Kong | Amazon.com, 1
 trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me/ripaojiedian#🇭🇰 Hong Kong | Hong Kong Broadband Ne... 1
-vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@104.21.94.161:443?security=tls&type=ws&path=/glasspanel/guest000_0_5de14443985f/&host=mao.kipfel.kdns.fr&packetEncoding=none&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&sni=mao.kipfel.kdns.fr&fp=chrome#🇭🇰 Hong Kong | Hong Kong Telecommunic... 1
-vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@104.18.42.54:443?fp=chrome&host=mao.kipfel.kdns.fr&path=/glasspanel/guest000_0_5de14443985f/&security=tls&sni=mao.kipfel.kdns.fr&type=ws#🇭🇰 Hong Kong | Hong Kong Telecommunic... 2
-vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@nexusmods.com:443?security=tls&type=ws&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&host=mao.kipfel.kdns.fr&packetEncoding=none&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=mao.kipfel.kdns.fr&fp=chrome#🇭🇰 Hong Kong | Hong Kong Telecommunic... 3
-trojan://302cf77d-6fb7-4ac8-ae61-88e286340d59@hk03.qianmoip.win:50222?allowInsecure=1&sni=taobao.com#🇭🇰 Hong Kong | Hong Kong Telecommunic... 4
-vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@mfa.gov.ua:443?security=tls&type=ws&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&host=mao.kipfel.kdns.fr&packetEncoding=none&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=mao.kipfel.kdns.fr&fp=chrome#🇭🇰 Hong Kong | Hong Kong Telecommunic... 5
-trojan://302cf77d-6fb7-4ac8-ae61-88e286340d59@hk03.qianmoip.win:50222?security=tls&headerType=none&type=tcp&sni=taobao.com#🇭🇰 Hong Kong | Hong Kong Telecommunic... 6
+trojan://302cf77d-6fb7-4ac8-ae61-88e286340d59@hk03.qianmoip.win:50222?security=tls&headerType=none&type=tcp&sni=taobao.com#🇭🇰 Hong Kong | Hong Kong Telecommunic... 1
+trojan://302cf77d-6fb7-4ac8-ae61-88e286340d59@hk03.qianmoip.win:50222?allowInsecure=1&sni=taobao.com#🇭🇰 Hong Kong | Hong Kong Telecommunic... 2
 vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@vj37-1936vtw.fincore.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&security=reality&sid=14156e3ac23212cc&sni=www.bing.com&type=tcp#🇭🇰 Hong Kong | Zenlayer Inc 1
