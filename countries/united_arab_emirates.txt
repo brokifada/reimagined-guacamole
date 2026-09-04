@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:8080?host=ne4d3.thir.mn8.hh.vavava.kdns.fr&path=/?ed=2560&security=none&type=ws#🇦🇪 United Arab Emirates | Cloud Software - FZCO 1
+vless://ee556a4f-d9f6-44de-af02-42c51659416a@novantunnel.tech:443?encryption=none&fp=randomized&host=novantunnel.tech&path=/Novan-AE9&security=tls&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 1
+vless://48c20f0a-c2a4-453f-8a61-ec73ea7829c5@www.gov.ua:8880?encryption=none&fp=chrome&host=morning-brook-d78e.347.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&type=ws#🇦🇪 United Arab Emirates | Scloud Pte 1
+vless://c7ba4965-c763-43a6-9aad-b4fb1f7303f6@128.241.25.11:30021?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&fp=chrome&type=ws&sni=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇦🇪 United Arab Emirates | Scloud Pte 2
+vless://b135a1e0-ebdb-4d46-b3fa-bd1e78580244@57.129.52.47:52014?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=/@Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#🇦🇪 United Arab Emirates | Scloud Pte 3
