@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://243ad93d-9732-4e19-9784-8b1a642cff70@fancy-king-6fb5.33-615.workers.dev:8880?type=ws&amp;path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&amp;fp=qq#🌍 Thailand | M247 Europe SRL 1
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@162.159.152.2:443?encryption=none&fp=edge&host=tl.520783.xyz&path=%252Fassets%252Fdist%252Fapp-update-payload.dat&security=tls&sni=tl.520783.xyz&type=ws#🌍 Thailand | VP InfoTech Co., . 1
