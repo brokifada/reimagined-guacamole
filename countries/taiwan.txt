@@ -5,11 +5,11 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HufCfh7wgQm9iaVZQTiDigJQgVGFpd2FuCuKaoSA4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.147.226:50099#🇹🇼 Taiwan | Chunghwa Telecom Co., . 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#🇹🇼 Taiwan | Chunghwa Telecom Co., . 2
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?&security=tls&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan | Chunghwa Telecom Co., . 3
-vless://f265b49a-70a3-407a-b17b-e45dfb9f255c@60.248.219.52:443?allowInsecure=1&encryption=none&fp=chrome&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&security=tls&sni=ty986gfazs.cainiaohub.xyz&type=ws#🇹🇼 Taiwan | Chunghwa Telecom Co., . 4
-vless://f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4@60.248.219.53:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan | Chunghwa Telecom Co., . 5
-vless://f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4@60.248.219.53:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan | Chunghwa Telecom Co., . 6
+vless://f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4@60.248.219.53:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan | Chunghwa Telecom Co., . 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@R3MRCG001287H3P.cybervena.com:50099#🇹🇼 Taiwan | Chunghwa Telecom Co., . 2
+vless://f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4@60.248.219.53:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan | Chunghwa Telecom Co., . 3
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?&security=tls&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan | Chunghwa Telecom Co., . 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#🇹🇼 Taiwan | Chunghwa Telecom Co., . 5
 vless://5d3cbdb2-b82d-4078-82b8-5dd413cca82b@35.229.136.113:35412?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eg6DfbLnWtz7PubkXRYvSuQx6QWIRxUsn4l7QEO3Cg4&sid=0630b874d595&sni=www.amd.com#🇹🇼 Taiwan | Google 1
 vless://85a6bd94-83a9-4e80-849f-c06d7011d1a4@35.201.163.218:30837?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=LXPNhrAGxr_QE4YCdJfKE40ebsPNIHnLbydhl6bipCo&sid=97101ba788915e5a&sni=www.sony.com#🇹🇼 Taiwan | Google 2
+vless://bf8cc771-51a0-4395-810f-1f135325cfc1@34.81.129.171:34376?&security=reality&flow=xtls-rprx-vision&pbk=Atq4Fo_Mg48QtKXagBW9jnhaQSDUCiKgnATB2EU6OHU&sid=8dbafb690450d8a9&fp=firefox&sni=www.sony.com&type=tcp&headerType=none&host=www.sony.com&path=%2F#🇹🇼 Taiwan | Google 3
