@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
+vless://bbb9b9db-d7f8-4242-b053-8526899f87b5@195.58.46.35:443?mode=gun&security=reality&encryption=none&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&fp=chrome&type=grpc&serviceName=livestreamcontent&sni=irangov.ir&sid=5c93a30dbabbc444#🇦🇪 United Arab Emirates | M247 Europe SRL 1
+vless://bbb9b9db-d7f8-4242-b053-8526899f87b5@195.58.46.35:443?type=grpc&security=reality&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=5c93a30dbabbc444&sni=irangov.ir&serviceName=livestreamcontent#🇦🇪 United Arab Emirates | M247 Europe SRL 2
+vless://bbb9b9db-d7f8-4242-b053-8526899f87b5@ae.209qu4892fh8934.live:443?type=grpc&security=reality&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=5c93a30dbabbc444&sni=irangov.ir&serviceName=livestreamcontent#🇦🇪 United Arab Emirates | M247 Europe SRL 3

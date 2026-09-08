@@ -6,5 +6,5 @@
 #announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@213.183.63.60:9061#🇧🇬 Bulgaria | Melbikomas UAB 1
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.63.60:9064#🇧🇬 Bulgaria | Melbikomas UAB 2
-ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@213.183.63.60:9030#🇧🇬 Bulgaria | Melbikomas UAB 3
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@213.183.63.60:9030#🇧🇬 Bulgaria | Melbikomas UAB 2
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.63.60:9064#🇧🇬 Bulgaria | Melbikomas UAB 3
