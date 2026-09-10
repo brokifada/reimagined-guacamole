@@ -3,17 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAxMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://615d9f74-4d51-bad3-f240-2a8400000012@104.19.229.21:443?encryption=none&fp=firefox&host=main.packetloss-com.workers.dev&path=/silaber&security=tls&sni=main.packetloss-com.workers.dev&type=ws#🌍 Unknown | Unknown 1
-vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@104.21.83.140:443?encryption=none&security=tls&sni=0-m16.ChIANG-maI2032.kdNS.fr&insecure=0&allowInsecure=0&type=ws&host=0-m16.ChIAng-Mai2032.kdnS.fR&path=%2FJRr6VGcSLFc034DC6sDbwyWJLbB#🌍 Unknown | Unknown 2
-vless://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=slashdot.org&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#🌍 Unknown | Unknown 3
-vless://a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18@78.129.208.44:421?security=reality&encryption=none&pbk=zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=chistomat.dry.care&sid=a1facbc8575701ae#🌍 Unknown | Unknown 4
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?alpn=http/1.1&encryption=none&host=cf6.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=cf6.rumedia-cdn.com&type=ws#🌍 Unknown | Unknown 5
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?path=/cdn/v3/live&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cf6.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf6.rumedia-cdn.com#🌍 Unknown | Unknown 6
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?path=/cdn/v3/live&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cf6.rumedia-cdn.com&type=ws&allowInsecure=0&sni=cf6.rumedia-cdn.com#🌍 Unknown | Unknown 7
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?encryption=none&security=tls&sni=cf6.rumedia-cdn.com&alpn=http/1.1&fp=chrome&type=ws&host=cf6.rumedia-cdn.com&path=/cdn/v3/live&packetEncoding=xudp#🌍 Unknown | Unknown 8
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?path=%2Fcdn%2Fv3%2Flive&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cf6.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf6.rumedia-cdn.com#🌍 Unknown | Unknown 9
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=cf6.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=cf6.rumedia-cdn.com&type=ws#🌍 Unknown | Unknown 10
-vless://9222652c-be81-4171-9d07-ebcdbd2a82ab@207.241.172.254:4777?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=/?--TELEGRAM--MARAMBASHI--MARAMBASHI&security=reality&fp=chrome&sni=amp-api-edge.apps.apple.com&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&sid=01115788253bc845#🌍 Unknown | Unknown 11
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?security=reality&type=tcp&packetEncoding=xudp&sni=vk.ru&fp=edge&flow=xtls-rprx-vision&sid=1eb8ea8dae937ae0&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY#🌍 Unknown | Unknown 12
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🌍 Unknown | Unknown 1
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24&spx=/fdded5f9698d939&type=tcp&headerType=none#🌍 Unknown | Unknown 2
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=/vless/&security=none&type=ws#🌍 Unknown | Unknown 3
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#🌍 Unknown | Unknown 4
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#🌍 Unknown | Unknown 5
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?security=reality&encryption=none&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=91af08b1ce1f#🌍 Unknown | Unknown 6
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?type=tcp&security=reality&sni=vk.ru&flow=xtls-rprx-vision&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e#🌍 Unknown | Unknown 7
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443/?type=tcp&encryption=none&flow=&sni=localhost&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#🌍 Unknown | Unknown 8
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sid=d26f4703cdd30f4e&sni=vk.ru&type=tcp#🌍 Unknown | Unknown 9
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#🌍 Unknown | Unknown 10
+vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@de.cloudtechone.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.cloudtechone.org&fp=safari&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&sid=f93c9d5127e622e4&packetEncoding=xudp#🌍 Unknown | Unknown 11
