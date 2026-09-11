@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://dec6b197-3211-46f0-bca8-71dfca535709@www.baipiao.eu.org:8880?encryption=none&fp=chrome&host=patient-bread-62cc.473-002.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&type=ws#🇦🇪 United Arab Emirates | Scloud Pte 1
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
