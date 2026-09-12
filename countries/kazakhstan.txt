@@ -7,5 +7,5 @@
 
 vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&sid=fd7f&spx=%2F&type=grpc#🇰🇿 Kazakhstan | Modern Server Solution... 1
 vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?mode=gun&security=reality&encryption=none&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=fd7f#🇰🇿 Kazakhstan | Modern Server Solution... 2
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9882?mode=multi&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#🇰🇿 Kazakhstan | Scalaxy B.V. 1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9882?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=dl.google.com&fp=qq&sid=aa&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU#🇰🇿 Kazakhstan | Scalaxy B.V. 1
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9882?type=grpc&security=reality&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&sni=dl.google.com&serviceName=grpc-tunnel#🇰🇿 Kazakhstan | Scalaxy B.V. 2
