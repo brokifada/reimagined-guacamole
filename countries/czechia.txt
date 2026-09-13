@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://1852b02c-1828-40eb-81ff-4de3d097cb35@78.159.247.246:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fws&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&host=sb2.hat.onl&fp=chrome&type=ws&allowInsecure=0&sni=sb2.hat.onl #🇨🇿 Czechia | Global Cloud Network 1
-vless://1852b02c-1828-40eb-81ff-4de3d097cb35@78.159.247.246:443?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&fp=chrome&host=sb2.hat.onl&path=%2Fws&security=tls&sni=sb2.hat.onl&type=ws#🇨🇿 Czechia | Global Cloud Network 2
+vless://ffa722c8-da3f-4371-a0e0-6afcc9f3f93b@194.87.59.9:2085?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#🇨🇿 Czechia | Reliable Communication... 1
+vless://ffa722c8-da3f-4371-a0e0-6afcc9f3f93b@194.87.59.6:2085?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#🇨🇿 Czechia | Reliable Communication... 2
