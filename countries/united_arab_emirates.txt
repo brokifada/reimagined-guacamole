@@ -3,12 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://f3a30870-eb2e-4ad7-85cb-c0e65d061d5b@188.114.97.6:8080?security=none&type=ws&host=shrill-mouse-dacd.391.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇦🇪 United Arab Emirates | Cloud Software - FZCO 1
-vless://0c13ef54-3890-4bbc-baec-e80335db9fe7@104.16.98.215:8880?alpn=http/1.1&encryption=none&fp=chrome&host=plain-dawn-765f.452.workers.dev&path=/pyip%3DProxyIP.US.CMLiussss.net&sni=plain-dawn-765f.452.workers.dev&type=ws#🇦🇪 United Arab Emirates | Cloud Software - FZCO 2
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.170:2082?&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇦🇪 United Arab Emirates | Cloud Software - FZCO 3
-vless://37fce9ce-9fec-4f30-89a0-fbb1f6f33b3c@104.16.107.139:8880?&security=none&type=ws&headerType=&host=white-night-afee.419-acc.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇦🇪 United Arab Emirates | Cloud Software - FZCO 4
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2082?security=none&type=ws&path=%2F%3Fed%3D2560&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&encryption=none#🇦🇪 United Arab Emirates | Cloud Software - FZCO 5
-vless://ee556a4f-d9f6-44de-af02-42c51659416a@novantunnel.tech:443?encryption=none&fp=randomized&host=novantunnel.tech&path=/Novan-AE9&security=tls&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:8443?mode=gun&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇦🇪 United Arab Emirates | Fast Servers (Pty) 1
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:8443?mode=gun&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&type=grpc&serviceName=TunService&sni=download.nvidia.com&fp=chrome#🇦🇪 United Arab Emirates | Fast Servers (Pty) 2
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:8443?mode=gun&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&type=grpc&serviceName=TunService&sni=download.nvidia.com&fp=edge#🇦🇪 United Arab Emirates | Fast Servers (Pty) 3
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:8443?security=reality&type=grpc&mode=gun&serviceName=TunService&packetEncoding=xudp&sni=download.nvidia.com&fp=chrome&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&encryption=none#🇦🇪 United Arab Emirates | Fast Servers (Pty) 4
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&host=uae.unixzone.us&path=/&security=none&type=ws#🇦🇪 United Arab Emirates | Oracle 1
