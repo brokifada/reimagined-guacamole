@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://4ea67585-c211-4358-9173-cbdff7a6aede@130.49.189.158:45433?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=dfJb8gJq6IRsE1KMsfZp5tNLiwBNQMbSl5NF1z5dq3c&sid=5e101cd5&sni=addons.mozilla.org#🌍 Albania | Global Connectivity So... 1
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@alda1.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=alda1.thewalkingded.life&fp=random&pbk=2IBUcPHOhFulmJaICe_xuRBJVgjDqVXB8fjHVdbdOQA&sid=e114ca996877ce3a&spx=%2F&type=tcp#🌍 Albania | Andrew Kristuli 1
