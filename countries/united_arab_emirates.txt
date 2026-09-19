@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://ee556a4f-d9f6-44de-af02-42c51659416a@novantunnel.tech:443?encryption=none&fp=randomized&host=novantunnel.tech&path=/Novan-AE9&security=tls&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
+vless://ee556a4f-d9f6-44de-af02-42c51659416a@novantunnel.tech:443?encryption=none&type=ws&host=novantunnel.tech&path=%2FNovan-AE9&security=tls&fp=randomized&sni=novantunnel.tech#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
