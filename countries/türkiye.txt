@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://bb20d3fc-fc15-0935-11c5-82775c39e6b0@104.245.240.9:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&type=grpc&serviceName=TunService&sni=download.nvidia.com&fp=chrome#🇹🇷 Türkiye | Fast Servers (Pty) 1
-vless://bb20d3fc-fc15-0935-11c5-82775c39e6b0@104.245.240.9:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇹🇷 Türkiye | Fast Servers (Pty) 2
-vless://bb20d3fc-fc15-0935-11c5-82775c39e6b0@104.245.240.9:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇹🇷 Türkiye | Fast Servers (Pty) 3
-vless://6687af93-eb39-47a3-9a73-0f79234ef507@93.190.8.19:3090?type=grpc&mode=multi&serviceName=vless#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 1
+vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@185.39.204.135:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=tr.plus-hit.ru&type=tcp#🇹🇷 Türkiye | Global Connectivity So... 1
