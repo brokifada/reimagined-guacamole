@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://e440fa81-fe9d-4ca1-b711-f7b72c3d79ed@34.128.66.66:443?fp=chrome&pbk=-9nhbWBjFTNIE5q0kg76hjyzCS2giPfZ-fbd8xvmRX0&security=reality&sid=409192cee72716d7&sni=www.cloudflare.com#🌍 Indonesia | Google 1
+vless://1246e51a-97cd-4d5c-9842-76dd3420bbe2@188.114.97.6:443?security=tls&type=ws&path=/id-tksi&host=investor.fb.com.r3xxe.eu.cc&packetEncoding=xudp&sni=investor.fb.com.r3xxe.eu.cc&fp=chrome&encryption=none#🌍 Indonesia | PT. Telekomunikasi Ind... 1
