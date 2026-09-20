@@ -6,9 +6,9 @@
 #announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://e85ca8bc-21a5-418d-a639-00236f0c3d81@172.64.153.3:443?encryption=none&type=ws&host=d9a9ecdf.69lover.site&path=%2Fapi%2Fv2%2Fc17245904dc7e388%2Fstream&security=tls&alpn=http%2F1.1&fp=chrome&sni=d9a9ecdf.69lover.site#🇰🇷 South Korea | Alibaba.com 1
-vless://e85ca8bc-21a5-418d-a639-00236f0c3d81@172.64.153.3:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=d9a9ecdf.69lover.site&type=ws&headerType=none&host=d9a9ecdf.69lover.site&path=%2Fapi%2Fv2%2Fc17245904dc7e388%2Fstream#🇰🇷 South Korea | Alibaba.com 2
-vless://581cb8c3-dadb-4e10-a18b-5e79bfe7bd93@47.80.14.8:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=OBIHAXdhfYJ0PWsZjy3QYPRjTfMQlvjmBsTf1CT671w&sni=www.samsung.com&sid=71110d3f7ef57760#🇰🇷 South Korea | Alibaba.com 3
+vless://581cb8c3-dadb-4e10-a18b-5e79bfe7bd93@47.80.14.8:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=OBIHAXdhfYJ0PWsZjy3QYPRjTfMQlvjmBsTf1CT671w&sni=www.samsung.com&sid=71110d3f7ef57760#🇰🇷 South Korea | Alibaba.com 2
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 1
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | Amazon.com, 2
-vless://700a7a0e-3f27-406c-81d1-aa1abe411af8@34.64.149.137:443?fp=chrome&pbk=kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8&security=reality&sid=3fd0a8ddef3ae5c6&sni=www.cloudflare.com#🇰🇷 South Korea | Google 1
-vless://700a7a0e-3f27-406c-81d1-aa1abe411af8@34.64.149.137:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8&sni=www.cloudflare.com&sid=3fd0a8ddef3ae5c6#🇰🇷 South Korea | Google 2
+vless://700a7a0e-3f27-406c-81d1-aa1abe411af8@34.64.149.137:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8&sni=www.cloudflare.com&sid=3fd0a8ddef3ae5c6#🇰🇷 South Korea | Google 1
+vless://700a7a0e-3f27-406c-81d1-aa1abe411af8@34.64.149.137:443?fp=chrome&pbk=kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8&security=reality&sid=3fd0a8ddef3ae5c6&sni=www.cloudflare.com#🇰🇷 South Korea | Google 2
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#🇰🇷 South Korea | SK Broadband Co 1
