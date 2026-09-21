@@ -6,8 +6,8 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGlsZQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?type=raw&security=reality&fp=chrome&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&sni=www.cloudflare.com#🌍 Chile | Google 1
-vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&type=tcp&headerType=none#🌍 Chile | Google 2
-vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?&security=reality&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🌍 Chile | Google 3
-vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?type=tcp&security=reality&fp=safari&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&sni=www.cloudflare.com&host=www.cloudflare.com#🌍 Chile | Google 4
-ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw==@64.176.2.21:8388#🌍 Chile | The Constant Company 1
+vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?&security=reality&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🌍 Chile | Google 2
+vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?type=tcp&security=reality&fp=safari&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&sni=www.cloudflare.com&host=www.cloudflare.com#🌍 Chile | Google 3
+vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&type=tcp&headerType=none#🌍 Chile | Google 4
+vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?type=tcp&security=reality&fp=ios&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&sni=www.cloudflare.com#🌍 Chile | Google 5
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?path=%2Fplatform109&security=none&encryption=none&host=platform109.halalkhor.info&type=ws#🌍 Chile | The Constant Company, 1
