@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=cf3.rumedia-cdn.com&type=ws&allowInsecure=0&sni=cf3.rumedia-cdn.com#🇷🇺 Russia | Adman 1
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&headerType=none&security=tls&encryption=none&sni=assets-de2.pleiades.codes&serviceName=cdn.v1.AssetService&fp=qq#🇷🇺 Russia | Mikhail Fedorov 1
