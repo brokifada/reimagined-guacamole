@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226/?type=tcp&encryption=none&flow=#🌍 Mexico | Truxgo S. de R.L de C.V 1
-vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#🌍 Mexico | Truxgo S. de R.L de C.V 2
-vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=none&encryption=none&headerType=none&type=tcp#🌍 Mexico | Truxgo S. de R.L de C.V 3
+vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#🌍 Mexico | Truxgo S. de R.L de C.V 1
+vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226/?type=tcp&encryption=none&flow=#🌍 Mexico | Truxgo S. de R.L de C.V 2
+vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=&encryption=none&headerType=none&type=tcp#🌍 Mexico | Truxgo S. de R.L de C.V 3
