@@ -3,8 +3,21 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDE2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | Amazon.com, 1
-vless://97532b08-357e-4140-a6f0-8e07f2ed3327@cf.877774.xyz:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 1
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@206.81.30.239:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 1
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@108.165.173.197:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 2
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@88.99.36.146:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 3
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@103.177.249.40:2083?&security=tls&fp=chrome&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=/proxyip=kr.william.us.ci#🇰🇷 South Korea | Korea Telecom 4
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@38.180.225.247:2053?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 5
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@38.180.100.80:443?&security=tls&fp=chrome&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=/proxyip=kr.william.us.ci#🇰🇷 South Korea | Korea Telecom 6
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@144.31.243.120:8443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 7
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@154.17.233.72:8443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 8
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@103.177.249.40:2083?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 9
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@38.180.100.80:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 10
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@154.17.233.72:8443?&security=tls&fp=chrome&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=/proxyip=kr.william.us.ci#🇰🇷 South Korea | Korea Telecom 11
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@39.109.50.142:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 12
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@141.11.90.160:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 13
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@cf.877774.xyz:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇰🇷 South Korea | Korea Telecom 14
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#🇰🇷 South Korea | SK Broadband Co 1
