@@ -3,9 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇹🇷 Türkiye | Fast Servers (Pty) 1
-vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:8443?type=grpc&security=reality&fp=firefox&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sni=download.nvidia.com&serviceName=TunService#🇹🇷 Türkiye | Fast Servers (Pty) 2
-vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:8443?encryption=none&fp=firefox&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇹🇷 Türkiye | Fast Servers (Pty) 3
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?security=&encryption=none&headerType=&type=tcp#🇹🇷 Türkiye | Netlen Internet Hizmet... 1
+vless://a22bff60-a40a-4250-bde2-4c660e363b47@172.67.192.84:2095?path=%2Fjuvsrnmgdu8i0179k5&security=none&encryption=none&host=index.harmonica02.workers.dev&type=ws#🇹🇷 Türkiye | DC HOST 1
+vless://a22bff60-a40a-4250-bde2-4c660e363b47@188.114.97.6:8080?encryption=none&host=index.harmonica01.workers.dev&path=/axch1mttbxz2k55y01&sni=index.harmonica01.workers.dev&type=ws#🇹🇷 Türkiye | DC HOST 2
+vless://52e8bce3-b255-486d-beb2-aa1b549c44b1@93.190.8.160:3090?encryption=none&security=none&type=grpc&serviceName=vless#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 1
+vless://52e8bce3-b255-486d-beb2-aa1b549c44b1@93.190.9.52:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 2
+vless://52e8bce3-b255-486d-beb2-aa1b549c44b1@93.190.8.160:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 3
+vless://52e8bce3-b255-486d-beb2-aa1b549c44b1@93.190.9.52:3090?encryption=none&security=none&type=grpc&serviceName=vless#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 4
+vless://df95425f-b822-4279-bd97-3699361293dd@93.190.8.81:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 5
