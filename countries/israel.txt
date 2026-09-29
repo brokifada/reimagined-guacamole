@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7EgQm9iaVZQTiDigJQgSXNyYWVsCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://46b3a70b-b99f-4c6e-aa83-df6d842bb954@193.169.229.145:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=isr.vpnskyline.com&fp=chrome&pbk=2CwgJn1lc23uxQjAdGphQl4SSRmd1amunSpYXxgCgCM&sid=7e13fde9&spx=/netd88EbMAlrZHf&allowInsecure=1#🇮🇱 Israel | SmartApe OU 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chat.openai.com:8880?security=&encryption=none&host=vms.lifetime29.workers.dev&type=ws#🇮🇱 Israel | Webhost 1

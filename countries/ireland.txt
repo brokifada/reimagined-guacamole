@@ -3,9 +3,25 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMjAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.163:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-viper.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 2
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 3
+vless://682d30e4-3dfc-49f2-a017-9049119e3497@172.67.148.163:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=free.server7peekconfig.workers.dev&path=%2FeyJqdW5rIjoiRm5kaUkxZVFtRVJBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&sni=free.server7peekconfig.workers.dev&type=ws#🇮🇪 Ireland | Cloudflare, 1
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@188.114.96.3:443?encryption=none&type=ws&security=tls&path=/free/1.226.227.169%3A50001&host=nuclear.us.kg&sni=nuclear.us.kg#🇮🇪 Ireland | Cloudflare, 2
+vless://22424ee2-6fe3-42ca-9749-6d4c5a8acc82@188.114.98.0:443?&security=tls&fp=chrome&sni=tn1r.eu.cc&type=ws&headerType=none&host=tn1r.eu.cc&path=%2Fid-pusat#🇮🇪 Ireland | Cloudflare, 3
+vless://22424ee2-6fe3-42ca-9749-6d4c5a8acc82@188.114.98.0:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=tn1r.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=tn1r.eu.cc#🇮🇪 Ireland | Cloudflare, 4
+vless://5a5fba4d-6ae8-4975-936d-bb643fb15957@104.21.69.130:443?&security=tls&fp=chrome&sni=biyapain.biyapainbache.workers.dev&type=ws&headerType=none&host=biyapain.biyapainbache.workers.dev&path=%2FeyJqdW5rIjoiV0lISkpXU0trWFI4OGdUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19#🇮🇪 Ireland | Cloudflare, 5
+vless://ae0e6518-71ab-4f4b-87d1-7802765f52ba@172.67.178.142:443?&security=tls&fp=chrome&sni=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&type=ws&headerType=none&host=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&path=%2Fvl%2Fpfi0BD0VoWEgqibmGfPYeH%3Fed%3D2560#🇮🇪 Ireland | Cloudflare, 6
+vless://50414e45-4c5f-5a45-5553-05920b4f8f35@172.67.160.103:443?encryption=none&host=o5zmxbeoutis.o7zluiebuo8s.workers.dev&path=/stream/PANEL_ZEUS/05920b4f8f35&security=tls&sni=o5zmxbeoutis.o7zluiebuo8s.workers.dev&type=ws#🇮🇪 Ireland | Cloudflare, 7
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.67.160.192:443?encryption=none&security=tls&sni=nuclear.us.kg&insecure=0&allowInsecure=0&type=ws&host=nuclear.us.kg&path=%2Ffree%2F103.101.153.32%3A443#🇮🇪 Ireland | Cloudflare, 8
+vless://52322144-50c7-9d9f-6ba9-fdb600000005@104.24.212.83:443?&security=tls&fp=chrome&sni=broad-wind-e1ca.salmanmahigir9508.workers.dev&type=ws&headerType=none&host=broad-wind-e1ca.salmanmahigir9508.workers.dev&path=%2Fsync#🇮🇪 Ireland | Cloudflare, 9
+vless://50414e45-4c5f-5a45-5553-b138b248da68@downloadk1.11gig.ir:443?security=tls&type=ws&path=/stream/PANEL_ZEUS/b138b248da68&host=r5zenrelur2s.pqzdileiu8es.workers.dev&packetEncoding=xudp&sni=r5zenrelur2s.pqzdileiu8es.workers.dev&fp=chrome&encryption=none#🇮🇪 Ireland | Cloudflare, 10
+vless://73796e63-0000-4000-8000-000000000000@nahan-core.fatitelegram.workers.dev:443?encryption=none&fp=chrome&host=nahan-core.fatitelegram.workers.dev&path=/sync&security=tls&type=ws#🇮🇪 Ireland | Cloudflare, 11
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?encryption=none&security=tls&sni=nuclear.us.kg&type=ws&host=nuclear.us.kg&path=/free/1.226.227.169%3A50001#🇮🇪 Ireland | Cloudflare, 12
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.163:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-viper.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 2
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 3
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 4
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🇮🇪 Ireland | IBIS 1
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?encryption=none&type=tcp&security=tls&sni=grok.setlisting.ru&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&allowInsecure=0&fp=edge#🇮🇪 Ireland | IBIS 2
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?encryption=none&type=tcp&security=tls&sni=grok.setlisting.ru&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&allowInsecure=0&fp=chrome#🇮🇪 Ireland | IBIS 3
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?encryption=none&type=tcp&security=tls&sni=grok.setlisting.ru&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&allowInsecure=0#🇮🇪 Ireland | IBIS 4
