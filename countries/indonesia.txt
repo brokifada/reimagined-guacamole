@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://1246e51a-97cd-4d5c-9842-76dd3420bbe2@188.114.97.6:443?security=tls&type=ws&path=/id-tksi&host=investor.fb.com.r3xxe.eu.cc&packetEncoding=xudp&sni=investor.fb.com.r3xxe.eu.cc&fp=chrome&encryption=none#🌍 Indonesia | PT. Telekomunikasi Ind... 1
+vless://d90087c3-54f5-4283-a13f-615260c8b0c7@172.235.246.215:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=googleapis.com&fp=random&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#🌍 Indonesia | Akamai Technologies, 1
+vless://d90087c3-54f5-4283-a13f-615260c8b0c7@172.235.246.215:443?security=reality&encryption=none&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=googleapis.com#🌍 Indonesia | Akamai Technologies, 2
