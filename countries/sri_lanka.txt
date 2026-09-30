@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTcmkgTGFua2EK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTcmkgTGFua2EK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://3d08ed67-5a47-42d3-a948-ebc7d2eb21f7@51.75.67.209:443?security=tls&type=tcp&sni=free.sahanwickramasinghe.me&fp=firefox#🌍 Sri Lanka | Cyberzone S.A. 1
+vless://3d08ed67-5a47-42d3-a948-ebc7d2eb21f7@free.sahanwickramasinghe.me:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsec…#🌍 Sri Lanka | Cyberzone S.A. 2
