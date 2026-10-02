@@ -3,13 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&fp=firefox&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&security=reality&sid=d368b94e275ab080&sni=www.google.com&type=tcp#🇫🇮 Finland | Hetzner Online GmbH 1
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none#🇫🇮 Finland | Hostkey B.V. 1
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?security=reality&encryption=none&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=91af08b1ce1f#🇫🇮 Finland | Hostkey B.V. 2
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?security=reality&encryption=none&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=91af08b1ce1f#🇫🇮 Finland | Hostkey B.V. 1
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none#🇫🇮 Finland | Hostkey B.V. 2
 vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&path=/#🇫🇮 Finland | Hostkey B.V. 3
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇫🇮 Finland | Hostkey B.V. 4
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&security=reality&sid=91af08b1ce1f&sni=www.foxsports.com&type=tcp#🇫🇮 Finland | Hostkey B.V. 5
-vless://f28e0ce1-ed75-4e90-b069-5215a80dfb4a@45.149.147.97:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=safari&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&sid=d345ad4657adeef9&type=tcp&headerType=none#🇫🇮 Finland | Tabunscic Anatoli 1
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&security=reality&sid=91af08b1ce1f&sni=www.foxsports.com&type=tcp#🇫🇮 Finland | Hostkey B.V. 4
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇫🇮 Finland | Hostkey B.V. 5
 vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@144.31.27.215:43000?security=reality&encryption=none&pbk=dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg&headerType=none&fp=chrome&spx=/AhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=144.31.27.215&sid=568d87a47271344e#🇫🇮 Finland | U1 DIGITAL SERVICES LTD 1
