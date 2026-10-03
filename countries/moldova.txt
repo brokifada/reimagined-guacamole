@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@185.153.198.86:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇲🇩 Moldova | Cloudflare, 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@mori-md.failspace.top:443?type=tcp&security=tls&sni=mori-md.failspace.top&fp=chrome&alpn=h2&encryption=none&flow=xtls-rprx-vision#🇲🇩 Moldova | AVA HOST SRL 1
