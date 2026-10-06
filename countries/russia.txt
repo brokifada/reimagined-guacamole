@@ -3,15 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://44730b65-24d5-45f2-8b45-8be24015d1b9@45.9.118.101:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org&fp=qq#🇷🇺 Russia | Neurosignal 1
-vless://44730b65-24d5-45f2-8b45-8be24015d1b9@45.9.118.101:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org&fp=firefox#🇷🇺 Russia | Neurosignal 2
-vless://44730b65-24d5-45f2-8b45-8be24015d1b9@45.9.118.101:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org&fp=ios#🇷🇺 Russia | Neurosignal 3
-vless://3984a6ee-9fc6-4219-93fd-706c59e02171@45.151.71.63:443?security=reality&type=tcp&sni=abuse.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Russia | Neurosignal 4
-vless://44730b65-24d5-45f2-8b45-8be24015d1b9@45.9.118.101:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org&fp=safari#🇷🇺 Russia | Neurosignal 5
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.25:2087?encryption=none&pbk=KDBhxT2YMtMjDEC9VdoDEISdCwxd6KFrSE8uyUaHcTY&security=reality&serviceName=astracat&sid=ed435c242097fd05&sni=www.yandex.ru&type=grpc&fp=ios#🇷🇺 Russia | Vladislav Doniy 1
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.25:2087?encryption=none&pbk=KDBhxT2YMtMjDEC9VdoDEISdCwxd6KFrSE8uyUaHcTY&security=reality&serviceName=astracat&sid=ed435c242097fd05&sni=www.yandex.ru&type=grpc&fp=safari#🇷🇺 Russia | Vladislav Doniy 2
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.25:2087?encryption=none&security=reality&sni=www.yandex.ru&fp=safari&pbk=KDBhxT2YMtMjDEC9VdoDEISdCwxd6KFrSE8uyUaHcTY&sid=ed435c242097fd05&type=grpc&authority=&serviceName=astracat&mode=gun#🇷🇺 Russia | Vladislav Doniy 3
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.25:2087?encryption=none&pbk=KDBhxT2YMtMjDEC9VdoDEISdCwxd6KFrSE8uyUaHcTY&security=reality&serviceName=astracat&sid=ed435c242097fd05&sni=www.yandex.ru&type=grpc&fp=edge#🇷🇺 Russia | Vladislav Doniy 4
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.25:2087?encryption=none&pbk=KDBhxT2YMtMjDEC9VdoDEISdCwxd6KFrSE8uyUaHcTY&security=reality&serviceName=astracat&sid=ed435c242097fd05&sni=www.yandex.ru&type=grpc&fp=firefox#🇷🇺 Russia | Vladislav Doniy 5
+vless://44730b65-24d5-45f2-8b45-8be24015d1b9@45.9.118.101:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp #🇷🇺 Russia | Neurosignal 1
+vless://3f58af8e-7c91-424e-85c7-ec6913b7fc8f@45.128.78.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none #🇷🇺 Russia | Neurosignal 2
+vless://44730b65-24d5-45f2-8b45-8be24015d1b9@45.9.118.101:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇷🇺 Russia | Neurosignal 3
