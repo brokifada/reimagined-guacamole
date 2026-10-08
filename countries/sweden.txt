@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuPCfh6ogQm9iaVZQTiDigJQgU3dlZGVuCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?mode=gun&security=reality&encryption=none&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&fp=chrome&type=grpc&serviceName=grpce5bb9e71&sni=www.samsung.com&sid=d0ea1847066af5a6#🇸🇪 Sweden | Aeza International LTD 1
-vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?mode=gun&security=reality&encryption=none&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&fp=safari&type=grpc&serviceName=grpce5bb9e71&sni=www.samsung.com&sid=d0ea1847066af5a6#🇸🇪 Sweden | Aeza International LTD 2
-vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?security=reality&type=grpc&mode=gun&serviceName=grpce5bb9e71&sni=www.samsung.com&fp=chrome&sid=d0ea1847066af5a6&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&encryption=none#🇸🇪 Sweden | Aeza International LTD 3
+vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?security=reality&type=grpc&mode=gun&serviceName=grpce5bb9e71&sni=www.samsung.com&fp=chrome&sid=d0ea1847066af5a6&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&encryption=none#🇸🇪 Sweden | Aeza International LTD 1
+vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?mode=gun&security=reality&encryption=none&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&fp=chrome&type=grpc&serviceName=grpce5bb9e71&sni=www.samsung.com&sid=d0ea1847066af5a6#🇸🇪 Sweden | Aeza International LTD 2
+vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?mode=gun&security=reality&encryption=none&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&fp=safari&type=grpc&serviceName=grpce5bb9e71&sni=www.samsung.com&sid=d0ea1847066af5a6#🇸🇪 Sweden | Aeza International LTD 3
