@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@193.233.232.96:443?security=reality&encryption=none&pbk=uC4W93YTVI5kbpN5ih2WZfQjikpNBn61-AhljO8ExFg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=fa764ccf#🇦🇹 Austria | Aeza International LTD 1
+vless://698b212d-ca12-4794-8256-252a6e1b4533@188.114.97.6:443?encryption=none&security=tls&type=ws&host=w2p6.vpnpolar.online&path=%2Fbeeline&sni=w2p6.vpnpolar.online&alpn=http%2F1.1&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1#🇦🇹 Austria | Aeza International LTD 1
