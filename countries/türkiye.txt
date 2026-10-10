@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Türkiye | Netlen Internet Hizmet... 1
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=tcp&security=false&path=%2F&sni=test.keoplentuio.xyz&fp=chrome#🇹🇷 Türkiye | Netlen Internet Hizmet... 2
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp&headerType=none#🇹🇷 Türkiye | Netlen Internet Hizmet... 3
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#🇹🇷 Türkiye | Netlen Internet Hizmet... 4
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206OE53YWJkV0JYSzFxMVFhQmhGNjlydz09Okx6dmc3bnVHRE9JcXNvNjg1NTNlTlE9PQ==@tumspr.azad0namah.ir:5566#🇹🇷 Türkiye | Netlen Internet Hizmet... 1
+vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&encryption=none&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=f46cd3ea3d1eb72d#🇹🇷 Türkiye | Pixoof Teknoloji Anoni... 1
+vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&security=reality&sid=f46cd3ea3d1eb72d&sni=www.datadoghq.com&type=tcp#🇹🇷 Türkiye | Pixoof Teknoloji Anoni... 2
