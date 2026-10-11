@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?path=/&security=none&encryption=none&host=vms.lifetime28.workers.dev&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@66.235.200.30:8880?type=ws&headerType=none&host=vms.lifetime47.workers.dev&path=%2F#🇦🇪 United Arab Emirates | UCLOUD INFORMATION TEC... 1
+vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=94.249.188.202&fp=chrome&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d&type=tcp#🇦🇪 United Arab Emirates | Tom Gewiese 1
+vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?security=reality&encryption=none&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=94.249.188.202&sid=7887c27d#🇦🇪 United Arab Emirates | Tom Gewiese 2
