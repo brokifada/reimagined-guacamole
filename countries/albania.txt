@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://83383473-0d62-4089-ac4d-d7ecb413504a@al3.h1cloud.net:25222?encryption=none&type=tcp&security=reality&pbk=JpJpgrE3EOho_ldp0woAiPL-dh8he8V0m4-rV2Uc9TY&sni=smartcaptcha.yandexcloud.net&fp=firefox&sid=110177aa0babc87e&spx=%2F#🌍 Albania | H1cloud LTD 1
+vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@83.166.238.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh3.vk.ru&pbk=QXw5YbUfPssdgGZIfAol5PonYGWSjlWsWpoij93VU20&sid=b276e04195d77f6b&type=tcp&fp=safari#🌍 Albania | ONEPROVIDER 1
