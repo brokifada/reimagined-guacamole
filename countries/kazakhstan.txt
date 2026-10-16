@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@fi1server.rabstvo.shop:443?sni=fi1server.rabstvo.shop#🇰🇿 Kazakhstan | WorkTitans B.V 1
-hy2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@fi1server.rabstvo.shop:443?sni=fi1server.rabstvo.shop#🇰🇿 Kazakhstan | WorkTitans B.V 2
+hy2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@fi1server.rabstvo.shop:443?sni=fi1server.rabstvo.shop#🇰🇿 Kazakhstan | WorkTitans B.V 1
+hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@fi1server.rabstvo.shop:443?sni=fi1server.rabstvo.shop#🇰🇿 Kazakhstan | WorkTitans B.V 2
