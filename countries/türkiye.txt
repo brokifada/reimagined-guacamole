@@ -5,9 +5,9 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#🇹🇷 Türkiye | Netlen Internet Hizmet... 1
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?security=none&type=tcp&packetEncoding=none#🇹🇷 Türkiye | Netlen Internet Hizmet... 2
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp&headerType=none#🇹🇷 Türkiye | Netlen Internet Hizmet... 3
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053#🇹🇷 Türkiye | Netlen Internet Hizmet... 4
+vless://2f7361b1-3c6b-4ddf-9e28-5297a22513ca@82.26.86.145:8443?encryption=none&fp=firefox&pbk=sSwSzf1fW2e08l8SeLAPvZf2KHb6iTmFYWmdLzUMpSo&security=reality&serviceName=api.v1.Sync&sid=95e422958b1cde43&sni=www.rutube.ru&type=grpc#🇹🇷 Türkiye | Hostkey B.V. 1
+ss://YWVzLTEyOC1nY206Qkkyb21YZ1hkdXU5NXhBVHU1dWFVM2puMkxwYjktcUs=@78.135.77.110:11700#🇹🇷 Türkiye | Netlen Internet Hizmet... 1
 vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&security=reality&sid=f46cd3ea3d1eb72d&sni=www.datadoghq.com&type=tcp#🇹🇷 Türkiye | Pixoof Teknoloji Anoni... 1
 vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&encryption=none&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=f46cd3ea3d1eb72d#🇹🇷 Türkiye | Pixoof Teknoloji Anoni... 2
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?sni=nimm.mpd.cc.cd&allowInsecure=1&type=ws&path=%2F0962&host=nimm.mpd.cc.cd&fp=chrome#🇹🇷 Türkiye | Priente Software Yazil... 1
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?path=/0962&security=tls&insecure=0&host=nimm.mpd.cc.cd&type=ws&allowInsecure=0&sni=nimm.mpd.cc.cd#🇹🇷 Türkiye | Priente Software Yazil... 2
