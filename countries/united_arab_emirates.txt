@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://8732f92b-ba85-48f7-92e4-ad029f1cd4e7@45.59.120.217:443?type=tcp&security=reality&fp=chrome&pbk=mWxcYeYE-M3iE0RBjTzG88QI9kj2wivJDoIYDu_aG3w&sid=29c2dd1e3ef7c4d4&sni=strm.yandex.net&host=strm.yandex.net#🇦🇪 United Arab Emirates | anyNode 1
-vless://8732f92b-ba85-48f7-92e4-ad029f1cd4e7@45.59.120.217:443?type=tcp&security=reality&sni=strm.yandex.net&fp=chrome&pbk=mWxcYeYE-M3iE0RBjTzG88QI9kj2wivJDoIYDu_aG3w&sid=29c2dd1e3ef7c4d4#🇦🇪 United Arab Emirates | anyNode 2
-vless://8732f92b-ba85-48f7-92e4-ad029f1cd4e7@45.59.120.217:443?type=tcp&security=reality&sni=strm.yandex.net&pbk=mWxcYeYE-M3iE0RBjTzG88QI9kj2wivJDoIYDu_aG3w&sid=29c2dd1e3ef7c4d4&encryption=none&fp=chrome#🇦🇪 United Arab Emirates | anyNode 3
 vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?sni=185.253.116.33&type=ws&host=185.253.116.33&path=/vless#🇦🇪 United Arab Emirates | HZ Hosting 1
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&fp=random&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 United Arab Emirates | Oracle 1
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 2
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&fp=&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 United Arab Emirates | Oracle 3
