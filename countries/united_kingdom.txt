@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6cgQm9iaVZQTiDigJQgVW5pdGVkIEtpbmdkb20K4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:8080?security=none&type=ws&path=%2F#🇬🇧 United Kingdom | Leaseweb UK 1
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:8080?security=none&type=ws&path=%2F&packetEncoding=xudp#🇬🇧 United Kingdom | Leaseweb UK 1
 vless://bc058e69-0444-4c7b-98da-bd67f0b143da@130.12.242.106:443?flow=xtls-rprx-vision&fp=random&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&security=reality&sid=15affa0af66dfc79&sni=deepl.com&type=tcp#🇬🇧 United Kingdom | Weyro LTD 1

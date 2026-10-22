@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqfCfh6ogQm9iaVZQTiDigJQgR2VybWFueQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c6438331-a79b-4471-fd5e-42c2eeac29fa@903.rtgpu.com:443?encryption=none&security=tls&type=ws&path=%2Fnmd2&fp=firefox#🇩🇪 Germany | Hetzner Online GmbH 1
-vless://c6438331-a79b-4471-fd5e-42c2eeac29fa@903.rtgpu.com:443?path=/nmd2&security=tls&encryption=none&insecure=0&host=903.rtgpu.com&type=ws&allowInsecure=0&sni=903.rtgpu.com#🇩🇪 Germany | Hetzner Online GmbH 2
-vless://c6438331-a79b-4471-fd5e-42c2eeac29fa@903.rtgpu.com:443?encryption=none&host=903.rtgpu.com&path=%2Fnmd2&security=tls&sni=903.rtgpu.com&type=ws&fp=safari#🇩🇪 Germany | Hetzner Online GmbH 3
-vless://c6438331-a79b-4471-fd5e-42c2eeac29fa@903.rtgpu.com:443?encryption=none&host=903.rtgpu.com&path=%2Fnmd2&security=tls&sni=903.rtgpu.com&type=ws&fp=firefox#🇩🇪 Germany | Hetzner Online GmbH 4
+vless://adcaa148-7c66-4282-a81a-99ec8afa029d@82.118.19.153:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=670ed9f350bd8ee0&pbk=Tiuy8om5Lk0pWL95-8LaFFTwH0vbURVMoOkaW9xGaiE#🇩🇪 Germany | Route 95 1
+vless://adcaa148-7c66-4282-a81a-99ec8afa029d@82.118.19.153:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Tiuy8om5Lk0pWL95-8LaFFTwH0vbURVMoOkaW9xGaiE&security=reality&sid=670ed9f350bd8ee0&sni=www.cloudflare.com&type=tcp#🇩🇪 Germany | Route 95 2
+vless://adcaa148-7c66-4282-a81a-99ec8afa029d@82.118.19.153:443?flow=xtls-rprx-vision&pbk=Tiuy8om5Lk0pWL95-8LaFFTwH0vbURVMoOkaW9xGaiE&security=reality&sid=670ed9f350bd8ee0&sni=www.cloudflare.com&type=raw#🇩🇪 Germany | Route 95 3
+vless://adcaa148-7c66-4282-a81a-99ec8afa029d@82.118.19.153:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Tiuy8om5Lk0pWL95-8LaFFTwH0vbURVMoOkaW9xGaiE&sid=670ed9f350bd8ee0&sni=www.cloudflare.com#🇩🇪 Germany | Route 95 4
