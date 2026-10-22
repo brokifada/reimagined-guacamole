@@ -3,12 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?&sni=45.144.234.157&type=ws&headerType=none&host=45.144.234.157&path=/vless#🇫🇮 Finland | Baykov Ilya Sergeevich 1
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?path=%2Fvless&security=none&type=ws#🇫🇮 Finland | Baykov Ilya Sergeevich 2
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?sni=45.144.234.157&type=ws&host=45.144.234.157&path=/vless#🇫🇮 Finland | Baykov Ilya Sergeevich 3
-vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=video.yandex.ru&type=tcp#🇫🇮 Finland | NetCrafters OU 1
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?path=%2Fvless&security=none&type=ws#🇫🇮 Finland | Baykov Ilya Sergeevich 1
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?encryption=none&host=45.144.234.157&path=%2Fvless&security=none&type=ws#🇫🇮 Finland | Baykov Ilya Sergeevich 2
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@45.144.52.65:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.moscowvibe.fyi&sid=7271129440ade8fa#🇫🇮 Finland | Cloudflare, 1
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@45.144.52.65:8443?security=reality&encryption=none&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&fp=firefox&type=grpc&sni=vk.ru&sid=4d2cf3#🇫🇮 Finland | Cloudflare, 2
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?encryption=none&security=reality&type=tcp&sni=video.yandex.ru&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#🇫🇮 Finland | NetCrafters OU 1
 vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#🇫🇮 Finland | NetCrafters OU 2
-vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?encryption=none&security=reality&type=tcp&sni=video.yandex.ru&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#🇫🇮 Finland | NetCrafters OU 3
-vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#🇫🇮 Finland | NetCrafters OU 4
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?sni=213.176.92.168&type=ws&host=213.176.92.168&path=/vless#🇫🇮 Finland | NetCrafters OU 3
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=video.yandex.ru&type=tcp#🇫🇮 Finland | NetCrafters OU 4
