@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7AgQm9iaVZQTiDigJQgSG9uZyBLb25nCuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HrfCfh7AgQm9iaVZQTiDigJQgSG9uZyBLb25nCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://82eb8419-59f4-4d3e-9106-d05d22af615c@45.207.157.8:9443?flow=xtls-rprx-vision&fp=chrome&host=www.amazon.com&path=%2F&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4&security=reality&sid=b390142456517acc&sni=www.amazon.com&type=tcp#🇭🇰 Hong Kong | Akile LTD 1
-vless://82eb8419-59f4-4d3e-9106-d05d22af615c@141.11.149.174:9443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=b390142456517acc&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4#🇭🇰 Hong Kong | Akile LTD 2
-vless://82eb8419-59f4-4d3e-9106-d05d22af615c@154.83.86.85:9443?flow=xtls-rprx-vision&fp=chrome&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4&security=reality&sid=b390142456517acc&sni=www.amazon.com&type=tcp#🇭🇰 Hong Kong | Akile LTD 3
-vless://82eb8419-59f4-4d3e-9106-d05d22af615c@141.11.149.174:9443?security=reality&sni=www.amazon.com&fp=chrome&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4&sid=b390142456517acc&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇭🇰 Hong Kong | Akile LTD 4
