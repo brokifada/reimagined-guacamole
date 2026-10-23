@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?path=%2Fvless&security=none&type=ws#🇫🇮 Finland | Baykov Ilya Sergeevich 1
 vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws&host=45.144.234.157&path=/vless#🇫🇮 Finland | Baykov Ilya Sergeevich 2
-vless://8afeb33c-b686-43e9-a629-0d98f991ec28@212.87.222.10:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=f25sygANXTpzdc9YPCwkggwSmm3piA3BluSeHdfG-hg&security=reality&sni=www.nokia.com&type=tcp#🇫🇮 Finland | Global Connectivity So... 1
