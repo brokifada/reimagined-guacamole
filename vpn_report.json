@@ -35,6 +35,11 @@
       "flag": "🌍",
       "name": "Saudi Arabia"
     },
+    "SG": {
+      "count": 1,
+      "flag": "🇸🇬",
+      "name": "Singapore"
+    },
     "US": {
       "count": 3,
       "flag": "🇺🇸",
@@ -49,32 +54,10 @@
       "exit_ip": "94.237.46.104",
       "flag": "🇳🇱",
       "isp": "UpCloud",
-      "key": "vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#🇳🇱 The Netherlands | UpCloud 4",
-      "latency_ms": 85,
-      "name": "🇳🇱 The Netherlands | UpCloud 4",
-      "speed_kbps": 1086.1
-    },
-    {
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "exit_ip": "94.237.46.104",
-      "flag": "🇳🇱",
-      "isp": "UpCloud",
       "key": "vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?#🇳🇱 The Netherlands | UpCloud 2",
-      "latency_ms": 86,
+      "latency_ms": 81,
       "name": "🇳🇱 The Netherlands | UpCloud 2",
-      "speed_kbps": 1080.8
-    },
-    {
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "exit_ip": "94.237.46.104",
-      "flag": "🇳🇱",
-      "isp": "UpCloud",
-      "key": "vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?encryption=none&security=none&type=tcp#🇳🇱 The Netherlands | UpCloud 1",
-      "latency_ms": 88,
-      "name": "🇳🇱 The Netherlands | UpCloud 1",
-      "speed_kbps": 1112.9
+      "speed_kbps": 1197.2
     },
     {
       "country": "The Netherlands",
@@ -83,9 +66,31 @@
       "flag": "🇳🇱",
       "isp": "UpCloud",
       "key": "vless://7ed223bc-bc94-4fdb-a6df-c83acdf452fc@94.237.46.104:443?encryption=none&security=none&type=tcp#🇳🇱 The Netherlands | UpCloud 3",
-      "latency_ms": 89,
+      "latency_ms": 81,
       "name": "🇳🇱 The Netherlands | UpCloud 3",
-      "speed_kbps": 1059.8
+      "speed_kbps": 1153.5
+    },
+    {
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "exit_ip": "94.237.46.104",
+      "flag": "🇳🇱",
+      "isp": "UpCloud",
+      "key": "vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#🇳🇱 The Netherlands | UpCloud 4",
+      "latency_ms": 82,
+      "name": "🇳🇱 The Netherlands | UpCloud 4",
+      "speed_kbps": 1167.7
+    },
+    {
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "exit_ip": "94.237.46.104",
+      "flag": "🇳🇱",
+      "isp": "UpCloud",
+      "key": "vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?encryption=none&security=none&type=tcp#🇳🇱 The Netherlands | UpCloud 1",
+      "latency_ms": 83,
+      "name": "🇳🇱 The Netherlands | UpCloud 1",
+      "speed_kbps": 1173.6
     },
     {
       "country": "Finland",
@@ -94,20 +99,9 @@
       "flag": "🇫🇮",
       "isp": "Baykov Ilya Sergeevich",
       "key": "vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?sni=45.144.234.157&type=ws&host=45.144.234.157&path=/vless#🇫🇮 Finland | Baykov Ilya Sergeevich 1",
-      "latency_ms": 109,
+      "latency_ms": 103,
       "name": "🇫🇮 Finland | Baykov Ilya Sergeevich",
-      "speed_kbps": 788.5
-    },
-    {
-      "country": "Finland",
-      "country_code": "FI",
-      "exit_ip": "45.144.234.157",
-      "flag": "🇫🇮",
-      "isp": "Baykov Ilya Sergeevich",
-      "key": "vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?security=none&type=ws&path=%2Fvless&host=45.144.234.157&packetEncoding=none&sni=45.144.234.157#🌍 Unknown | Unknown 119",
-      "latency_ms": 110,
-      "name": "🌍 Unknown | Unknown 119",
-      "speed_kbps": 787.8
+      "speed_kbps": 788.3
     },
     {
       "country": "Finland",
@@ -116,9 +110,20 @@
       "flag": "🇫🇮",
       "isp": "Baykov Ilya Sergeevich",
       "key": "vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?&sni=45.144.234.157&type=ws&headerType=none&host=45.144.234.157&path=/vless#🇫🇮 Finland | Baykov Ilya Sergeevich 2",
-      "latency_ms": 124,
+      "latency_ms": 105,
       "name": "🇫🇮 Finland | Baykov Ilya Sergeevich",
-      "speed_kbps": 827.3
+      "speed_kbps": 726.8
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "exit_ip": "45.144.234.157",
+      "flag": "🇫🇮",
+      "isp": "Baykov Ilya Sergeevich",
+      "key": "vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?security=none&type=ws&path=%2Fvless&host=45.144.234.157&packetEncoding=none&sni=45.144.234.157#🌍 Unknown | Unknown 119",
+      "latency_ms": 124,
+      "name": "🌍 Unknown | Unknown 119",
+      "speed_kbps": 837.4
     },
     {
       "country": "Poland",
@@ -127,108 +132,9 @@
       "flag": "🇵🇱",
       "isp": "UpCloud",
       "key": "vless://44dfa3a7-f648-4587-819b-e653c0823f28@5.22.221.127:443?encryption=none&security=none&type=tcp#🇵🇱 Poland | UpCloud 1",
-      "latency_ms": 106,
+      "latency_ms": 101,
       "name": "🇵🇱 Poland | UpCloud 1",
-      "speed_kbps": 1004.2
-    },
-    {
-      "country": "Lithuania",
-      "country_code": "LT",
-      "exit_ip": "195.238.126.20",
-      "flag": "🇱🇹",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#🇱🇹 Lithuania | Melbikomas UAB 1",
-      "latency_ms": 112,
-      "name": "🇱🇹 Lithuania | Melbikomas UAB 1",
-      "speed_kbps": 762.6
-    },
-    {
-      "country": "Lithuania",
-      "country_code": "LT",
-      "exit_ip": "195.238.126.20",
-      "flag": "🇱🇹",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@195.238.126.20:9001#🇱🇹 Lithuania | Melbikomas UAB 15",
-      "latency_ms": 114,
-      "name": "🇱🇹 Lithuania | Melbikomas UAB 15",
-      "speed_kbps": 787.3
-    },
-    {
-      "country": "Lithuania",
-      "country_code": "LT",
-      "exit_ip": "195.238.126.20",
-      "flag": "🇱🇹",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#🇱🇹 Lithuania | Melbikomas UAB 8",
-      "latency_ms": 117,
-      "name": "🇱🇹 Lithuania | Melbikomas UAB 8",
-      "speed_kbps": 792.0
-    },
-    {
-      "country": "Lithuania",
-      "country_code": "LT",
-      "exit_ip": "195.238.126.20",
-      "flag": "🇱🇹",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@195.238.126.20:9002#🇱🇹 Lithuania | Melbikomas UAB 7",
-      "latency_ms": 117,
-      "name": "🇱🇹 Lithuania | Melbikomas UAB 7",
-      "speed_kbps": 776.5
-    },
-    {
-      "country": "Lithuania",
-      "country_code": "LT",
-      "exit_ip": "195.238.126.84",
-      "flag": "🇱🇹",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw@195.238.126.84:9039#🇱🇹 Lithuania | Melbikomas UAB 2",
-      "latency_ms": 121,
-      "name": "🇱🇹 Lithuania | Melbikomas UAB 2",
-      "speed_kbps": 872.7
-    },
-    {
-      "country": "Lithuania",
-      "country_code": "LT",
-      "exit_ip": "195.238.126.20",
-      "flag": "🇱🇹",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#🇱🇹 Lithuania | Melbikomas UAB 5",
-      "latency_ms": 122,
-      "name": "🇱🇹 Lithuania | Melbikomas UAB 5",
-      "speed_kbps": 785.4
-    },
-    {
-      "country": "Lithuania",
-      "country_code": "LT",
-      "exit_ip": "195.238.126.20",
-      "flag": "🇱🇹",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw@195.238.126.20:9012#🇱🇹 Lithuania | Melbikomas UAB 12",
-      "latency_ms": 123,
-      "name": "🇱🇹 Lithuania | Melbikomas UAB 12",
-      "speed_kbps": 767.5
-    },
-    {
-      "country": "Lithuania",
-      "country_code": "LT",
-      "exit_ip": "195.238.126.20",
-      "flag": "🇱🇹",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#🇱🇹 Lithuania | Melbikomas UAB 10",
-      "latency_ms": 147,
-      "name": "🇱🇹 Lithuania | Melbikomas UAB 10",
-      "speed_kbps": 766.8
-    },
-    {
-      "country": "Lithuania",
-      "country_code": "LT",
-      "exit_ip": "195.238.126.20",
-      "flag": "🇱🇹",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw==@195.238.126.20:9012#🇱🇹 Lithuania | Melbikomas UAB 14",
-      "latency_ms": 169,
-      "name": "🇱🇹 Lithuania | Melbikomas UAB 14",
-      "speed_kbps": 784.7
+      "speed_kbps": 971.7
     },
     {
       "country": "Lithuania",
@@ -237,53 +143,108 @@
       "flag": "🇱🇹",
       "isp": "Melbikomas UAB",
       "key": "ss://YWVzLTI1Ni1jZmI6SkNKcGJSYlFaTnc5WEZaRw@195.238.126.20:9078#🇱🇹 Lithuania | Melbikomas UAB 4",
-      "latency_ms": 171,
+      "latency_ms": 108,
       "name": "🇱🇹 Lithuania | Melbikomas UAB 4",
-      "speed_kbps": 777.6
+      "speed_kbps": 713.1
     },
     {
-      "country": "Latvia",
-      "country_code": "LV",
-      "exit_ip": "185.135.86.175",
-      "flag": "🇱🇻",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "exit_ip": "195.238.126.20",
+      "flag": "🇱🇹",
       "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@185.135.86.175:9094#🇱🇻 Latvia | Melbikomas UAB 9",
-      "latency_ms": 126,
-      "name": "🇱🇻 Latvia | Melbikomas UAB 9",
-      "speed_kbps": 688.3
+      "key": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#🇱🇹 Lithuania | Melbikomas UAB 6",
+      "latency_ms": 111,
+      "name": "🇱🇹 Lithuania | Melbikomas UAB 6",
+      "speed_kbps": 731.9
     },
     {
-      "country": "Latvia",
-      "country_code": "LV",
-      "exit_ip": "185.135.86.175",
-      "flag": "🇱🇻",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "exit_ip": "195.238.126.20",
+      "flag": "🇱🇹",
       "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#🇱🇻 Latvia | Melbikomas UAB 1",
-      "latency_ms": 127,
-      "name": "🇱🇻 Latvia | Melbikomas UAB 1",
-      "speed_kbps": 698.1
+      "key": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@195.238.126.20:9002#🇱🇹 Lithuania | Melbikomas UAB 7",
+      "latency_ms": 112,
+      "name": "🇱🇹 Lithuania | Melbikomas UAB 7",
+      "speed_kbps": 736.3
     },
     {
-      "country": "Latvia",
-      "country_code": "LV",
-      "exit_ip": "185.135.86.175",
-      "flag": "🇱🇻",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "exit_ip": "195.238.126.20",
+      "flag": "🇱🇹",
       "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6WWc0TWJkWEZROUhGRlZZNg==@185.135.86.175:9034#🇱🇻 Latvia | Melbikomas UAB 6",
-      "latency_ms": 130,
-      "name": "🇱🇻 Latvia | Melbikomas UAB 6",
-      "speed_kbps": 701.3
+      "key": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#🇱🇹 Lithuania | Melbikomas UAB 8",
+      "latency_ms": 113,
+      "name": "🇱🇹 Lithuania | Melbikomas UAB 8",
+      "speed_kbps": 733.8
     },
     {
-      "country": "Latvia",
-      "country_code": "LV",
-      "exit_ip": "185.135.86.175",
-      "flag": "🇱🇻",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "exit_ip": "195.238.126.20",
+      "flag": "🇱🇹",
       "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@185.135.86.175:9086#🇱🇻 Latvia | Melbikomas UAB 3",
-      "latency_ms": 131,
-      "name": "🇱🇻 Latvia | Melbikomas UAB 3",
-      "speed_kbps": 691.8
+      "key": "ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw@195.238.126.20:9012#🇱🇹 Lithuania | Melbikomas UAB 12",
+      "latency_ms": 119,
+      "name": "🇱🇹 Lithuania | Melbikomas UAB 12",
+      "speed_kbps": 663.2
+    },
+    {
+      "country": "Lithuania",
+      "country_code": "LT",
+      "exit_ip": "195.238.126.20",
+      "flag": "🇱🇹",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#🇱🇹 Lithuania | Melbikomas UAB 1",
+      "latency_ms": 119,
+      "name": "🇱🇹 Lithuania | Melbikomas UAB 1",
+      "speed_kbps": 692.3
+    },
+    {
+      "country": "Lithuania",
+      "country_code": "LT",
+      "exit_ip": "195.238.126.20",
+      "flag": "🇱🇹",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#🇱🇹 Lithuania | Melbikomas UAB 10",
+      "latency_ms": 121,
+      "name": "🇱🇹 Lithuania | Melbikomas UAB 10",
+      "speed_kbps": 727.8
+    },
+    {
+      "country": "Lithuania",
+      "country_code": "LT",
+      "exit_ip": "195.238.126.20",
+      "flag": "🇱🇹",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#🇱🇹 Lithuania | Melbikomas UAB 5",
+      "latency_ms": 164,
+      "name": "🇱🇹 Lithuania | Melbikomas UAB 5",
+      "speed_kbps": 728.4
+    },
+    {
+      "country": "Lithuania",
+      "country_code": "LT",
+      "exit_ip": "195.238.126.20",
+      "flag": "🇱🇹",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw==@195.238.126.20:9012#🇱🇹 Lithuania | Melbikomas UAB 14",
+      "latency_ms": 166,
+      "name": "🇱🇹 Lithuania | Melbikomas UAB 14",
+      "speed_kbps": 730.0
+    },
+    {
+      "country": "Lithuania",
+      "country_code": "LT",
+      "exit_ip": "195.238.126.20",
+      "flag": "🇱🇹",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@195.238.126.20:9001#🇱🇹 Lithuania | Melbikomas UAB 15",
+      "latency_ms": 168,
+      "name": "🇱🇹 Lithuania | Melbikomas UAB 15",
+      "speed_kbps": 684.1
     },
     {
       "country": "Latvia",
@@ -292,42 +253,9 @@
       "flag": "🇱🇻",
       "isp": "Melbikomas UAB",
       "key": "ss://YWVzLTI1Ni1jZmI6aGJ0dmdVejV1Tll5QjNSZg==@185.135.86.175:9036#🇱🇻 Latvia | Melbikomas UAB 4",
-      "latency_ms": 139,
+      "latency_ms": 133,
       "name": "🇱🇻 Latvia | Melbikomas UAB 4",
-      "speed_kbps": 731.2
-    },
-    {
-      "country": "Latvia",
-      "country_code": "LV",
-      "exit_ip": "185.135.86.175",
-      "flag": "🇱🇻",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033#🇱🇻 Latvia | Melbikomas UAB 7",
-      "latency_ms": 143,
-      "name": "🇱🇻 Latvia | Melbikomas UAB 7",
-      "speed_kbps": 686.1
-    },
-    {
-      "country": "Latvia",
-      "country_code": "LV",
-      "exit_ip": "185.135.86.175",
-      "flag": "🇱🇻",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@185.135.86.175:9007#🇱🇻 Latvia | Melbikomas UAB 5",
-      "latency_ms": 182,
-      "name": "🇱🇻 Latvia | Melbikomas UAB 5",
-      "speed_kbps": 681.9
-    },
-    {
-      "country": "Latvia",
-      "country_code": "LV",
-      "exit_ip": "185.135.86.175",
-      "flag": "🇱🇻",
-      "isp": "Melbikomas UAB",
-      "key": "ss://YWVzLTI1Ni1jZmI6NDV4Z01nbTM4NnBqV2pUeA==@185.135.86.175:9082#🇱🇻 Latvia | Melbikomas UAB 8",
-      "latency_ms": 190,
-      "name": "🇱🇻 Latvia | Melbikomas UAB 8",
-      "speed_kbps": 693.9
+      "speed_kbps": 718.0
     },
     {
       "country": "Latvia",
@@ -336,20 +264,86 @@
       "flag": "🇱🇻",
       "isp": "Melbikomas UAB",
       "key": "ss://YWVzLTI1Ni1jZmI6SEFWQWRFM25YaHFBNW5IcA==@185.135.86.175:9017#🇱🇻 Latvia | Melbikomas UAB 2",
-      "latency_ms": 192,
+      "latency_ms": 135,
       "name": "🇱🇻 Latvia | Melbikomas UAB 2",
-      "speed_kbps": 711.8
+      "speed_kbps": 716.4
     },
     {
-      "country": "United Arab Emirates",
-      "country_code": "AE",
-      "exit_ip": "84.235.244.108",
-      "flag": "🇦🇪",
-      "isp": "Oracle",
-      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&packet-encoding=xudp&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 4",
-      "latency_ms": 194,
-      "name": "🇦🇪 United Arab Emirates | Oracle 4",
-      "speed_kbps": 477.5
+      "country": "Latvia",
+      "country_code": "LV",
+      "exit_ip": "185.135.86.175",
+      "flag": "🇱🇻",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@185.135.86.175:9094#🇱🇻 Latvia | Melbikomas UAB 9",
+      "latency_ms": 148,
+      "name": "🇱🇻 Latvia | Melbikomas UAB 9",
+      "speed_kbps": 722.2
+    },
+    {
+      "country": "Latvia",
+      "country_code": "LV",
+      "exit_ip": "185.135.86.175",
+      "flag": "🇱🇻",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@185.135.86.175:9007#🇱🇻 Latvia | Melbikomas UAB 5",
+      "latency_ms": 154,
+      "name": "🇱🇻 Latvia | Melbikomas UAB 5",
+      "speed_kbps": 721.2
+    },
+    {
+      "country": "Latvia",
+      "country_code": "LV",
+      "exit_ip": "185.135.86.175",
+      "flag": "🇱🇻",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#🇱🇻 Latvia | Melbikomas UAB 1",
+      "latency_ms": 159,
+      "name": "🇱🇻 Latvia | Melbikomas UAB 1",
+      "speed_kbps": 709.4
+    },
+    {
+      "country": "Latvia",
+      "country_code": "LV",
+      "exit_ip": "185.135.86.175",
+      "flag": "🇱🇻",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6WWc0TWJkWEZROUhGRlZZNg==@185.135.86.175:9034#🇱🇻 Latvia | Melbikomas UAB 6",
+      "latency_ms": 160,
+      "name": "🇱🇻 Latvia | Melbikomas UAB 6",
+      "speed_kbps": 725.1
+    },
+    {
+      "country": "Latvia",
+      "country_code": "LV",
+      "exit_ip": "185.135.86.175",
+      "flag": "🇱🇻",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@185.135.86.175:9086#🇱🇻 Latvia | Melbikomas UAB 3",
+      "latency_ms": 162,
+      "name": "🇱🇻 Latvia | Melbikomas UAB 3",
+      "speed_kbps": 687.2
+    },
+    {
+      "country": "Latvia",
+      "country_code": "LV",
+      "exit_ip": "185.135.86.175",
+      "flag": "🇱🇻",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6NDV4Z01nbTM4NnBqV2pUeA==@185.135.86.175:9082#🇱🇻 Latvia | Melbikomas UAB 8",
+      "latency_ms": 175,
+      "name": "🇱🇻 Latvia | Melbikomas UAB 8",
+      "speed_kbps": 706.3
+    },
+    {
+      "country": "Latvia",
+      "country_code": "LV",
+      "exit_ip": "185.135.86.175",
+      "flag": "🇱🇻",
+      "isp": "Melbikomas UAB",
+      "key": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033#🇱🇻 Latvia | Melbikomas UAB 7",
+      "latency_ms": 188,
+      "name": "🇱🇻 Latvia | Melbikomas UAB 7",
+      "speed_kbps": 710.7
     },
     {
       "country": "United Arab Emirates",
@@ -358,9 +352,20 @@
       "flag": "🇦🇪",
       "isp": "Oracle",
       "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1",
-      "latency_ms": 196,
+      "latency_ms": 192,
       "name": "🇦🇪 United Arab Emirates | Oracle 1",
-      "speed_kbps": 453.7
+      "speed_kbps": 158.2
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "exit_ip": "84.235.244.108",
+      "flag": "🇦🇪",
+      "isp": "Oracle",
+      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&packet-encoding=xudp&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 4",
+      "latency_ms": 193,
+      "name": "🇦🇪 United Arab Emirates | Oracle 4",
+      "speed_kbps": 133.5
     },
     {
       "country": "United Arab Emirates",
@@ -369,9 +374,9 @@
       "flag": "🇦🇪",
       "isp": "Oracle",
       "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&fp=random&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 United Arab Emirates | Oracle 6",
-      "latency_ms": 230,
+      "latency_ms": 204,
       "name": "🇦🇪 United Arab Emirates | Oracle 6",
-      "speed_kbps": 477.9
+      "speed_kbps": 173.5
     },
     {
       "country": "United Arab Emirates",
@@ -380,9 +385,9 @@
       "flag": "🇦🇪",
       "isp": "Oracle",
       "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 2",
-      "latency_ms": 232,
+      "latency_ms": 210,
       "name": "🇦🇪 United Arab Emirates | Oracle 2",
-      "speed_kbps": 469.4
+      "speed_kbps": 124.1
     },
     {
       "country": "United Arab Emirates",
@@ -391,31 +396,20 @@
       "flag": "🇦🇪",
       "isp": "Oracle",
       "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=&type=ws#🇦🇪 United Arab Emirates | Oracle 3",
-      "latency_ms": 237,
+      "latency_ms": 215,
       "name": "🇦🇪 United Arab Emirates | Oracle 3",
-      "speed_kbps": 461.3
+      "speed_kbps": 152.1
     },
     {
-      "country": "United States",
-      "country_code": "US",
-      "exit_ip": "185.243.99.100",
-      "flag": "🇺🇸",
-      "isp": "Rices Privately owned ...",
-      "key": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f&allowInsecure=1#🇺🇸 United States | Rices Privately owned ... 3",
-      "latency_ms": 140,
-      "name": "🇺🇸 United States | Rices Privately ",
-      "speed_kbps": 751.4
-    },
-    {
-      "country": "United States",
-      "country_code": "US",
-      "exit_ip": "185.243.99.100",
-      "flag": "🇺🇸",
-      "isp": "Rices Privately owned ...",
-      "key": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#🇺🇸 United States | Rices Privately owned ... 1",
-      "latency_ms": 171,
-      "name": "🇺🇸 United States | Rices Privately ",
-      "speed_kbps": 759.3
+      "country": "Singapore",
+      "country_code": "SG",
+      "exit_ip": "45.132.75.213",
+      "flag": "🇸🇬",
+      "isp": "HostHatch",
+      "key": "vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?encryption=none&fp=firefox&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&security=reality&sid=cd7e85995ae2afc9&sni=www.cloudflare.com&type=tcp#🇸🇬 Singapore | HostHatch 1",
+      "latency_ms": 222,
+      "name": "🇸🇬 Singapore | HostHatch 1",
+      "speed_kbps": 147.1
     },
     {
       "country": "United States",
@@ -424,20 +418,31 @@
       "flag": "🇺🇸",
       "isp": "Rices Privately owned ...",
       "key": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&type=tcp&packetEncoding=xudp&sni=play.google.com&fp=chrome&sid=a25d0f&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE#🇺🇸 United States | Rices Privately owned ... 2",
-      "latency_ms": 173,
+      "latency_ms": 131,
       "name": "🇺🇸 United States | Rices Privately ",
-      "speed_kbps": 754.3
+      "speed_kbps": 790.1
     },
     {
-      "country": "Saudi Arabia",
-      "country_code": "SA",
-      "exit_ip": "81.208.170.142",
-      "flag": "🌍",
-      "isp": "Oracle",
-      "key": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&security=reality&sid=775eb6408888248e&sni=www.ebay.com&type=grpc#🌍 Saudi Arabia | Oracle 2",
-      "latency_ms": 196,
-      "name": "🌍 Saudi Arabia | Oracle 2",
-      "speed_kbps": 589.2
+      "country": "United States",
+      "country_code": "US",
+      "exit_ip": "185.243.99.100",
+      "flag": "🇺🇸",
+      "isp": "Rices Privately owned ...",
+      "key": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f&allowInsecure=1#🇺🇸 United States | Rices Privately owned ... 3",
+      "latency_ms": 142,
+      "name": "🇺🇸 United States | Rices Privately ",
+      "speed_kbps": 750.6
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "exit_ip": "185.243.99.100",
+      "flag": "🇺🇸",
+      "isp": "Rices Privately owned ...",
+      "key": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#🇺🇸 United States | Rices Privately owned ... 1",
+      "latency_ms": 145,
+      "name": "🇺🇸 United States | Rices Privately ",
+      "speed_kbps": 787.9
     },
     {
       "country": "Saudi Arabia",
@@ -446,13 +451,24 @@
       "flag": "🌍",
       "isp": "Oracle",
       "key": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🌍 Saudi Arabia | Oracle 1",
-      "latency_ms": 199,
+      "latency_ms": 201,
       "name": "🌍 Saudi Arabia | Oracle 1",
-      "speed_kbps": 642.5
+      "speed_kbps": 487.2
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "exit_ip": "81.208.170.142",
+      "flag": "🌍",
+      "isp": "Oracle",
+      "key": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&security=reality&sid=775eb6408888248e&sni=www.ebay.com&type=grpc#🌍 Saudi Arabia | Oracle 2",
+      "latency_ms": 202,
+      "name": "🌍 Saudi Arabia | Oracle 2",
+      "speed_kbps": 587.5
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-10-25 03:57:09",
+  "timestamp": "2026-10-25 10:01:23",
   "total_checked": 38,
-  "working_count": 37
+  "working_count": 38
 }
