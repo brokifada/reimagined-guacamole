@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HtfCfh7EgQm9iaVZQTiDigJQgUG9sYW5kCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://44dfa3a7-f648-4587-819b-e653c0823f28@5.22.221.127:443?security=none&encryption=none&headerType=none&type=tcp#🇵🇱 Poland | UpCloud 1
+vless://44dfa3a7-f648-4587-819b-e653c0823f28@5.22.221.127:443?security=none&type=tcp&packetEncoding=none#🇵🇱 Poland | UpCloud 1
 vless://44dfa3a7-f648-4587-819b-e653c0823f28@5.22.221.127:443?encryption=none&security=none&type=tcp#🇵🇱 Poland | UpCloud 2
