@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuvCfh7ggQm9iaVZQTiDigJQgVW5pdGVkIFN0YXRlcwrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://3edfab95-a259-45f2-846c-3a1ca12c9b60@45.66.161.213:12443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=HiHSfcw5q5boEsWk4vW5rcO8WThY4A9r2t5mv53WM0A&sid=10c4a07dbcd21648&fp=chrome&sni=545a6fa5e369.j.cloudfront.hls.ttvnw.net&encryption=none#🇺🇸 United States | Oy Crea Nova Hosting S... 1
-vless://3edfab95-a259-45f2-846c-3a1ca12c9b60@45.66.161.213:12443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HiHSfcw5q5boEsWk4vW5rcO8WThY4A9r2t5mv53WM0A&security=reality&sid=10c4a07dbcd21648&sni=545a6fa5e369.j.cloudfront.hls.ttvnw.net&type=tcp#🇺🇸 United States | Oy Crea Nova Hosting S... 2
+vless://3edfab95-a259-45f2-846c-3a1ca12c9b60@45.66.161.213:12443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HiHSfcw5q5boEsWk4vW5rcO8WThY4A9r2t5mv53WM0A&security=reality&sid=10c4a07dbcd21648&sni=545a6fa5e369.j.cloudfront.hls.ttvnw.net&type=tcp#🇺🇸 United States | Oy Crea Nova Hosting S... 1
+vless://3edfab95-a259-45f2-846c-3a1ca12c9b60@45.66.161.213:12443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=HiHSfcw5q5boEsWk4vW5rcO8WThY4A9r2t5mv53WM0A&sid=10c4a07dbcd21648&fp=chrome&sni=545a6fa5e369.j.cloudfront.hls.ttvnw.net&encryption=none#🇺🇸 United States | Oy Crea Nova Hosting S... 2
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f&allowInsecure=1#🇺🇸 United States | Rices Privately owned ... 1
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#🇺🇸 United States | Rices Privately owned ... 2
