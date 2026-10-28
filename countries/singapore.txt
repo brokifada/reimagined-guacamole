@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?host=tiktok.com&security=none&sni=v2.drsachi.com&type=ws#🇸🇬 Singapore | UpCloud 1
-vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?encryption=none&security=&type=ws#🇸🇬 Singapore | UpCloud 2
-vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?&type=ws&headerType=none&host=v2.drsachi.com&path=%2F#🇸🇬 Singapore | UpCloud 3
+vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?&type=ws&headerType=none&host=v2.drsachi.com&path=%2F#🇸🇬 Singapore | UpCloud 1
+vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?host=tiktok.com&security=none&sni=v2.drsachi.com&type=ws#🇸🇬 Singapore | UpCloud 2
+vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?encryption=none&security=&type=ws#🇸🇬 Singapore | UpCloud 3
 vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?type=ws#🇸🇬 Singapore | UpCloud 4
