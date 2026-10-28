@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HtfCfh7EgQm9iaVZQTiDigJQgUG9sYW5kCuKaoSA1INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudflare.com&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&sid=50&flow=xtls-rprx-vision#🇵🇱 Poland | "HOSTOFF CSL" 1
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@168.222.43.53:2052?type=tcp#🇵🇱 Poland | KABAT-OU 1
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#🇵🇱 Poland | KABAT-OU 2
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?#🇵🇱 Poland | KABAT-OU 3
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?security=none&type=tcp&packetEncoding=xudp#🇵🇱 Poland | KABAT-OU 4
+vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?security=reality&encryption=none&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=50#🇵🇱 Poland | "HOSTOFF CSL" 1
+vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudflare.com&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&sid=50&flow=xtls-rprx-vision#🇵🇱 Poland | "HOSTOFF CSL" 2
+vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&sid=50&packetEncoding=xudp#🇵🇱 Poland | "HOSTOFF CSL" 3
+vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?flow=xtls-rprx-vision&fp=chrome&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&security=reality&sid=50&sni=cloudflare.com&type=tcp#🇵🇱 Poland | "HOSTOFF CSL" 4
+vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?security=reality&encryption=none&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=50#🇵🇱 Poland | "HOSTOFF CSL" 5
