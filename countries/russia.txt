@@ -3,41 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAzNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSA2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@181.214.1.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime39.workers.dev#🇷🇺 Russia | JSC "TIMEWEB" 1
-vless://dc4512bd-44d8-4211-9559-f2e165bb34b0@113.30.154.239:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&fp=qq#🇷🇺 Russia | Neurosignal 1
-vless://dc4512bd-44d8-4211-9559-f2e165bb34b0@113.30.154.239:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&fp=edge#🇷🇺 Russia | Neurosignal 2
-vless://dc4512bd-44d8-4211-9559-f2e165bb34b0@113.30.154.239:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&fp=chrome#🇷🇺 Russia | Neurosignal 3
-vless://dc4512bd-44d8-4211-9559-f2e165bb34b0@113.30.154.239:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&fp=firefox#🇷🇺 Russia | Neurosignal 4
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?encryption=none&flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=chrome#🇷🇺 Russia | VK 1
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?encryption=none&flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=firefox#🇷🇺 Russia | VK 2
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?flow=xtls-rprx-vision&fp=firefox&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp#🇷🇺 Russia | VK 3
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?security=reality&sni=edge-fr.extazy.net&fp=firefox&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇷🇺 Russia | VK 4
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?encryption=none&flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=safari#🇷🇺 Russia | VK 5
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=safari#🇷🇺 Russia | VK 6
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp#🇷🇺 Russia | VK 7
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=firefox#🇷🇺 Russia | VK 8
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=chrome#🇷🇺 Russia | VK 9
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?encryption=none&flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=ios#🇷🇺 Russia | VK 10
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=ios#🇷🇺 Russia | VK 11
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@50.7.157.237:443?flow=xtls-rprx-vision&fp=safari&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp#🇷🇺 Russia | VK 12
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@de.puflino.com:443?security=reality&sni=edge-fr.extazy.net&fp=firefox&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇷🇺 Russia | VK 13
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@de.puflino.com:443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&fp=firefox&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&encryption=none&type=tcp#🇷🇺 Russia | VK 14
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=safari#🇷🇺 Russia | VK 15
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=chrome#🇷🇺 Russia | VK 16
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&fp=safari#🇷🇺 Russia | VK 17
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=firefox#🇷🇺 Russia | VK 18
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?security=reality&sni=edge-fr.extazy.net&fp=safari&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇷🇺 Russia | VK 19
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?encryption=none&flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=safari#🇷🇺 Russia | VK 20
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&fp=chrome#🇷🇺 Russia | VK 21
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=ios#🇷🇺 Russia | VK 22
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?security=reality&sni=edge-fr.extazy.net&fp=chrome&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇷🇺 Russia | VK 23
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?encryption=none&flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=ios#🇷🇺 Russia | VK 24
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&fp=edge#🇷🇺 Russia | VK 25
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?security=reality&sni=edge-fr.extazy.net&fp=firefox&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇷🇺 Russia | VK 26
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?security=reality&sni=edge-fr.extazy.net&fp=edge&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇷🇺 Russia | VK 27
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&fp=ios#🇷🇺 Russia | VK 28
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?encryption=none&flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=chrome#🇷🇺 Russia | VK 29
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=edge#🇷🇺 Russia | VK 30
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?encryption=none&flow=xtls-rprx-vision&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&security=reality&sni=edge-fr.extazy.net&type=tcp&fp=firefox#🇷🇺 Russia | VK 31
+hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox&alpn=h3#🇷🇺 Russia | JSC Selectel 1
+hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox#🇷🇺 Russia | JSC Selectel 2
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?encryption=none&security=tls&sni=hvtlr-ru-47sb.fade.mom&type=tcp&fp=chrome#🇷🇺 Russia | JSC Selectel 3
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?encryption=none&security=tls&sni=hvtlr-ru-47sb.fade.mom&type=tcp&fp=qq#🇷🇺 Russia | JSC Selectel 4
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?security=tls&sni=hvtlr-ru-47sb.fade.mom&alpn=http%2F1.1%2Ch2&fp=qq#🇷🇺 Russia | JSC Selectel 5
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?security=tls&sni=hvtlr-ru-47sb.fade.mom&alpn=http%2F1.1%2Ch2&fp=chrome#🇷🇺 Russia | JSC Selectel 6
