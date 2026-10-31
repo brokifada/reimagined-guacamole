@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVbmtub3duCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=&type=ws#🌍 Unknown | Unknown 1
+vless://48d9a277-776b-4ab8-a357-88a1958beed8@78.17.27.137:8443?encryption=none&security=reality&sni=www.aalto.fi&fp=firefox&pbk=DZ0BYEIHEe9KmJzM_j5EAN0t3_BTcfO63P7x6SRCeQM&sid=a05ccbf2edb5ebd1&packetEncoding=xudp#🌍 Unknown | Unknown 1
