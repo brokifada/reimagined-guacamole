@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCflKUg0KDQsNCx0L7RgtCw0LXRgiDQutC+0LPQtNCwINC00YDRg9Cz0LjQtSDQvdC10YI=
+#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCflJIg0JHQtdC30L7Qv9Cw0YHQvdC+0LUg0YHQvtC10LTQuNC90LXQvdC40LUgMjQvNw==
 
