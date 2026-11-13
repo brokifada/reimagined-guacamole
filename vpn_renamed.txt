@@ -1,8 +1,9 @@
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 1
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 1
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 2
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 3
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 3
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 4
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 5
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 6
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 7
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 6
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 7
+hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 8
 vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🌍 Saudi Arabia | Oracle 1
