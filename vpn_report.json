@@ -1,71 +1,28 @@
 {
   "countries": {
-    "DE": {
-      "count": 4,
-      "flag": "🇩🇪",
-      "name": "Germany"
-    },
     "SA": {
       "count": 1,
       "flag": "🌍",
       "name": "Saudi Arabia"
     },
     "SE": {
-      "count": 11,
+      "count": 7,
       "flag": "🇸🇪",
       "name": "Sweden"
-    },
-    "XX": {
-      "count": 1,
-      "flag": "🌍",
-      "name": "Unknown"
     }
   },
   "description": "🔒 Bobi VPN — строго перепроверенные серверы\n⚡ Только реально работающие ключи",
   "keys": [
     {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "94.237.97.200",
-      "flag": "🇩🇪",
-      "isp": "UpCloud",
-      "key": "vless://65e7fa8d-180a-4819-8f77-28e93f58f0ce@104.24.68.75:2053?encryption=none&security=tls&sni=tunc.rupfem.ir&fp=chrome&alpn=http/1.1&fm={\"tcp\":[{\"settings\":{\"delay\":\"5-15\",\"delays\":[\"5-15\"],\"length\":\"10-30\",\"lengths\":[\"10-30\"],\"packets\":\"tlshello\"},\"type\":\"fragment\"}]}&type=ws&host=tunc.rupfem.ir&path=/98b08ea93e#🇩🇪 Germany | UpCloud 1",
-      "latency_ms": 21,
-      "name": "🇩🇪 Germany | UpCloud 1",
-      "speed_kbps": 614.2
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "94.237.97.200",
-      "flag": "🇩🇪",
-      "isp": "UpCloud",
-      "key": "vless://65e7fa8d-180a-4819-8f77-28e93f58f0ce@tuns.rupfem.ir:9443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=tuns.rupfem.ir&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇩🇪 Germany | UpCloud 11",
-      "latency_ms": 355,
-      "name": "🇩🇪 Germany | UpCloud 11",
-      "speed_kbps": 859.5
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "94.237.97.200",
-      "flag": "🇩🇪",
-      "isp": "UpCloud",
-      "key": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WVphMWhZcksveGlsWkVmTUpiR0ZQQWROMU9oL1lJVklvRHB5RFp3SFc1RT06ek40SmsrbitWYTBNeEJyVHVuam15YitWWi9HalBzMnhCNFYwd0xWTSt4dz0=@tuns.rupfem.ir:8080#🇩🇪 Germany | UpCloud 5",
-      "latency_ms": 357,
-      "name": "🇩🇪 Germany | UpCloud 5",
-      "speed_kbps": 892.8
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "94.237.97.200",
-      "flag": "🇩🇪",
-      "isp": "UpCloud",
-      "key": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WVphMWhZcksveGlsWkVmTUpiR0ZQQWROMU9oL1lJVklvRHB5RFp3SFc1RT06ek40SmsrbitWYTBNeEJyVHVuam15YitWWi9HalBzMnhCNFYwd0xWTSt4dz0@tuns.rupfem.ir:8080#🇩🇪 Germany | UpCloud 4",
-      "latency_ms": 362,
-      "name": "🇩🇪 Germany | UpCloud 4",
-      "speed_kbps": 907.0
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "95.143.196.97",
+      "flag": "🇸🇪",
+      "isp": "Internetport AB -BL",
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 11",
+      "latency_ms": 163,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 11",
+      "speed_kbps": 412.9
     },
     {
       "country": "Sweden",
@@ -73,10 +30,54 @@
       "exit_ip": "95.143.196.97",
       "flag": "🇸🇪",
       "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&sni=connect-se.mimowhat.online&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇪 Sweden | Internetport AB -BL 11",
-      "latency_ms": 136,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 11",
-      "speed_kbps": 623.0
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 2",
+      "latency_ms": 163,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 2",
+      "speed_kbps": 480.6
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "95.143.196.97",
+      "flag": "🇸🇪",
+      "isp": "Internetport AB -BL",
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 6",
+      "latency_ms": 164,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 6",
+      "speed_kbps": 485.5
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "95.143.196.97",
+      "flag": "🇸🇪",
+      "isp": "Internetport AB -BL",
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 9",
+      "latency_ms": 168,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 9",
+      "speed_kbps": 429.9
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "95.143.196.97",
+      "flag": "🇸🇪",
+      "isp": "Internetport AB -BL",
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 10",
+      "latency_ms": 171,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 10",
+      "speed_kbps": 410.8
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "95.143.196.97",
+      "flag": "🇸🇪",
+      "isp": "Internetport AB -BL",
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 12",
+      "latency_ms": 172,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 12",
+      "speed_kbps": 491.9
     },
     {
       "country": "Sweden",
@@ -85,108 +86,9 @@
       "flag": "🇸🇪",
       "isp": "Internetport AB -BL",
       "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 1",
-      "latency_ms": 136,
+      "latency_ms": 174,
       "name": "🇸🇪 Sweden | Internetport AB -BL 1",
-      "speed_kbps": 622.5
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 12",
-      "latency_ms": 138,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 12",
-      "speed_kbps": 629.1
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 7",
-      "latency_ms": 141,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 7",
-      "speed_kbps": 599.4
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 15",
-      "latency_ms": 141,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 15",
-      "speed_kbps": 571.1
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&sni=connect-se.mimowhat.online&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇪 Sweden | Internetport AB -BL 13",
-      "latency_ms": 144,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 13",
-      "speed_kbps": 619.5
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 5",
-      "latency_ms": 145,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 5",
-      "speed_kbps": 635.3
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.32:443?type=tcp&security=tls&fp=chrome&sni=connect-se.mimowhat.online&alpn=h2,http/1.1#🇸🇪 Sweden | Internetport AB -BL 4",
-      "latency_ms": 147,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 4",
-      "speed_kbps": 674.5
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 6",
-      "latency_ms": 149,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 6",
-      "speed_kbps": 632.8
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 9",
-      "latency_ms": 151,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 9",
-      "speed_kbps": 638.2
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 2",
-      "latency_ms": 155,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 2",
-      "speed_kbps": 866.6
+      "speed_kbps": 511.1
     },
     {
       "country": "Saudi Arabia",
@@ -195,24 +97,13 @@
       "flag": "🌍",
       "isp": "Oracle",
       "key": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🌍 Saudi Arabia | Oracle 1",
-      "latency_ms": 201,
+      "latency_ms": 191,
       "name": "🌍 Saudi Arabia | Oracle 1",
-      "speed_kbps": 697.7
-    },
-    {
-      "country": "Unknown",
-      "country_code": "XX",
-      "exit_ip": "2.59.183.167",
-      "flag": "🌍",
-      "isp": "Unknown",
-      "key": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?type=raw&security=reality&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&sni=www.samsung.com#🇳🇱 The Netherlands | Serva ONE LTD 2",
-      "latency_ms": 119,
-      "name": "🇳🇱 The Netherlands | Serva ONE LTD ",
-      "speed_kbps": 873.8
+      "speed_kbps": 734.0
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-11-13 01:19:48",
-  "total_checked": 18,
-  "working_count": 17
+  "timestamp": "2026-11-13 13:17:45",
+  "total_checked": 9,
+  "working_count": 8
 }
