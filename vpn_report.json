@@ -1,22 +1,17 @@
 {
   "countries": {
     "DK": {
-      "count": 2,
+      "count": 8,
       "flag": "🇩🇰",
       "name": "Denmark"
     },
     "GB": {
-      "count": 3,
+      "count": 16,
       "flag": "🇬🇧",
       "name": "United Kingdom"
     },
-    "NO": {
-      "count": 2,
-      "flag": "🇳🇴",
-      "name": "Norway"
-    },
     "RU": {
-      "count": 2,
+      "count": 12,
       "flag": "🇷🇺",
       "name": "Russia"
     },
@@ -26,7 +21,7 @@
       "name": "Saudi Arabia"
     },
     "SE": {
-      "count": 24,
+      "count": 25,
       "flag": "🇸🇪",
       "name": "Sweden"
     }
@@ -39,10 +34,10 @@
       "exit_ip": "109.237.98.55",
       "flag": "🇷🇺",
       "isp": "Sysect D.O.O.",
-      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&type=tcp#🇷🇺 Russia | Sysect D.O.O. 4",
-      "latency_ms": 198,
-      "name": "🇷🇺 Russia | Sysect D.O.O. 4",
-      "speed_kbps": 626.5
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&type=tcp&fp=ios#🇷🇺 Russia | Sysect D.O.O. 18",
+      "latency_ms": 108,
+      "name": "🇷🇺 Russia | Sysect D.O.O. 18",
+      "speed_kbps": 995.7
     },
     {
       "country": "Russia",
@@ -50,43 +45,131 @@
       "exit_ip": "109.237.98.55",
       "flag": "🇷🇺",
       "isp": "Sysect D.O.O.",
-      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fuzora.net&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&sid=51057fb54d2364f4&fp=firefox&spx=/b4fcc6d25bda84e#🇷🇺 Russia | Sysect D.O.O. 2",
-      "latency_ms": 201,
-      "name": "🇷🇺 Russia | Sysect D.O.O. 2",
-      "speed_kbps": 625.5
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&type=tcp&fp=edge#🇷🇺 Russia | Sysect D.O.O. 23",
+      "latency_ms": 116,
+      "name": "🇷🇺 Russia | Sysect D.O.O. 23",
+      "speed_kbps": 996.4
     },
     {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@89.110.127.54:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc&fp=firefox#🇸🇪 Sweden | Hostup AB 23",
-      "latency_ms": 155,
-      "name": "🇸🇪 Sweden | Hostup AB 23",
-      "speed_kbps": 877.2
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "109.237.98.55",
+      "flag": "🇷🇺",
+      "isp": "Sysect D.O.O.",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=safari#🇷🇺 Russia | Sysect D.O.O. 11",
+      "latency_ms": 118,
+      "name": "🇷🇺 Russia | Sysect D.O.O. 11",
+      "speed_kbps": 996.1
     },
     {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@89.110.127.54:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc&fp=edge#🇸🇪 Sweden | Hostup AB 7",
-      "latency_ms": 155,
-      "name": "🇸🇪 Sweden | Hostup AB 7",
-      "speed_kbps": 904.3
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "109.237.98.55",
+      "flag": "🇷🇺",
+      "isp": "Sysect D.O.O.",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=firefox#🇷🇺 Russia | Sysect D.O.O. 17",
+      "latency_ms": 119,
+      "name": "🇷🇺 Russia | Sysect D.O.O. 17",
+      "speed_kbps": 937.9
     },
     {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@89.110.127.54:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc&fp=firefox#🇸🇪 Sweden | Hostup AB 15",
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "109.237.98.55",
+      "flag": "🇷🇺",
+      "isp": "Sysect D.O.O.",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&type=tcp&fp=firefox#🇷🇺 Russia | Sysect D.O.O. 15",
+      "latency_ms": 121,
+      "name": "🇷🇺 Russia | Sysect D.O.O. 15",
+      "speed_kbps": 1044.2
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "109.237.98.55",
+      "flag": "🇷🇺",
+      "isp": "Sysect D.O.O.",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=ios#🇷🇺 Russia | Sysect D.O.O. 8",
+      "latency_ms": 125,
+      "name": "🇷🇺 Russia | Sysect D.O.O. 8",
+      "speed_kbps": 952.1
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "109.237.98.55",
+      "flag": "🇷🇺",
+      "isp": "Sysect D.O.O.",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&type=tcp#🇷🇺 Russia | Sysect D.O.O. 12",
+      "latency_ms": 127,
+      "name": "🇷🇺 Russia | Sysect D.O.O. 12",
+      "speed_kbps": 982.9
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "109.237.98.55",
+      "flag": "🇷🇺",
+      "isp": "Sysect D.O.O.",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fuzora.net&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&sid=51057fb54d2364f4&fp=firefox&spx=/b4fcc6d25bda84e#🇷🇺 Russia | Sysect D.O.O. 22",
+      "latency_ms": 139,
+      "name": "🇷🇺 Russia | Sysect D.O.O. 22",
+      "speed_kbps": 1051.8
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "109.237.98.55",
+      "flag": "🇷🇺",
+      "isp": "Sysect D.O.O.",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?flow=xtls-rprx-vision&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&type=tcp&fp=ios#🇸🇪 Sweden | VBDC-NOACKHOSTING 3",
+      "latency_ms": 141,
+      "name": "🇸🇪 Sweden | VBDC-NOACKHOSTING 3",
+      "speed_kbps": 1001.1
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "109.237.98.55",
+      "flag": "🇷🇺",
+      "isp": "Sysect D.O.O.",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&spx=/b4fcc6d25bda84e&type=tcp&fp=chrome#🇷🇺 Russia | Sysect D.O.O. 6",
+      "latency_ms": 153,
+      "name": "🇷🇺 Russia | Sysect D.O.O. 6",
+      "speed_kbps": 1059.2
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "109.237.98.55",
+      "flag": "🇷🇺",
+      "isp": "Sysect D.O.O.",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=edge#🇷🇺 Russia | Sysect D.O.O. 19",
+      "latency_ms": 154,
+      "name": "🇷🇺 Russia | Sysect D.O.O. 19",
+      "speed_kbps": 1000.5
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "109.237.98.55",
+      "flag": "🇷🇺",
+      "isp": "Sysect D.O.O.",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&type=tcp&fp=safari#🇷🇺 Russia | Sysect D.O.O. 3",
       "latency_ms": 156,
+      "name": "🇷🇺 Russia | Sysect D.O.O. 3",
+      "speed_kbps": 947.8
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@89.110.127.54:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc&fp=safari#🇸🇪 Sweden | Hostup AB 15",
+      "latency_ms": 128,
       "name": "🇸🇪 Sweden | Hostup AB 15",
-      "speed_kbps": 845.9
+      "speed_kbps": 175.7
     },
     {
       "country": "Sweden",
@@ -94,10 +177,10 @@
       "exit_ip": "136.148.213.206",
       "flag": "🇸🇪",
       "isp": "Hostup AB",
-      "key": "vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@89.110.127.54:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc&fp=safari#🇸🇪 Sweden | Hostup AB 27",
-      "latency_ms": 156,
-      "name": "🇸🇪 Sweden | Hostup AB 27",
-      "speed_kbps": 858.2
+      "key": "vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@89.110.127.54:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc&fp=edge#🇸🇪 Sweden | Hostup AB 16",
+      "latency_ms": 151,
+      "name": "🇸🇪 Sweden | Hostup AB 16",
+      "speed_kbps": 190.0
     },
     {
       "country": "Sweden",
@@ -105,120 +188,10 @@
       "exit_ip": "136.148.213.206",
       "flag": "🇸🇪",
       "isp": "Hostup AB",
-      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@136.148.213.149:443?security=reality&sni=362c1eg.se1.h1clayd.click&type=grpc&fp=edge&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496#🇸🇪 Sweden | Hostup AB 2",
-      "latency_ms": 158,
-      "name": "🇸🇪 Sweden | Hostup AB 2",
-      "speed_kbps": 871.5
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@89.110.127.54:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#🇸🇪 Sweden | Hostup AB 4",
-      "latency_ms": 160,
-      "name": "🇸🇪 Sweden | Hostup AB 4",
-      "speed_kbps": 871.4
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@89.110.127.54:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc&fp=ios#🇸🇪 Sweden | Hostup AB 10",
-      "latency_ms": 160,
-      "name": "🇸🇪 Sweden | Hostup AB 10",
-      "speed_kbps": 886.6
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@89.110.127.54:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc&fp=edge#🇸🇪 Sweden | Hostup AB 3",
-      "latency_ms": 164,
-      "name": "🇸🇪 Sweden | Hostup AB 3",
-      "speed_kbps": 882.1
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@89.110.127.54:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc&fp=ios#🇸🇪 Sweden | Hostup AB 9",
-      "latency_ms": 165,
-      "name": "🇸🇪 Sweden | Hostup AB 9",
-      "speed_kbps": 879.0
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@89.110.127.54:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc&fp=safari#🇸🇪 Sweden | Hostup AB 20",
-      "latency_ms": 168,
-      "name": "🇸🇪 Sweden | Hostup AB 20",
-      "speed_kbps": 891.7
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://2dfbcaf9-89fc-4fa2-9b41-962d8cb77aaf@132.243.163.114:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&type=grpc#🇸🇪 Sweden | Hostup AB 25",
-      "latency_ms": 211,
-      "name": "🇸🇪 Sweden | Hostup AB 25",
-      "speed_kbps": 794.2
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://2dfbcaf9-89fc-4fa2-9b41-962d8cb77aaf@362c1eg.se2.h1clayd.click:443?security=reality&encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&fp=chrome&spx=/&type=grpc&sni=362c1eg.se2.h1clayd.click&sid=bee802ae4ab66496#🇸🇪 Sweden | Hostup AB 19",
-      "latency_ms": 212,
-      "name": "🇸🇪 Sweden | Hostup AB 19",
-      "speed_kbps": 807.9
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@362c1eg.se1.h1clayd.click:443?encryption=none&fp=edge&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=/&type=grpc#🇸🇪 Sweden | Hostup AB 30",
-      "latency_ms": 214,
-      "name": "🇸🇪 Sweden | Hostup AB 30",
-      "speed_kbps": 770.9
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@362c1eg.se1.h1clayd.click:443?type=grpc&headerType=none&security=reality&encryption=none&sni=362c1eg.se1.h1clayd.click&fp=chrome&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496&spx=/#🇸🇪 Sweden | Hostup AB 32",
-      "latency_ms": 217,
-      "name": "🇸🇪 Sweden | Hostup AB 32",
-      "speed_kbps": 765.7
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@132.243.67.241:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#🇸🇪 Sweden | Hostup AB 18",
-      "latency_ms": 219,
+      "key": "vless://2dfbcaf9-89fc-4fa2-9b41-962d8cb77aaf@132.243.163.114:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&type=grpc&fp=safari#🇸🇪 Sweden | Hostup AB 18",
+      "latency_ms": 183,
       "name": "🇸🇪 Sweden | Hostup AB 18",
-      "speed_kbps": 635.0
+      "speed_kbps": 169.4
     },
     {
       "country": "Sweden",
@@ -226,54 +199,186 @@
       "exit_ip": "136.148.213.206",
       "flag": "🇸🇪",
       "isp": "Hostup AB",
-      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@132.243.67.225:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#🇸🇪 Sweden | Hostup AB 13",
-      "latency_ms": 221,
-      "name": "🇸🇪 Sweden | Hostup AB 13",
-      "speed_kbps": 710.2
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "136.148.213.206",
-      "flag": "🇸🇪",
-      "isp": "Hostup AB",
-      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@132.243.67.225:443?encryption=none&type=grpc&security=reality&sni=362c1eg.se1.h1clayd.click&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496&fp=edge&spx=/#🇸🇪 Sweden | Hostup AB 21",
-      "latency_ms": 221,
-      "name": "🇸🇪 Sweden | Hostup AB 21",
-      "speed_kbps": 661.9
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?type=tcp&security=tls&headerType=none&sni=connect-se.mimowhat.online&alpn=h2,http/1.1&fp=chrome#🇸🇪 Sweden | Internetport AB -BL 1",
-      "latency_ms": 179,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 1",
-      "speed_kbps": 540.7
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?security=tls&sni=se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 7",
-      "latency_ms": 181,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 7",
-      "speed_kbps": 716.8
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 6",
+      "key": "vless://2dfbcaf9-89fc-4fa2-9b41-962d8cb77aaf@132.243.163.114:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&type=grpc&fp=edge#🇸🇪 Sweden | Hostup AB 12",
       "latency_ms": 185,
+      "name": "🇸🇪 Sweden | Hostup AB 12",
+      "speed_kbps": 138.8
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://2dfbcaf9-89fc-4fa2-9b41-962d8cb77aaf@132.243.163.114:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&type=grpc&fp=firefox#🇸🇪 Sweden | Hostup AB 17",
+      "latency_ms": 187,
+      "name": "🇸🇪 Sweden | Hostup AB 17",
+      "speed_kbps": 138.5
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://2dfbcaf9-89fc-4fa2-9b41-962d8cb77aaf@362c1eg.se2.h1clayd.click:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&spx=%2F&type=grpc&fp=safari#🇸🇪 Sweden | Hostup AB 38",
+      "latency_ms": 194,
+      "name": "🇸🇪 Sweden | Hostup AB 38",
+      "speed_kbps": 143.2
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://2dfbcaf9-89fc-4fa2-9b41-962d8cb77aaf@362c1eg.se2.h1clayd.click:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&spx=%2F&type=grpc&fp=firefox#🇸🇪 Sweden | Hostup AB 25",
+      "latency_ms": 197,
+      "name": "🇸🇪 Sweden | Hostup AB 25",
+      "speed_kbps": 162.6
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://2dfbcaf9-89fc-4fa2-9b41-962d8cb77aaf@362c1eg.se2.h1clayd.click:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&spx=%2F&type=grpc&fp=ios#🇸🇪 Sweden | Hostup AB 34",
+      "latency_ms": 200,
+      "name": "🇸🇪 Sweden | Hostup AB 34",
+      "speed_kbps": 158.0
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://2dfbcaf9-89fc-4fa2-9b41-962d8cb77aaf@362c1eg.se2.h1clayd.click:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&spx=%2F&type=grpc&fp=edge#🇸🇪 Sweden | Hostup AB 31",
+      "latency_ms": 202,
+      "name": "🇸🇪 Sweden | Hostup AB 31",
+      "speed_kbps": 147.6
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://2dfbcaf9-89fc-4fa2-9b41-962d8cb77aaf@362c1eg.se2.h1clayd.click:443?security=reality&encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&fp=chrome&spx=/&type=grpc&sni=362c1eg.se2.h1clayd.click&sid=bee802ae4ab66496#🇸🇪 Sweden | Hostup AB 29",
+      "latency_ms": 206,
+      "name": "🇸🇪 Sweden | Hostup AB 29",
+      "speed_kbps": 129.9
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@362c1eg.se1.h1clayd.click:443?pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=%2F&type=grpc&fp=ios#🇸🇪 Sweden | Hostup AB 7",
+      "latency_ms": 279,
+      "name": "🇸🇪 Sweden | Hostup AB 7",
+      "speed_kbps": 155.9
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@362c1eg.se1.h1clayd.click:443?type=grpc&security=reality&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=/#🇸🇪 Sweden | Hostup AB 36",
+      "latency_ms": 281,
+      "name": "🇸🇪 Sweden | Hostup AB 36",
+      "speed_kbps": 143.3
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@362c1eg.se1.h1clayd.click:443?pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=%2F&type=grpc&fp=firefox#🇸🇪 Sweden | Hostup AB 37",
+      "latency_ms": 282,
+      "name": "🇸🇪 Sweden | Hostup AB 37",
+      "speed_kbps": 123.2
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@362c1eg.se1.h1clayd.click:443?pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=%2F&type=grpc&fp=edge#🇸🇪 Sweden | Hostup AB 20",
+      "latency_ms": 287,
+      "name": "🇸🇪 Sweden | Hostup AB 20",
+      "speed_kbps": 112.8
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@362c1eg.se1.h1clayd.click:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=/&type=grpc&fp=chrome#🇸🇪 Sweden | Hostup AB 19",
+      "latency_ms": 288,
+      "name": "🇸🇪 Sweden | Hostup AB 19",
+      "speed_kbps": 149.5
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@362c1eg.se1.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=362c1eg.se1.h1clayd.click&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496&spx=/#🇸🇪 Sweden | Hostup AB 11",
+      "latency_ms": 1318,
+      "name": "🇸🇪 Sweden | Hostup AB 11",
+      "speed_kbps": 134.8
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@362c1eg.se1.h1clayd.click:443?pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=%2F&type=grpc&fp=safari#🇸🇪 Sweden | Hostup AB 35",
+      "latency_ms": 1319,
+      "name": "🇸🇪 Sweden | Hostup AB 35",
+      "speed_kbps": 118.9
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "136.148.213.206",
+      "flag": "🇸🇪",
+      "isp": "Hostup AB",
+      "key": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@362c1eg.se1.h1clayd.click:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=%2F&type=grpc&fp=safari#🇸🇪 Sweden | Hostup AB 23",
+      "latency_ms": 1321,
+      "name": "🇸🇪 Sweden | Hostup AB 23",
+      "speed_kbps": 196.1
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "95.143.196.97",
+      "flag": "🇸🇪",
+      "isp": "Internetport AB -BL",
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?type=tcp&security=tls&headerType=none&sni=connect-se.mimowhat.online&alpn=h2,http/1.1&fp=chrome#🇸🇪 Sweden | Internetport AB -BL 6",
+      "latency_ms": 112,
       "name": "🇸🇪 Sweden | Internetport AB -BL 6",
-      "speed_kbps": 460.7
+      "speed_kbps": 672.2
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "95.143.196.97",
+      "flag": "🇸🇪",
+      "isp": "Internetport AB -BL",
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 1",
+      "latency_ms": 114,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 1",
+      "speed_kbps": 728.2
     },
     {
       "country": "Sweden",
@@ -282,97 +387,284 @@
       "flag": "🇸🇪",
       "isp": "Internetport AB -BL",
       "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 4",
-      "latency_ms": 188,
+      "latency_ms": 157,
       "name": "🇸🇪 Sweden | Internetport AB -BL 4",
+      "speed_kbps": 752.3
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "95.143.196.97",
+      "flag": "🇸🇪",
+      "isp": "Internetport AB -BL",
+      "key": "hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?security=tls&sni=se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 7",
+      "latency_ms": 161,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 7",
+      "speed_kbps": 773.4
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "95.143.196.97",
+      "flag": "🇸🇪",
+      "isp": "Internetport AB -BL",
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 5",
+      "latency_ms": 173,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 5",
+      "speed_kbps": 733.9
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "95.143.196.97",
+      "flag": "🇸🇪",
+      "isp": "Internetport AB -BL",
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 2",
+      "latency_ms": 176,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 2",
+      "speed_kbps": 717.0
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "exit_ip": "95.143.196.97",
+      "flag": "🇸🇪",
+      "isp": "Internetport AB -BL",
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 3",
+      "latency_ms": 178,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 3",
+      "speed_kbps": 756.3
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?flow=xtls-rprx-vision&headerType=none&host=uk2.gofizz.in&path=%2F&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&type=tcp&fp=safari#🇬🇧 United Kingdom | Cloudflare, 1",
+      "latency_ms": 80,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 1",
+      "speed_kbps": 417.3
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?flow=xtls-rprx-vision&headerType=none&host=uk2.gofizz.in&path=%2F&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&type=tcp&fp=ios#🇬🇧 United Kingdom | Cloudflare, 8",
+      "latency_ms": 80,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 8",
+      "speed_kbps": 407.7
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?&security=reality&flow=xtls-rprx-vision&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&sid=f51489cb3d7e8be2&fp=chrome&sni=uk2.gofizz.in&type=tcp&headerType=none&path=%2F#🇬🇧 United Kingdom | Cloudflare, 2",
+      "latency_ms": 81,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 2",
+      "speed_kbps": 851.1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?&security=reality&flow=xtls-rprx-vision&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&sid=f51489cb3d7e8be2&fp=firefox&sni=uk2.gofizz.in&type=tcp&headerType=none&host=uk2.gofizz.in&path=%2F#🇬🇧 United Kingdom | Cloudflare, 15",
+      "latency_ms": 81,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 15",
+      "speed_kbps": 485.1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=ios#🇬🇧 United Kingdom | Cloudflare, 7",
+      "latency_ms": 83,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 7",
+      "speed_kbps": 543.3
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=safari#🇬🇧 United Kingdom | Cloudflare, 17",
+      "latency_ms": 84,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 17",
+      "speed_kbps": 1100.5
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&type=tcp&fp=ios#🇬🇧 United Kingdom | Cloudflare, 6",
+      "latency_ms": 88,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 6",
+      "speed_kbps": 510.9
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=uk2.gofizz.in&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&sid=f51489cb3d7e8be2&fp=firefox&spx=/b4fcc6d25bda84e#🇬🇧 United Kingdom | Cloudflare, 12",
+      "latency_ms": 89,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 12",
+      "speed_kbps": 549.9
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&type=tcp&fp=firefox#🇬🇧 United Kingdom | Cloudflare, 9",
+      "latency_ms": 91,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 9",
+      "speed_kbps": 743.5
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?flow=xtls-rprx-vision&headerType=none&host=uk2.gofizz.in&path=%2F&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&type=tcp&fp=edge#🇬🇧 United Kingdom | Cloudflare, 14",
+      "latency_ms": 94,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 14",
+      "speed_kbps": 948.4
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk2.gofizz.in&fp=ios&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&sid=f51489cb3d7e8be2&spx=%2Fb4fcc6d25bda84e&type=tcp&headerType=none&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#🇬🇧 United Kingdom | Cloudflare, 3",
+      "latency_ms": 95,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 3",
+      "speed_kbps": 649.2
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&type=tcp&fp=safari#🇬🇧 United Kingdom | Cloudflare, 5",
+      "latency_ms": 95,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 5",
+      "speed_kbps": 1085.2
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&type=tcp#🇬🇧 United Kingdom | Cloudflare, 13",
+      "latency_ms": 96,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 13",
+      "speed_kbps": 631.3
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=edge#🇬🇧 United Kingdom | Cloudflare, 16",
+      "latency_ms": 96,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 16",
+      "speed_kbps": 594.9
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=firefox#🇬🇧 United Kingdom | Cloudflare, 10",
+      "latency_ms": 96,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 10",
+      "speed_kbps": 1004.7
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "exit_ip": "104.28.192.60",
+      "flag": "🇬🇧",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&type=tcp&fp=edge#🇬🇧 United Kingdom | Cloudflare, 4",
+      "latency_ms": 98,
+      "name": "🇬🇧 United Kingdom | Cloudflare, 4",
+      "speed_kbps": 591.1
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "exit_ip": "104.28.201.174",
+      "flag": "🇩🇰",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.181.210.205:443?encryption=none&flow=xtls-rprx-vision&pbk=arZrNPbhlxNAGMzO_g2Dx3AAV_FEMnFyydbBsyZUCiY&security=reality&sid=54005328cd&sni=dk1.gofizz.in&type=tcp&fp=safari#🇩🇰 Denmark | Cloudflare, 6",
+      "latency_ms": 99,
+      "name": "🇩🇰 Denmark | Cloudflare, 6",
+      "speed_kbps": 549.4
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "exit_ip": "104.28.201.174",
+      "flag": "🇩🇰",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.181.210.205:443?encryption=none&flow=xtls-rprx-vision&pbk=arZrNPbhlxNAGMzO_g2Dx3AAV_FEMnFyydbBsyZUCiY&security=reality&sid=54005328cd&sni=dk1.gofizz.in&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=edge#🇩🇰 Denmark | Cloudflare, 8",
+      "latency_ms": 100,
+      "name": "🇩🇰 Denmark | Cloudflare, 8",
+      "speed_kbps": 547.9
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "exit_ip": "104.28.201.174",
+      "flag": "🇩🇰",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.181.210.205:443?encryption=none&flow=xtls-rprx-vision&pbk=arZrNPbhlxNAGMzO_g2Dx3AAV_FEMnFyydbBsyZUCiY&security=reality&sid=54005328cd&sni=dk1.gofizz.in&type=tcp&fp=edge#🇩🇰 Denmark | Cloudflare, 2",
+      "latency_ms": 102,
+      "name": "🇩🇰 Denmark | Cloudflare, 2",
+      "speed_kbps": 508.8
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "exit_ip": "104.28.201.174",
+      "flag": "🇩🇰",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.181.210.205:443?encryption=none&flow=xtls-rprx-vision&pbk=arZrNPbhlxNAGMzO_g2Dx3AAV_FEMnFyydbBsyZUCiY&security=reality&sid=54005328cd&sni=dk1.gofizz.in&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=firefox#🇩🇰 Denmark | Cloudflare, 4",
+      "latency_ms": 103,
+      "name": "🇩🇰 Denmark | Cloudflare, 4",
       "speed_kbps": 543.6
     },
     {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 5",
-      "latency_ms": 188,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 5",
-      "speed_kbps": 534.3
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 3",
-      "latency_ms": 192,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 3",
-      "speed_kbps": 548.6
-    },
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "exit_ip": "95.143.196.97",
-      "flag": "🇸🇪",
-      "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 2",
-      "latency_ms": 196,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 2",
-      "speed_kbps": 502.1
-    },
-    {
-      "country": "Norway",
-      "country_code": "NO",
-      "exit_ip": "104.28.194.254",
-      "flag": "🇳🇴",
+      "country": "Denmark",
+      "country_code": "DK",
+      "exit_ip": "104.28.201.174",
+      "flag": "🇩🇰",
       "isp": "Cloudflare,",
-      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.243.189.64:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=no1.gofizz.in&pbk=631qtx5_iiR8HBYdp3duf2SMqdN0URE1AWVb85I_FFg&sid=b12c3119d219dc&fp=firefox&spx=/b4fcc6d25bda84e#🇳🇴 Norway | Cloudflare, 1",
-      "latency_ms": 161,
-      "name": "🇳🇴 Norway | Cloudflare, 1",
-      "speed_kbps": 651.5
-    },
-    {
-      "country": "Norway",
-      "country_code": "NO",
-      "exit_ip": "104.28.194.254",
-      "flag": "🇳🇴",
-      "isp": "Cloudflare,",
-      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.243.189.64:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=631qtx5_iiR8HBYdp3duf2SMqdN0URE1AWVb85I_FFg&security=reality&sid=b12c3119d219dc&sni=no1.gofizz.in&type=tcp#🇳🇴 Norway | Cloudflare, 2",
-      "latency_ms": 189,
-      "name": "🇳🇴 Norway | Cloudflare, 2",
-      "speed_kbps": 662.1
-    },
-    {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "exit_ip": "104.28.192.60",
-      "flag": "🇬🇧",
-      "isp": "Cloudflare,",
-      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=uk2.gofizz.in&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&sid=f51489cb3d7e8be2&fp=firefox&spx=/b4fcc6d25bda84e#🇬🇧 United Kingdom | Cloudflare, 1",
-      "latency_ms": 173,
-      "name": "🇬🇧 United Kingdom | Cloudflare, 1",
-      "speed_kbps": 597.9
-    },
-    {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "exit_ip": "104.28.192.60",
-      "flag": "🇬🇧",
-      "isp": "Cloudflare,",
-      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&type=tcp#🇬🇧 United Kingdom | Cloudflare, 2",
-      "latency_ms": 176,
-      "name": "🇬🇧 United Kingdom | Cloudflare, 2",
-      "speed_kbps": 593.2
-    },
-    {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "exit_ip": "104.28.192.60",
-      "flag": "🇬🇧",
-      "isp": "Cloudflare,",
-      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?&security=reality&flow=xtls-rprx-vision&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&sid=f51489cb3d7e8be2&fp=firefox&sni=uk2.gofizz.in&type=tcp&headerType=none&host=uk2.gofizz.in&path=%2F#🇬🇧 United Kingdom | Cloudflare, 3",
-      "latency_ms": 177,
-      "name": "🇬🇧 United Kingdom | Cloudflare, 3",
-      "speed_kbps": 587.8
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.181.210.205:443?encryption=none&flow=xtls-rprx-vision&pbk=arZrNPbhlxNAGMzO_g2Dx3AAV_FEMnFyydbBsyZUCiY&security=reality&sid=54005328cd&sni=dk1.gofizz.in&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=safari#🇩🇰 Denmark | Cloudflare, 3",
+      "latency_ms": 104,
+      "name": "🇩🇰 Denmark | Cloudflare, 3",
+      "speed_kbps": 523.9
     },
     {
       "country": "Denmark",
@@ -380,10 +672,10 @@
       "exit_ip": "104.28.201.174",
       "flag": "🇩🇰",
       "isp": "Cloudflare,",
-      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.181.210.205:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dk1.gofizz.in&pbk=arZrNPbhlxNAGMzO_g2Dx3AAV_FEMnFyydbBsyZUCiY&sid=54005328cd&fp=edge&spx=/b4fcc6d25bda84e#🇩🇰 Denmark | Cloudflare, 2",
-      "latency_ms": 208,
-      "name": "🇩🇰 Denmark | Cloudflare, 2",
-      "speed_kbps": 594.0
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.181.210.205:443?encryption=none&flow=xtls-rprx-vision&pbk=arZrNPbhlxNAGMzO_g2Dx3AAV_FEMnFyydbBsyZUCiY&security=reality&sid=54005328cd&sni=dk1.gofizz.in&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=ios#🇩🇰 Denmark | Cloudflare, 5",
+      "latency_ms": 106,
+      "name": "🇩🇰 Denmark | Cloudflare, 5",
+      "speed_kbps": 546.4
     },
     {
       "country": "Denmark",
@@ -391,10 +683,21 @@
       "exit_ip": "104.28.201.174",
       "flag": "🇩🇰",
       "isp": "Cloudflare,",
-      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.181.210.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=arZrNPbhlxNAGMzO_g2Dx3AAV_FEMnFyydbBsyZUCiY&security=reality&sid=54005328cd&sni=dk1.gofizz.in&type=tcp#🇩🇰 Denmark | Cloudflare, 1",
-      "latency_ms": 210,
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.181.210.205:443?encryption=none&flow=xtls-rprx-vision&pbk=arZrNPbhlxNAGMzO_g2Dx3AAV_FEMnFyydbBsyZUCiY&security=reality&sid=54005328cd&sni=dk1.gofizz.in&type=tcp&fp=firefox#🇩🇰 Denmark | Cloudflare, 1",
+      "latency_ms": 106,
       "name": "🇩🇰 Denmark | Cloudflare, 1",
-      "speed_kbps": 576.4
+      "speed_kbps": 547.2
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "exit_ip": "104.28.201.174",
+      "flag": "🇩🇰",
+      "isp": "Cloudflare,",
+      "key": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.181.210.205:443?encryption=none&flow=xtls-rprx-vision&pbk=arZrNPbhlxNAGMzO_g2Dx3AAV_FEMnFyydbBsyZUCiY&security=reality&sid=54005328cd&sni=dk1.gofizz.in&type=tcp&fp=ios#🇩🇰 Denmark | Cloudflare, 7",
+      "latency_ms": 114,
+      "name": "🇩🇰 Denmark | Cloudflare, 7",
+      "speed_kbps": 525.9
     },
     {
       "country": "Saudi Arabia",
@@ -403,13 +706,13 @@
       "flag": "🌍",
       "isp": "Oracle",
       "key": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🌍 Saudi Arabia | Oracle 1",
-      "latency_ms": 214,
+      "latency_ms": 153,
       "name": "🌍 Saudi Arabia | Oracle 1",
-      "speed_kbps": 609.8
+      "speed_kbps": 890.1
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-11-16 05:32:10",
-  "total_checked": 36,
-  "working_count": 34
+  "timestamp": "2026-11-16 14:02:31",
+  "total_checked": 63,
+  "working_count": 62
 }
