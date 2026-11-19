@@ -1,10 +1,5 @@
 {
   "countries": {
-    "NL": {
-      "count": 2,
-      "flag": "🇳🇱",
-      "name": "Netherlands"
-    },
     "SE": {
       "count": 3,
       "flag": "🇸🇪",
@@ -14,37 +9,15 @@
   "description": "🔒 Bobi VPN — строго перепроверенные серверы\n⚡ Только реально работающие ключи",
   "keys": [
     {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "exit_ip": "144.21.35.158",
-      "flag": "🇳🇱",
-      "isp": "Oracle",
-      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cngxZThTc2pHTTdaS2xSMHRMbnpTV294aHlSUkpKcmNUY2NNM3VNdStSYz0@144.21.35.158:45819#🇳🇱 Netherlands | Oracle 1",
-      "latency_ms": 88,
-      "name": "🇳🇱 Netherlands | Oracle 1",
-      "speed_kbps": 635.9
-    },
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "exit_ip": "144.21.35.158",
-      "flag": "🇳🇱",
-      "isp": "Oracle",
-      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cngxZThTc2pHTTdaS2xSMHRMbnpTV294aHlSUkpKcmNUY2NNM3VNdStSYz0=@144.21.35.158:45819#🇳🇱 Netherlands | Oracle 3",
-      "latency_ms": 90,
-      "name": "🇳🇱 Netherlands | Oracle 3",
-      "speed_kbps": 612.1
-    },
-    {
       "country": "Sweden",
       "country_code": "SE",
       "exit_ip": "95.143.196.97",
       "flag": "🇸🇪",
       "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 2",
-      "latency_ms": 109,
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 2",
+      "latency_ms": 120,
       "name": "🇸🇪 Sweden | Internetport AB -BL 2",
-      "speed_kbps": 221.9
+      "speed_kbps": 737.8
     },
     {
       "country": "Sweden",
@@ -53,9 +26,9 @@
       "flag": "🇸🇪",
       "isp": "Internetport AB -BL",
       "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 1",
-      "latency_ms": 110,
+      "latency_ms": 121,
       "name": "🇸🇪 Sweden | Internetport AB -BL 1",
-      "speed_kbps": 209.7
+      "speed_kbps": 722.3
     },
     {
       "country": "Sweden",
@@ -63,14 +36,14 @@
       "exit_ip": "95.143.196.97",
       "flag": "🇸🇪",
       "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 4",
-      "latency_ms": 111,
-      "name": "🇸🇪 Sweden | Internetport AB -BL 4",
-      "speed_kbps": 223.2
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🌍 Unknown | Server 49",
+      "latency_ms": 124,
+      "name": "🌍 Unknown | Server 49",
+      "speed_kbps": 725.5
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-11-19 06:29:00",
+  "timestamp": "2026-11-19 19:09:46",
   "total_checked": 5,
-  "working_count": 5
+  "working_count": 3
 }
