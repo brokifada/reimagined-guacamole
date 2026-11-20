@@ -1,5 +1,25 @@
 {
   "countries": {
+    "AE": {
+      "count": 1,
+      "flag": "🇦🇪",
+      "name": "United Arab Emirates"
+    },
+    "NL": {
+      "count": 2,
+      "flag": "🇳🇱",
+      "name": "Netherlands"
+    },
+    "RU": {
+      "count": 3,
+      "flag": "🇷🇺",
+      "name": "Russia"
+    },
+    "SA": {
+      "count": 1,
+      "flag": "🌍",
+      "name": "Saudi Arabia"
+    },
     "SE": {
       "count": 3,
       "flag": "🇸🇪",
@@ -9,15 +29,70 @@
   "description": "🔒 Bobi VPN — строго перепроверенные серверы\n⚡ Только реально работающие ключи",
   "keys": [
     {
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "5.59.205.131",
+      "flag": "🇷🇺",
+      "isp": "Procloud",
+      "key": "hysteria2://401db914-1fef-0001-b41a-287bd9ac13f9@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&alpn=h3&pinSHA256=d71dee6f06749e3ed87bba907da71f538edb9dd5e778eb7321e8d056ff207739#🇷🇺 Russia | Procloud 1",
+      "latency_ms": 128,
+      "name": "🇷🇺 Russia | Procloud 1",
+      "speed_kbps": 279.7
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "5.59.205.131",
+      "flag": "🇷🇺",
+      "isp": "Procloud",
+      "key": "hysteria2://401db914-1fef-0001-b41a-287bd9ac13f9@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&pinSHA256=d71dee6f06749e3ed87bba907da71f538edb9dd5e778eb7321e8d056ff207739#🇷🇺 Russia | Procloud 8",
+      "latency_ms": 129,
+      "name": "🇷🇺 Russia | Procloud 8",
+      "speed_kbps": 281.4
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "exit_ip": "5.59.205.131",
+      "flag": "🇷🇺",
+      "isp": "Procloud",
+      "key": "hysteria2://401db914-1fef-0001-b41a-287bd9ac13f9@185.151.243.186:443?alpn=h3&pinSHA256=d71dee6f06749e3ed87bba907da71f538edb9dd5e778eb7321e8d056ff207739&sni=piodr-ru-74sel.my-fade.cloud#🇷🇺 Russia | Procloud 15",
+      "latency_ms": 129,
+      "name": "🇷🇺 Russia | Procloud 15",
+      "speed_kbps": 273.9
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "exit_ip": "144.21.35.158",
+      "flag": "🇳🇱",
+      "isp": "Oracle",
+      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cngxZThTc2pHTTdaS2xSMHRMbnpTV294aHlSUkpKcmNUY2NNM3VNdStSYz0@144.21.35.158:45819#🇳🇱 Netherlands | Oracle 1",
+      "latency_ms": 87,
+      "name": "🇳🇱 Netherlands | Oracle 1",
+      "speed_kbps": 1293.4
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "exit_ip": "144.21.35.158",
+      "flag": "🇳🇱",
+      "isp": "Oracle",
+      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cngxZThTc2pHTTdaS2xSMHRMbnpTV294aHlSUkpKcmNUY2NNM3VNdStSYz0=@144.21.35.158:45819#🇳🇱 Netherlands | Oracle 10",
+      "latency_ms": 88,
+      "name": "🇳🇱 Netherlands | Oracle 10",
+      "speed_kbps": 1314.9
+    },
+    {
       "country": "Sweden",
       "country_code": "SE",
       "exit_ip": "95.143.196.97",
       "flag": "🇸🇪",
       "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 2",
-      "latency_ms": 120,
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 2",
+      "latency_ms": 137,
       "name": "🇸🇪 Sweden | Internetport AB -BL 2",
-      "speed_kbps": 737.8
+      "speed_kbps": 722.8
     },
     {
       "country": "Sweden",
@@ -25,10 +100,10 @@
       "exit_ip": "95.143.196.97",
       "flag": "🇸🇪",
       "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 1",
-      "latency_ms": 121,
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 1",
+      "latency_ms": 138,
       "name": "🇸🇪 Sweden | Internetport AB -BL 1",
-      "speed_kbps": 722.3
+      "speed_kbps": 763.0
     },
     {
       "country": "Sweden",
@@ -36,14 +111,36 @@
       "exit_ip": "95.143.196.97",
       "flag": "🇸🇪",
       "isp": "Internetport AB -BL",
-      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🌍 Unknown | Server 49",
-      "latency_ms": 124,
-      "name": "🌍 Unknown | Server 49",
-      "speed_kbps": 725.5
+      "key": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 Sweden | Internetport AB -BL 3",
+      "latency_ms": 139,
+      "name": "🇸🇪 Sweden | Internetport AB -BL 3",
+      "speed_kbps": 739.6
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "exit_ip": "84.235.244.108",
+      "flag": "🇦🇪",
+      "isp": "Oracle",
+      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#🌍 Unknown | Unknown 168",
+      "latency_ms": 1188,
+      "name": "🌍 Unknown | Unknown 168",
+      "speed_kbps": 208.0
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "exit_ip": "81.208.170.142",
+      "flag": "🌍",
+      "isp": "Oracle",
+      "key": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🌍 Saudi Arabia | Oracle 1",
+      "latency_ms": 177,
+      "name": "🌍 Saudi Arabia | Oracle 1",
+      "speed_kbps": 729.5
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-11-19 19:09:46",
-  "total_checked": 5,
-  "working_count": 3
+  "timestamp": "2026-11-20 01:59:27",
+  "total_checked": 11,
+  "working_count": 10
 }
