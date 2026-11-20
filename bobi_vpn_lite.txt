@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCfkqog0KHRgtCw0LHQuNC70YzQvdC+0LUg0YHQvtC10LTQuNC90LXQvdC40LU=
+#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCflJIg0JHQtdC30L7Qv9Cw0YHQvdC+0LUg0YHQvtC10LTQuNC90LXQvdC40LUgMjQvNw==
 
-hysteria2://401db914-1fef-0001-b41a-287bd9ac13f9@185.151.243.186:443?security=tls&sni=piodr-ru-74sel.my-fade.cloud&alpn=h3&pcs=d71dee6f06749e3ed87bba907da71f538edb9dd5e778eb7321e8d056ff207739#🇷🇺 Russia | Procloud 1
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Rm1CNEhCTS8rNjNMWnIrc2p4czV6a0ZJdlptQi8vNUJQcWRmOFcrd250Zz0@79.76.105.62:59924#🇩🇪 Germany | Oracle 1
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Rm1CNEhCTS8rNjNMWnIrc2p4czV6a0ZJdlptQi8vNUJQcWRmOFcrd250Zz0=@79.76.105.62:59924#🇩🇪 Germany | Oracle 1
