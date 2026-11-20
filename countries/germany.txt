@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqfCfh6ogQm9iaVZQTiDigJQgR2VybWFueQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://510e8bc2-020c-412a-9caa-b036031268e8@80.47.229.187:443?encryption=none&fp=firefox&host=5674-4.seenode.app&path=/api/v1/live&security=tls&sni=5674-4.seenode.app&type=ws#🇩🇪 Germany | UpCloud 1
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Rm1CNEhCTS8rNjNMWnIrc2p4czV6a0ZJdlptQi8vNUJQcWRmOFcrd250Zz0@79.76.105.62:59924#🇩🇪 Germany | Oracle 1
