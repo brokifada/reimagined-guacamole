@@ -1,141 +1,27 @@
 {
   "countries": {
-    "AE": {
-      "count": 1,
-      "flag": "🇦🇪",
-      "name": "United Arab Emirates"
-    },
-    "DE": {
-      "count": 3,
-      "flag": "🇩🇪",
-      "name": "Germany"
-    },
     "NL": {
-      "count": 5,
-      "flag": "🇳🇱",
-      "name": "Netherlands"
-    },
-    "SA": {
       "count": 1,
-      "flag": "🌍",
-      "name": "Saudi Arabia"
+      "flag": "🇳🇱",
+      "name": "The Netherlands"
     }
   },
   "description": "🔒 Bobi VPN — строго перепроверенные серверы\n⚡ Только реально работающие ключи",
   "keys": [
     {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "92.5.114.103",
-      "flag": "🇩🇪",
-      "isp": "Oracle",
-      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R21BbjBmWGFyeit4QjNidzJhQ3p3blp4Y051RHg4eHBxSSt2R3VmSTNqST0=@92.5.114.103:59924#🇩🇪 Germany | Oracle 5",
-      "latency_ms": 96,
-      "name": "🇩🇪 Germany | Oracle 5",
-      "speed_kbps": 1105.2
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "79.76.105.62",
-      "flag": "🇩🇪",
-      "isp": "Oracle",
-      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Rm1CNEhCTS8rNjNMWnIrc2p4czV6a0ZJdlptQi8vNUJQcWRmOFcrd250Zz0@79.76.105.62:59924#🇩🇪 Germany | Oracle 2",
-      "latency_ms": 98,
-      "name": "🇩🇪 Germany | Oracle 2",
-      "speed_kbps": 1072.2
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "exit_ip": "79.76.105.62",
-      "flag": "🇩🇪",
-      "isp": "Oracle",
-      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Rm1CNEhCTS8rNjNMWnIrc2p4czV6a0ZJdlptQi8vNUJQcWRmOFcrd250Zz0=@79.76.105.62:59924#🇩🇪 Germany | Oracle 1",
-      "latency_ms": 99,
-      "name": "🇩🇪 Germany | Oracle 1",
-      "speed_kbps": 1069.1
-    },
-    {
-      "country": "Netherlands",
+      "country": "The Netherlands",
       "country_code": "NL",
-      "exit_ip": "158.178.157.15",
+      "exit_ip": "2.59.183.167",
       "flag": "🇳🇱",
-      "isp": "Oracle",
-      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6THFiL2VMRGE0TG5mRjZqOTY1RmtaRVhUV2tINjVCMDgzaXZqeTB4RnBpST0=@158.178.157.15:45819#🇳🇱 Netherlands | Oracle 5",
-      "latency_ms": 92,
-      "name": "🇳🇱 Netherlands | Oracle 5",
-      "speed_kbps": 1144.9
-    },
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "exit_ip": "84.235.170.154",
-      "flag": "🇳🇱",
-      "isp": "Oracle",
-      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aFozVmJONTkySlpzdXpaOW91K3BHT0JGTVNSR0JpU1ZjekpGZ2hjUmFFWT0@84.235.170.154:45819#🇳🇱 Netherlands | Oracle 6",
-      "latency_ms": 93,
-      "name": "🇳🇱 Netherlands | Oracle 6",
-      "speed_kbps": 1152.4
-    },
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "exit_ip": "51.170.191.10",
-      "flag": "🇳🇱",
-      "isp": "Oracle",
-      "key": "vless://478d6288-3745-4558-bf38-47ab9bf16462@51.170.191.10:63286?security=reality&encryption=none&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1f2519bb96e5589c#🇳🇱 Netherlands | Oracle 10",
-      "latency_ms": 93,
-      "name": "🇳🇱 Netherlands | Oracle 10",
-      "speed_kbps": 1011.3
-    },
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "exit_ip": "51.170.191.10",
-      "flag": "🇳🇱",
-      "isp": "Oracle",
-      "key": "vless://478d6288-3745-4558-bf38-47ab9bf16462@51.170.191.10:63286?encryption=none&flow=xtls-rprx-vision&fp=&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&security=reality&sid=1f2519bb96e5589c&sni=www.cloudflare.com&type=tcp#🇳🇱 Netherlands | Oracle 4",
-      "latency_ms": 94,
-      "name": "🇳🇱 Netherlands | Oracle 4",
-      "speed_kbps": 1018.9
-    },
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "exit_ip": "51.170.191.10",
-      "flag": "🇳🇱",
-      "isp": "Oracle",
-      "key": "vless://478d6288-3745-4558-bf38-47ab9bf16462@51.170.191.10:63286?encryption=none&type=tcp&security=reality&headerType=none&sni=www.cloudflare.com&fp=chrome&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&sid=1f2519bb96e5589c&flow=xtls-rprx-vision#🇳🇱 Netherlands | Oracle 1",
-      "latency_ms": 95,
-      "name": "🇳🇱 Netherlands | Oracle 1",
-      "speed_kbps": 1011.7
-    },
-    {
-      "country": "United Arab Emirates",
-      "country_code": "AE",
-      "exit_ip": "84.235.244.108",
-      "flag": "🇦🇪",
-      "isp": "Oracle",
-      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1",
-      "latency_ms": 189,
-      "name": "🇦🇪 United Arab Emirates | Oracle 1",
-      "speed_kbps": 288.0
-    },
-    {
-      "country": "Saudi Arabia",
-      "country_code": "SA",
-      "exit_ip": "81.208.170.142",
-      "flag": "🌍",
-      "isp": "Oracle",
-      "key": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🌍 Saudi Arabia | Oracle 1",
-      "latency_ms": 135,
-      "name": "🌍 Saudi Arabia | Oracle 1",
-      "speed_kbps": 739.4
+      "isp": "Serva ONE LTD",
+      "key": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&fp=&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sni=www.samsung.com&type=tcp#🇳🇱 The Netherlands | Serva ONE LTD 1",
+      "latency_ms": 87,
+      "name": "🇳🇱 The Netherlands | Serva ONE LTD ",
+      "speed_kbps": 1192.1
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-11-22 00:26:05",
-  "total_checked": 10,
-  "working_count": 10
+  "timestamp": "2026-11-22 13:25:01",
+  "total_checked": 3,
+  "working_count": 1
 }

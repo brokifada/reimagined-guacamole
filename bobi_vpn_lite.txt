@@ -3,8 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCvCflJMg0J7QsdGF0L7QtNC4INC70Y7QsdGL0LUg0LHQu9C+0LrQuNGA0L7QstC60Lg=
+#announce: base64:8J+QtiBCb2JpVlBOIExpdGUg4oCUIFJVIERFIEZSIEZJINCR0LDQu9GC0LjQutCwCuKchSDQn9GA0L7QstC10YDQtdC90L4g0Lgg0YDQsNCx0L7RgtCw0LXRgg==
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R21BbjBmWGFyeit4QjNidzJhQ3p3blp4Y051RHg4eHBxSSt2R3VmSTNqST0=@92.5.114.103:59924#🇩🇪 Germany | Oracle 1
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Rm1CNEhCTS8rNjNMWnIrc2p4czV6a0ZJdlptQi8vNUJQcWRmOFcrd250Zz0@79.76.105.62:59924#🇩🇪 Germany | Oracle 2
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Rm1CNEhCTS8rNjNMWnIrc2p4czV6a0ZJdlptQi8vNUJQcWRmOFcrd250Zz0=@79.76.105.62:59924#🇩🇪 Germany | Oracle 3
