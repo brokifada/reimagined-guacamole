@@ -1,27 +1,54 @@
 {
   "countries": {
-    "NL": {
+    "AE": {
       "count": 1,
+      "flag": "🇦🇪",
+      "name": "United Arab Emirates"
+    },
+    "NL": {
+      "count": 2,
       "flag": "🇳🇱",
-      "name": "The Netherlands"
+      "name": "Netherlands"
     }
   },
   "description": "🔒 Bobi VPN — строго перепроверенные серверы\n⚡ Только реально работающие ключи",
   "keys": [
     {
-      "country": "The Netherlands",
+      "country": "Netherlands",
       "country_code": "NL",
-      "exit_ip": "2.59.183.167",
+      "exit_ip": "158.178.157.15",
       "flag": "🇳🇱",
-      "isp": "Serva ONE LTD",
-      "key": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&fp=&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sni=www.samsung.com&type=tcp#🇳🇱 The Netherlands | Serva ONE LTD 1",
-      "latency_ms": 87,
-      "name": "🇳🇱 The Netherlands | Serva ONE LTD ",
-      "speed_kbps": 1192.1
+      "isp": "Oracle",
+      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6THFiL2VMRGE0TG5mRjZqOTY1RmtaRVhUV2tINjVCMDgzaXZqeTB4RnBpST0@158.178.157.15:45819#🇳🇱 Netherlands | Oracle 4",
+      "latency_ms": 146,
+      "name": "🇳🇱 Netherlands | Oracle 4",
+      "speed_kbps": 737.2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "exit_ip": "158.178.157.15",
+      "flag": "🇳🇱",
+      "isp": "Oracle",
+      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6THFiL2VMRGE0TG5mRjZqOTY1RmtaRVhUV2tINjVCMDgzaXZqeTB4RnBpST0=@158.178.157.15:45819#🇳🇱 Netherlands | Oracle 1",
+      "latency_ms": 147,
+      "name": "🇳🇱 Netherlands | Oracle 1",
+      "speed_kbps": 734.4
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "exit_ip": "84.235.244.108",
+      "flag": "🇦🇪",
+      "isp": "Oracle",
+      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573/?type=ws&encryption=none&flow=&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 2",
+      "latency_ms": 1341,
+      "name": "🇦🇪 United Arab Emirates | Oracle 2",
+      "speed_kbps": 171.5
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-11-22 13:25:01",
+  "timestamp": "2026-11-22 21:15:22",
   "total_checked": 3,
-  "working_count": 1
+  "working_count": 3
 }
