@@ -4,51 +4,24 @@
       "count": 1,
       "flag": "🇦🇪",
       "name": "United Arab Emirates"
-    },
-    "NL": {
-      "count": 2,
-      "flag": "🇳🇱",
-      "name": "Netherlands"
     }
   },
   "description": "🔒 Bobi VPN — строго перепроверенные серверы\n⚡ Только реально работающие ключи",
   "keys": [
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "exit_ip": "158.178.157.15",
-      "flag": "🇳🇱",
-      "isp": "Oracle",
-      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6THFiL2VMRGE0TG5mRjZqOTY1RmtaRVhUV2tINjVCMDgzaXZqeTB4RnBpST0@158.178.157.15:45819#🇳🇱 Netherlands | Oracle 4",
-      "latency_ms": 146,
-      "name": "🇳🇱 Netherlands | Oracle 4",
-      "speed_kbps": 737.2
-    },
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "exit_ip": "158.178.157.15",
-      "flag": "🇳🇱",
-      "isp": "Oracle",
-      "key": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6THFiL2VMRGE0TG5mRjZqOTY1RmtaRVhUV2tINjVCMDgzaXZqeTB4RnBpST0=@158.178.157.15:45819#🇳🇱 Netherlands | Oracle 1",
-      "latency_ms": 147,
-      "name": "🇳🇱 Netherlands | Oracle 1",
-      "speed_kbps": 734.4
-    },
     {
       "country": "United Arab Emirates",
       "country_code": "AE",
       "exit_ip": "84.235.244.108",
       "flag": "🇦🇪",
       "isp": "Oracle",
-      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573/?type=ws&encryption=none&flow=&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 2",
-      "latency_ms": 1341,
-      "name": "🇦🇪 United Arab Emirates | Oracle 2",
-      "speed_kbps": 171.5
+      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573/?type=ws&encryption=none&flow=&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 3",
+      "latency_ms": 260,
+      "name": "🇦🇪 United Arab Emirates | Oracle 3",
+      "speed_kbps": 303.9
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-11-22 21:15:22",
-  "total_checked": 3,
-  "working_count": 3
+  "timestamp": "2026-11-24 08:59:03",
+  "total_checked": 2,
+  "working_count": 1
 }

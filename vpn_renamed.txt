@@ -1,3 +1,1 @@
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6THFiL2VMRGE0TG5mRjZqOTY1RmtaRVhUV2tINjVCMDgzaXZqeTB4RnBpST0@158.178.157.15:45819#🇳🇱 Netherlands | Oracle 1
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6THFiL2VMRGE0TG5mRjZqOTY1RmtaRVhUV2tINjVCMDgzaXZqeTB4RnBpST0=@158.178.157.15:45819#🇳🇱 Netherlands | Oracle 2
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573/?type=ws&encryption=none&flow=&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
