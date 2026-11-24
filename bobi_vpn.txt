@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: 🐶BobiVPN🐶
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
-#support-url: https://bobivpn.netlify.app/
-#profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+QtiBCb2JpVlBOIOKAlCDQkdGL0YHRgtGA0YvQuSDQuCDQndCw0LTRkdC20L3Ri9C5CvCfjI0g0KHQtdGA0LLQtdGA0Ysg0L/QviDQstGB0LXQvNGDINC80LjRgNGD
-
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573/?type=ws&encryption=none&flow=&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
