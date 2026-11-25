@@ -14,14 +14,14 @@
       "exit_ip": "84.235.244.108",
       "flag": "🇦🇪",
       "isp": "Oracle",
-      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573/?type=ws&encryption=none&flow=&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 3",
-      "latency_ms": 260,
-      "name": "🇦🇪 United Arab Emirates | Oracle 3",
-      "speed_kbps": 303.9
+      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#🌍 Unknown | Server 65",
+      "latency_ms": 192,
+      "name": "🌍 Unknown | Server 65",
+      "speed_kbps": 205.9
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-11-24 08:59:03",
-  "total_checked": 2,
+  "timestamp": "2026-11-25 20:07:46",
+  "total_checked": 3,
   "working_count": 1
 }
