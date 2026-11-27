@@ -1,27 +1,27 @@
 {
   "countries": {
-    "AE": {
+    "XX": {
       "count": 1,
-      "flag": "🇦🇪",
-      "name": "United Arab Emirates"
+      "flag": "🌍",
+      "name": "Unknown"
     }
   },
   "description": "🔒 Bobi VPN — строго перепроверенные серверы\n⚡ Только реально работающие ключи",
   "keys": [
     {
-      "country": "United Arab Emirates",
-      "country_code": "AE",
-      "exit_ip": "84.235.244.108",
-      "flag": "🇦🇪",
-      "isp": "Oracle",
-      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1",
-      "latency_ms": 290,
-      "name": "🇦🇪 United Arab Emirates | Oracle 1",
-      "speed_kbps": 360.0
+      "country": "Unknown",
+      "country_code": "XX",
+      "exit_ip": "2.59.183.167",
+      "flag": "🌍",
+      "isp": "Unknown",
+      "key": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=a1b2c3d4&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4#🌍 Unknown | Unknown 60",
+      "latency_ms": 111,
+      "name": "🌍 Unknown | Unknown 60",
+      "speed_kbps": 972.9
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-11-27 07:19:23",
-  "total_checked": 1,
+  "timestamp": "2026-11-27 19:39:34",
+  "total_checked": 2,
   "working_count": 1
 }
