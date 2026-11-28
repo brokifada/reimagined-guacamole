@@ -1,7 +1,17 @@
 {
   "countries": {
-    "XX": {
+    "AE": {
+      "count": 6,
+      "flag": "🇦🇪",
+      "name": "United Arab Emirates"
+    },
+    "SA": {
       "count": 1,
+      "flag": "🌍",
+      "name": "Saudi Arabia"
+    },
+    "XX": {
+      "count": 2,
       "flag": "🌍",
       "name": "Unknown"
     }
@@ -9,19 +19,107 @@
   "description": "🔒 Bobi VPN — строго перепроверенные серверы\n⚡ Только реально работающие ключи",
   "keys": [
     {
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "exit_ip": "84.235.244.108",
+      "flag": "🇦🇪",
+      "isp": "Oracle",
+      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?encryption=none&security=none&sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 2",
+      "latency_ms": 166,
+      "name": "🇦🇪 United Arab Emirates | Oracle 2",
+      "speed_kbps": 351.2
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "exit_ip": "84.235.244.108",
+      "flag": "🇦🇪",
+      "isp": "Oracle",
+      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 3",
+      "latency_ms": 166,
+      "name": "🇦🇪 United Arab Emirates | Oracle 3",
+      "speed_kbps": 568.0
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "exit_ip": "84.235.244.108",
+      "flag": "🇦🇪",
+      "isp": "Oracle",
+      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 1",
+      "latency_ms": 168,
+      "name": "🇦🇪 United Arab Emirates | Oracle 1",
+      "speed_kbps": 355.9
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "exit_ip": "84.235.244.108",
+      "flag": "🇦🇪",
+      "isp": "Oracle",
+      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?encryption=none&host=uae.unixzone.us&path=/&security=none&type=ws#🌍 Unknown | Unknown 159",
+      "latency_ms": 171,
+      "name": "🌍 Unknown | Unknown 159",
+      "speed_kbps": 553.1
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "exit_ip": "84.235.244.108",
+      "flag": "🇦🇪",
+      "isp": "Oracle",
+      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 5",
+      "latency_ms": 175,
+      "name": "🇦🇪 United Arab Emirates | Oracle 5",
+      "speed_kbps": 475.2
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "exit_ip": "84.235.244.108",
+      "flag": "🇦🇪",
+      "isp": "Oracle",
+      "key": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&path=%2F#🇦🇪 United Arab Emirates | Oracle 4",
+      "latency_ms": 180,
+      "name": "🇦🇪 United Arab Emirates | Oracle 4",
+      "speed_kbps": 584.6
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "exit_ip": "81.208.170.142",
+      "flag": "🌍",
+      "isp": "Oracle",
+      "key": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🌍 Saudi Arabia | Oracle 1",
+      "latency_ms": 145,
+      "name": "🌍 Saudi Arabia | Oracle 1",
+      "speed_kbps": 792.1
+    },
+    {
       "country": "Unknown",
       "country_code": "XX",
       "exit_ip": "2.59.183.167",
       "flag": "🌍",
       "isp": "Unknown",
-      "key": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=a1b2c3d4&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4#🌍 Unknown | Unknown 60",
-      "latency_ms": 111,
-      "name": "🌍 Unknown | Unknown 60",
-      "speed_kbps": 972.9
+      "key": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&type=tcp&headerType=none#🇳🇱 The Netherlands | Serva ONE LTD 1",
+      "latency_ms": 92,
+      "name": "🇳🇱 The Netherlands | Serva ONE LTD ",
+      "speed_kbps": 1200.2
+    },
+    {
+      "country": "Unknown",
+      "country_code": "XX",
+      "exit_ip": "2.59.183.167",
+      "flag": "🌍",
+      "isp": "Unknown",
+      "key": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&type=tcp&headerType=none#🇳🇱 The Netherlands | Serva ONE LTD 2",
+      "latency_ms": 93,
+      "name": "🇳🇱 The Netherlands | Serva ONE LTD ",
+      "speed_kbps": 1199.0
     }
   ],
   "name": "🦊 Bobi VPN (Re-checked)",
-  "timestamp": "2026-11-27 19:39:34",
-  "total_checked": 2,
-  "working_count": 1
+  "timestamp": "2026-11-28 02:59:29",
+  "total_checked": 9,
+  "working_count": 9
 }
